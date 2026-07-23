@@ -41,4 +41,14 @@ RSpec.describe "committed data" do
     expect(NameBank.repository.firstnames(country: "UA", gender: :male))
       .not_to include(*NameBank.repository.firstnames(country: "UA", gender: :female))
   end
+
+  it "uses a clean curated pinyin pool for China (no dataset pollution)" do
+    male = NameBank.repository.firstnames(country: "CN", gender: :male)
+    female = NameBank.repository.firstnames(country: "CN", gender: :female)
+    expect(male).to include("Wei")
+    expect(female).to include("Mei")
+    # The broken dataset pool leaked Western given names; the curated pool must not.
+    expect(male).not_to include("Jason")
+    expect(female).not_to include("Lily")
+  end
 end
