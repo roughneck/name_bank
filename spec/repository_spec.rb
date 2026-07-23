@@ -50,4 +50,13 @@ RSpec.describe NameBank::Repository do
     expect { repo.firstnames(country: "XX", gender: :male, variant: "nope") }
       .to raise_error(NameBank::UnknownVariant, "XX/nope")
   end
+
+  it "loads last names from a variant pool" do
+    expect(repo.lastnames(country: "XX", variant: "testvariant")).to eq(%w[Vlast1 Vlast2])
+  end
+
+  it "raises for a variant on an unknown country" do
+    expect { repo.lastnames(country: "ZZ", variant: "testvariant") }
+      .to raise_error(NameBank::UnknownVariant, "ZZ/testvariant")
+  end
 end

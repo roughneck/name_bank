@@ -55,6 +55,23 @@ NameBank.variants(country: "US")   # => ["african_american"]
 NameBank.variants(country: "DE")   # => []
 ```
 
+## Supported countries
+
+106 countries: Afghanistan, Albania, Algeria, Angola, Argentina, Austria,
+Azerbaijan, Bahrain, Bangladesh, Belgium, Bolivia, Botswana, Brazil, Brunei,
+Bulgaria, Burkina Faso, Burundi, Cambodia, Cameroon, Canada, Chile, China,
+Colombia, Costa Rica, Croatia, Cyprus, Czechia, Denmark, Djibouti, Ecuador,
+Egypt, El Salvador, Estonia, Ethiopia, Fiji, Finland, France, Georgia, Germany,
+Ghana, Greece, Guatemala, Haiti, Honduras, Hong Kong, Hungary, Iceland, India,
+Indonesia, Iran, Iraq, Ireland, Israel, Italy, Jamaica, Japan, Jordan,
+Kazakhstan, Kuwait, Lebanon, Libya, Lithuania, Luxembourg, Macau, Malaysia,
+Maldives, Malta, Mauritius, Mexico, Moldova, Morocco, Namibia, Netherlands,
+Nigeria, Norway, Oman, Palestine, Panama, Peru, Philippines, Poland, Portugal,
+Puerto Rico, Qatar, Russia, Saudi Arabia, Serbia, Singapore, Slovenia, South
+Africa, South Korea, Spain, Sudan, Sweden, Switzerland, Syria, Taiwan, Tunisia,
+Turkey, Turkmenistan, Ukraine, United Arab Emirates, United Kingdom, United
+States, Uruguay, Yemen.
+
 ## License
 
 Apache-2.0.

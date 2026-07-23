@@ -47,6 +47,11 @@ RSpec.describe "NameBank sampling" do
     expect(%w[Vmale1 Vmale2]).to include(name)
   end
 
+  it "samples a last name from a variant pool when variant is given" do
+    name = NameBank.last_name(country: "XX", rng: Random.new(3), variant: "testvariant")
+    expect(%w[Vlast1 Vlast2]).to include(name)
+  end
+
   it "exposes variants for a country" do
     expect(NameBank.variants(country: "XX")).to eq(%w[testvariant])
   end

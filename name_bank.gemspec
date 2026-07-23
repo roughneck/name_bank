@@ -15,7 +15,7 @@ Gem::Specification.new do |spec|
   spec.license     = "Apache-2.0"
   spec.required_ruby_version = ">= 3.1"
 
-  spec.files = Dir["lib/**/*.rb", "data/**/*.yml", "LICENSE", "NOTICE", "README.md"]
+  spec.files = Dir["lib/**/*.rb", "data/**/*.yml", "LICENSE", "NOTICE", "README.md", "CHANGELOG.md"]
   spec.require_paths = ["lib"]
 
   spec.add_development_dependency "rspec", "~> 3.13"
