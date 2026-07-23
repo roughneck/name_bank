@@ -37,4 +37,17 @@ RSpec.describe NameBank::Repository do
     2.times { repo.firstnames(country: "XX", gender: :male) }
     expect(YAML).to have_received(:safe_load_file).once
   end
+
+  it "lists variants for a country" do
+    expect(repo.variants(country: "XX")).to eq(%w[testvariant])
+  end
+
+  it "returns no variants for a country without any" do
+    expect(repo.variants(country: "YY")).to eq([])
+  end
+
+  it "raises for an unknown variant" do
+    expect { repo.firstnames(country: "XX", gender: :male, variant: "nope") }
+      .to raise_error(NameBank::UnknownVariant, "XX/nope")
+  end
 end
