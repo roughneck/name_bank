@@ -4,23 +4,6 @@ require "spec_helper"
 require_relative "../tools/split_scripts"
 
 RSpec.describe SplitScripts do
-  describe ".script_of" do
-    it "treats ASCII and Latin diacritics as Latin" do
-      expect(described_class.script_of("David")).to eq(:latin)
-      expect(described_class.script_of("Müller")).to eq(:latin)
-      expect(described_class.script_of("José")).to eq(:latin)
-    end
-
-    it "detects non-Latin scripts by first non-Latin letter" do
-      expect(described_class.script_of("Алексей")).to eq(:cyrillic)
-      expect(described_class.script_of("محمد")).to eq(:arabic)
-      expect(described_class.script_of("田中")).to eq(:han)
-      expect(described_class.script_of("김민")).to eq(:hangul)
-      expect(described_class.script_of("たなか")).to eq(:kana)
-      expect(described_class.script_of("Ιωάννης")).to eq(:greek)
-    end
-  end
-
   describe ".split_country" do
     let(:data) do
       {

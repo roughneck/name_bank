@@ -9,6 +9,7 @@
 # the candidate pool before splitting, so re-running on already-split data
 # reproduces the same output rather than dropping the native pools.
 require "yaml"
+require_relative "script_classifier"
 
 module SplitScripts
   KEYS = %w[firstnames_male firstnames_female lastnames].freeze
@@ -31,30 +32,7 @@ module SplitScripts
     "IL" => [:hebrew], "GE" => [:georgian], "KH" => [:khmer], "BD" => [:bengali]
   }.freeze
 
-  RANGES = {
-    arabic: [0x0600..0x06FF, 0x0750..0x077F],
-    han: [0x4E00..0x9FFF, 0x3400..0x4DBF],
-    hangul: [0xAC00..0xD7AF],
-    kana: [0x3040..0x30FF],
-    cyrillic: [0x0400..0x04FF],
-    hebrew: [0x0590..0x05FF],
-    greek: [0x0370..0x03FF],
-    georgian: [0x10A0..0x10FF],
-    khmer: [0x1780..0x17FF],
-    bengali: [0x0980..0x09FF],
-    devanagari: [0x0900..0x097F],
-    thai: [0x0E00..0x0E7F]
-  }.freeze
-
   module_function
-
-  def script_of(name)
-    name.to_s.each_char do |ch|
-      cp = ch.ord
-      RANGES.each { |script, ranges| return script if ranges.any? { |r| r.cover?(cp) } }
-    end
-    :latin
-  end
 
   def split_country(country, data)
     native_scripts = NATIVE[country]
@@ -66,8 +44,8 @@ module SplitScripts
       # Include any already-split *_native names so re-running is idempotent
       # (a second pass would otherwise see a Latin-only base and drop natives).
       names = (data[key] || []) + (data["#{key}_native"] || [])
-      latin[key] = names.select { |n| script_of(n) == :latin }.first(LIMIT)
-      native[key] = names.select { |n| native_scripts&.include?(script_of(n)) }.first(LIMIT) if native_scripts
+      latin[key] = names.select { |n| ScriptClassifier.script_of(n) == :latin }.first(LIMIT)
+      native[key] = names.select { |n| native_scripts&.include?(ScriptClassifier.script_of(n)) }.first(LIMIT) if native_scripts
     end
 
     KEYS.each { |key| out[key] = latin[key] }
@@ -95,7 +73,7 @@ module SplitScripts
     Dir.glob(File.join(variants_dir, "*", "*.yml")).sort.each do |path|
       data = YAML.safe_load_file(path)
       out = { "source" => data["source"] || "dataset" }
-      KEYS.each { |key| out[key] = (data[key] || []).select { |n| script_of(n) == :latin }.first(LIMIT) }
+      KEYS.each { |key| out[key] = (data[key] || []).select { |n| ScriptClassifier.script_of(n) == :latin }.first(LIMIT) }
       File.write(path, YAML.dump(out))
       puts "variant #{path}"
     end
