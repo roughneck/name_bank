@@ -56,12 +56,13 @@ for a country with `NameBank.variants(country:)`.
 
 ## Regenerating dataset pools
 
-`python tools/bake.py` (needs `names-dataset`, ~3.2 GB RAM) regenerates
-`data/countries/*.yml` as `source: dataset`. It does not touch the curated
-files — it would overwrite `CN.yml` and not produce `UA.yml` (harmless,
-since UA is a dataset gap). `UA.yml`, `CN.yml`, and everything under
-`data/variants/` are committed, hand-authored overrides: re-apply them
-after any re-bake.
+`python tools/bake.py` (needs `names-dataset`, ~3.2 GB RAM) rewrites every
+`data/countries/<CC>.yml` for a dataset country code as `source: dataset`.
+This **overwrites `data/countries/CN.yml`**, silently discarding the curated
+pinyin override (CN is a valid dataset country code), and does **not**
+produce `data/countries/UA.yml` (Ukraine is a dataset gap). The curated
+overrides — `UA.yml`, `CN.yml`, and everything under `data/variants/` —
+are committed by hand and must be re-applied after any re-bake.
 
 ## License
 
