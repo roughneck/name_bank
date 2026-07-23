@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
                      "given names and surnames for 105+ countries, plus hand-curated " \
                      "pools and cultural variants. Uniform, deterministic sampling from " \
                      "a caller-supplied RNG."
-  spec.homepage    = "https://github.com/pbartels/name_bank"
+  spec.homepage    = "https://github.com/roughneck/name_bank"
   spec.license     = "Apache-2.0"
   spec.required_ruby_version = ">= 3.1"
 
