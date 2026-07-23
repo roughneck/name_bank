@@ -1,3 +1,4 @@
+---
 source: dataset
 firstnames_male:
 - Jean Claude
@@ -1145,7 +1146,6 @@ firstnames_male:
 - Ndabirabe
 - Nicayenzi
 - Mitterrand
-- पिन्टू
 - Jules-Christ
 - Yemba
 - Jean Berchimans
@@ -1500,6 +1500,7 @@ firstnames_male:
 - Alain Torch
 - Hassan Nondo
 - Ladyslas
+- Datus Saint Valdo
 firstnames_female:
 - Irakoze
 - Joselyne
@@ -2166,7 +2167,6 @@ firstnames_female:
 - Al Haira
 - Didienne
 - Banderembako
-- رنہوشہھ
 - Muhoza Schekina
 - Mpundu
 - Ceyhta
@@ -3001,6 +3001,7 @@ firstnames_female:
 - Annie Lesse
 - Siyomvo
 - Louise Nelly
+- Kulusumu
 lastnames:
 - Irakoze
 - Ndayishimiye
@@ -4144,7 +4145,6 @@ lastnames:
 - Ndimugwanko
 - Trillioner
 - Alexine
-- الطشطاني
 - Nkururunziza
 - Maxeinstein
 - Sindayizeruka
@@ -4502,3 +4502,4 @@ lastnames:
 - Teigutwo
 - Habonimana Adeline
 - Kantazi
+- Uwacunguwe

@@ -1,3 +1,4 @@
+---
 source: dataset
 firstnames_male:
 - Tevita
@@ -163,7 +164,6 @@ firstnames_male:
 - Leps
 - Aliti
 - Ettah
-- 保罗
 - Patex
 - Divendra
 - Luvv
@@ -278,7 +278,6 @@ firstnames_male:
 - Humbly
 - Lewai
 - S Dunibitu
-- আসাদুদ
 - Mataiasi
 - Ratu Iliaseri
 - B-Lee
@@ -294,7 +293,6 @@ firstnames_male:
 - Alusio
 - Tgodboso
 - Ratu Isireli
-- طاقسلنم
 - Esteek
 - Severo N
 - Kaliova
@@ -323,7 +321,6 @@ firstnames_male:
 - Fijizlurfin
 - Emosi
 - Rohendra
-- سقطع
 - Atunaisa
 - Eligha
 - Nagicu
@@ -431,7 +428,6 @@ firstnames_male:
 - Kahoa
 - Sosiveta
 - Vinal Vikash
-- Kαushαl
 - Nalin Vikash
 - Atinesh
 - Navinesh
@@ -562,7 +558,6 @@ firstnames_male:
 - Sukui
 - Setareki
 - Vetaia
-- 雪龙
 - Rasala
 - Htn
 - Nïumãia
@@ -1329,7 +1324,6 @@ firstnames_female:
 - Senileba
 - Tepola
 - Qalotaki
-- 功华
 - Phalyn
 - Tynai
 - Babybooh
@@ -1840,7 +1834,6 @@ lastnames:
 - Nasemira
 - Maikeli
 - Urabuta
-- Зустрів
 - Rayasidamu
 - Taoka
 - Balekinakorovatu
@@ -1968,7 +1961,6 @@ lastnames:
 - Kïńğ
 - Kavoa
 - Maramanikabu
-- هخلنكك
 - Kalsev
 - Tikomaimaleya
 - Nahehevia
@@ -2049,7 +2041,6 @@ lastnames:
 - Baleibolatagane
 - Sekiya
 - Matakibau
-- رقشسغ
 - Leweniqila
 - Nakouzebi
 - Vuirewa
@@ -2291,7 +2282,6 @@ lastnames:
 - Porgie
 - Molikula
 - Uluinadi
-- Prαsαd
 - Kai Gau
 - Basulu
 - Seeristi
@@ -2917,3 +2907,7 @@ lastnames:
 - Vosakoto
 - Siliduadua
 - Lloyd Naicavu
+- Mikojunior
+- Ralimalima
+- Vitilevu
+- Tikonatabua

@@ -1,3 +1,4 @@
+---
 source: dataset
 firstnames_male:
 - László
@@ -1313,7 +1314,6 @@ firstnames_male:
 - Bogdàn
 - Valami
 - Pétet
-- Ласло
 - Baranya
 - Kaltenecker
 - Rezsö
@@ -1436,7 +1436,6 @@ firstnames_male:
 - Pomozi
 - Lauer
 - Pokol
-- Ковач
 - Barcsik
 - Ignàc
 - Rikárdó
@@ -1500,6 +1499,8 @@ firstnames_male:
 - Gyurcsik
 - Tarkó
 - Ottone
+- Bercsényi
+- Lajtos
 firstnames_female:
 - Katalin
 - Éva

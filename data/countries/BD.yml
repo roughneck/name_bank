@@ -1,3 +1,4 @@
+---
 source: dataset
 firstnames_male:
 - Md
@@ -9,7 +10,6 @@ firstnames_male:
 - Saiful
 - Hasan
 - Kazi
-- মোঃ
 - Arif
 - Masud
 - Abdullah
@@ -32,7 +32,6 @@ firstnames_male:
 - Sheikh
 - Kamrul
 - Nil
-- নীল
 - Monir
 - Jahangir
 - Sabbir
@@ -82,11 +81,9 @@ firstnames_male:
 - Rayhan
 - Mahbub
 - Sharif
-- অচেনা
 - Adnan
 - Anik
 - Arafat
-- মোহাম্মদ
 - Ashraful
 - Maruf
 - Salman
@@ -119,9 +116,6 @@ firstnames_male:
 - Biplob
 - Ashik
 - Rakibul
-- মো
-- অবুঝ
-- আমি
 - S M
 - Ak
 - Harun
@@ -253,7 +247,6 @@ firstnames_male:
 - Md Mamun
 - Suhel
 - Sabuj
-- ভোরের
 - Abrar
 - Alauddin
 - Ratan
@@ -276,14 +269,11 @@ firstnames_male:
 - Mehedi Hasan
 - Morshed
 - Alif
-- অচিন
-- অবুজ
 - Riaz
 - Sarwar
 - Apu
 - Sayem
 - Alomgir
-- স্বপ্নের
 - Nadim
 - Ra
 - Mohsin
@@ -293,7 +283,6 @@ firstnames_male:
 - Mirza
 - Enamul
 - Sourav
-- মন
 - Ferdous
 - Nizam
 - Saidur
@@ -302,7 +291,6 @@ firstnames_male:
 - Roni
 - Km
 - Mamunur
-- নিল
 - As
 - Anis
 - Imam
@@ -345,7 +333,6 @@ firstnames_male:
 - M A
 - Mintu
 - Saifur
-- ভালোবাসার
 - Shopno
 - Sahin
 - Amran
@@ -357,11 +344,9 @@ firstnames_male:
 - Kobir
 - Nasim
 - Md Alamin
-- আমার
 - Sajid
 - Aj
 - Sakil
-- রাতের
 - Khokon
 - Amirul
 - Tahmid
@@ -373,7 +358,6 @@ firstnames_male:
 - Md Rakib
 - Tajul
 - Himel
-- স্বপ্ন
 - Bipul
 - Saju
 - Samsul
@@ -385,10 +369,8 @@ firstnames_male:
 - Abul Kalam
 - Atikur
 - Jakaria
-- আকাশ
 - Md Imran
 - Mostofa
-- কষ্টের
 - Ahnaf
 - Monjur
 - Mithu
@@ -399,7 +381,6 @@ firstnames_male:
 - Dewan
 - Rabby
 - Fardin
-- মুহাম্মদ
 - Mohin
 - Shakhawat
 - Aminur
@@ -436,21 +417,17 @@ firstnames_male:
 - Shahjahan
 - Ariful Islam
 - Tariqul
-- অভিমানী
 - Ujjal
 - Happy
 - Jahir
 - Monsur
-- সেই
 - Reza
 - Fazlul
 - Akib
 - Ochena
-- একলা
 - Arnob
 - Md Abul
 - Kawser
-- অজানা
 - Alim
 - Bulbul
 - Foysol
@@ -466,7 +443,6 @@ firstnames_male:
 - Ashikur
 - Gopal
 - Mozammel
-- তুমি
 - Dilip
 - Khorshed
 - Mijan
@@ -480,7 +456,6 @@ firstnames_male:
 - Didar
 - Ziaul
 - Zahirul
-- শেষ
 - Md Raju
 - Tapan
 - Gias
@@ -498,7 +473,6 @@ firstnames_male:
 - Md Ismail
 - Apurbo
 - Ajoy
-- শেখ
 - Afzal
 - Sayeed
 - Ruman
@@ -514,7 +488,6 @@ firstnames_male:
 - Minhaj
 - Sadik
 - Robel
-- জীবন
 - Saikat
 - Younus
 - Shohidul
@@ -541,10 +514,8 @@ firstnames_male:
 - Md Salim
 - Md Emon
 - Mahir
-- সুমন
 - Tanbir
 - Arefin
-- সপ্নের
 - Shafiq
 - Johir
 - Didarul
@@ -552,17 +523,14 @@ firstnames_male:
 - Ruhel
 - Tutul
 - Amzad
-- মনের
 - Md Shakil
 - Sp
 - Mukul
 - Santo
 - Masudur
 - Raiyan
-- সুখ
 - Aktar
 - Shagor
-- রাজ
 - Shopon
 - Jafor
 - Md Ibrahim
@@ -572,7 +540,6 @@ firstnames_male:
 - Sadek
 - Rejaul
 - Neel
-- ভালবাসার
 - Md Robiul
 - Sopner
 - Aryan
@@ -583,7 +550,6 @@ firstnames_male:
 - Tanveer
 - Samad
 - Md Nazrul
-- অসমাপ্ত
 - Nayon
 - Md Mizanur
 - Tahsan
@@ -591,7 +557,6 @@ firstnames_male:
 - Mominul
 - Partho
 - Rm
-- আব্দুল
 - Saimon
 - Afran
 - H M
@@ -630,7 +595,6 @@ firstnames_male:
 - Feroz
 - Solaiman
 - Monjurul
-- সবুজ
 - Shopnil
 - Tanjim
 - Bd
@@ -639,8 +603,6 @@ firstnames_male:
 - Zahir
 - Md Alamgir
 - Md Helal
-- শিশির
-- অদৃশ্য
 - Salahuddin
 - Hi
 - Md Rana
@@ -661,7 +623,6 @@ firstnames_male:
 - Md Sagor
 - Dipak
 - Najim
-- আবু
 - Naimul
 - Altaf
 - Shams
@@ -674,7 +635,6 @@ firstnames_male:
 - Biswajit
 - Hasnat
 - Rokon
-- নিরব
 - Shohan
 - Shahariar
 - Johirul
@@ -700,7 +660,6 @@ firstnames_male:
 - Siraj
 - Rahi
 - Pagol
-- মেহেদী
 - Sourov
 - Sakhawat
 - Shaiful
@@ -739,7 +698,6 @@ firstnames_male:
 - Hd
 - Arup
 - Reaz
-- সাইফুল
 - Md Milon
 - Nh
 - Khandaker
@@ -759,19 +717,15 @@ firstnames_male:
 - Rashidul
 - Labib
 - Md Abdullah
-- এম
 - Topu
 - Tasin
 - Raisul
 - Junaid
 - Ramjan
-- তোমার
 - Asim
 - Akther
-- মোহাম্মাদ
 - Rafiqul Islam
 - Ocena
-- ইমরান
 - Mahmudul Hasan
 - Sopnil
 - Zillur
@@ -783,21 +737,17 @@ firstnames_male:
 - Habibur Rahman
 - Taposh
 - Rudro
-- আহমেদ
 - Oli
 - Ashish
 - Asik
 - Foyez
-- সাগর
 - Md Kawsar
 - Md Akash
 - Nafiz
-- বুঝ
 - Samrat
 - Utpal
 - Mahamud
 - Anwarul
-- তুমি আমার
 - Tapos
 - Shafin
 - Md Al
@@ -806,14 +756,11 @@ firstnames_male:
 - Zahangir
 - Hamim
 - Shadman
-- শূন্য
-- আমি সেই
 - Md Saddam
 - Mohon
 - Md Sohag
 - M D
 - Mishu
-- এস এম
 - Shabbir
 - Afsar
 - Parves
@@ -826,7 +773,6 @@ firstnames_male:
 - Faruque
 - Jahedul
 - Md Omar
-- আল
 - Md Rony
 - Jobayer
 - Tawsif
@@ -835,7 +781,6 @@ firstnames_male:
 - Ashis
 - Monju
 - Md Aminul
-- দুষ্টু
 - Pankaj
 - Md Sharif
 - Taskin
@@ -846,10 +791,8 @@ firstnames_male:
 - Redoy
 - Adib
 - Jh
-- লাল
 - Kamrul Hasan
 - Tufayel
-- অভিমানি
 - Ahsanul
 - Azam
 - Ashiq
@@ -857,7 +800,6 @@ firstnames_male:
 - Md Yousuf
 - Raton
 - Hk
-- সোহেল
 - Md Rashed
 - Md Nahid
 - Himu
@@ -881,7 +823,6 @@ firstnames_male:
 - Nahidul
 - Shojib
 - Rahad
-- পাগল
 - Nahian
 - New
 - Juber
@@ -890,7 +831,6 @@ firstnames_male:
 - Khalilur
 - Mehadi
 - Somrat
-- হাসান
 - Nazir
 - Sahid
 - Mainuddin
@@ -902,7 +842,6 @@ firstnames_male:
 - Bishwajit
 - Sujoy
 - Akla
-- নীল আকাশ
 - Md Maruf
 - Maksud
 - Misbah
@@ -916,7 +855,6 @@ firstnames_male:
 - Saifuddin
 - Nurul Islam
 - Md Shahidul
-- সুজন
 - Antu
 - M R
 - All
@@ -924,8 +862,6 @@ firstnames_male:
 - Shawkat
 - Romjan
 - Safayet
-- নয়ন
-- আলোর
 - Tanzim
 - Shifat
 - Sumit
@@ -934,7 +870,6 @@ firstnames_male:
 - Dx
 - Jayed
 - Suvo
-- শান্ত
 - Md Sojib
 - Muslim
 - Sahab
@@ -951,8 +886,6 @@ firstnames_male:
 - Koli
 - Subroto
 - Ochin
-- সত্যের
-- রং
 - Dev
 - Mustak
 - Afjal
@@ -962,10 +895,7 @@ firstnames_male:
 - Mustakim
 - Kiron
 - Md Shahadat
-- রাসেল
-- জীবনের
 - S A
-- আরিফ
 - Md Shohag
 - Amdad
 - Akas
@@ -976,8 +906,6 @@ firstnames_male:
 - Md Emran
 - Prokash
 - Md Golam
-- সপ্ন
-- আবেগি
 - Bishal
 - Sudip
 - Masuk
@@ -992,14 +920,11 @@ firstnames_male:
 - Suhag
 - Torikul
 - Kibria
-- মামুন
 - Mv
 - Tusar
 - Sadikur
 - Ruhan
-- মিঃ
 - Md Tanvir
-- শুভ
 - Minhajul
 - Hero
 - Dk
@@ -1013,8 +938,6 @@ firstnames_male:
 - Md Tarek
 - Rafin
 - Ramim
-- আবির
-- মা
 - Balal
 - Ahammed
 - Khurshed
@@ -1023,7 +946,6 @@ firstnames_male:
 - Sahidul
 - Mokbul
 - Md Raihan
-- কাজী
 - Md Fahim
 - Sukumar
 - Israfil
@@ -1038,12 +960,9 @@ firstnames_male:
 - Debashis
 - Monowar
 - Easin
-- ভালোবাসা
 - Jubaer
 - Mushfiqur
-- এস
 - Quazi
-- দুষ্ট
 - Naimur
 - Tarun
 - Mojibur
@@ -1056,10 +975,7 @@ firstnames_male:
 - Towhidul
 - Md Sobuj
 - Touhidul
-- আব্দুল্লাহ
 - M M
-- আরিয়ান
-- জয়
 - Md Al Amin
 - Mg
 - Md Dulal
@@ -1069,9 +985,6 @@ firstnames_male:
 - Nil Akash
 - Dusto
 - Rokibul
-- ধ্রুব
-- হৃদয়
-- নিল আকাশের
 - Dil
 - Gobinda
 - Kaisar
@@ -1113,7 +1026,6 @@ firstnames_male:
 - Al Mamun
 - Md Babu
 - Sajol
-- প্রেম
 - Arnab
 - Arifin
 - Rakibul Islam
@@ -1127,9 +1039,6 @@ firstnames_male:
 - Roton
 - Rafid
 - Ismat
-- মাসুদ
-- রুবেল
-- একা
 - Saifullah
 - Firoj
 - Raz
@@ -1145,10 +1054,8 @@ firstnames_male:
 - Hf
 - Zihad
 - M H
-- স্বপ্নহীন
 - Talukder
 - Robiul Islam
-- জুয়েল
 - Saymon
 - Mujahid
 - Md Hossain
@@ -1157,8 +1064,6 @@ firstnames_male:
 - Md Forhad
 - Md Monirul
 - Md Abir
-- জাহিদ
-- নাজমুল
 - Md Jahidul
 - Dhrubo
 - Gulam
@@ -1170,10 +1075,7 @@ firstnames_male:
 - Animesh
 - Shakawat
 - Rupon
-- সাদা
-- কালো
 - Zubayer
-- শিশির ভেজা
 - Md Najmul
 - Akhter
 - Ananda
@@ -1188,7 +1090,6 @@ firstnames_male:
 - Shahan
 - Nirmol
 - Md Saidul
-- বাংলাদেশ
 - Kayes
 - Layek
 - Shovo
@@ -1204,9 +1105,7 @@ firstnames_male:
 - Subir
 - Shemul
 - Hamidur
-- রাজু
 - Anjel
-- শেষের
 - Jamshed
 - Rock
 - Mahtab
@@ -1219,8 +1118,6 @@ firstnames_male:
 - Md Anamul
 - Shiplu
 - Tanzil
-- শুধু
-- মাটির
 - Md Abdus
 - Md Ridoy
 - Pranta
@@ -1234,11 +1131,7 @@ firstnames_male:
 - Omar Faruk
 - Anisul
 - Pijush
-- জান
 - Onik
-- শুভ্র
-- রাকিব
-- আকাশের
 - Sala
 - Yakub
 - Abu Bakar
@@ -1262,7 +1155,6 @@ firstnames_male:
 - Mahfujur
 - Sakibul
 - Jahid Hasan
-- আবেগী
 - Sohanur
 - Shipu
 - Nikhil
@@ -1277,7 +1169,6 @@ firstnames_male:
 - Md Joynal
 - Md Rahim
 - Md Shafiqul
-- রায়হান
 - Setu
 - Md Tuhin
 - Mostafiz
@@ -1289,17 +1180,14 @@ firstnames_male:
 - Ahmmed
 - Mosarof
 - Md Jasim
-- মনির
 - Anayet
 - Suhan
 - Omi
 - Hafijur
 - Shafiqur
 - Kamrul Islam
-- রিপন
 - Md Yeasin
 - Sudipto
-- সৌরভ
 - Md Alomgir
 - Juma
 - Jamir
@@ -1310,10 +1198,8 @@ firstnames_male:
 - Atikul
 - Md Jahed
 - Mashiur
-- সৈয়দ
 - Md Arafat
 - Safin
-- ভদ্র
 - Md Robin
 - Subash
 - Awal
@@ -1321,7 +1207,6 @@ firstnames_male:
 - Md Jalal
 - Bimol
 - Siddiqur
-- সোহাগ
 - Maksudur
 - Shafiqul Islam
 - Ador
@@ -1337,16 +1222,11 @@ firstnames_male:
 - Erfan
 - Sukanta
 - Riyan
-- আবুল
 - Awlad
 - Reyad
-- আনোয়ার
 - Md Asif
 - Gobindo
-- সুখের
 - Rezaul Karim
-- ইমন
-- তানভীর
 - Goutom
 - Biddut
 - Saim
@@ -1380,7 +1260,6 @@ firstnames_male:
 - Minhazul
 - Abdulla Al
 - Sawon
-- রবিউল
 - Md Murad
 - A R
 - Rumman
@@ -1388,7 +1267,6 @@ firstnames_male:
 - Md Saiful Islam
 - Anisur Rahman
 - Tanvir Ahmed
-- টাকা
 - Ujjol
 - Shakir
 - Khurshid
@@ -1421,12 +1299,10 @@ firstnames_male:
 - Debashish
 - Tawhidul
 - Md Rifat
-- কামরুল
 - Shariful Islam
 - Dolon
 - Motin
 - Md Mohin
-- জাকির
 - Minar
 - Shahidur
 - Topon
@@ -1438,14 +1314,8 @@ firstnames_male:
 - Chinmoy
 - Pallab
 - Khondoker
-- শামীম
-- শাকিল
-- মুহাম্মাদ
 - Md Shakib
-- একাকী
-- নতুন
 - Emrul
-- অপেক্ষার
 - Atiqul
 - Krishno
 - Hazrat
@@ -1468,7 +1338,6 @@ firstnames_male:
 - Plabon
 - Rupom
 - Imtiaj
-- হৃদয়ের
 - Mujib
 - Md Alam
 - Siful
@@ -1492,14 +1361,146 @@ firstnames_male:
 - Pulok
 - Md Foysal
 - Rakibul Hasan
-- চোখের
 - Mohammad Ali
 - Zarif
-- আবদুল
 - Korim
 - Shah Alam
 - Pranab
 - Somir
+- Md Younus
+- Sohel Rana
+- Saidul Islam
+- Md Munna
+- Tapu
+- Papon
+- Bayzid
+- Yeamin
+- Md Sajib
+- Md Noyon
+- A H
+- Arpon
+- Nahiyan
+- Md Sakil
+- Md Anisur
+- Ashfaq
+- Parveen
+- Jaker
+- Enam
+- Maidul
+- Salek
+- Momtaz
+- Noyan
+- Nasif
+- Shahjalal
+- Tamal
+- Mahfuzul
+- Nahin
+- Exceptional
+- Rupok
+- Md Riaz
+- Ashad
+- Rupan
+- Suriya
+- Ainul
+- Hs
+- Hossen
+- Mohidul
+- Shapon
+- Rajaul
+- Rn
+- Md Robel
+- Ahm
+- Md Suhel
+- Md Elias
+- Dola
+- Zahurul
+- Mostakim
+- Osthir
+- Abu Sayed
+- Kakon
+- Lx
+- Mynul
+- Shaikat
+- A K
+- Zayed
+- Nishad
+- Rabin
+- Faiyaz
+- Muhib
+- Arafath
+- Mu
+- Ohidul
+- Rofiq
+- Habibul
+- Babor
+- Md Amran
+- Jillur
+- Jr
+- Monzur
+- Shahedul
+- Md Samim
+- Md Farhad
+- Masudul
+- Sei
+- Shourov
+- Mđ
+- Sanjid
+- Arifuzzaman
+- Shuva
+- Rdx
+- Joyanta
+- Mostafijur
+- Bimal
+- Bakul
+- Mt
+- Saydul
+- Md Lokman
+- Mahid
+- Mitun
+- Lemon
+- Syful
+- Khayrul
+- Jinnat
+- Kosto
+- Teenpatti
+- Taka
+- Tamzid
+- Md Mahbub
+- Jarif
+- Saimun
+- Arifur Rahman
+- Hasanul
+- Md Ebrahim
+- Md Jibon
+- Md Khairul
+- Md Mijanur
+- Md Faysal
+- Siddique
+- Mobin
+- Sahabuddin
+- Shamsuddin
+- Najrul
+- Kafil
+- Mofizul
+- Md Shahid
+- Serajul
+- Sofiqul
+- Simul
+- Naiem
+- Roky
+- Fokhrul
+- Md Morshed
+- Md Josim
+- Nobel
+- Rajibul
+- Shuk
+- Tanjir
+- Md Nayem
+- Valobasar
+- Aditto
+- Tasrif
+- Sajedul
+- Sabbir Ahmed
 firstnames_female:
 - Nusrat
 - Nurul
@@ -1538,10 +1539,8 @@ firstnames_female:
 - Ami
 - Sh
 - Mahmuda
-- মেঘলা
 - Mst
 - Akhi
-- মেঘ
 - Samia
 - Nusrat Jahan
 - Ruma
@@ -1570,7 +1569,6 @@ firstnames_female:
 - Saima
 - Jesmin
 - Tanjina
-- নীল আকাশের
 - Israt Jahan
 - Munni
 - Mithila
@@ -1639,7 +1637,6 @@ firstnames_female:
 - Asha
 - Jahanara
 - Aklima
-- নিঝুম
 - Mariya
 - Sumona
 - Anisha
@@ -1688,7 +1685,6 @@ firstnames_female:
 - Pinky
 - Nazmun
 - Dilruba
-- মিষ্টি
 - Shima
 - Mahiya
 - Nijhum
@@ -1704,7 +1700,6 @@ firstnames_female:
 - Hafsa
 - Irin
 - Bithi
-- চাঁদের
 - Nurjahan
 - Sume
 - Shakila
@@ -1712,7 +1707,6 @@ firstnames_female:
 - Alisha
 - Payel
 - Pakhi
-- জান্নাতুল
 - Mahfuza
 - Bahar
 - Jara
@@ -1729,10 +1723,8 @@ firstnames_female:
 - Adrita
 - Muntaha
 - Adhora
-- নুসরাত
 - Tasnuva
 - Mohona
-- মেঘের
 - Santa
 - Nadira
 - Soma
@@ -1759,10 +1751,8 @@ firstnames_female:
 - Hasna
 - Marjan
 - Marufa
-- সুমাইয়া
 - Borsha
 - Tumi
-- সাদিয়া
 - Jannatun
 - Moumita
 - Shahina
@@ -1784,13 +1774,11 @@ firstnames_female:
 - Anisa
 - Yesmin
 - Sinthia
-- মায়াবী
 - Afifa
 - Shamsun
 - Tithi
 - Shanjida
 - Esrat
-- অধরা
 - Farha
 - Tanzila
 - Mili
@@ -1804,7 +1792,6 @@ firstnames_female:
 - Tarin
 - Ruksana
 - Sinthiya
-- রোদেলা
 - Ria
 - Rubi
 - Lamiya
@@ -1814,7 +1801,6 @@ firstnames_female:
 - Esha
 - Sraboni
 - Ekram
-- সাথী
 - Jannatul Ferdous
 - Bristi
 - Moriom
@@ -1822,7 +1808,6 @@ firstnames_female:
 - Reshma
 - Parul
 - Magla
-- তানিয়া
 - Shapla
 - Rekha
 - Saleha
@@ -1844,10 +1829,8 @@ firstnames_female:
 - Diya
 - Sumaia
 - Monisha
-- বৃষ্টি
 - Papia
 - Meherun
-- ইচ্ছে
 - Rakhi
 - Nusaiba
 - Rumpa
@@ -1858,7 +1841,6 @@ firstnames_female:
 - Rasheda
 - Sneha
 - Deb
-- রিয়া
 - Papiya
 - Fabiha
 - Nilanjona
@@ -1882,7 +1864,6 @@ firstnames_female:
 - Rajia
 - Munia
 - Kobita
-- মায়া
 - Tahamina
 - Mss
 - Shati
@@ -1893,7 +1874,6 @@ firstnames_female:
 - Labiba
 - Konika
 - Nazifa
-- ফারজানা
 - Ananna
 - Samina
 - Sania
@@ -1909,18 +1889,14 @@ firstnames_female:
 - Sahida
 - Nodi
 - Jharna
-- শারমিন
 - Monowara
 - Kanij
 - Swapna
 - Piya
-- সুমি
 - Sinha
 - Morium
 - Nazneen
 - Zannat
-- মিম
-- মেঘলা আকাশ
 - Sadaf
 - Marjana
 - Najnin
@@ -1930,15 +1906,11 @@ firstnames_female:
 - Bina
 - Fouzia
 - Champa
-- উম্মে
 - Mahfuja
 - Mehejabin
 - Juthi
-- ইসরাত
 - Lija
 - Antora
-- জল
-- পাখি
 - Prianka
 - Nehal
 - Minu
@@ -1953,7 +1925,6 @@ firstnames_female:
 - Zerin
 - Ummay
 - Kamrun Nahar
-- সানজিদা
 - Papri
 - Purnima
 - Nitu
@@ -1963,7 +1934,6 @@ firstnames_female:
 - Sadika
 - Shorna
 - Shaheda
-- রুপকথার
 - Lutfun
 - Rifa
 - Mehnaz
@@ -1984,15 +1954,12 @@ firstnames_female:
 - Nazmin
 - Toha
 - Nushrat
-- নিশি
 - Sharmin Akter
-- ফারিয়া
 - Rokshana
 - Saira
 - Aparna
 - Hera
 - Eshita
-- জান্নাত
 - Sheuli
 - Smrity
 - Rimu
@@ -2001,7 +1968,6 @@ firstnames_female:
 - Raha
 - Hafiza
 - Bonna
-- স্নিগ্ধ
 - Rubaiya
 - Miftahul
 - Chader
@@ -2009,7 +1975,6 @@ firstnames_female:
 - Rikta
 - Saifa
 - Sanchita
-- ফাতেমা
 - Kulsum
 - Simu
 - Dilara
@@ -2034,10 +1999,8 @@ firstnames_female:
 - Nuzhat
 - Fatama
 - Ananya
-- মারিয়া
 - Anonna
 - Chaity
-- ময়না
 - Emu
 - Nishu
 - Sahana
@@ -2055,7 +2018,6 @@ firstnames_female:
 - Sadia Afrin
 - Rajkumari
 - Jinat
-- মিথিলা
 - Jhumur
 - Sompa
 - Rehnuma
@@ -2088,7 +2050,6 @@ firstnames_female:
 - Monni
 - Mohima
 - Snigdho
-- মনি
 - Taiba
 - Rahana
 - Sammi
@@ -2099,21 +2060,13 @@ firstnames_female:
 - Mansura
 - Surma
 - Megher
-- কথা
-- প্রিয়া
-- নুসরাত জাহান
-- সামিয়া
-- নিঝুম রাতের
 - Ummey
 - Thamina
-- আনিকা
 - Moushumi
 - Sharifa
 - Sho
 - Atika
 - Smriti
-- জোনাকির
-- আয়েশা
 - Kamrunnahar
 - Momotaz
 - Tasnuba
@@ -2131,8 +2084,6 @@ firstnames_female:
 - Joly
 - Tisa
 - Nurunnahar
-- বৃষ্টি ভেজা
-- মায়াবি
 - Kolpona
 - Niharika
 - Samaira
@@ -2146,13 +2097,10 @@ firstnames_female:
 - Firoza
 - Mehrin
 - Orpa
-- প্রজাপতির
 - Shompa
 - Srabonti
 - Puspo
 - Faija
-- মিস
-- ইসরাত জাহান
 - Srity
 - Taspia
 - Jakiya
@@ -2171,14 +2119,12 @@ firstnames_female:
 - Noushin
 - Runu
 - Nisat
-- সন্ধ্যা
 - Sanvi
 - Jhorna
 - Munny
 - Tripti
 - Hosne Ara
 - Alpona
-- তামান্না
 - Anowara
 - Somaiya
 - Isha
@@ -2194,14 +2140,9 @@ firstnames_female:
 - Anindita
 - Falguni
 - Urme
-- অপরাজিতা
-- মাহি
 - Monoara
 - Anwara
 - Momota
-- মিসেস
-- অনামিকা
-- মোছাঃ
 - Anila
 - Kusum
 - Shifa
@@ -2210,7 +2151,6 @@ firstnames_female:
 - Montaha
 - Sabera
 - Anima
-- ফারহানা
 - Shayla
 - Ojanta
 - Raima
@@ -2221,7 +2161,6 @@ firstnames_female:
 - Subrina
 - Najmin
 - Zinia
-- রূপকথার
 - Meherin
 - Lipy
 - Rujina
@@ -2239,11 +2178,8 @@ firstnames_female:
 - Dipannita
 - Shajeda
 - Shohana
-- চাঁদনী
-- নীল পরী
 - Farjana Akter
 - Lipika
-- আখি
 - Chy
 - Anjana
 - Ranju
@@ -2253,21 +2189,15 @@ firstnames_female:
 - Sanaya
 - Evana
 - Trina
-- লিজা
 - Othoi
 - Sabikun
 - Mehzabin
 - Mohua
-- সাথি
-- নাদিয়া
 - Mollika
 - Rimjhim
-- তানজিনা
 - Sadia Islam
-- রুপ
 - Afsara
 - Mumu
-- রিমঝিম
 - Supti
 - Tinni
 - Neela
@@ -2280,11 +2210,9 @@ firstnames_female:
 - Nill Pori
 - Esrat Jahan
 - Shetu
-- মিতু
 - Kashfia
 - Ayrin
 - Mysha
-- মেঘ বালিকা
 - Momotaj
 - Ekra
 - Fahamida
@@ -2304,16 +2232,12 @@ firstnames_female:
 - Ononna
 - Proma
 - Shahanara
-- আশা
-- প্রজাপতি
 - Sharna
 - Tas
 - Hiya
 - Ahana
 - Sahanaj
-- রিমা
 - Shukla
-- নিলা
 - Khushi
 - Megha
 - Sushmita
@@ -2321,13 +2245,10 @@ firstnames_female:
 - Chaya
 - Lota
 - Ety
-- অচিনপুরের
 - Suparna
 - Nujhat
 - Tazin
-- তাহমিনা
 - Angal
-- মিষ্টি মেয়ে
 - Afruja
 - Satu
 - Ramisha
@@ -2340,8 +2261,6 @@ firstnames_female:
 - Nazmun Nahar
 - Tanzin
 - Oporajita
-- মাহিয়া
-- তানহা
 - Nidhi
 - Maa
 - Ayasha
@@ -2353,7 +2272,6 @@ firstnames_female:
 - Eity
 - Tanima
 - Tasmina
-- বিউটি
 - Ikra
 - Sirajum
 - Tahmina Akter
@@ -2361,7 +2279,6 @@ firstnames_female:
 - Afruza
 - Kulsuma
 - Mokta
-- খাদিজা
 - Nilasha
 - Labony
 - Anaya
@@ -2381,7 +2298,6 @@ firstnames_female:
 - Jusna
 - Taslima Akter
 - Odora
-- নীলা
 - Shirina
 - Jaheda
 - Ireen
@@ -2394,8 +2310,6 @@ firstnames_female:
 - Khairun
 - Mehrima
 - Rajkonna
-- ইতি
-- আফরিন
 - Subha
 - Muslima
 - Momena
@@ -2403,15 +2317,12 @@ firstnames_female:
 - Abeda
 - Shefa
 - Sharika
-- ঘুম
 - Ishika
 - Nawrin
 - Ruji
 - Rownak
 - Bithy
-- নীলপরী
 - Sathe
-- অনন্যা
 - Nasrin Akter
 - Tashfia
 - Ishrat Jahan
@@ -2419,7 +2330,6 @@ firstnames_female:
 - Rawshan
 - Pushpita
 - Jubaida
-- নিশাত
 - Zareen
 - Nandini
 - Tamima
@@ -2434,20 +2344,15 @@ firstnames_female:
 - Salma Akter
 - Rafiya
 - Sornali
-- সালমা
 - Chumki
 - Bably
-- স্বপ্নময়ী
 - Brishti
 - Tania Akter
 - Fathema
-- আয়শা
-- চাদের
 - Anmona
 - Easmin
 - Meherima
 - Jobaida
-- কবিতা
 - Shiuli
 - Johura
 - Shapna
@@ -2467,13 +2372,10 @@ firstnames_female:
 - Nasrin Sultana
 - Sharmin Sultana
 - Ambia
-- সুলতানা
-- লামিয়া
 - Nargish
 - Sristy
 - Tandra
 - Rahnuma
-- ফারিহা
 - Mon Pakhi
 - Megla Akash
 - Tasmiya
@@ -2498,13 +2400,9 @@ firstnames_female:
 - Godhuli
 - Morjina
 - Tasnin
-- তানিশা
 - Rakiba
 - Ridita
-- সুইটি
-- জোনাকি
 - Nowsin
-- নীলিমা
 - Sukla
 - Aruhi
 - Nibedita
@@ -2514,7 +2412,6 @@ firstnames_female:
 - Marzana
 - Jonakir
 - Umme Salma
-- ফাহমিদা
 - Jumur
 - Taskia
 - Naina
@@ -2535,11 +2432,8 @@ firstnames_female:
 - Saheda
 - Orthi
 - Elora
-- সারমিন
 - Ismot
 - Tanjima
-- পপি
-- মাইশা
 - Oishe
 - Junaki
 - Sarmin Akter
@@ -2551,10 +2445,8 @@ firstnames_female:
 - Nondini
 - Sanjida Akter
 - Maghla
-- মোছা
 - Sriti
 - Sonda
-- লিমা
 - Nijom
 - Pushpo
 - Suchona
@@ -2573,9 +2465,7 @@ firstnames_female:
 - Projapotir
 - Sumaiya Akter
 - Rasma
-- রাজকুমারী
 - Mim Akter
-- আফসানা
 - Farhana Akter
 - Mahajabin
 - Nishe
@@ -2583,7 +2473,6 @@ firstnames_female:
 - Purabi
 - Sagorika
 - Bithe
-- নিপা
 - Jenifa
 - Brishty
 - Rawnak
@@ -2593,9 +2482,6 @@ firstnames_female:
 - Tuntuni
 - Tanzia
 - Nurun Nahar
-- নীল পরি
-- হাবিবা
-- সোনালি
 - Rizwana
 - Zeba
 - Juhi
@@ -2611,39 +2497,27 @@ firstnames_female:
 - Tanusree
 - Biva
 - Asma Akter
-- ইভা
 - Shuly
 - Prome
 - Jhinuk
 - Rumki
 - Johora
 - Tanjia
-- হুমায়রা
 - Pritha
 - Mafruha
-- রাইসা
 - Srabony
-- দুষ্টু মেয়ের
-- নিজুম
-- আদিবা
 - Asfia
 - Moina
 - Tangina
 - Musfika
 - Sapla
 - Shuborna
-- সিমা
 - Sanjida Islam
 - Eshika
 - Tazrin
-- বনলতা
-- জেসমিন
-- নীলাঞ্জনা
 - Nayeema
 - Nizum
-- রুমি
 - Shafia
-- সোনিয়া
 - Dreamgirl
 - Mmh
 - Suja
@@ -2656,7 +2530,6 @@ firstnames_female:
 - Nisi
 - Orni
 - Taifa
-- জুই
 - Joynab
 - Zihan
 - Rokhsana
@@ -2664,12 +2537,7 @@ firstnames_female:
 - Nelima
 - Sahina
 - Mazeda
-- রুপ কথার
 - Supta
-- মাহমুদা
-- মীম
-- অনু
-- গোধূলি
 - Rusha
 - Kanis
 - Shukh
@@ -2677,27 +2545,16 @@ firstnames_female:
 - Shahara
 - Moriam
 - Morzina
-- মুক্তা
-- নীলাদ্রি
 - Saiba
-- অপরিচিতা
 - Ayra
 - Obonti
-- পায়েল
 - Shemu
-- নদী
 - Modina
-- আফিয়া
-- সন্ধা
-- তিশা
 - Zafrin
 - Tasrin
 - Bithika
 - Shilpe
 - Santona
-- নুপুর
-- পরি
-- মৌ
 - Anha
 - Kitkat
 - Mowsumi
@@ -2715,12 +2572,10 @@ firstnames_female:
 - Riha
 - Shatabdi
 - Fowzia
-- মরিয়ম
 - Nilema
 - Mises
 - Pinke
 - Sahanaz
-- শুক
 - Mahzabin
 - Rezia
 - Nafia
@@ -2732,39 +2587,25 @@ firstnames_female:
 - Aroshi
 - Anjuman Ara
 - Sumi Akter
-- নাজমা
-- হিমুর
 - Suchi
 - Arobi
 - Progga
-- তাসনিম
 - Araddha
 - Banani
-- রূপ
-- নিশি রাতের
 - Opshora
 - Razia Sultana
 - Boishakhi
 - Marjahan
 - Mihad
-- নিলিমা
 - Shining
 - Rupna
-- মেঘে ডাকা
 - Mymuna
-- অহনা
 - Anim
-- নাবিলা
 - Nondita
 - Takia
-- তমা
 - Soheli
-- আইরিন
-- পাগলের
 - Shobnom
 - Joty
-- পদ্ম
-- তানিসা
 - Samsunnahar
 - Taif
 - Heaven
@@ -2780,9 +2621,7 @@ firstnames_female:
 - Mawa
 - Cloudy
 - Shewly
-- কানিজ
 - Somiya
-- মুনতাহা
 - Israth
 - Sawda
 - Nurnahar
@@ -2796,14 +2635,10 @@ firstnames_female:
 - Wasifa
 - Aparajita
 - Ln
-- জাকিয়া
 - Shalina
 - Sidratul Muntaha
-- তুলি
 - Sharmi
-- মেঘহীন
 - Ismat Ara
-- নাহিদা
 - Aporna
 - Nur E
 - Mithela
@@ -2811,8 +2646,6 @@ firstnames_female:
 - Janntul
 - Omme
 - Shanzida
-- নীলপরি
-- নিহা
 - Tawhida
 - Iqra
 - Smita
@@ -2831,10 +2664,8 @@ firstnames_female:
 - Prima
 - Mafi
 - Nafija
-- শান্তা
 - Onika
 - Kanij Fatema
-- সাবিহা
 - Shahela
 - Rinky
 - Sejuti
@@ -2842,48 +2673,32 @@ firstnames_female:
 - Amatullah
 - Suchana
 - Rabaya
-- শাপলা
 - Khuku
-- তানজিলা
-- সাবিনা
 - Borsa
-- মায়াবতী
-- শিউলি
 - Adrija
 - Fahmina
 - Mehnaj
-- রুপা
 - Rojoni
-- রিম
 - Prapti
-- জেরিন
 - Mahmuda Akter
 - Shumona
 - Shamima Akter
-- মুন
 - Nazu
 - Opsora
 - Konica
 - Supria
 - Moumi
-- আফরোজা
 - Anjona
 - Sobnom
-- সুমা
 - Protiva
 - Shamoli
-- ভোরের পাখি
 - Foujia
 - Nopur
 - Tanha Islam
 - Lipa
 - Sathy
 - Jannatul Mawa
-- সুরাইয়া
 - Ifat
-- মেহজাবিন
-- অগ্নি
-- রাজকন্যা
 - Purnota
 - Sanjeeda
 - Mushfika
@@ -2897,7 +2712,6 @@ firstnames_female:
 - Jinuk
 - Chameli
 - Suvra
-- সায়মা
 - Rifah
 - Sunali
 - Nayema
@@ -2906,16 +2720,12 @@ firstnames_female:
 - Shely
 - Jannat Ara
 - Bijoya
-- কেয়া
 - Sabikunnahar
 - Mridula
 - Shantona
-- মোসাঃ
-- রুমা
 - Sohani
 - Shormi
 - Jannatul Islam
-- পাপিয়া
 - Chanda
 - Raziya
 - Sifa
@@ -2944,7 +2754,6 @@ firstnames_female:
 - Shibani
 - Ropa
 - Misti Meye
-- অথৈ
 - Mursheda
 - Ridhi
 - Ferdoushi
@@ -2957,7 +2766,6 @@ firstnames_female:
 - Nill Akasher
 - Mehrun
 - Mariom
-- মালিহা
 - Jannatol
 - Eite
 - Soneya
@@ -2967,15 +2775,12 @@ firstnames_female:
 - Ayesha Siddika
 - Ayesha Akter
 - Esita
-- নাসরিন
 - Fatema Tuj
-- রাবেয়া
 - Rajiya
 - Nisita
 - Mayabini
 - Rimpa
 - Sporshia
-- মুন্নি
 - Mousume
 - Sangida
 - Khadijatul
@@ -2984,7 +2789,6 @@ firstnames_female:
 - Mondira
 - Ariha
 - Miste
-- তাসফিয়া
 - Labone
 - Warisha
 - Mohuya
@@ -3001,6 +2805,203 @@ firstnames_female:
 - Risa
 - Arshiya
 - Tiya
+- Lema
+- Khusbu
+- Setara
+- Mahdia
+- Sahera
+- Synthia
+- Sakira
+- Ummul
+- Opshori
+- Mishti
+- Sadeka
+- Humyra
+- Mowmita
+- Homayra
+- Sumu
+- Daizy
+- Alpana
+- Othoy
+- Dristy
+- Saiyara
+- Afshana
+- Methila
+- Sintiya
+- Tanzima
+- Rim Jim
+- Paromita
+- Mehjabeen
+- Salsabil
+- Sadia Sultana
+- Mouri
+- Chompa
+- Umama
+- Airen
+- Chandrima
+- Tomalika
+- Shimo
+- Tahura
+- Kuasha
+- Tajnin
+- Nosrat Jahan
+- Moutushi
+- Suporna
+- Jhumu
+- Polin
+- Mohsena
+- Farhana Islam
+- Tammi
+- Shatu
+- Pria
+- Shoshi
+- Prionty
+- Sharmistha
+- Akhi Akter
+- Ayesa
+- Nomita
+- Fatema Tuz
+- Shondha
+- Azmira
+- Mashiat
+- Tazrian
+- Ankhi
+- Touhida
+- Ashrafun
+- Mithi
+- Abira
+- Porshi
+- Khadija Akter
+- Dana Kata
+- Nupor
+- Trisna
+- Joysree
+- Naheed
+- Mehreen
+- Mamata
+- Tayba
+- Minal
+- Sufiya
+- Anjal
+- Shaira
+- Neelima
+- Tamana
+- Poja
+- Sharin
+- Meghna
+- Tanuja
+- Rinki
+- Rosni
+- Musarrat
+- Inaya
+- Monisa
+- Jahida
+- Reme
+- Sheli
+- Fabia
+- Niva
+- Rezina
+- Jule
+- Tuni
+- Pura
+- Turna
+- Bobita
+- Sarna
+- Punom
+- Jebun
+- Tamanna Akter
+- Shanaya
+- Oboni
+- Bonolota
+- Provati
+- Jesmine
+- Joyeta
+- Swarnali
+- Shamanta
+- Tompa
+- Aysha Akter
+- Shariya
+- Obontika
+- Jarna
+- Rahiya
+- Taskiya
+- Annesha
+- Tasmiah
+- Ratry
+- Rupsha
+- Purba
+- Silpi
+- Daliya
+- Soya
+- Shathy
+- Rajjohin
+- Anika Islam
+- Ibnat
+- Tapati
+- Norin
+- Rodala
+- Farzana Akter
+- Shamina
+- Adiva
+- Hafija
+- Shimla
+- Kaberi
+- Pallabi
+- Samapti
+- Mehezabin
+- Chowa
+- Nigar Sultana
+- Shorifa
+- Sohagi
+- Rainy
+- Sameya
+- Nasmin
+- Zaheda
+- Shornali
+- Bornali
+- Ruzina
+- Farjana Islam
+- Nilanjana
+- Rubaya
+- Shyamoli
+- Jesmin Akter
+- Sumayia
+- Ashfia
+- Zaima
+- Lutfun Nahar
+- Ridika
+- Nilasa
+- Baishakhi
+- Nahida Akter
+- Beuty
+- Mareya
+- Rokaiya
+- Shurovi
+- Bisty
+- Arohi Islam
+- Tanjina Akter
+- Marjiya
+- Sova
+- Jenifar
+- Sajna
+- Sudu
+- Anupama
+- Ummi
+- Nimmi
+- Paru
+- Chandni
+- Robina
+- Nighat
+- Shyama
+- Radika
+- Mohini
+- Sunanda
+- Adila
+- Hasiba
+- Kaynat
+- Arefa
+- Nasema
+- Shuli
 lastnames:
 - Islam
 - Ahmed
@@ -3044,7 +3045,6 @@ lastnames:
 - Raj
 - Rasel
 - Bhuiyan
-- ইসলাম
 - Joy
 - Hoque
 - Rubel
@@ -3066,7 +3066,6 @@ lastnames:
 - Rakib
 - Raju
 - Mim
-- মন
 - Hridoy
 - Sohel
 - Talukder
@@ -3075,15 +3074,12 @@ lastnames:
 - Sheikh
 - Ghosh
 - Azad
-- আকাশ
 - Mondal
 - Reza
-- পাখি
 - Molla
 - Hossin
 - Masud
 - Munna
-- হোসেন
 - Sikder
 - Sakib
 - Ripon
@@ -3094,7 +3090,6 @@ lastnames:
 - Shakil
 - Imran
 - Abir
-- জীবন
 - Shamim
 - Khatun
 - Fahim
@@ -3105,10 +3100,8 @@ lastnames:
 - Rafi
 - Shahin
 - Afrin
-- খান
 - Akhter
 - Pori
-- আক্তার
 - Nur
 - Pakhi
 - Manik
@@ -3116,16 +3109,12 @@ lastnames:
 - Mondol
 - Jibon
 - Sharif
-- রহমান
 - Iqbal
-- ছেলে
 - Aziz
 - Talukdar
 - Alamin
 - Ahammed
-- বালক
 - Sujon
-- আহমেদ
 - Nahar
 - Milon
 - Rayhan
@@ -3138,7 +3127,6 @@ lastnames:
 - Deb
 - Salim
 - Chakraborty
-- আমি
 - Kalam
 - Debnath
 - Anik
@@ -3146,7 +3134,6 @@ lastnames:
 - Rifat
 - Nahid
 - Shohag
-- মিয়া
 - Sabbir
 - Datta
 - Shawon
@@ -3161,17 +3148,14 @@ lastnames:
 - Mahi
 - Dhar
 - Salam
-- হাসান
 - Hosain
 - Sohag
-- মানুষ
 - Tanvir
 - Bappy
 - Jony
 - Mahamud
 - Rabby
 - Halder
-- তারা
 - Bd
 - Maruf
 - Ahsan
@@ -3179,7 +3163,6 @@ lastnames:
 - Sk
 - Hamid
 - Parvin
-- আহমদ
 - Saiful
 - Asif
 - Niloy
@@ -3188,9 +3171,7 @@ lastnames:
 - Ahmmed
 - Ovi
 - Mannan
-- ভালোবাসা
 - Tabassum
-- চৌধুরী
 - Jamal
 - Nasir
 - Sajib
@@ -3222,7 +3203,6 @@ lastnames:
 - Tara
 - Faisal
 - Shikder
-- আলো
 - Adnan
 - Sobuj
 - Jahangir
@@ -3243,9 +3223,7 @@ lastnames:
 - Rani
 - Patwary
 - Sorkar
-- আমার
 - Noyon
-- তুমি
 - Sami
 - Murad
 - Mazumder
@@ -3264,7 +3242,6 @@ lastnames:
 - Khokon
 - Mou
 - Riyad
-- সরকার
 - Billah
 - Sunny
 - Riya
@@ -3276,9 +3253,7 @@ lastnames:
 - Tarek
 - Mridha
 - Siam
-- আলম
 - Shohel
-- বালিকা
 - Helal
 - Shimul
 - Mehedi
@@ -3295,7 +3270,6 @@ lastnames:
 - Halim
 - Dash
 - Badsha
-- পরী
 - Momin
 - Sohan
 - Azam
@@ -3307,11 +3281,9 @@ lastnames:
 - Mahin
 - Vai
 - Mojumder
-- মেয়ে
 - Shahed
 - Ami
 - Bijoy
-- পথিক
 - Jakir
 - Dipu
 - Opu
@@ -3337,11 +3309,9 @@ lastnames:
 - Chowdury
 - Khanam
 - Nayeem
-- ভালবাসা
 - Prodhan
 - Foysal
 - Azim
-- আলী
 - Nila
 - Mozumder
 - Fatema
@@ -3351,15 +3321,12 @@ lastnames:
 - Shahriar
 - Pal
 - Bristy
-- গল্প
 - Farhan
 - Mukta
 - Yasmin
 - Apon
 - Ratul
-- উদ্দিন
 - Bhattacharjee
-- রায়
 - Yeasmin
 - Hussen
 - Palash
@@ -3397,7 +3364,6 @@ lastnames:
 - Apu
 - Nayan
 - Nasrin
-- রাজকুমার
 - Munshi
 - Al Amin
 - Tanha
@@ -3407,14 +3373,11 @@ lastnames:
 - Riaz
 - Liza
 - Jalal
-- মনি
 - Uzzal
 - Sifat
 - Hasib
 - Malek
 - Anam
-- আকতার
-- রানা
 - Goni
 - Sathi
 - Shaon
@@ -3433,12 +3396,10 @@ lastnames:
 - Mijan
 - Sinha
 - Santo
-- কাব্য
 - Karmakar
 - Zahid
 - Husen
 - Hawlader
-- দাস
 - Tamanna
 - Yesmin
 - Abid
@@ -3447,7 +3408,6 @@ lastnames:
 - Riad
 - Shagor
 - Kibria
-- হোসাইন
 - Kadir
 - Robel
 - Aslam
@@ -3483,28 +3443,20 @@ lastnames:
 - Tareq
 - Shovon
 - Rajon
-- রাজকন্যা
 - Tutul
 - Chanda
 - Ahamad
 - Mohsin
 - Nazrul
-- ভাই
 - Salma
 - Mimi
 - Akas
-- মাহমুদ
-- নীল
-- কন্যা
 - Didar
 - Sayeed
 - Raz
 - Hoq
-- হক
 - Dip
-- কথা
 - Korim
-- পৃথিবী
 - Sattar
 - Nadim
 - Lucky
@@ -3512,7 +3464,6 @@ lastnames:
 - Imam
 - Yeasin
 - Hira
-- হৃদয়
 - Yasin
 - Younus
 - Hafiz
@@ -3528,7 +3479,6 @@ lastnames:
 - Abrar
 - Mithun
 - Shimu
-- মেঘ
 - Shohan
 - Ak
 - Hasnat
@@ -3552,7 +3502,6 @@ lastnames:
 - Faruque
 - Billal
 - Akthar
-- বাবু
 - Farabi
 - Pk
 - Mohin
@@ -3568,14 +3517,11 @@ lastnames:
 - Sajjad
 - Nabi
 - Asha
-- পরি
 - Nasim
 - Sazzad
 - Evan
-- জাহান
 - Bala
 - Shak
-- সুমন
 - Parves
 - Rohoman
 - Mukul
@@ -3588,11 +3534,9 @@ lastnames:
 - Absar
 - Nishi
 - Rohim
-- বৃষ্টি
 - Kar
 - Pappu
 - Baidya
-- ফুল
 - Nishat
 - Adhikary
 - Anika
@@ -3608,22 +3552,16 @@ lastnames:
 - Ritu
 - Keya
 - Topu
-- তালুকদার
-- পাতা
 - Roshid
 - Shorif
-- বেগম
 - Kona
 - Suman
 - Shopon
-- বিশ্বাস
 - Jasim
 - Rashel
 - Urmi
-- রাজা
 - Siddika
 - Sani
-- সাগর
 - Konna
 - Sajid
 - Bepari
@@ -3635,14 +3573,11 @@ lastnames:
 - Sd
 - Alomgir
 - Koli
-- রাত
 - Mone
 - Bulbul
-- শেখ
 - Akib
 - Arnob
 - Karmokar
-- দাশ
 - Shafi
 - Lokman
 - Sadek
@@ -3655,13 +3590,10 @@ lastnames:
 - Monsur
 - Shaha
 - Habiba
-- জিবন
-- মামুন
 - Nabil
 - Ratan
 - Parvej
 - Srabon
-- প্রজাপতি
 - Naeem
 - Mollick
 - Job
@@ -3672,24 +3604,17 @@ lastnames:
 - Runa
 - Antor
 - Motin
-- রাজ
 - Tumi
 - Jihad
 - Miraz
 - Podder
 - Siraj
-- একা
 - Rajkonna
 - Nupur
 - Sany
 - Sourav
-- কুমার
-- খাঁন
 - Rj
-- চাই
 - Nill
-- শুভ
-- সাহা
 - Tusher
 - Jafor
 - Bhai
@@ -3703,7 +3628,6 @@ lastnames:
 - Redoy
 - Alvi
 - Shanta
-- সকাল
 - Shek
 - Hossein
 - Ruman
@@ -3716,7 +3640,6 @@ lastnames:
 - Faruq
 - Nandi
 - Barmon
-- চাঁদ
 - Abdulla
 - Anu
 - Matin
@@ -3725,14 +3648,12 @@ lastnames:
 - Megh
 - Bangla
 - Khokan
-- প্রেম
 - Mallik
 - Razib
 - Manus
 - Nodi
 - Kaium
 - Saikat
-- জয়
 - Irfan
 - Nizam
 - Safa
@@ -3752,23 +3673,19 @@ lastnames:
 - Bithi
 - Sahed
 - Farjana
-- দে
 - Zahan
 - Sony
-- উদ্দীন
 - Durjoy
 - Karmaker
 - Firoz
 - Kuddus
 - Jubayer
-- জান্নাত
 - Rabbi
 - Hashem
 - Sonia
 - Monju
 - Minhaj
 - Rumon
-- স্বপ্ন
 - Hussan
 - Ayan
 - Hi
@@ -3780,18 +3697,14 @@ lastnames:
 - Pramanik
 - Rokon
 - Shovo
-- শিশির
 - Josim
 - Jara
 - Tumpa
 - Suvo
-- সুলতানা
 - Afridi
 - Talha
 - Mojumdar
 - Neha
-- পাগল
-- মজুমদার
 - Badal
 - 'On'
 - Saiful Islam
@@ -3801,12 +3714,8 @@ lastnames:
 - Shajahan
 - Rat
 - Mahadi
-- মিম
-- তোমায়
 - Minhaz
-- রাসেল
 - Deb Nath
-- জন্য
 - Taj
 - Malakar
 - Sajal
@@ -3815,7 +3724,6 @@ lastnames:
 - Parveen
 - Bhuiya
 - Kayes
-- আহম্মেদ
 - Ayub
 - Kawser
 - Siyam
@@ -3826,7 +3734,6 @@ lastnames:
 - Patti
 - Shojib
 - Ripa
-- বাংলাদেশ
 - Saba
 - Bagum
 - Farhana
@@ -3840,7 +3747,6 @@ lastnames:
 - Khandakar
 - Hamim
 - Ema
-- পাল
 - Rajkumar
 - Labib
 - Raisa
@@ -3853,14 +3759,12 @@ lastnames:
 - Rob
 - Ashraful
 - Ahasan
-- আমিন
 - Sorker
 - Mithila
 - Banu
 - Manna
 - Rina
 - Bokul
-- রনি
 - Sumaiya
 - Siddiqui
 - Muntaha
@@ -3871,7 +3775,6 @@ lastnames:
 - Manush
 - Pothik
 - Rone
-- বয়
 - Moin
 - Ikbal
 - Saidul
@@ -3883,9 +3786,6 @@ lastnames:
 - Rahoman
 - Kiron
 - Gain
-- সোহাগ
-- হিমু
-- রাজকুমারী
 - Arkani
 - Orin
 - Arohi
@@ -3894,7 +3794,6 @@ lastnames:
 - Shopno
 - Sourov
 - Setu
-- মানব
 - Khair
 - Muna
 - Jahir
@@ -3902,7 +3801,6 @@ lastnames:
 - Forkan
 - Amit
 - Sarmin
-- গোলাপ
 - Tasin
 - Pasha
 - Nisha
@@ -3911,21 +3809,18 @@ lastnames:
 - Fuad
 - Nilanjona
 - Piash
-- মাঝি
 - Kabbo
 - Gani
 - Johir
 - Fakir
 - Zzaman
 - Arju
-- বন্ধু
 - Somrat
 - Rk
 - Anamul
 - Bipul
 - Shuvro
 - Mun
-- হাওলাদার
 - Payel
 - Elahi
 - Murshed
@@ -3940,7 +3835,6 @@ lastnames:
 - Badol
 - Meem
 - Jishan
-- রাজু
 - Mili
 - Pagol
 - Afsar
@@ -3949,18 +3843,13 @@ lastnames:
 - Salahuddin
 - Borhan
 - Kaisar
-- সাথী
 - Arfin
-- রুবেল
 - Valobasa
-- ইমন
 - Dipto
 - Likhon
 - Rafsan
 - Sawon
-- সৈনিক
 - Rahad
-- বড়ুয়া
 - Dhaka
 - Aminul
 - Raha
@@ -3969,9 +3858,7 @@ lastnames:
 - Basar
 - Mizi
 - Milton
-- সবুজ
 - Tanbir
-- সুজন
 - Chakrabarty
 - Antu
 - Bormon
@@ -3985,16 +3872,11 @@ lastnames:
 - Sima
 - Afnan
 - Ruhul
-- সোহেল
-- কষ্ট
 - Al Hasan
 - Nesa
-- নদী
-- পোলা
 - Balal
 - Khalek
 - Nishu
-- জান
 - Miazi
 - Farzana
 - Remon
@@ -4016,8 +3898,6 @@ lastnames:
 - Ria
 - Jim
 - Galib
-- সিকদার
-- চাকরি
 - Golpo
 - Bin
 - Delwar
@@ -4034,22 +3914,14 @@ lastnames:
 - Gosh
 - Era
 - Shajib
-- মন্ডল
-- কবিতা
 - Zannat
-- ছায়া
 - Ramim
 - Najim
-- আলি
 - Wadud
-- ফারুক
 - Mahfuj
 - Baroi
-- জল
 - Tanni
-- আবির
 - Mahir
-- বাংলা
 - Rumel
 - Fardin
 - Ornob
@@ -4064,10 +3936,7 @@ lastnames:
 - Momen
 - Mumin
 - Ful
-- করিম
-- মোল্লা
 - Surjo
-- টেলিকম
 - Wasim
 - Prem
 - Abul
@@ -4094,7 +3963,6 @@ lastnames:
 - Nishan
 - Siddiki
 - Mawa
-- সাহেব
 - Shorna
 - Tonu
 - Tusar
@@ -4102,7 +3970,6 @@ lastnames:
 - Pervez
 - Live
 - Kaiser
-- আরিফ
 - Neel
 - Shammi
 - Tanisha
@@ -4111,10 +3978,8 @@ lastnames:
 - Kholil
 - Rudra
 - Masud Rana
-- কবির
 - Shathi
 - Mridul
-- রং
 - Shoaib
 - Nurul
 - Joshim
@@ -4128,7 +3993,6 @@ lastnames:
 - Dipa
 - Kanon
 - Nilima
-- শাওন
 - Raaz
 - Humayun
 - Mobin
@@ -4136,7 +4000,6 @@ lastnames:
 - Monjur
 - Sarowar
 - Shumon
-- নয়ন
 - Sopno
 - Jarin
 - Adiba
@@ -4149,7 +4012,6 @@ lastnames:
 - Shima
 - Roky
 - Putul
-- জুয়েল
 - Chakroborty
 - Rehan
 - Hosin
@@ -4160,7 +4022,6 @@ lastnames:
 - Bou
 - Oni
 - Shiplu
-- প্রহর
 - Shaik
 - Muskan
 - Ayesha
@@ -4181,10 +4042,6 @@ lastnames:
 - Lemon
 - Soha
 - Rimu
-- ইমরান
-- নাই
-- রাব্বি
-- রায়হান
 - Tomal
 - Khandoker
 - Kamran
@@ -4197,7 +4054,6 @@ lastnames:
 - Tonny
 - Bonik
 - Ruhan
-- দেব
 - Nessa
 - Misty
 - Sadman
@@ -4207,8 +4063,6 @@ lastnames:
 - Majumdar
 - Eti
 - Pata
-- পথে
-- মুসাফির
 - Turjo
 - Ferdousi
 - Ulla
@@ -4219,7 +4073,6 @@ lastnames:
 - Morol
 - Tanu
 - Koly
-- ছোয়া
 - Ahmmad
 - Jit
 - Ramjan
@@ -4229,7 +4082,6 @@ lastnames:
 - Asraful
 - Rafa
 - Nandy
-- খাতুন
 - Nisho
 - Maliha
 - Zahir
@@ -4238,8 +4090,6 @@ lastnames:
 - Hossion
 - Sohel Rana
 - Chowdory
-- সাকিব
-- নীল আকাশ
 - Mow
 - Sokal
 - Zubair
@@ -4248,7 +4098,6 @@ lastnames:
 - Bushra
 - Modak
 - Ferdaus
-- রাকিব
 - Rajkumari
 - Dhrubo
 - Bose
@@ -4264,7 +4113,6 @@ lastnames:
 - Ansary
 - Tarak
 - Hamja
-- পাখী
 - Jesmin
 - Shilpi
 - Rafin
@@ -4278,7 +4126,6 @@ lastnames:
 - Rokib
 - Simu
 - Sorna
-- মা
 - Basit
 - Meraj
 - Mobarak
@@ -4291,7 +4138,6 @@ lastnames:
 - Rumman
 - Shourov
 - Nobel
-- রানী
 - Nijhum
 - Nishad
 - Rhman
@@ -4303,11 +4149,8 @@ lastnames:
 - Rezaul
 - Farha
 - Foysol
-- হাছান
 - Nir
-- তোমার
 - Mohona
-- প্রেমিক
 - Shariar
 - Nibir
 - Kafi
@@ -4318,8 +4161,6 @@ lastnames:
 - Plabon
 - Afsana
 - Oishi
-- হুসাইন
-- বিন্দু
 - Ratna
 - Bapary
 - Kaiyum
@@ -4335,24 +4176,17 @@ lastnames:
 - Naznin
 - Shetu
 - Nahin
-- নাথ
 - Mahedi
-- সৌরভ
 - Tanjim
 - Sajol
 - Pritom
-- অপেক্ষায়
 - Sobuz
 - Riyadh
 - Coxs
 - Marak
 - Siddiqua
-- তাঁরা
-- সরদার
 - Binte
 - Mitul
-- হাবিব
-- রিয়াদ
 - Junaid
 - Emam
 - Hoshen
@@ -4388,18 +4222,13 @@ lastnames:
 - Rekha
 - Ariful
 - Siddiquee
-- মনির
 - Shorkar
 - Prodan
 - Madbor
 - Rhoman
 - Hafsa
-- সুমি
 - Neloy
-- মাহি
-- ছাএ
 - Akand
-- চাকমা
 - Partho
 - Ifty
 - Shaju
@@ -4407,8 +4236,6 @@ lastnames:
 - Khairul
 - Rubi
 - Santa
-- রিপন
-- ছোঁয়া
 - Shikha
 - Husan
 - Meah
@@ -4420,15 +4247,11 @@ lastnames:
 - Roton
 - Khaleque
 - Shemul
-- তোমাকে
 - Rakhi
 - Nuha
-- সেন
 - Phaki
 - Ontor
 - Mukti
-- শাকিল
-- নাঈম
 - Jabin
 - Munir
 - Mansur
@@ -4441,8 +4264,6 @@ lastnames:
 - Litu
 - Ariful Islam
 - Linkon
-- মায়া
-- সপ্ন
 - Joarder
 - Ul
 - Melon
@@ -4456,10 +4277,6 @@ lastnames:
 - Sneha
 - Prodip
 - Dola
-- গাজী
-- বিকেল
-- না
-- পারভেজ
 - Kakon
 - Mostafiz
 - Rizvi
@@ -4478,20 +4295,12 @@ lastnames:
 - Avi
 - Md Hasan
 - Shamol
-- আজাদ
-- মাসুদ
-- মানিক
 - Nargis
 - Rafid
-- ঠিকানা
 - Hemal
-- রাফি
-- দেবনাথ
 - Shadhin
 - Shohagh
 - Rumpa
-- জামান
-- ফড়িং
 - Meghla
 - Shad
 - Saheb
@@ -4502,3 +4311,3011 @@ lastnames:
 - Tohid
 - Minar
 - Lubna
+- Lipu
+- Muhit
+- Roki
+- Kormokar
+- Samadder
+- Pial
+- Afrose
+- Arakani
+- Papon
+- Siddiq
+- Jamshed
+- Khin
+- Gias
+- Rased
+- Amzad
+- Rohaman
+- Hazari
+- Noyan
+- Juyel
+- Kulsum
+- Pore
+- Tahmina
+- Nahian
+- Tanjil
+- Sona
+- Rabiul
+- Shifa
+- Asa
+- Him
+- Shati
+- Swapan
+- Mubin
+- Juel
+- Smrity
+- Shaikat
+- Rupom
+- Muntasir
+- Shameem
+- Rasul
+- Kanti
+- Akkas
+- Ruby
+- Rafat
+- Ib
+- Md Mamun
+- Mosharof
+- Mashud
+- Rafe
+- Nafis
+- Chanchal
+- Razia
+- Traders
+- Al-Mamun
+- Junayed
+- Bonna
+- Lamia
+- Tarannum
+- Dolon
+- Snigdha
+- Sayma
+- Basir
+- Comilla
+- Zahed
+- Mostak
+- Isha
+- Gope
+- Mazumdar
+- Jannath
+- Mohajan
+- Lopa
+- Tuba
+- Shova
+- Ahomed
+- Sumona
+- Tahsan
+- Rong
+- Nil Akash
+- Yakub
+- Shajan
+- Taslim
+- Alal
+- Azizul
+- Ershad
+- Israfil
+- Mohasin
+- Hayder
+- Afra
+- Bakul
+- Easin
+- Sihab
+- Taskin
+- Prova
+- Mousumi
+- Muktadir
+- Razzaque
+- Shapla
+- Jahin
+- Misti
+- Hassain
+- Sahabuddin
+- Basu
+- Meher
+- Mamon
+- Somun
+- Saifuddin
+- Sadaf
+- Masuk
+- Ekbal
+- Mujib
+- Ranu
+- Nasir Uddin
+- Jahangir Alam
+- Erfan
+- Nannu
+- Hiron
+- Huque
+- Bhadra
+- Bosu
+- Diba
+- Nafiz
+- Member
+- Tohin
+- Akhand
+- Monira
+- Bipu
+- Mehedi Hasan
+- Rohit
+- Eslam
+- Eliyas
+- Nijam
+- Yamin
+- Soniya
+- Chandro
+- Md Rasel
+- Naiem
+- Mhamud
+- Golder
+- Rume
+- Misu
+- Disha
+- Protik
+- Ohi
+- Tapu
+- Jobayer
+- Promi
+- Chaity
+- Porosh
+- Irin
+- Afroze
+- Atif
+- Mujahid
+- Janu
+- Gaffar
+- Kausar
+- Burhan
+- Mukherjee
+- Mizanur
+- Md Faruk
+- Kanta
+- Nurul Islam
+- Ajad
+- Lata
+- Shahidullah
+- Monika
+- Minu
+- Simi
+- Sabuz
+- Nazma
+- Eshan
+- Konok
+- Labu
+- Ibnat
+- Tanmoy
+- Nobin
+- Tanveer
+- Ikram
+- Moinuddin
+- Jamir
+- Jasmin
+- Desh
+- Wahed
+- Sushil
+- Khayer
+- Johan
+- Rishad
+- Lablu
+- Sipon
+- Shariful
+- Ruhul Amin
+- Roney
+- Rezwan
+- Riaj
+firstnames_male_native:
+- মোঃ
+- নীল
+- অচেনা
+- মোহাম্মদ
+- মো
+- অবুঝ
+- আমি
+- ভোরের
+- অচিন
+- অবুজ
+- স্বপ্নের
+- মন
+- নিল
+- ভালোবাসার
+- আমার
+- রাতের
+- স্বপ্ন
+- আকাশ
+- কষ্টের
+- মুহাম্মদ
+- অভিমানী
+- সেই
+- একলা
+- অজানা
+- তুমি
+- শেষ
+- শেখ
+- জীবন
+- সুমন
+- সপ্নের
+- মনের
+- সুখ
+- রাজ
+- ভালবাসার
+- অসমাপ্ত
+- আব্দুল
+- সবুজ
+- শিশির
+- অদৃশ্য
+- আবু
+- নিরব
+- মেহেদী
+- সাইফুল
+- এম
+- তোমার
+- মোহাম্মাদ
+- ইমরান
+- আহমেদ
+- সাগর
+- বুঝ
+- তুমি আমার
+- শূন্য
+- আমি সেই
+- এস এম
+- আল
+- দুষ্টু
+- লাল
+- অভিমানি
+- সোহেল
+- পাগল
+- হাসান
+- নীল আকাশ
+- সুজন
+- নয়ন
+- আলোর
+- শান্ত
+- সত্যের
+- রং
+- রাসেল
+- জীবনের
+- আরিফ
+- সপ্ন
+- আবেগি
+- মামুন
+- মিঃ
+- শুভ
+- আবির
+- মা
+- কাজী
+- ভালোবাসা
+- এস
+- দুষ্ট
+- আব্দুল্লাহ
+- আরিয়ান
+- জয়
+- ধ্রুব
+- হৃদয়
+- নিল আকাশের
+- প্রেম
+- মাসুদ
+- রুবেল
+- একা
+- স্বপ্নহীন
+- জুয়েল
+- জাহিদ
+- নাজমুল
+- সাদা
+- কালো
+- শিশির ভেজা
+- বাংলাদেশ
+- রাজু
+- শেষের
+- শুধু
+- মাটির
+- জান
+- শুভ্র
+- রাকিব
+- আকাশের
+- আবেগী
+- রায়হান
+- মনির
+- রিপন
+- সৌরভ
+- সৈয়দ
+- ভদ্র
+- সোহাগ
+- আবুল
+- আনোয়ার
+- সুখের
+- ইমন
+- তানভীর
+- রবিউল
+- টাকা
+- কামরুল
+- জাকির
+- শামীম
+- শাকিল
+- মুহাম্মাদ
+- একাকী
+- নতুন
+- অপেক্ষার
+- হৃদয়ের
+- চোখের
+- আবদুল
+- মিজানুর
+- ঝরা
+- মায়ের
+- ঘাস
+- কে
+- ফয়সাল
+- অচিন পুরের
+- সাকিব
+- আব্দুর
+- ফারুক
+- রনি
+- নাম
+- জসিম
+- ইকবাল
+- সাব্বির
+- আরাফাত
+- নুর
+- সেলিম
+- এক
+- কিউট
+- শাহরিয়ার
+- আজব
+- বড়
+- রাজ্যহীন
+- নীরব
+- শাহিন
+- আমি শুধু
+- নিস্তব্ধ
+- ফাহিম
+- সিয়াম
+- ছায়া
+- নাঈম
+- নষ্ট
+- অবুঝ মন
+- শাওন
+- মনের মাঝে
+- নজরুল
+- রানা
+- একাকি
+- ছোট
+- ওমর
+- সজীব
+- ভালোবাসি
+- কষ্ট
+- আকাশ ছোয়া
+- তুমি শুধু
+- আলী
+- সোনার
+- শেষ বিকেলের
+- বাংলার
+- কষ্টে ভরা
+- নিল আকাশ
+- আলমগীর
+- অদ্ভুত
+- আদনান
+- ভালো
+- আশরাফুল
+- তোমাকে
+- হিমেল
+- নাহিদ
+- ইসলামের
+- কামাল
+- লিটন
+- ভালবাসা
+- ইসমাইল
+- আরিফুল
+- বন্ধু
+- বখাটে
+- ইয়াছিন
+- অন্ধকার
+- অনিক
+- তারেক
+- অবাক
+- মাহমুদ
+- রিয়াদ
+- বাবু
+- ফরহাদ
+- আরমান
+- অচিন পাখি
+- কাব্য
+- গোলাম
+- সজিব
+- অভি
+- আসিফ
+- অশান্ত
+- হাফেজ
+- জামাল
+- আশার
+- তিন
+- প্রিয়
+- রিদয়
+- হারানো
+- অভ্র
+- পথ হারা
+- আলো
+- রাত জাগা
+- নুরুল
+- বাংলা
+- সোনালী
+- আমি তোমার
+- মাসুম
+- রিফাত
+- অচিন দেশের
+- নিশ্চুপ
+- পলাশ
+- অবুজ মন
+- মিলন
+- আমাদের
+- আমি বড়
+- মানিক
+- জয়নাল
+- হাবিব
+- অতৃপ্ত
+- এম ডি
+- এইচ এম
+- আলম
+- জিবন
+- মাহমুদুল
+- আশিক
+- মন পাখি
+- সুখ পাখি
+- শুধু তোমার
+- রেজাউল
+- মিজান
+- কবির
+- পোকার
+- পারভেজ
+- অপরাধী
+- রাশেদ
+- আমিনুল
+- অর্থহীন
+- স্বপ্নময়
+- রাজা
+- জাহিদুল
+- সত্য
+- আপন
+- আল আমিন
+- সকাল
+- সালমান
+- দেলোয়ার
+- স্বপ্নীল
+- আল্লাহর
+- ফজলে
+- রাজিব
+- খেলা
+- রিয়াজ
+- প্রেমের
+- শাহাদাত
+- অচেনা মানুষ
+- তামিম
+- আলামিন
+- নিলয়
+- মেঘে ঢাকা
+- কৃষ্ণ
+- জাহাঙ্গীর
+- আমির
+- খান
+- মেহেদি
+- তুষার
+- খারাপ
+- মারুফ
+- ডাঃ
+- অপূর্ব
+- সাজ্জাদ
+- ইসলাম
+- সজল
+- শুন্য
+- আহসান
+- সপ্নহীন
+- শাহ
+- অপু
+- ফুল
+- খন্দকার
+- রফিকুল
+- হেলাল
+- শাহীন
+- মাহবুব
+- হঠাৎ
+- বিজয়
+- শহিদুল
+- সীমাহীন
+- দুরন্ত
+- কাল্পনিক
+- রঙিন
+- চন্দ্র
+- আবিদ
+- এনামুল
+- মায়ার
+- সৈকত
+- প্রেমহীন
+- আমি আমার
+- তন্ময়
+- মেসার্স
+- হোসাইন
+- মোং
+- জুবায়ের
+- রাফি
+- কাজল
+- আর
+- শীতের
+- না বলা
+- মিস্টার
+- হাবিবুর
+- বেলাল
+- জহির
+- ফারহান
+- দুষ্টু ছেলে
+- আল্লাহ
+- মেঘে
+- মাওলানা
+- ঘুমন্ত
+- রুদ্র
+- বিপ্লব
+- আবেগ
+- লাভ
+- চৌধুরী
+- স্পর্শের
+- পথহারা
+- অচিনা
+- হারুন
+- শিমুল
+- সাঈদ
+- জনি
+- নূর
+- আতিক
+- মেহেদী হাসান
+- রাব্বি
+- দুষ্টু ছেলের
+- সুন্দর
+- আহমদ
+- ইমতিয়াজ
+- নাজিম
+- ইব্রাহিম
+- আমরা
+- মা আমার
+- আবদুল্লাহ
+- তোমার জন্য
+- প্রিন্স
+- পথের
+- গল্পটা
+- বাবুল
+- বোকা
+- পথ
+- জিহাদ
+- নিঃসঙ্গ
+- হিমু
+- তোর
+- মুক্ত
+- শ্রাবণ
+- শরিফ
+- রাকিবুল
+- মেগলা
+- সোনা
+- অমিত
+- ক্লান্ত
+- শামিম
+- খোকন
+- শেষ বিকালের
+- সিলেটি
+- অন্ধকারের
+- সাইদুল
+- রাত
+- রাজীব
+- আলোকিত
+- রবিন
+- আসাদুজ্জামান
+- ফাহাদ
+- পাগলা
+- রফিক
+- সুলতান
+- জহিরুল
+- আলি
+- এইচ
+- নোমান
+- শ্রী
+- শফিকুল
+- স্বাধীন
+- কষ্টের জীবন
+- অচেনা পাখি
+- ধূসর
+- ইমাম
+- মিনহাজ
+- দুলাল
+- নাইম
+- বাদশা
+- স্বপ্নিল
+- মিজানুর রহমান
+- রোমান্টিক
+- হুমায়ুন
+- কিং
+- জীবনটা
+- আজও
+- সুব্রত
+- মীর
+- আচেনা
+- আজাদ
+- জিসান
+- আদিত্য
+- সোহান
+- সম্রাট
+- তুহিন
+- রবি
+- ভাল
+- গাজী
+- কষ্টে
+- জাবেদ
+- সাইফুল ইসলাম
+- শরিফুল
+- প্রতিবাদী
+- রতন
+- সাইফ
+- জাকারিয়া
+- সিফাত
+- অভিশপ্ত
+- ইউসুফ
+- তুই
+- সব
+- অসহায়
+- কাগজের
+- কিছু
+- জাহেদ
+- গোলাপ
+- না
+- অনন্ত
+- শিহাব
+- আমিন
+- বসন্তের
+- দুষ্ট ছেলের
+- দাদা
+- কি
+- আব্দুল্লাহ আল
+- মনে
+- হাফিজ
+- মানুষ
+- শরীফ
+- অবহেলিত
+- মা বাবার
+- রুহুল
+- সেক্স
+- স্বপন
+- সাহেদ
+- আলিফ
+- সিরাজুল
+- পার্থ
+- ছুয়ে দিলে
+- এমডি
+- খালেদ
+- সময়ের
+- অবুঝ বালক
+- চাঁদ
+- ব্যর্থ
+- দুই
+- পরশ
+- সাকিল
+- আঃ
+- নাছির
+- আকাশ ছোঁয়া
+- অস্থির
+- এই
+- রাহুল
+- আল-আমিন
+- মি
+- ইসলামিক
+- এসো
+- নীড় হারা
+- ভালবাসি
+- পোড়া
+- রাহাত
+- মিরাজ
+- অনিকেত
+- বিকাশ
+- অন্য
+- অগোছালো
+- নিজাম
+- সাদ্দাম
+- মিঠুন
+- কস্টের
+- অছেনা
+- মামা
+- আশিকুর
+- ফিরোজ
+- মাহিন
+- রকি
+- মোশারফ
+- মনের মানুষ
+- আজিজুল
+- কাউছার
+- গল্পের
+- আশরাফ
+- আলোহীন
+- উজ্জ্বল
+- বিবর্ণ
+- অফুরন্ত
+- হৃদয়ে
+- অচেনা পথের
+- জালাল
+- রংধনু
+- শাহ্
+- রাজকুমার
+- মার
+- অনেক
+- একজন
+- সরল
+- হানিফ
+- অচেনা সেই
+- কুয়াশা
+- এস.এম
+- কষ্ট ভরা
+- মুসাফির
+- কাওছার
+- ফেরারী
+- বেকার
+- দীপ্ত
+- সেক্সি
+- রা
+- নাসির
+- গিয়াস
+- সাথী হারা
+- স্বার্থপর
+- অবুঝ মনের
+- শান্ত ছেলে
+- তাজুল
+- সাখাওয়াত
+- তরিকুল
+- আধার
+- দুষ্ট ছেলে
+- ইফতেখার
+- জান পাখি
+- শ্রাবনের
+- জীবন মানে
+- একলা পথের
+- অভীমানি
+- আব্দুস
+- শিপন
+- প্রথম
+- অন্তহীন
+- জিয়া
+- আতিকুর
+- কাঠ
+- হারিয়ে
+- মুরাদ
+- আবদুর
+- সকালের
+- জুনায়েদ
+- সাদমান
+- খেলা হবে
+- ফুলের
+- অতঃপর
+- আরফিন
+- মুন্না
+- বিল্লাল
+- রহিম
+- কবি
+- আচিন
+- অন্তর
+- জামিল
+- প্রান্ত
+- আমি এক
+- ভাঙ্গা
+- নিঃস্বার্থ
+- মোজাম্মেল
+- মিঠু
+- ইসলামী
+- ফরিদ
+- আবেগি মন
+- সাজু
+- মনিরুল
+- ভোরের আলো
+- দেব
+- এমরান
+- অামি
+- মাহফুজ
+- ফেরদৌস
+- অরন্য
+- কল্পনার
+- জীবন্ত
+- মোস্তফা
+- লাইকার
+- আতাউর
+- স্বপনের
+- রবীন্দ্রনাথ
+- ফুটন্ত
+- হাছান
+- আনন্দ
+- শ্রাবন
+- রমজান
+- সুহেল
+- খোরশেদ
+- আদরের
+- রংধনুর
+- এলোমেলো
+- আজিজ
+- টিপু
+- মাহাবুব
+- বিদ্রোহী
+- চেনা
+- অরণ্য
+- ইয়াসিন
+- সা
+- রক্তিম
+- অনুভূতির
+- হারিয়ে যাওয়া
+- রহমান
+- রহস্যময়
+- নিউ
+- ফিরে
+- হুসাইন
+- জোবায়ের
+- আবরার
+- ক্ষনিকের
+- আমার গল্পে
+- রাজন
+- ভালো বাসার
+- ইঞ্জিনিয়ার
+- নীল আকাশে
+- আহম্মেদ
+- এম এ
+- সুখী
+- শফিক
+- বেলা
+- অবুজ বালক
+- শিরোনামহীন
+- সায়েম
+- শ্রাবণের
+- সেই তুমি
+- জুনাইদ
+- একটি
+- জাফর
+- মিষ্টি মেয়ের
+- স্মৃতির
+- সূর্য
+- সাজিদ
+- লিমন
+- আধারের
+- আমি একা
+- নুরুল ইসলাম
+- ফেমাস
+- মাছুম
+- এম আর
+- সপ্নময়
+- বাবলু
+- করিম
+- চকলেট
+- হোসেন
+- সরকার
+- পড়ন্ত
+- জিবনের
+- তোফায়েল
+- হাসি
+- হিমালয়
+- মায়ের দোয়া
+- ফয়েজ
+- আহনাফ
+- পরান
+- ডিজে
+- আবুজ
+- তুমি আসবে
+- গরিবের
+- এস কে
+- ইশতিয়াক
+- নির্বাক
+- ব্যার্থ
+- এরশাদ
+- জিয়াউর
+- সুইট
+- শাকিব
+- রাতের তারা
+- মহিন
+- প্রেম হীন
+- সানি
+- ফেরারি
+- কালাম
+- এস আর
+- লোকমান
+- মোঃ আব্দুল
+- প্রবাসী
+- অচীন
+- অভ্রনীল
+- তৌফিক
+- দুঃখের
+- হলুদ
+- মিষ্টি মায়ের
+- তুমি আর
+- মিষ্টার
+- ইয়ামিন
+- সাহিন
+- আসাদ
+- টাকার
+- বাজে
+- আদর্শ
+- অনলাইন
+- মোস্তাফিজুর
+- মশিউর
+- নামহীন
+- দিশেহারা
+- সাইদুর
+- আরিফুল ইসলাম
+- আমার স্বপ্ন
+- বাবা
+- মুহাঃ
+- নয়নের
+- শওকত
+- তৌহিদুল
+- বিন্দু
+- বকুল
+- দুঃখ
+- ভাই
+- কুয়াশার
+- আকাস
+- রাছেল
+- মোবারক
+- অসীম
+- নবাব
+- নীর হারা
+- প্রদীপ
+- মাওঃ
+- শাহজাহান
+- ইবনে
+- এম এইচ
+- জাহিদুল ইসলাম
+- আকিব
+- সামিউল
+- শহিদ
+- ইরফান
+- এম এস
+- সাংবাদিক
+- কবিতার
+- অশ্রু
+- বিপুল
+- খাঁন
+- অনুভবে
+- বুকের
+- মোহাঃ
+- মোহামমদ
+- শূণ্য
+- সিহাব
+- পিয়াস
+- আকতার
+- অপরিচিত
+- নজরুল ইসলাম
+- ইব্রাহীম
+- সঞ্জয়
+- রাশেদুল
+- মোঃ সাইফুল
+- বাস্তব
+- বুজ
+- তাপস
+- উড়ন্ত
+- আজিম
+- হাফিজুর
+- চন্দন
+- সারোয়ার
+- সংগ্রামী
+- পাগলির
+- বেইমান
+- আমি আর
+- সেই আমি
+- উজ্জল
+- অচেনা এক
+- আলাউদ্দিন
+- ইজি বাপের
+- আবুল কালাম
+- অপেক্ষায়
+- মামুনুর
+- গন্তব্যহীন
+- সীমান্ত
+- মহিউদ্দিন
+- মাজহারুল
+- ওয়াহিদ
+- সু
+- অয়ন
+- ওসমান
+- হিটলার
+- এক মুঠো
+- একলা জীবন
+- চাঁদের আলো
+- দিদার
+- তপন
+- আহাদ
+- বাদল
+- রিয়াজুল
+- মোরশেদ
+- দিপু
+- নীড়
+- ইলিয়াস
+- তাহসিন
+- বাবার
+- আব্দুল্লাহ্
+- নি
+- কালা
+- দুই দিনের
+- রাখাল
+- এম এম
+- রোমান
+- গল্প
+- উড়াল
+- সাইফুর
+- কে এম
+- রাতুল
+- একটু
+- ফখরুল
+- খালিদ
+- সবার
+- বৃষ্টির
+- রিমন
+- অপূর্ণ
+- অচেনা মন
+- আবেগী মন
+- লাজুক
+- কাশ
+- সময়
+- অজস্র
+- দেশ
+- অভদ্র
+- অন্যরকম
+- ইলিয়াছ
+- মোঃ সোহেল
+- মদ
+- আক্তার
+- প্রশান্ত
+- বিশ্বজিৎ
+- দূর
+- তাহমিদ
+- ক্ষণিকের
+- অবশেষে
+- সামির
+- এলাকার
+- সপন
+- রঙ্গিন
+- দিনের
+- আধার রাতের
+- শ্যামল
+- দৈনিক
+- রাফসান
+- তোমার আমার
+- চয়ন
+- নির্জন
+- কনক
+- রহমত
+- মোঃ মিজানুর
+- একটা
+- পেন্সিলে
+- অপ্রত্যাশিত
+- সিরাজ
+- জীবনের শেষ
+- খাইরুল
+- স্মার্ট
+- উদ্দেশ্য
+- আয়ান
+- মিয়া
+- এডভোকেট
+- এবং
+- অন্ধ
+- আকবর
+- নিস্তব্দ
+- জান আমার
+- শুকনো
+- মাহবুবুর
+- মির্জা
+- সপ্নের রাজ
+- চলো
+- মাহমুদুল হাসান
+- কৌশিক
+- অভিজিৎ
+- কঠিন
+- খোলা
+- পরিবারের
+- গোপাল
+- এক বুক
+- দূরন্ত
+- ইসলামি
+- সামিম
+- ভাবনাহীন
+- টাকা দে
+- নাদিম
+- এস আই
+- অতিথি
+- কপাল
+- আমি তোমাকে
+- আফরান
+- অলি
+- ছন্নছাড়া
+- পেন্সিলের
+- ছুয়ে
+- সমুদ্র
+- রফিকুল ইসলাম
+- আদি
+- কাওসার
+- মাথা
+- রাইয়ান
+- মহা
+- হট
+- তাহসান
+- ডিজিটাল
+- আকরাম
+- বোরহান
+- পাগলীর
+- অপেক্ষা
+- মেহেদি হাসান
+- তালুকদার
+- আমিনুল ইসলাম
+- মুফতি
+- অবুজ মনের
+- আমজাদ
+- তুমি যে
+- আরেফিন
+- জিয়ার
+- গুরু
+- সুদীপ্ত
+- অনিন্দ্য
+- দেওয়ান
+- সাত
+- দ্বীপ
+- অর্ণব
+- মোঃ আবু
+- প্রভাত
+- রংহীন
+- আম্মুর
+- সাইমুন
+- জীবন বড়
+- সাধারণ
+- স্পর্শ
+- হাবিবুর রহমান
+- মোঃ সুমন
+- পবিত্র
+- মদিনার
+- সোহরাব
+firstnames_female_native:
+- মেঘলা
+- মেঘ
+- নীল আকাশের
+- নিঝুম
+- মিষ্টি
+- চাঁদের
+- জান্নাতুল
+- নুসরাত
+- মেঘের
+- সুমাইয়া
+- সাদিয়া
+- মায়াবী
+- অধরা
+- রোদেলা
+- সাথী
+- তানিয়া
+- বৃষ্টি
+- ইচ্ছে
+- রিয়া
+- মায়া
+- ফারজানা
+- শারমিন
+- সুমি
+- মিম
+- মেঘলা আকাশ
+- উম্মে
+- ইসরাত
+- জল
+- পাখি
+- সানজিদা
+- রুপকথার
+- নিশি
+- ফারিয়া
+- জান্নাত
+- স্নিগ্ধ
+- ফাতেমা
+- মারিয়া
+- ময়না
+- মিথিলা
+- মনি
+- কথা
+- প্রিয়া
+- নুসরাত জাহান
+- সামিয়া
+- নিঝুম রাতের
+- আনিকা
+- জোনাকির
+- আয়েশা
+- বৃষ্টি ভেজা
+- মায়াবি
+- প্রজাপতির
+- মিস
+- ইসরাত জাহান
+- সন্ধ্যা
+- তামান্না
+- অপরাজিতা
+- মাহি
+- মিসেস
+- অনামিকা
+- মোছাঃ
+- ফারহানা
+- রূপকথার
+- চাঁদনী
+- নীল পরী
+- আখি
+- লিজা
+- সাথি
+- নাদিয়া
+- তানজিনা
+- রুপ
+- রিমঝিম
+- মিতু
+- মেঘ বালিকা
+- আশা
+- প্রজাপতি
+- রিমা
+- নিলা
+- অচিনপুরের
+- তাহমিনা
+- মিষ্টি মেয়ে
+- মাহিয়া
+- তানহা
+- বিউটি
+- খাদিজা
+- নীলা
+- ইতি
+- আফরিন
+- ঘুম
+- নীলপরী
+- অনন্যা
+- নিশাত
+- সালমা
+- স্বপ্নময়ী
+- আয়শা
+- চাদের
+- কবিতা
+- সুলতানা
+- লামিয়া
+- ফারিহা
+- তানিশা
+- সুইটি
+- জোনাকি
+- নীলিমা
+- ফাহমিদা
+- সারমিন
+- পপি
+- মাইশা
+- মোছা
+- লিমা
+- রাজকুমারী
+- আফসানা
+- নিপা
+- নীল পরি
+- হাবিবা
+- সোনালি
+- ইভা
+- হুমায়রা
+- রাইসা
+- দুষ্টু মেয়ের
+- নিজুম
+- আদিবা
+- সিমা
+- বনলতা
+- জেসমিন
+- নীলাঞ্জনা
+- রুমি
+- সোনিয়া
+- জুই
+- রুপ কথার
+- মাহমুদা
+- মীম
+- অনু
+- গোধূলি
+- মুক্তা
+- নীলাদ্রি
+- অপরিচিতা
+- পায়েল
+- নদী
+- আফিয়া
+- সন্ধা
+- তিশা
+- নুপুর
+- পরি
+- মৌ
+- মরিয়ম
+- শুক
+- নাজমা
+- হিমুর
+- তাসনিম
+- রূপ
+- নিশি রাতের
+- নিলিমা
+- মেঘে ডাকা
+- অহনা
+- নাবিলা
+- তমা
+- আইরিন
+- পাগলের
+- পদ্ম
+- তানিসা
+- কানিজ
+- মুনতাহা
+- জাকিয়া
+- তুলি
+- মেঘহীন
+- নাহিদা
+- নীলপরি
+- নিহা
+- শান্তা
+- সাবিহা
+- শাপলা
+- তানজিলা
+- সাবিনা
+- মায়াবতী
+- শিউলি
+- রুপা
+- রিম
+- জেরিন
+- মুন
+- আফরোজা
+- সুমা
+- ভোরের পাখি
+- সুরাইয়া
+- মেহজাবিন
+- অগ্নি
+- রাজকন্যা
+- সায়মা
+- কেয়া
+- মোসাঃ
+- রুমা
+- পাপিয়া
+- অথৈ
+- মালিহা
+- নাসরিন
+- রাবেয়া
+- মুন্নি
+- তাসফিয়া
+- ঝড়া
+- সিদরাতুল
+- পদ্ম পাতার
+- সাবরিনা
+- মৃন্ময়ী
+- কলি
+- পিংকি
+- দুষ্ট মেয়ের
+- আকলিমা
+- মৌমিতা
+- হালিমা
+- সেতু
+- ডানা কাটা
+- রিনা
+- রিপা
+- মিলি
+- অবুঝ বালিকা
+- রিমি
+- ফাহিমা
+- আঁখি
+- লাকি
+- সিনথিয়া
+- সুমাইয়া আক্তার
+- মৌসুমী
+- দুষ্টু মেয়ে
+- স্নিগ্ধা
+- লিপি
+- রিম ঝিম
+- আরিফা
+- শামীমা
+- মিমি
+- তাসলিমা
+- বর্ষা
+- মিস্টি
+- পিয়া
+- শিমু
+- নীল অাকাশের
+- আসমা
+- পরী
+- জয়া
+- শিলা
+- তুমি রবে
+- ইয়াসমিন
+- রাজিয়া
+- লাবণ্য
+- মায়াবিনী
+- আফিফা
+- ঐশী
+- গোধূলী
+- রুনা
+- মেহেজাবিন
+- শিউলী
+- সুমনা
+- সৈয়দা
+- পূজা
+- আছমা
+- পলি
+- শত ডানার
+- নিল পরি
+- জান্নাতের
+- রিতা
+- মিনা
+- জান্নাতুল ফেরদৌস
+- লাবনী
+- অঝর
+- অন্তরা
+- ভোরের শিশির
+- আনিসা
+- মোহনা
+- বিথী
+- জান্নাতি
+- দিপা
+- মনিকা
+- মোসা
+- তাহিয়া
+- পাগলি
+- অর্পিতা
+- আমেনা
+- প্রিয়াংকা
+- লতা
+- সুস্মিতা
+- পুষ্প
+- ঝিনুক
+- রাত্রি
+- অবন্তিকা
+- ইশরাত
+- তিথি
+- স্বপ্নের রাজ
+- ইকরা
+- সেলিনা
+- পুতুল
+- নাইমা
+- নাঈমা
+- স্নেহা
+- নীল আকাশের তারা
+- মেঘলা আকাশের
+- পুজা
+- নীলিমার
+- চাঁদনি
+- নীলাম্বরী
+- রহিমা
+- সামিরা
+- জান্নাতুন
+- শিরিন
+- চারু
+- ইমা
+- তানজিন
+- নীলাশা
+- ইরা
+- নীল প্রজাপতি
+- মাইসা
+- অস্পর্শী
+- আনিশা
+- ফাইজা
+- সোহানা
+- জিনিয়া
+- রুবি
+- নিঝুম রাত
+- মেঘা
+- হৈমন্তী
+- ছাদিয়া
+- নাছিমা
+- মাধবী
+- পাগলী
+- শামিমা
+- গোধূলির
+- মাহবুবা
+- সীমা
+- আবিদা
+- রাফিয়া
+- আদ্রিতা
+- খুশি
+- পারভীন
+- অপ্সরী
+- শিল্পী
+- প্রীতি
+- তাবাসসুম
+- অথৈই
+- অপ্সরা
+- অদিতি
+- মুনিয়া
+- শিশিরের
+- প্রজা
+- জান্নাতুল মাওয়া
+- মহুয়া
+- অচেনা মেয়ে
+- দুষ্ট মেয়ে
+- তাসনিয়া
+- শ্রাবন্তী
+- আফরা
+- অবন্তী
+- স্মৃতি
+- মাইমুনা
+- মৃত্তিকা
+- রুপকথা
+- মিতা
+- লাভলী
+- সুমি আক্তার
+- তনুশ্রী
+- ইশা
+- তারিন
+- রজনী
+- আরোহী
+- জুঁই
+- দিয়া
+- রোকসানা
+- রুমানা
+- অজান্তা
+- তাছলিমা
+- সনিয়া
+- সারা
+- অনিন্দিতা
+- দোলা
+- তিসা
+- তারার
+- রোজিনা
+- বৈশাখী
+- চুপ
+- সপ্নময়ী
+- মৌসুমি
+- টিপ টিপ
+- জারিন
+- সাইমা
+- নিলাদ্রী
+- শাকিলা
+- তাসপিয়া
+- তানিয়া আক্তার
+- নিশিতা
+- সাহিদা
+- রুপালী
+- কামরুন
+- রোকেয়া
+- নাহার
+- রোমানা
+- ইয়াছমিন
+- আমিনা
+- ফৌজিয়া
+- ঈশিতা
+- পারিয়া
+- নাফিসা
+- আখিঁ
+- সন্ধ্যার
+- রাখি
+- অঝোর
+- মুনা
+- মমতাজ
+- আরিশা
+- সুহাসিনী
+- শ্রেয়া
+- ফাতিমা
+- সাজেদা
+- তিলোত্তমা
+- অঝরা
+- শাহনাজ
+- মনিরা
+- রেখা
+- কল্পনা
+- ফরিদা
+- ফাবিহা
+- টিয়া
+- কনা
+- বেবী
+- শাহানাজ
+- রাই
+- লায়লা
+- লাবন্য
+- ময়না পাখি
+- রিতু
+- অবুজ বালিকা
+- ফাগুন
+- জাহানারা
+- শ্রাবণী
+- জোসনা
+- নিশির
+- ছামিয়া
+- মেহেরুন
+- রানি
+- নন্দিনী
+- নওরিন
+- চোখের তারা
+- শিখা
+- ডানাকাটা
+- আলিফা
+- লাকী
+- নিজুম রাতের
+- নিলপরি
+- সাদিয়া আক্তার
+- জারা
+- জবা
+- ঐন্দ্রিলা
+- কনিকা
+- স্পর্শীয়া
+- নুসাইবা
+- টুনটুনি
+- ছোয়া
+- রিয়া মনি
+- রোজা
+- দিবা
+- অনুরাধা
+- হুমাইরা
+- শবনম
+- আসা
+- কন্যা
+- মেঘনা
+- মারিয়াম
+- চৈতি
+- ফারজানা আক্তার
+- সুরভী
+- নন্দিতা
+- চৈতী
+- পাহাড়ি
+- নিলাদ্রি
+- মাহফুজা
+- সাতি
+- মেঘলা মন
+- সাগরিকা
+- তৃষা
+- রিক্ত
+- রূপ কথার
+- সোমা
+- সিনহা
+- অবুজ পাখি
+- মিছ
+- ফারিয়া আক্তার
+- মানহা
+- সাফা
+- মাহিমা
+- রেশমি
+- মিফতাহুল
+- নাছরিন
+- নওশীন
+- হাসনা
+- নাজমুন
+- তনু
+- রাতের আকাশের
+- বিবি
+- নী
+- নিশা
+- বিকেলে
+- রেহেনা
+- সাঁঝের
+- মেগ
+- আতিয়া
+- পারভিন
+- মারজানা
+- মারুফা
+- বর্ষার
+- হামিদা
+- নাজিয়া
+- ভাবনা
+- কুসুম
+- নিপু
+- নুছরাত
+- প্রত্যাশা
+- নীলাচল
+- স্বর্ণ
+- শ্রাবন মেঘের
+- শ্রেয়সী
+- ঝুমা
+- অনিকা
+- পাতা
+- আরশি
+- ঋতু
+- তনিমা
+- তাসমিয়া
+- বিথি
+- মেঘ কন্যা
+- রাতের জোনাকি
+- মিম আক্তার
+- নিলীমা
+- রেহানা
+- সামিহা
+- ইশিতা
+- মারজিয়া
+- রুপালি
+- স্বর্ণা
+- শারমিন আক্তার
+- অদ্রিতা
+- ছোঁয়া
+- সাথী আক্তার
+- ইশরাত জাহান
+- অভিমানী মেয়ে
+- ফারহা
+- আমি যে কে
+- রুবিনা
+- চুমকি
+- গোধুলি
+- নীলাদ্রী
+- তামান্না আক্তার
+- নিল পাখি
+- সুবর্ণা
+- রুজিনা
+- হ্যাপি
+- দীপান্বিতা
+- তন্দ্রা
+- শুভ্রা
+- নাজনীন
+- লক্ষী
+- ভালোবাসার নীল
+- সূচনা
+- মোছাম্মদ
+- মম
+- অনুপমা
+- প্রেমা
+- রাজ কন্যা
+- স্বপ্না
+- বেবি
+- মোমের
+- কাব্যের
+- নুরজাহান
+- রাজকুমারি
+- ইলমা
+- নিগার
+- নূপুর
+- টুম্পা
+- অথই
+- টুন
+- মিতালী
+- মহিমা
+- রোজ
+- রাহিমা
+- তাসনুভা
+- জুলি
+- নেহা
+- হিমা
+- চারুলতা
+- কাশবনের
+- দিলরুবা
+- সানিয়া
+- কমলা
+- অচীন পুরের
+- চাঁদনী রাতের
+- কহিনুর
+- সোহাগী
+- শতাব্দী
+- মিরা
+- রুপ কথা
+- বুশরা
+- প্রিন্সেস
+- সিক্ত
+- শেষের কবিতা
+- হিয়া
+- ঝুমুর
+- সনি
+- সুখ তারা
+- চাদনি
+- রৌদেলা
+- অবুঝ মেয়ে
+- স্পর্শিয়া
+- খালেদা
+- সুপ্রিয়া
+- দিনা
+- অধোরা
+- পাকি
+- ঐশ্বর্য
+- নিসা
+- অর্পা
+- তিন্নি
+- পুষ্পিতা
+- রানী
+- উর্মি
+- সুন্দরী
+- মনোয়ারা
+- জামিলা
+- রুবাইয়া
+- উপমা
+- বন্যা
+- দীপা
+- অরিন
+- সাদিয়া আফরিন
+- আরাবি
+- নাদিরা
+- নীলাদ্রিতা
+- ছনিয়া
+- শুকনো পাতার
+- সঞ্চিতা
+- রহস্যময়ী
+- নাজিফা
+- পা
+- রুহি
+- রিয়া আক্তার
+- রতনা
+- নিলুফা
+- ছবি
+- পারুল
+- সাদিকা
+- ভালোবাসার শেষ
+- ঐশি
+- সপ্না
+- নওশিন
+- সৃতি
+- তুমি হীনা
+- অপরা
+- অছিন পাখি
+- ডালিয়া
+- অচিনা পাখি
+- লাভলি
+- তিথী
+- চাদনী
+- উম্মে হাবিবা
+- গোধূলীর
+- অবন্তি
+- আতিকা
+- লাবনি
+- সান্তা
+- জয়শ্রী
+- জুমা
+- সাবা
+- নিভৃত
+- লিলি
+- শাহিনা
+- কুয়াশা ভেজা
+- নিলাশা
+- তনয়া
+- তাকিয়া
+- প্রিয়ন্তী
+- রাইমা
+- মায়াবীনি
+- রূপকথা
+- পারমিতা
+- পান্না
+- অবুঝ ভালোবাসা
+- আকি
+- আধাঁর রাতের
+- নাফিজা
+- লুবনা
+- সুবর্না
+- নিল পরী
+- জেসিকা
+- তন্বী
+- জোবাইদা
+- নীহারিকা
+- নিবেদিতা
+- শাহিদা
+- মায়াবন
+- আনোয়ারা
+- রেশমা
+- প্রজ্ঞা
+- সিদরাতুল মুনতাহা
+- রাজকুমারের
+- অচেনা ভালোবাসা
+- মুনি
+- আছিয়া
+lastnames_native:
+- ইসলাম
+- মন
+- আকাশ
+- পাখি
+- হোসেন
+- জীবন
+- খান
+- আক্তার
+- রহমান
+- ছেলে
+- বালক
+- আহমেদ
+- আমি
+- মিয়া
+- হাসান
+- মানুষ
+- তারা
+- আহমদ
+- ভালোবাসা
+- চৌধুরী
+- আলো
+- আমার
+- তুমি
+- সরকার
+- আলম
+- বালিকা
+- পরী
+- মেয়ে
+- পথিক
+- ভালবাসা
+- আলী
+- গল্প
+- উদ্দিন
+- রায়
+- রাজকুমার
+- মনি
+- আকতার
+- রানা
+- কাব্য
+- দাস
+- হোসাইন
+- রাজকন্যা
+- ভাই
+- মাহমুদ
+- নীল
+- কন্যা
+- হক
+- কথা
+- পৃথিবী
+- হৃদয়
+- মেঘ
+- বাবু
+- পরি
+- জাহান
+- সুমন
+- বৃষ্টি
+- ফুল
+- তালুকদার
+- পাতা
+- বেগম
+- বিশ্বাস
+- রাজা
+- সাগর
+- রাত
+- শেখ
+- দাশ
+- জিবন
+- মামুন
+- প্রজাপতি
+- রাজ
+- একা
+- কুমার
+- খাঁন
+- চাই
+- শুভ
+- সাহা
+- সকাল
+- চাঁদ
+- প্রেম
+- জয়
+- দে
+- উদ্দীন
+- জান্নাত
+- স্বপ্ন
+- শিশির
+- সুলতানা
+- পাগল
+- মজুমদার
+- মিম
+- তোমায়
+- রাসেল
+- জন্য
+- আহম্মেদ
+- বাংলাদেশ
+- পাল
+- আমিন
+- রনি
+- বয়
+- সোহাগ
+- হিমু
+- রাজকুমারী
+- মানব
+- গোলাপ
+- মাঝি
+- বন্ধু
+- হাওলাদার
+- রাজু
+- সাথী
+- রুবেল
+- ইমন
+- সৈনিক
+- বড়ুয়া
+- সবুজ
+- সুজন
+- সোহেল
+- কষ্ট
+- নদী
+- পোলা
+- জান
+- সিকদার
+- চাকরি
+- মন্ডল
+- কবিতা
+- ছায়া
+- আলি
+- ফারুক
+- জল
+- আবির
+- বাংলা
+- করিম
+- মোল্লা
+- টেলিকম
+- সাহেব
+- আরিফ
+- কবির
+- রং
+- শাওন
+- নয়ন
+- জুয়েল
+- প্রহর
+- ইমরান
+- নাই
+- রাব্বি
+- রায়হান
+- দেব
+- পথে
+- মুসাফির
+- ছোয়া
+- খাতুন
+- সাকিব
+- নীল আকাশ
+- রাকিব
+- পাখী
+- মা
+- রানী
+- হাছান
+- তোমার
+- প্রেমিক
+- হুসাইন
+- বিন্দু
+- নাথ
+- সৌরভ
+- অপেক্ষায়
+- তাঁরা
+- সরদার
+- হাবিব
+- রিয়াদ
+- মনির
+- সুমি
+- মাহি
+- ছাএ
+- চাকমা
+- রিপন
+- ছোঁয়া
+- তোমাকে
+- সেন
+- শাকিল
+- নাঈম
+- মায়া
+- সপ্ন
+- গাজী
+- বিকেল
+- না
+- পারভেজ
+- আজাদ
+- মাসুদ
+- মানিক
+- ঠিকানা
+- রাফি
+- দেবনাথ
+- জামান
+- ফড়িং
+- আছি
+- মীম
+- ঘোষ
+- কলি
+- ঘুড়ি
+- রাজপুত্র
+- মুন্না
+- পথ
+- রশিদ
+- নিরব
+- তুলি
+- আরাফাত
+- রেজা
+- অতিথি
+- সজিব
+- ইকবাল
+- হাসি
+- শান্ত
+- ছাত্রলীগ
+- সজীব
+- রিদয়
+- মৌ
+- বাবা
+- মিজান
+- অভি
+- কুয়াশা
+- ভালোবাসি
+- আহাম্মেদ
+- ক্যানভাস
+- সন্ধানে
+- রাহমান
+- কিং
+- আফরিন
+- জোনাকি
+- মামা
+- অপু
+- রিয়া
+- এন্টারপ্রাইজ
+- শিকদার
+- উল্লাহ
+- মিলন
+- ছাত্র
+- দিন
+- অাকাশ
+- তরী
+- ব্যবসা
+- চিরকুট
+- সিয়াম
+- নূর
+- নাহিদ
+- জনি
+- প্রিয়া
+- চক্রবর্তী
+- ভূঁইয়া
+- কুমারী
+- কামাল
+- শীল
+- রহিম
+- লতা
+- ছেলেটি
+- শামীম
+- আশিক
+- ফাহিম
+- হাওয়া
+- সেলিম
+- নীলা
+- ডানা
+- ফয়সাল
+- রিফাত
+- রবিন
+- লিটন
+- আশা
+- হবে
+- অনিক
+- সানি
+- বাদশা
+- দত্ত
+- ফ্যাশন
+- মল্লিক
+- দেশ
+- নুর
+- পলাশ
+- তারেক
+- তুহিন
+- ধর
+- নিলয়
+- খেলা
+- সৈকত
+- আকাস
+- রোদ
+- পদ্ম
+- সূর্য
+- ফেরিওয়ালা
+- আমায়
+- অনুভূতি
+- নাম
+- মিতু
+- আপন
+- তুষার
+- নীলিমা
+- অপরাজিতা
+- রংধনু
+- জাহিদ
+- চাঁদনী
+- নোমান
+- ফারিয়া
+- মোহাম্মদ
+- খন্দকার
+- খানম
+- দুপুর
+- আজিজ
+- শুভ্র
+- সেন্টার
+- দুনিয়া
+- বেপারী
+- তুই
+- ঘর
+- অচিন পাখি
+- ফরহাদ
+- রাজ কুমার
+- খোকন
+- মৃধা
+- খবর
+- বিজয়
+- নেই
+- নীড়
+- বউ
+- শাহিন
+- রাশেদ
+- সাইফুল
+- শরীফ
+- আরমান
+- ছাত্রদল
+- নিল
+- টাকা
+- মাসুম
+- রিয়াজ
+- নিশি
+- বেলা
+- কবি
+- সাথি
+- বালি
+- মেঘলা আকাশ
+- নীলাঞ্জনা
+- মুন
+- জীবন আমার
+- আদনান
+- সাঈদ
+- কান্না
+- পাগলী
+- ভালবাসি
+- ফেরদৌস
+- সন্ধ্যা
+- পাথর
+- আব্দুল্লাহ
+- বিকাল
+- মুসলিম
+- শাহীন
+- নৌকা
+- সোহান
+- রবি
+- আইডি
+- হালদার
+- অবুঝ মন
+- পেন্সিল
+- নিলা
+- রাত্রি
+- দেওয়ান
+- সাব্বির
+- মন পাখি
+- শিমুল
+- মিরাজ
+- কে
+- আহামেদ
+- পুতুল
+- মারুফ
+- রাজ কন্যা
+- পাগলি
+- ময়না
+- সুলতান
+- ক্লাব
+- মেঘলা
+- তানিয়া
+- প্রদীপ
+- সজল
+- ব্যাবসা
+- কালাম
+- আনোয়ার
+- লিজা
+- আরিয়ান
+- নিল আকাশ
+- পাটোয়ারী
+- বলে
+- অপ্সরী
+- পাগলা
+- তোমার জন্য
+- কনা
+- রানি
+- ঠাকুর
+- জসিম
+- তানভীর
+- হিমেল
+- পাকি
+- বিলাস
+- মেহেদী
+- রাব্বী
+- গোলাম
+- দোয়া
+- বাবলু
+- ঢেউ
+- ফকির
+- জুই
+- বেবসা
+- হামিদ
+- ভূইয়া
+- জামাই
+- বাপ্পি
+- প্রহরী
+- তামিম
+- জিহাদ
+- ইসমাইল
+- সুখ পাখি
+- তিশা
+- মোন
+- বিলাসী
+- চৌধুরি
+- সাজু
+- জিসান
+- সম্রাট
+- বনিক
+- ফেনী
+- সিলেট
+- প্রান্তর
+- স্মৃতি
+- কর্মকার
+- মিষ্টি হাসি
+- রাজিব
+- চোখ
+- কণা
+- আল আমিন
+- আখি
+- হীন
+- আলমগীর
+- অন্তর
+- আহসান
+- শাহরিয়ার
+- খোর
+- তানহা
+- কষ্টের
+- গুরু
+- হুসেন
+- হানিফ
+- ইভা
+- জাকির
+- সেই
+- লাল গোলাপ
+- মার
+- আকাশের তারা
+- প্রধান
+- নিউজ
+- মাহবুব
+- কাজল
+- বাঁধন
+- কালো
+- রুপা
+- সময়
+- মাওয়া
+- ফাহাদ
+- আঁখি
+- কি
+- মুরাদ
+- নাজমুল
+- নাহার
+- ইয়াছিন
+- রাহাত
+- কাহিনী
+- জাবেদ
+- পাহাড়
+- অধরা
+- ইউসুফ
+- সিদ্দিক
+- মালা
+- তমা
+- রফিক
+- শাহ
+- পালক
+- দিশারী
+- অবুজ মন
+- ইব্রাহিম
+- চাকরী
+- রিমন
+- মাহামুদ
+- অনু
+- পুরুষ
+- বান্দা
+- ইয়াসমিন
+- মিয়াজী
+- হেলাল
+- সাদিয়া
+- রকি
+- বস
+- জামাল
+- আধার
+- আত্মা
+- মুনতাহা
+- আসিফ
+- বেকার
+- স্বপন
+- দ্বীপ
+- রুদ্র
+- রাণী
+- সুমাইয়া
+- প্রতিক
+- আহাদ
+- পোকা
+- তুমি আমার
+- সংঘ
+- বাবুল
+- তাহের
+- মেলা
+- আফরোজ
+- আকবর
+- নুপুর
+- ম্যান
+- মিঠু
+- মারিয়া
+- পরিষদ
+- সিদ্দিকী
+- টিপু
+- প্রান্ত
+- কাদের
+- নিঝুম
+- হাউজ
+- পপি
+- মোস্তফা
+- হারুন
+- আহম্মদ
+- ঢাকা
+- ইতি
+- ভৌমিক
+- আহমাদ
+- মিমি
+- মুন্নি
+- জিয়া
+- অপেক্ষা
+- তন্ময়
+- সিফাত
+- আলিফ
+- বাড়ি
+- রাজকুমারি
+- রিমা
+- মেম্বার
+- সাহেদ
+- সেখ
+- তাসনিম
+- মুক্তা
+- শারমিন
+- অচেনা
+- অালো
+- অাক্তার
+- কার
+- যুবলীগ
+- আসাদ
+- বাজার
+- জাহেদ
+- বেলাল
+- মিথিলা
+- চিঠি
+- অাহমেদ
+- আতিক
+- অচেনা মানুষ
+- ঘাস
+- ধ্রুবতারা
+- বেদনা
+- পাত্তি
+- শিক্ষক
+- লেখক
+- লিমা
+- প্রতীক
+- ভেজা
+- সন্তান
+- কাজী
+- বিদ্যালয়
+- ছাএী
+- বাজ
+- ছাএলীগ
+- মনের মানুষ
+- শহর
+- শরিফ
+- ইলেকট্রনিক্স
+- বিপ্লব
+- ফাউন্ডেশন
+- মিনহাজ
+- আচল
+- আমি একা
+- অাহমদ
+- শিখা
+- নবাব
+- সমর্থক
+- ভুইয়া
+- ফরিদ
+- আকন্দ
+- বর্মন
+- শহিদ
+- বাপ্পী
+- কম্পিউটার
+- বুড়ি
+- মাহিন
+- হায়দার
+- সেই আমি
+- রে
+- চক্রবর্ত্তী
+- ফার্ম
+- ধনু
+- বন্ধন
+- ছাএদল
+- সিরাজ
+- সালমান
+- যাত্রী
+- শিহাব
+- নাজিম
+- দেখা
+- ফাতেমা
+- নাইম
+- শ্রাবণ
+- অভ্র
+- শামিম
+- হতে চাই
+- আবেদীন
+- অরণ্য
+- লিমন
+- পাটওয়ারী
+- তামান্না
+- খলিল
+- প্রথিক
+- শেষ
+- ভালো বাসা
+- করি
+- সামি
+- সুখ
+- অামি
+- উদদীন
+- সালাম
+- সাকিল
+- আজম
+- ছেলেটা
+- আড়ালে
+- রাজ্য
+- গাজি
+- হারা
+- লাশ
+- বড় একা
+- বেপারি
+- মন আমার
+- ইমু
+- নজরুল
+- মারমা
+- বাধন
+- চাকুরী
+- রুমি
+- টিটু
+- মান্নান
+- সন্ধা
+- নুসরাত
+- কাশেম
+- বাসা
+- দিগন্ত
+- কর
+- মিশু
+- হাবীব
+- দুলাল
+- হিরো
+- পৃথীবি
+- রাতের তারা
+- কাইয়ুম
+- মোরশেদ
+- জুঁই
+- হোছাইন
+- মোঃ
+- খারাপ
+- মিষ্টি মেয়ে
+- লাইফ
+- মাস্টার
+- মুখ
+- পুত্র
+- শর্মা
+- মণি
+- নীল পরী
+- পায়েল
+- শিমু
+- নিহা
+- ছবি
+- সব
+- শেষ পাতা
+- সুইটি
+- জালাল
+- টেইলার্স
+- সংবাদ
+- রাজ্জাক
+- বাতাস
+- বলছি
+- পোকার
+- পিয়াস
+- দাদা
+- আল মামুন
+- নিপা
+- মানবী
+- শয়তান
+- মতো
+- মাদ্রাসা
+- শব্দ
+- জহির
+- সেতু
+- নাছির
+- চৌধরী
+- হালিম
+- কুমারি
+- আল-আমিন
+- অচেনা পাখি
+- স্পর্শ
+- ইব্রাহীম
+- চিল
+- চন্দ
+- এক্সপ্রেস
+- প্রিন্স
+- সাইফ
+- বর্ষা
+- হাবিবা
+- শিপন
+- দেব নাথ
+- ষ্টোর
+- বাহার
+- মিডিয়া
+- ওয়াহিদ
+- বন্দু
+- আলামিন
+- তোকে
+- অপরাধী
+- রতন
+- তোমাকে চাই
+- রাছেল
+- আরফাত
+- ভক্ত
+- বিল্লাহ
+- রাতুল
+- শোভন
+- নীরব
+- সিনহা
+- কন্ঠ
+- কাউছার
+- জামিল
+- ট্রেডার্স
+- সমুদ্র
+- কাজ
+- প্রাথমিক বিদ্যালয়
+- অনন্যা
+- তপু
+- বাইরে
+- জাফর
+- সমর্থক গোষ্ঠী
+- মেঘ বালিকা
+- শুধু তুমি
+- আখতার
+- জাহাঙ্গীর
+- পরশ
+- চেয়েছি তোমায়
+- কাসেম
+- সাদ্দাম
+- ছেলে আমি
+- শ্রাবন
+- চাঙমা
+- সাজিদ
+- শূন্য
+- কৃষ্ণ
+- তাবাসসুম
+- রিমি
+- হাকিম
+- মির্জা
+- সেই তুমি
+- মত
+- দিদার
+- যুবদল
+- মাষ্টার
+- আবিদ
+- সাদিক
+- স্কুল
+- সায়েম
+- শাহ্
+- বাদল
+- খা
+- গনি
+- ওয়ালা
+- দীপ
+- আশরাফ
+- ইমতিয়াজ
+- ধ্রুব
+- মিষ্টি
+- সাজ্জাদ
+- আবদুল্লাহ
+- অধ্যায়
+- রাহুল
+- কঠিন
+- হাচান
+- নিলাঞ্জনা
+- রাজন
+- কম
+- তিথি
+- মিত্র
+- চাঁদনি
+- রঙ
+- কামরুল
+- জেরিন
+- মাছুম
+- মুন্সী
+- জলিল
+- আদি
+- সিংহ
+- মিষ্টি কথা
+- তানিম
+- ইলিয়াছ
+- সেই ছেলেটি
+- পিয়া
+- ভট্টাচার্য্য
+- লাল
+- অজানা
+- স্বাধীন
+- ভোর
+- রয়
+- জানালা
+- সুমা
+- অালম
+- মাহফুজ
+- শেষে
+- চায়
+- কুন্ডু
+- অশ্রু
+- আবেদিন
+- চন্দ্র
+- জান পাখি
+- বার্তা
+- নবী
+- সেক
+- বেয়াদব
+- বালুচর
+- সুন্দর
+- জাল
+- কোকিল
+- অনামিকা
+- হিটলার
+- সমীকরণ
+- রোদ্দুর
+- নিশাত
+- রাহিম
+- আমান
+- শেক
+- কস্ট
+- সাইদ
+- ওসমান
+- যুদ্ধ
+- মহসিন
+- ডাক
+- জাকারিয়া
+- ওমর
+- শাহজাহান
+- মুহাম্মদ
+- জারা
+- হান্নান
+- হাফিজ
+- দেলোয়ার
+- মেঘা
+- আকরাম
+- একজন
+- রোমান
+- পারভীন
+- রংবাজ
+- রশীদ
+- মাহিম
+- পতি
+- অামার
+- সওদাগর
+- শুরু
+- রাএি
+- সুর
+- ফারহান
+- পারফেক্ট
+- নিরবে
+- হাতিয়া
+- জয়নাল
+- বর
+- খোজে
+- আকন
+- ভুঁইয়া
+- প্রিয়
+- লাভ
+- দেবী
+- সাদ
+- চট্টগ্রাম
+- অরন্য
+- বেইমান
+- মেয়েটি
+- সংগঠন
+- আর
+- রব
+- রাহি
+- চাদঁ
+- রমজান
+- খোকা
+- ফিরোজ
+- বৈদ্য
+- দও
+- সীমান্ত
+- নক্ষত্র
+- আমীন
+- নাদিয়া
+- ইরা
+- সাত রং
+- চাকুরি
+- খেলা হবে
+- রবিউল
+- অভিমান
+- মাদরাসা
+- জন
+- ধারা
+- কাওছার
+- আলিম
+- ভালো
+- আমার জান
+- মাটি
+- হিয়া
+- আবেগ
+- উজ্জ্বল
+- ঐশী
+- শাহেদ
+- কেয়া
+- ফারিহা
+- পতিক
+- আদর
+- দিপু
+- বাশার
+- পুলা
+- গৃহিণী
+- মুন্সি
+- আম্মু
+- গ্রুপ
+- কবীর
+- উদিন
+- অধিকারী
+- বিথী
+- পরিবার
+- অনি
+- আয়না
+- পাশে
+- দৃষ্টি
+- নন্দী
+- আহাম্মদ
+- মো
+- পাসওয়ার্ড
+- সিমা
+- হারামি
+- ফারজানা
+- মান
+- ডট কম
+- অহংকার
+- কাদির
+- সেই ছেলে
+- ফরাজী
+- সংগ্রাম
+- ল্যাম্পপোস্ট
+- অয়ন
+- শান্তা
+- চোধুরী
+- কালেকশন
+- হুদা
+- এরশাদ
+- অন্ধকার
+- দুষ্টু ছেলে
+- মিজি
+- অপূর্ব
+- কলেজ
+- তালহা
+- সালমা
+- অমিত
+- টু
+- মিন্টু
+- খামার
+- রাইসা
+- অতিথী
+- কালো মেঘ
+- তৌহিদ
+- বেপসা
+- ইরফান
+- আওয়ামীলীগ
+- গান
+- সৃতি
+- ইউনিয়ন
+- মোহন
+- ইমাম
+- নীল পরি
+- খোঁজে
+- কষ্টের জীবন
+- শফিক
+- ভেলা
+- ছাত্রী
+- অপরিচিতা
+- আবীর
+- আকাঁশ
+- মালেক
+- কেউ
+- কাশফুল
+- তৃষা
+- টুটুল
+- আরা
+- সুফিয়ান
+- মি
+- বকুল
+- নিশান
+- জুবায়ের
+- পলক
+- ভাতিজা
+- পিংকি
+- বয়ফ্রেন্ড
+- ব্যবসায়ী
+- জ্যোতি
+- মহিন
+- ডন
+- ভুবন
+- তাজ
+- লোক
+- আয়াত
+- হাসিব
+- কিলার
+- নারী
+- রাজীব
+- দিলাম
+- মহল
+- সাইফুল ইসলাম
+- চাঁদের আলো
+- মিতা
+- হামজা
+- কই
+- পাতি
+- আনজুম
+- লাগে
+- তানিশা
+- মিলি
+- শিলা
+- লোকমান
+- জোবায়ের
+- ছোট ছেলে
+- নিজাম
+- পুরা
+- লেখা
+- মোহনা
+- হিমালয়
+- তনু
+- সপ্রাবি
+- সানজিদা
+- মজিদ
+- অভিমানী
+- নাদিম
+- আলাউদ্দিন
+- আজিম
+- ইউনুছ
+- সিদ্দিকা
+- কান
+- দুষ্ট ছেলে
+- চৌধূরী
+- সমাজ
+- ডাইরি
+- অাকতার
+- মানুস
+- মতিন
+- আনিকা
+- ভোরের আলো
+- বসাক
+- কল্পনা
+- রুমা
+- অমি
+- সার্ভিস
+- পানি
+- একাডেমী
+- স্টোর
+- বিএনপি
+- লাইন
+- নায়ক
+- নিলিমা
+- মাঝে
+- সেলার
+- বণিক
+- একা আমি
+- ছোটন
+- পাগলামি
+- জালা
+- সিহাব
+- পাভেল
+- ইফতি
+- হাসনাত
+- ডায়েরী
+- কোথায়
+- অালী
+- পরান
+- স্পন্দন
+- কপাল
+- টম
+- বাতি
+- শিশু
+- সাহিন
+- সামাদ
+- যুবক
+- য়
+- পাপড়ি
+- আগুন
+- এনাম
+- জয়া
+- ইভান
+- পড়ি
+- চাদ
+- নীর
+- মিষ্টি মন
+- সূত্রধর
+- কিবরিয়া
+- ফরিং
+- পাপ্পু
+- অর্ক
+- আছে
+- মুনি
+- বাপ
+- পথচলা
+- ইমা
+- নেশা
+- খুশি
+- বাহিরে
+- বিন
+- লীগ
+- বিডি
+- আদিবা
+- হিরা
+- সাদী
+- আমির
+- ইলেকট্রিক
+- ছিল
+- চাদনী
+- উদিদন
+- সন্দ্বীপ
+- কক্সবাজার
+- টিভি
+- সামিয়া
+- সেনা
+- বাই
+- ফার্নিচার
+- ফুয়া
+- পাখিঁ
+- মোললা
+- জুনাইদ
+- চোর
+- খাদিজা
+- এমরান
+- সুইট
+- আউয়াল
+- প্রবাসী

@@ -1,3 +1,4 @@
+---
 source: dataset
 firstnames_male:
 - Paulo
@@ -924,7 +925,6 @@ firstnames_male:
 - Felício
 - Carlos Domingos
 - João Lourenço
-- سيدي
 - Necas
 - Olímpio
 - João Pereira
@@ -1346,7 +1346,6 @@ firstnames_male:
 - Pausado
 - Nelson Dos Santos
 - Manuel Jorge
-- سيدي محمد
 - Pelagio
 - Precioso
 - Carlos Da Costa
@@ -1500,6 +1499,8 @@ firstnames_male:
 - Nsangu
 - Nelson Antonio
 - Inocente
+- Guilhermino
+- José Neto
 firstnames_female:
 - Madalena
 - Neusa

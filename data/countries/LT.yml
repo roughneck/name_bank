@@ -1,3 +1,4 @@
+---
 source: dataset
 firstnames_male:
 - Mindaugas
@@ -234,7 +235,6 @@ firstnames_male:
 - Kęstas
 - Genadijus
 - Tik
-- Артур
 - Oskaras
 - Grazvydas
 - Elvinas
@@ -289,7 +289,6 @@ firstnames_male:
 - Juras
 - Tadeus
 - Denisas
-- Никита
 - Darijus
 - Ervinas
 - Gerardas
@@ -300,7 +299,6 @@ firstnames_male:
 - Imantas
 - Aironas
 - Motiejus
-- Геннадий
 - Edga
 - Klaudijus
 - Visvaldas
@@ -308,7 +306,6 @@ firstnames_male:
 - Vladislavas
 - Maksimas
 - Benediktas
-- Артём
 - Ponas
 - Adrijus
 - Romaldas
@@ -316,7 +313,6 @@ firstnames_male:
 - Saimonas
 - Patrikas
 - Serioga
-- Кирилл
 - Martinas
 - Adolfas
 - Emilijus
@@ -402,12 +398,10 @@ firstnames_male:
 - Romka
 - Neilas
 - Tadeuš
-- Анджей
 - Dovis
 - Juzef
 - Rojus
 - Donis
-- Эрик
 - Valdis
 - Arkadij
 - Nerius
@@ -423,7 +417,6 @@ firstnames_male:
 - Manvydas
 - Germanas
 - Prosto
-- Эдгар
 - Zidrunas
 - Bartas
 - Niekas
@@ -469,7 +462,6 @@ firstnames_male:
 - Arvis
 - Edvis
 - Czeslaw
-- Ян
 - Geda
 - Arsenij
 - Žydrius
@@ -494,7 +486,6 @@ firstnames_male:
 - Vytaras
 - Evald
 - Slavomir
-- Просто
 - Kolia
 - Kostia
 - Artas
@@ -529,8 +520,6 @@ firstnames_male:
 - Rubai
 - Armis
 - Raimund
-- Томас
-- Роберт
 - Koks
 - Tomis
 - Kristis
@@ -577,12 +566,10 @@ firstnames_male:
 - Kšyštof
 - Vilandas
 - Valmantas
-- Матвей
 - Volodia
 - Zose
 - Tonis
 - Mecislav
-- Альберт
 - Sviatoslav
 - Edvi
 - Rolis
@@ -631,16 +618,13 @@ firstnames_male:
 - Jegor
 - Olgerd
 - Ceslav
-- Серый
 - Darbas
 - Andzei
-- Эрнест
 - Genrich
 - Kauno
 - Veceslav
 - Benius
 - Vejas
-- Андрюха
 - Tadeush
 - Eigirdas
 - Marijanas
@@ -690,9 +674,6 @@ firstnames_male:
 - Dionizas
 - Endriu
 - Valodia
-- Даниель
-- Марек
-- Данила
 - Laime
 - Jefim
 - Danga
@@ -702,7 +683,6 @@ firstnames_male:
 - Vladek
 - Tomash
 - Jaras
-- Даник
 - Toks
 - Levas
 - Žil
@@ -794,7 +774,6 @@ firstnames_male:
 - Merunas
 - Aringas
 - Bosas
-- Марьян
 - Alvaras
 - Linvydas
 - Šarunas
@@ -809,11 +788,8 @@ firstnames_male:
 - Muzika
 - Mileta
 - Prosta
-- Дим
 - Alfas
 - Valio
-- Гоша
-- Доминик
 - Valdek
 - Daiwa
 - Marcius
@@ -824,12 +800,10 @@ firstnames_male:
 - Gennadij
 - Yurij
 - Lešek
-- Виталя
 - Mikolas
 - Dzon
 - Januš
 - Mečislav
-- Даниэль
 - Aliaksei
 - Matvej
 - Artsiom
@@ -837,21 +811,13 @@ firstnames_male:
 - Aivis
 - Aurijus
 - Kaimo
-- Эдвин
-- Тёма
-- Иосиф
-- Это
-- Пашка
 - Antonij
 - Elijas
 - Krzys
-- Гарри
 - Medas
 - Skaidrius
 - Rimukas
 - Pranciskus
-- Улугбек
-- Ва
 - Vaclavas
 - Saulis
 - Sporto
@@ -880,7 +846,6 @@ firstnames_male:
 - Gailius
 - Ricerdas
 - Juozukas
-- Рышард
 - Statybos
 - Grazvidas
 - Seniukas
@@ -976,14 +941,12 @@ firstnames_male:
 - Svajus
 - Zygintas
 - Netikras
-- Вацлав
 - Naktinis
 - Elegijus
 - Valiukas
 - Kalėdų
 - Pastoliai
 - Statyba
-- Абра
 - Zigfridas
 - Astute
 - Mikalojus
@@ -1021,25 +984,15 @@ firstnames_male:
 - Anže
 - Farxad
 - Sioma
-- Са
 - Misteris
-- Алек
 - Jurik
-- Да
-- Боря
 - Vovka
-- Ярик
-- Дейвид
-- Мариус
-- Ричард
-- Бе
 - Grozio
 - Dariu
 - Jgor
 - Gidas
 - Deiman
 - Bambos
-- Гия
 - Mironas
 - Aigars
 - Boleslav
@@ -1049,18 +1002,10 @@ firstnames_male:
 - Wladislaw
 - Sulumbek
 - Vaido
-- Вадик
-- Илюха
 - Demid
 - Vadimka
-- Ромуальд
-- Лёня
-- Арт
-- Витаутас
 - Sidas
 - Kontra
-- Генрих
-- Арнольд
 - Jevgen
 - Rimkus
 - Peteris
@@ -1068,7 +1013,6 @@ firstnames_male:
 - Modis
 - Saniok
 - Seimur
-- Каро
 - Vincento
 - Filipas
 - Vilis
@@ -1083,17 +1027,8 @@ firstnames_male:
 - Lopas
 - Jonelis
 - Vyras
-- Андрюс
 - Endrius
-- Рус
 - Zhassulan
-- Санек
-- Сам
-- Ар
-- Женька
-- Пол
-- Женёк
-- Билл
 - Vitalka
 - Lukosius
 - Langai
@@ -1111,10 +1046,8 @@ firstnames_male:
 - Tinkavimo
 - Mingaudas
 - Milanas
-- Вальдемар
 - Slavomiras
 - Andzhey
-- Лукас
 - Oridijus
 - Olegas Ir Zoja
 - Viltautas
@@ -1146,7 +1079,6 @@ firstnames_male:
 - Marukas
 - Giedrelis
 - Žalias
-- Дарюс
 - Andžėj
 - Orkas
 - Itanas
@@ -1156,15 +1088,11 @@ firstnames_male:
 - Gelminas
 - Vairas
 - Andrius Ir
-- Звыфвжахы
 - Otilijus
 - Reinaldas
 - Eugenij
 - Askoldas
-- Саулюс
 - Vytalis
-- Ричка
-- Ернест
 - Valdukas
 - Ltu
 - Dzūkas
@@ -1172,7 +1100,6 @@ firstnames_male:
 - Telsiu
 - Vejo
 - Daugilas
-- Абонент
 - Nerdingas
 - Direktorius
 - Slavas
@@ -1222,7 +1149,6 @@ firstnames_male:
 - Edmontas
 - Rolke
 - Siuntos
-- Казимир
 - Pastoliu
 - Žilva
 - Dilanas
@@ -1232,10 +1158,8 @@ firstnames_male:
 - Dinges
 - Vilgirdas
 - Santechnikas
-- Ёрон
 - Witalijus
 - Žigimantas
-- Виталь
 - Tarkim
 - Varde
 - Pikc
@@ -1352,7 +1276,6 @@ firstnames_male:
 - Edmis
 - Kempiniukas
 - Anelius
-- Ауримас
 - Apdaila
 - Bartosh
 - Deivinas
@@ -1441,7 +1364,6 @@ firstnames_male:
 - Arseno
 - Tuscia
 - Tvoros
-- Жень
 - Bycka
 - Dariux
 - Gintarinis
@@ -1472,7 +1394,6 @@ firstnames_male:
 - Atsiprasau
 - Dagnius
 - Baltijos
-- Рафал
 - Mikė
 - Rasimas
 - Vilintas
@@ -1491,15 +1412,95 @@ firstnames_male:
 - Kaip
 - Mirvydas
 - Egidi
-- Габриэль
 - Zigmuntas
 - Vitkauskas
 - Maksik
-- Андрюша
 - Ingas
 - Ričerdas
 - Aitvaras
 - Namų
+- Ipolitas
+- Vandenis
+- Andžejus
+- Gendrikas
+- Mečislavas
+- Gerulis
+- Gracijus
+- Vigilijus
+- Ceslavas
+- Suvirintojas
+- Erwinas
+- Vaclov
+- Dimonas
+- Regina Ir Ričardas
+- Pilypas
+- Stogu
+- Aruns
+- Rukas
+- Aurimantas
+- Antonijus
+- Vidmis
+- Gintsras
+- Mindaug
+- Likimo
+- Minotauras
+- Vasilij Lilija
+- Burundukas
+- Ivaras
+- Vyt
+- Ratlankiai
+- Kazius
+- Vovik
+- Gustautas
+- Vitautas
+- Aidaras
+- Lu Kas
+- Nortautas
+- Girius
+- Laimon
+- Garijus
+- Mintaras
+- Reklamos
+- Jakovas
+- Gidmantas
+- Juodasis
+- Rinoldas
+- Sikstas
+- Aleksndr
+- Gendra
+- Stalius
+- Vytelis
+- Deimanto
+- Rimontas
+- Balciunas
+- Egidijius
+- Fobeka
+- Elmantas
+- Markizas
+- Zigmont
+- Mantrimas
+- Kastytis Ir
+- Vasaris
+- Gerasis
+- Malvydas
+- Vidutis
+- Langu
+- Amial
+- Fieri
+- Bruklin
+- Rudens
+- Demjan
+- Ajris
+- Klevo
+- Kajot
+- Etno
+- Backa
+- Kri Sti
+- Mushegh
+- Dimic
+- Vadas
+- Scharf
+- Firdovsi
 firstnames_female:
 - Kristina
 - Rasa
@@ -1774,7 +1775,6 @@ firstnames_female:
 - Bronė
 - Jonė
 - Bernadeta
-- Жанна
 - Rasma
 - Anžela
 - Sarune
@@ -1836,9 +1836,6 @@ firstnames_female:
 - Aurėja
 - Skirma
 - Vladislava
-- Настя
-- Вика
-- Ирена
 - Sondra
 - Valė
 - Gintautė
@@ -1847,7 +1844,6 @@ firstnames_female:
 - Rimgailė
 - Igne
 - Snežana
-- Даша
 - Jelizaveta
 - Ringailė
 - Airina
@@ -1858,7 +1854,6 @@ firstnames_female:
 - Nemira
 - Eglute
 - Henrika
-- Анжелика
 - Deima
 - Auste
 - Algina
@@ -1896,7 +1891,6 @@ firstnames_female:
 - Adrijana
 - Anastazija
 - Aelita
-- Раиса
 - Darka
 - Dileta
 - Grita
@@ -1917,8 +1911,6 @@ firstnames_female:
 - Vijoleta
 - Biruta
 - Glorija
-- Янина
-- Регина
 - Aud
 - Eurika
 - Vilmante
@@ -1964,7 +1956,6 @@ firstnames_female:
 - Renalda
 - Erlanda
 - Gertruda
-- Милана
 - Ricka
 - Gaila
 - Meile
@@ -1999,8 +1990,6 @@ firstnames_female:
 - Areta
 - Dzeneta
 - Nerka
-- Арина
-- Эвелина
 - Solvita
 - Vaclava
 - Vigilija
@@ -2036,9 +2025,7 @@ firstnames_female:
 - Vyte
 - Aurita
 - Vyda
-- Эмилия
 - Eima
-- Тереса
 - Aniuta
 - Evgenija
 - Katryna
@@ -2070,8 +2057,6 @@ firstnames_female:
 - Donalda
 - Almeda
 - Pija
-- Виолета
-- Инесса
 - Rozalija
 - Daiga
 - Deira
@@ -2082,7 +2067,6 @@ firstnames_female:
 - Almis
 - Jurita
 - Zibute
-- Агата
 - Nuoma
 - Daivute
 - Rutele
@@ -2135,7 +2119,6 @@ firstnames_female:
 - Eridana
 - Eslanda
 - Jolka
-- Лаура
 - Miroslawa
 - Benedikta
 - Kazimiera
@@ -2154,7 +2137,6 @@ firstnames_female:
 - Agnieska
 - Saulena
 - Soneta
-- Иоланта
 - Domilė
 - Ausryte
 - Airinė
@@ -2178,7 +2160,6 @@ firstnames_female:
 - Lilė
 - Rūtelė
 - Austra
-- Данута
 - Lina Ir
 - Aldutė
 - Germantė
@@ -2217,20 +2198,13 @@ firstnames_female:
 - Kiesa
 - Dite
 - Miša
-- Элеонора
-- Рима
 - Elada
-- Рената
-- Грета
-- Божена
 - Karole
 - Agnis
 - Šarlota
 - Žanna
 - Silvestra
-- Эва
 - Vilanda
-- Гражина
 - Liova
 - Leticija
 - Kunigunda
@@ -2330,13 +2304,7 @@ firstnames_female:
 - Arianda
 - Zulfija
 - Amalija
-- Ина
 - Aleksandrina
-- Жанета
-- Дария
-- Клавдия
-- Ви
-- Дарка
 - Junona
 - Ronalda
 - Aurys
@@ -2347,18 +2315,13 @@ firstnames_female:
 - Klava
 - Sinilga
 - Vineta
-- Ядвига
 - Daša
 - Kristinka
 - Gajane
 - Jurina
 - Sofja
-- Виталия
 - Galija
-- Эрика
-- Эве
 - Džesika
-- Доминика
 - Sidonija
 - Živi
 - Elvija
@@ -2367,7 +2330,6 @@ firstnames_female:
 - Airinga
 - Abigaile
 - Nailia
-- Люция
 - Taniusa
 - Vizažistė
 - Sveiki
@@ -2416,7 +2378,6 @@ firstnames_female:
 - Simantė
 - Nepažysti
 - Gonorata
-- Алдона
 - Almute
 - Fotografė
 - Atene
@@ -2516,7 +2477,6 @@ firstnames_female:
 - Darelis
 - Jolantele
 - Verutė
-- Ингрида
 - Mėlynakė
 - Vilune
 - Masažai
@@ -2541,24 +2501,14 @@ firstnames_female:
 - Milga
 - Kristijana
 - Czesia
-- Мишель
-- Фаина
-- Жана
-- Адриана
-- Розалия
-- Корнелия
-- Амелия
 - Liusi
 - Anelija
-- Ала
-- Анджелина
 - Simonna
 - Ivita
 - Vidita
 - Ingra
 - Ingrita
 - Dvi
-- Мелания
 - Vikt
 - Andreika
 - Domka
@@ -2571,17 +2521,11 @@ firstnames_female:
 - Slawka
 - Liud
 - Aleftina
-- Тая
-- Настасья
 - Alfija
-- Гелена
 - Kristins
-- Викуля
-- Серафима
 - Leksa
 - Henrita
 - Armenuhi
-- Зита
 - Iolanta
 - Cecilija
 - Kristina Tina
@@ -2592,7 +2536,6 @@ firstnames_female:
 - Angelas
 - Ievute
 - Maistas
-- Ксю
 - Francas
 - Astutė
 - Edilija
@@ -2699,7 +2642,6 @@ firstnames_female:
 - Ridvita
 - Godute
 - Gerinta
-- Агнешка
 - Žydruolė
 - Uoga
 - Vygantė
@@ -2719,7 +2661,6 @@ firstnames_female:
 - Jurena
 - Iromena
 - Všį
-- Герда
 - Anzelita
 - Emanas
 - Audrona
@@ -2830,7 +2771,6 @@ firstnames_female:
 - Zaidimu
 - Rimvilė
 - Drugelio
-- Эльжбета
 - Naminiai
 - Džiugita
 - Moteris
@@ -2857,7 +2797,6 @@ firstnames_female:
 - Laineta
 - Vainora
 - Abigailė
-- Леонтина
 - Prisėsk
 - Erestida
 - Norkutė
@@ -2904,7 +2843,6 @@ firstnames_female:
 - Andriuska
 - Rėda
 - Sniegena
-- Авиталь
 - Jogintė
 - Retai
 - Loretukas
@@ -2943,7 +2881,6 @@ firstnames_female:
 - Liūtų
 - Banguole
 - Ramilia
-- Оль
 - Medžio
 - Meide
 - Marė
@@ -2981,7 +2918,6 @@ firstnames_female:
 - Boružės
 - Akvila
 - Česia
-- Дорота
 - Šokiu Studija
 - Masazas
 - Liole
@@ -3001,6 +2937,71 @@ firstnames_female:
 - Ingida
 - Žilvija
 - Emilija Marija
+- Taresa
+- Puslapiukas
+- Studija
+- Irmanta
+- Tai As
+- Olese
+- Aukselis
+- Jomante
+- Jogile
+- Volia
+- Kretingos
+- Ritule
+- Jurginija
+- Zemyna
+- Julius Ir Gintarė
+- Vėjūna
+- Vanmoda
+- Liana-Saulius
+- Dangirute
+- Ritis
+- Juljana
+- Livja
+- Grida
+- Vinjola
+- Egesta
+- Oliona
+- Algida
+- Erneta
+- Zhenka
+- Itena
+- Zigrida
+- Nahui
+- Enfermería
+- Terezija
+- Pavka
+- Anna-Marija
+- Anna Christine
+- Letife
+- Xanum
+- Ruhangiz
+- Nastinka
+- Tiph
+- Sevelina
+- Anrieta
+- Aleksandria
+- Maria-Luiza
+- Verginija
+- Liusy
+- Silwia
+- Gracilda
+- Izolina
+- Linei
+- Rivalda
+- Regyna
+- Dzemile
+- Victoria Andrea
+- Makyta
+- Nelly Alejandra
+- Foba
+- Agnesse
+- Naudis
+- Adela María
+- Evrika
+- Oskana
+- Snezka
 lastnames:
 - Nesvarbu
 - Kazlauskas

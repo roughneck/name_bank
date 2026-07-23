@@ -1,3 +1,4 @@
+---
 source: dataset
 firstnames_male:
 - Mohd
@@ -1221,7 +1222,6 @@ firstnames_male:
 - Ijat
 - Miey
 - Khairul Anuar
-- মোঃ
 - Pk
 - Mansur
 - New
@@ -1500,6 +1500,7 @@ firstnames_male:
 - Rasyid
 - Irsyad
 - Fandi
+- Semut
 firstnames_female:
 - Nur
 - Siti
@@ -2703,7 +2704,6 @@ firstnames_female:
 - Kakak
 - Jesslyn
 - Saudah
-- 美玲
 - Jeslyn
 - Suziana
 - Rohaiza
@@ -2967,7 +2967,6 @@ firstnames_female:
 - Siew Chin
 - Fazidah
 - Caryn
-- 秀珍
 - Hasnita
 - Ayue
 - Kasthuri
@@ -3001,6 +3000,8 @@ firstnames_female:
 - Lyza
 - Rohimah
 - Sopiah
+- Zatul
+- Ifah
 lastnames:
 - Tan
 - Lee

@@ -1,3 +1,4 @@
+---
 source: dataset
 firstnames_male:
 - Nikola
@@ -47,7 +48,6 @@ firstnames_male:
 - Rade
 - Milorad
 - Dalibor
-- Никола
 - Saša
 - Radovan
 - Dušan
@@ -59,7 +59,6 @@ firstnames_male:
 - Ivica
 - Mihailo
 - Slavko
-- Марко
 - Dimitrije
 - Milovan
 - Mihajlo
@@ -69,19 +68,15 @@ firstnames_male:
 - Jovica
 - Ranko
 - Andrej
-- Милош
 - Vasilije
 - Vlado
 - Rajko
-- Александар
 - Zlatko
-- Стефан
 - Ljubisa
 - Željko
 - Strahinja
 - Sava
 - Zarko
-- Немања
 - Tomislav
 - Janko
 - Vesko
@@ -105,7 +100,6 @@ firstnames_male:
 - Drazen
 - Uroš
 - Radomir
-- Милан
 - Bane
 - Dragoslav
 - Milutin
@@ -113,16 +107,13 @@ firstnames_male:
 - Balsa
 - Veselin
 - Vojislav
-- Душан
 - Dragoljub
 - Aldin
 - Safet
 - Vukasin
-- Петар
 - Kristijan
 - Adis
 - Aco
-- Филип
 - Damjan
 - Pero
 - Esad
@@ -130,12 +121,10 @@ firstnames_male:
 - Misko
 - Dragisa
 - Djuro
-- Лука
 - Srecko
 - Ljubo
 - Mico
 - Novak
-- Дејан
 - Srđan
 - Aca
 - Gojko
@@ -148,25 +137,20 @@ firstnames_male:
 - Elvir
 - Velibor
 - Stanko
-- Драган
 - Radoslav
 - Eldin
 - Slavoljub
 - Bato
 - Dragomir
 - Sreten
-- Лазар
 - Stojan
 - Asmir
 - Velimir
 - Vojin
-- Урош
 - Siniša
-- Ђорђе
 - Ermin
 - Bozo
 - Djole
-- Јован
 - Blazo
 - Nedzad
 - Tihomir
@@ -183,10 +167,8 @@ firstnames_male:
 - Miroljub
 - Vasko
 - Svetislav
-- Зоран
 - Muamer
 - Radoje
-- Горан
 - Marinko
 - Duško
 - Mikica
@@ -195,18 +177,14 @@ firstnames_male:
 - Žarko
 - Jugoslav
 - Cedomir
-- Ненад
 - Djordjije
 - Raso
 - Krsto
-- Игор
-- Младен
 - Alija
 - Stevo
 - Milomir
 - Zika
 - Svetozar
-- Бојан
 - Vukašin
 - Miladin
 - Mileta
@@ -224,7 +202,6 @@ firstnames_male:
 - Radivoje
 - Blagoje
 - Ljubiša
-- Предраг
 - Izet
 - Perica
 - Nedeljko
@@ -234,13 +211,10 @@ firstnames_male:
 - Slaven
 - Alexandar
 - Miomir
-- Срђан
-- Дарко
 - Radisa
 - Vlatko
 - Boro
 - Rastko
-- Огњен
 - Boki
 - Dzenan
 - Slaviša
@@ -254,7 +228,6 @@ firstnames_male:
 - Gordan
 - Djura
 - Kupujem
-- Данило
 - Adisa
 - Nusret
 - Sanel
@@ -266,8 +239,6 @@ firstnames_male:
 - Arijan
 - Ernad
 - Radojica
-- Слободан
-- Жељко
 - Mujo
 - Elvedin
 - Miloje
@@ -287,15 +258,9 @@ firstnames_male:
 - Milisav
 - Ninoslav
 - Rados
-- Михаило
-- Вук
-- Вељко
-- Димитрије
 - Spasoje
 - Milun
 - Dobrivoje
-- Давид
-- Страхиња
 - Rijad
 - Dzemal
 - Zoka
@@ -310,7 +275,6 @@ firstnames_male:
 - Milinko
 - Dejo
 - Arsenije
-- Павле
 - Fahrudin
 - Vlastimir
 - Steva
@@ -319,30 +283,22 @@ firstnames_male:
 - Sveto
 - Erdan
 - Gavrilo
-- Небојша
 - Jakov
 - Elmedin
 - Nedjo
 - Mersudin
 - Vasa
-- Мирослав
 - Paja
 - Montenegro
 - Zijad
 - Nikolic
 - Andjelko
 - Momčilo
-- Илија
-- Стеван
 - Hajro
 - Esko
 - Vitomir
 - Mićo
-- Мирко
-- Бранислав
-- Владан
 - Ugljesa
-- Вукашин
 - Servis
 - Valdet
 - Muzafer
@@ -355,8 +311,6 @@ firstnames_male:
 - Veroljub
 - Djoko
 - Živko
-- Андрија
-- Михајло
 - Ernes
 - Erko
 - Jovanovic
@@ -378,9 +332,7 @@ firstnames_male:
 - Srboljub
 - Rasko
 - Otkup
-- Миљан
 - Blagota
-- Радован
 - Mersad
 - Avdo
 - Petrovic
@@ -399,7 +351,6 @@ firstnames_male:
 - Radmilo
 - Ljubodrag
 - Vukan
-- Бранко
 - Bucko
 - Aljosa
 - Laza
@@ -417,10 +368,6 @@ firstnames_male:
 - Milojko
 - Nedjeljko
 - Caslav
-- Синиша
-- Балша
-- Матија
-- Матеја
 - Jakup
 - Bole
 - Mirzet
@@ -429,15 +376,12 @@ firstnames_male:
 - Njegos
 - Radisav
 - Gradimir
-- Новак
 - Božo
 - Veljo
 - Borisav
 - Vladeta
-- Бошко
 - Vukota
 - Slagalica
-- Раде
 - Ceda
 - Mirnes
 - Nikica
@@ -450,17 +394,14 @@ firstnames_male:
 - Radan
 - Antonije
 - Obren
-- Божидар
 - Miško
 - Niksa
 - Jaksa
 - Žika
-- Милорад
 - Rifko
 - Budva
 - Ignjat
 - Dzejlan
-- Василије
 - Hidajet
 - Adrijan
 - Muhedin
@@ -485,13 +426,11 @@ firstnames_male:
 - Blažo
 - Joco
 - Radule
-- Милован
 - Čedomir
 - Ratomir
 - Vujovic
 - Ajlan
 - Radoica
-- Кристијан
 - Mersid
 - Semin
 - Vuksan
@@ -501,7 +440,6 @@ firstnames_male:
 - Budo
 - Vujadin
 - Remzo
-- Данијел
 - Aleksandar Aca
 - Djurica
 - Volim
@@ -510,7 +448,6 @@ firstnames_male:
 - Senko
 - Predrag Pedja
 - Radoš
-- Далибор
 - Podgorica
 - Tripo
 - Vucko
@@ -541,20 +478,15 @@ firstnames_male:
 - Radivoj
 - Nerko
 - Muric
-- Радомир
-- Сашка
-- Сава
 - Batko
 - Fedja
 - Farko
 - Dmitar
 - Polovne
-- Миодраг
 - Mašan
 - Masan
 - Vukoman
 - Aleksandar Sasa
-- Милутин
 - Djokic
 - Leart
 - Zile
@@ -569,7 +501,6 @@ firstnames_male:
 - Nandor
 - Velja
 - Radislav
-- Веселин
 - Dzeko
 - Drakce
 - Enko
@@ -588,11 +519,8 @@ firstnames_male:
 - Ruzdija
 - Mićko
 - Dragoje
-- Стојан
 - Georgije
 - Allmir
-- Славиша
-- Андреј
 - Nikolla
 - Rinor
 - Nole
@@ -624,9 +552,6 @@ firstnames_male:
 - Neša
 - Mijodrag
 - Čedo
-- Здравко
-- Станко
-- Томислав
 - Ljuban
 - Janoš
 - Ozren
@@ -638,13 +563,10 @@ firstnames_male:
 - Backo
 - Batric
 - Scepan
-- Благоје
 - Radonjic
-- Срећко
 - Radoman
 - Labud
 - Bulatovic
-- Љубиша
 - Živojin
 - Djuradj
 - Ermedin
@@ -683,7 +605,6 @@ firstnames_male:
 - Lekic
 - Hazbo
 - Velizar
-- Светозар
 - Daco
 - Duca
 - Panto
@@ -698,25 +619,16 @@ firstnames_male:
 - Dobrivoj
 - Refko
 - Raško
-- Јовица
 - Fadilj
 - Skrijelj
 - Sefkija
-- Рајко
 - Radonjić
 - Svetolik
 - Mugosa
-- Крсто
-- Ранко
-- Жарко
 - Sabahko
 - Misala
 - Rešad
-- Дамјан
-- Митар
 - Adzovic
-- Растко
-- Николић
 - Mladja
 - Miljko
 - Jonuz
@@ -789,22 +701,14 @@ firstnames_male:
 - Aldijan
 - Popović
 - Hilmo
-- Новица
 - Despot
 - Mujko
 - Oglasi
 - Simeun
-- Момчило
 - Adrovic
 - Edzevid
-- Славко
-- Радош
 - Komnen
-- Радивоје
-- Ђоле
-- Драгиша
 - Matovic
-- Братислав
 - Perovic
 - Zarija
 - Niksic
@@ -812,17 +716,11 @@ firstnames_male:
 - Dzeki
 - Smjestaj
 - Zoric
-- Будимир
 - Jagos
 - Lazovic
 - Dženan
-- Пеђа
-- Момир
-- Марковић
 - Hajradin
 - Čeda
-- Андреја
-- Марјан
 - Hajran
 - Jeti
 - Miftar
@@ -881,10 +779,6 @@ firstnames_male:
 - Manojlo
 - Milojica
 - Rentacar
-- Драгомир
-- Веско
-- Коста
-- Данко
 - Ivko
 - Ljupce
 - Pantic
@@ -932,7 +826,6 @@ firstnames_male:
 - Hazbija
 - Mensud
 - Nenad Nesa
-- Вукан
 - Ljutvija
 - Zecevic
 - Bozina
@@ -941,10 +834,8 @@ firstnames_male:
 - Vuceta
 - Fajo
 - Nikodin
-- Мића
 - Kafana
 - Autoplac
-- Војин
 - Mirceta
 - Raicevic
 - Avdulj
@@ -952,17 +843,13 @@ firstnames_male:
 - Joksimovic
 - Sekule
 - Mirce
-- Дражен
 - Nikolica
 - Ulqin
 - Dubinsko Pranje
 - Miljo
 - Vukola
-- Војислав
 - Prevoz
 - Vukoje
-- Ђорђије
-- Бобан
 - Sefcet
 - Hitko
 - Banja
@@ -971,21 +858,14 @@ firstnames_male:
 - Poljoprivredno Gazdinstvo
 - Gligorije
 - Todorović
-- Бато
 - Bozovic
 - Trifun
-- Ивановић
-- Милић
 - Ada Bojana
-- Радосав
 - Sead Sejo
 - Miraš
 - Orkestar
-- Недељко
-- Слађан
 - Stanković
 - Nemanja Neca
-- Драгослав
 - Branislav Bane
 - Dobrosav
 - Aleksandar Sale
@@ -1047,7 +927,6 @@ firstnames_male:
 - Sadrija
 - Mijatovic
 - Tadic
-- Марио
 - Mišel
 - Grbic
 - Maksimovic
@@ -1066,17 +945,10 @@ firstnames_male:
 - Kombi
 - Natko
 - Dzevat
-- Дени
-- Владо
-- Бранимир
 - Djevdet
 - Merdin
-- Оги
 - Radul
-- Велимир
-- Миле
 - Desko
-- Бора
 - Mithad
 - Azren
 - Blendon
@@ -1125,7 +997,6 @@ firstnames_male:
 - Prirodni
 - Matijevic
 - Vozila
-- Саво
 - Cvijo
 - Apoteka
 - Dejan Danijela
@@ -1141,20 +1012,16 @@ firstnames_male:
 - Dragovic
 - Srdjo
 - Vlaznim
-- Давор
 - Bezimenko
 - Acko
 - Kuca
 - Minic
-- Томица
-- Мишко
 - Streljacki Klub
 - Zajo
 - Koča
 - Andjelic
 - Papovic
 - Košarkaški Klub
-- Радоје
 - Teretana
 - Cetkovic
 - Lekovic
@@ -1166,15 +1033,12 @@ firstnames_male:
 - Durio
 - Lakic
 - Stomatološka Ordinacija
-- Гојко
 - Vukotic
-- Спасоје
 - Tufo
 - Dragan Gagi
 - Gorčin
 - Gorcin
 - Vukajlo
-- Антоније
 - Neđeljko
 - Stan Na Dan
 - Vehbija
@@ -1193,9 +1057,7 @@ firstnames_male:
 - Meljko
 - Dzeno
 - Crna Gora
-- Маринко
 - Berane
-- Вукота
 - Sandzak
 - Vučeta
 - Velija
@@ -1207,19 +1069,13 @@ firstnames_male:
 - Fehmija
 - Dragan Gale
 - Bijelo
-- Свето
 - Sucko
-- Угљеша
-- Милија
 - Aljko
 - Vukicevic
 - Hivzo
 - Alsen
 - Sucro
 - Talicni
-- Бане
-- Ристо
-- Шћепан
 - Budislav
 - Mobilni
 - Subotic
@@ -1229,43 +1085,31 @@ firstnames_male:
 - Jevrem
 - Zoca
 - Esad Eso
-- Булатовић
 - Parketar
 - Veselinovic
 - Dzibo
-- Миливоје
 - Huzeir
-- Велибор
 - Zivot
-- Мило
 - Ribolov
-- Јанко
 - Dacić
 - Mušo
 - Trivun
 - Grujica
 - Slep Sluzba
 - Milanče
-- Часлав
-- Јовановић
 - Nihko
 - Arandjel
 - Lepomir
 - Milinkovic
 - Stupar
 - Miric
-- Љуба
-- Реља
 - Namestaj
 - Macura
 - Sofronije
-- Владица
 - Zivotije
-- Васић
 - Trifunovic
 - Konak
 - Ljubivoje
-- Обрад
 - Ognjanovic
 - Vajati
 - Mijailovic
@@ -1274,11 +1118,9 @@ firstnames_male:
 - Žikica
 - Lovacka Sekcija
 - Smiljkovic
-- Душко
 - Milutinovic
 - Cvetanovic
 - Milojkovic
-- Станковић
 - Gramoz
 - Rrok
 - Te Dua
@@ -1374,27 +1216,15 @@ firstnames_male:
 - Sukrija
 - Marko Maki
 - Sehi
-- Гога
-- Васо
 - Sibirski
 - Mevlid
 - Simke
 - Cekic
-- Тихомир
-- Златко
-- Драго
 - Donko
-- Златан
-- Борко
-- Мики
-- Ален
 - Radimir
-- Рашо
 - Nevzad
 - Zlatimir
-- Аки
 - Ninko
-- Боса
 - Voin
 - Faridin
 - Salmir
@@ -1427,7 +1257,6 @@ firstnames_male:
 - Betmen
 - Balaz
 - Vukomir
-- Дамир
 - Nuko
 - Grizli
 - Gricko
@@ -1500,6 +1329,178 @@ firstnames_male:
 - Dizel
 - Tafra
 - Ivanović
+- Sajko
+- Vučić
+- Femija
+- Majski
+- Janjic
+- Bakica
+- Dekorativni Kamen
+- Glavica
+- Vladimir Vlado
+- Genije
+- Goran Mirjana
+- Musić
+- Husejn
+- Pešić
+- Strucni
+- Ljulji
+- Cufo
+- Kobac
+- Sejfo
+- Jokso
+- Goran Dragana
+- Bratic
+- Autoskola
+- Dalaj
+- Dzemaludin
+- Ágoston
+- Almási
+- Jánosi
+- Advokat
+- Hanuma
+- Simovic
+- Cacciatore
+- Danilka
+- Kuc
+- Dervisevic
+- Hott
+- Kolic
+- Rafko
+- Gutic
+- Harko
+- Camic
+- Huki
+- Zoran Kiza
+- Stampa
+- Mioljub
+- Krstan
+- Cajo
+- Edzo
+- Zof
+- Druga
+- Mihailović
+- Kamion
+- Stanovi
+- Godži
+- Paunkovic
+- Hidroizolacija
+- Nikola M
+- Adzija
+- Adnan Elvisa
+- Horhe
+- Aparthotel
+- Omko
+- Artbeton
+- Božur
+- Glisic
+- Daniloo
+- Sobe Maja
+- Graviranje
+- Nlt
+- Elldin
+- Džemil
+- Gruica
+- Milicko
+- Nebojsa-Milica
+- Zeljka Ivan
+- Obuca
+- Radza
+- Beban
+- Izdavanje
+- Dejan M
+- Lakusic
+- Renome Nekretnine
+- Durutovic
+- Spasko
+- Jablan
+- Milorad Beli
+- Putnički
+- Andrija Andro
+- Zabjelo
+- Balsa Baki
+- Ljutvo
+- Apartmentsajan
+- Batica
+- Ramadan Dzeneta
+- Majstori
+- Dobrasin
+- Sanih
+- Vrelo
+- Baćko
+- Matematika
+- Mirčeta
+- Giljic
+- Beća
+- Bijelic
+- Ljaic
+- Nenad Mikica
+- Djukanovic
+- Šćepanović
+- Alternativa
+- Gaca
+- Dzavit
+- Tehno
+- Apartmani Dasic
+- Vučko
+- Domace
+- Rešat
+- Refadin
+- Vaterpolo
+- Losmi
+- Gajovic
+- Dalibor Bobo
+- Proizvodnja
+- Vukojevic
+- Kenad
+- Radunovic
+- Basrija
+- Radanovic
+- Gašo
+- Djacic
+- Spasojevic
+- Savić
+- Radosav-Raso
+- Hadzija
+- Prodavac
+- Candles B
+- Zivoin
+- Prca
+- Kurtanovic
+- Sekulić
+- Prefabrikovani
+- Vujos
+- Vidakovic
+- Miodrag Bato
+- Satovi
+- Bogić
+- Krcun
+- Marko Ana
+- Crnogorac
+- Punisa
+- Tepih
+- Erko Mera
+- Ferdijan
+- Pojraz
+- Mijajlo
+- Lovci
+- Moleraj
+- Dzemil Adelisa
+- Delontrans
+- Zecir
+- Knele
+- Stojanco
+- Edzevit
+- Ramovic
+- Demic
+- Zihnija
+- Mudri
+- Jovan Joco
+- Mulja
+- Šabović
+- Renta Car
+- Milorad Misko
+- Neboja
 firstnames_female:
 - Jelena
 - Marija
@@ -1569,9 +1570,7 @@ firstnames_female:
 - Lejla
 - Emilija
 - Danka
-- Милица
 - Ljilja
-- Јелена
 - Nikoleta
 - Goca
 - Ruzica
@@ -1581,15 +1580,12 @@ firstnames_female:
 - Milana
 - Anica
 - Dubravka
-- Јована
 - Milanka
 - Dajana
 - Maša
 - Milijana
 - Nevenka
-- Марија
 - Gorica
-- Ивана
 - Zeljka
 - Branislava
 - Minja
@@ -1597,14 +1593,11 @@ firstnames_female:
 - Nađa
 - Andjelka
 - Brankica
-- Алекса
-- Александра
 - Slađana
 - Ceca
 - Sladja
 - Daliborka
 - Julija
-- Катарина
 - Nadica
 - Amela
 - Olgica
@@ -1612,9 +1605,6 @@ firstnames_female:
 - Slobodanka
 - Ranka
 - Senka
-- Анђела
-- Тамара
-- Ана
 - Ljubinka
 - Suada
 - Ajla
@@ -1631,7 +1621,6 @@ firstnames_female:
 - Nermina
 - Stanka
 - Duska
-- Тијана
 - Mirsada
 - Sneza
 - Stana
@@ -1641,7 +1630,6 @@ firstnames_female:
 - Staša
 - Zorka
 - Vladana
-- Драгана
 - Apartmani
 - Slavka
 - Dobrila
@@ -1652,15 +1640,11 @@ firstnames_female:
 - Saska
 - Stasa
 - Željka
-- Теодора
 - Miona
-- Бојана
 - Hristina
-- Милена
 - Merima
 - Adrijana
 - Radojka
-- Невена
 - Nesa
 - Jasminka
 - Gabrijela
@@ -1679,7 +1663,6 @@ firstnames_female:
 - Kaca
 - Silvija
 - Smiljana
-- Маја
 - Ajsa
 - Itana
 - Desanka
@@ -1689,15 +1672,12 @@ firstnames_female:
 - Suncica
 - Ružica
 - Saška
-- Вања
 - Mija
 - Adelisa
 - Mersija
-- Сара
 - Valerija
 - Zvezdana
 - Divna
-- Анастасија
 - Ermina
 - Arnela
 - Bisera
@@ -1710,7 +1690,6 @@ firstnames_female:
 - Nikolija
 - Žana
 - Vasilisa
-- Сања
 - Minela
 - Bozana
 - Almasa
@@ -1720,8 +1699,6 @@ firstnames_female:
 - Šejla
 - Ratka
 - Miša
-- Андријана
-- Исидора
 - Edisa
 - Snjezana
 - Brana
@@ -1734,26 +1711,18 @@ firstnames_female:
 - Arijana
 - Bosiljka
 - Jeca
-- Снежана
 - Kaća
 - Djurdja
-- Весна
 - Zeljana
 - Lepa
 - Sajma
 - Darka
-- Наталија
 - Anida
 - Elzana
 - Safeta
 - Dzenana
 - Sanija
-- Сандра
 - Tasa
-- Маријана
-- Слађана
-- Ања
-- Мирјана
 - Suza
 - Ismeta
 - Antonija
@@ -1762,7 +1731,6 @@ firstnames_female:
 - Muamera
 - Zilha
 - Apartman
-- Мина
 - Jelisaveta
 - Butik
 - Elvisa
@@ -1777,10 +1745,7 @@ firstnames_female:
 - Rabija
 - Zagorka
 - Dušanka
-- Николина
 - Anđelija
-- Миљана
-- Дуња
 - Sadija
 - Janja
 - Almedina
@@ -1790,11 +1755,7 @@ firstnames_female:
 - Djurdjica
 - Vasilija
 - Binasa
-- Андреа
-- Неда
 - Željana
-- Тања
-- Данијела
 - Izeta
 - Andjelina
 - Nejra
@@ -1804,11 +1765,9 @@ firstnames_female:
 - Sunčica
 - Anđelka
 - Nastasija
-- Биљана
 - Duška
 - Slađa
 - Resmija
-- Љиљана
 - Sadeta
 - Vahida
 - Zivka
@@ -1821,10 +1780,6 @@ firstnames_female:
 - Vojka
 - Djurdjina
 - Milosava
-- Јана
-- Ксенија
-- Татјана
-- Нађа
 - Rajna
 - Mersada
 - Senida
@@ -1843,10 +1798,8 @@ firstnames_female:
 - Milunka
 - Mladena
 - Đina
-- Славица
 - Igbala
 - Selvija
-- Даница
 - Sibela
 - Saveta
 - Peki
@@ -1868,10 +1821,7 @@ firstnames_female:
 - Agencija
 - Simonida
 - Mejrema
-- Зорана
 - Muradija
-- Дијана
-- Софија
 - Vildana
 - Zlatica
 - Blazenka
@@ -1890,10 +1840,8 @@ firstnames_female:
 - Nastasja
 - Esmin
 - Dzeneta
-- Ива
 - Leposava
 - Srna
-- Влада
 - Jagodica
 - Ajša
 - Bozidarka
@@ -1903,13 +1851,9 @@ firstnames_female:
 - Dacha
 - Danijela Nela
 - Milesa
-- Аница
-- Љубица
 - Aleksandra Saska
 - Rialda
 - Sneža
-- Соња
-- Јасмина
 - Bjanka
 - Borjana
 - Jordanka
@@ -1931,10 +1875,6 @@ firstnames_female:
 - Zlatana
 - Grozdana
 - Fetija
-- Николета
-- Миа
-- Зорица
-- Нада
 - Nadežda
 - Melanija
 - Đurđa
@@ -1944,7 +1884,6 @@ firstnames_female:
 - Citati
 - Sta Te
 - Kimeta
-- Дајана
 - Jefimija
 - Akica
 - Radulović
@@ -1956,10 +1895,8 @@ firstnames_female:
 - Ognjenka
 - Gospodjica
 - Djukic
-- Жељка
 - Allmira
 - Binela
-- Емилија
 - Enida
 - Belkisa
 - Merjem
@@ -1986,10 +1923,7 @@ firstnames_female:
 - Zivica
 - Volim Te
 - Vezira
-- Радмила
 - Optika
-- Сузана
-- Данка
 - Veselinka
 - Plava
 - Boža
@@ -2015,12 +1949,10 @@ firstnames_female:
 - Nezrina
 - Djordjina
 - Mahija
-- Бранка
 - Mevljuda
 - Tatjana Tanja
 - Umihana
 - Fadilja
-- Гордана
 - Birsena
 - Sabahet
 - Milika
@@ -2055,13 +1987,9 @@ firstnames_female:
 - Xenija
 - Faketa
 - Amalija
-- Ирена
-- Анита
 - Boyana
 - Cvetana
-- Ивона
 - Ivanela
-- Оливера
 - Stojka
 - Milinka
 - Torte
@@ -2086,7 +2014,6 @@ firstnames_female:
 - Sejdefa
 - Garderoba
 - Cakana
-- Јанковић
 - Marijana Maja
 - Zavjese
 - Nisera
@@ -2094,9 +2021,7 @@ firstnames_female:
 - Gospodja
 - Kumrija
 - Knjigovodstvena Agencija
-- Ранка
 - Bilsen
-- Поповић
 - Makica
 - Banina
 - Ulcinj
@@ -2105,9 +2030,6 @@ firstnames_female:
 - Cvecara
 - Katarina Kaca
 - Nesica
-- Анђелка
-- Каћа
-- Анђелија
 - Pashke
 - Ajlin
 - Arnesa
@@ -2126,7 +2048,6 @@ firstnames_female:
 - Ranica
 - Srbijanka
 - Hatka
-- Магдалена
 - Goranka
 - Bedrija
 - Dzenisa
@@ -2138,13 +2059,8 @@ firstnames_female:
 - Fehima
 - Andjeo
 - Ramka
-- Елеонора
 - Petrana
-- Дара
-- Петра
-- Душка
 - Iwana
-- Јасна
 - Mejrem
 - Rozalija
 - Samija
@@ -2186,12 +2102,10 @@ firstnames_female:
 - Vuković
 - Dzeva
 - Ruva
-- Тара
 - Bajramka
 - Veroslava
 - Zurifa
 - Bokica
-- Павловић
 - Sminka
 - Haljine
 - Raznatovic
@@ -2202,7 +2116,6 @@ firstnames_female:
 - Radomirka
 - Prelevic
 - Milovic
-- Николија
 - Djulija
 - Milaheta
 - Acika
@@ -2210,19 +2123,15 @@ firstnames_female:
 - Rozaje
 - Drašković
 - Srebro
-- Душица
 - Sellma
 - Bulatović
 - Vojislavka
 - Pavicevic
 - Masaze
-- Љиља
 - Privatni
 - Zenepa
-- Ђина
 - Svetislava
 - Xhenana
-- Јованка
 - Nedzmija
 - Marija Maki
 - Ajlla
@@ -2239,13 +2148,9 @@ firstnames_female:
 - Miladija
 - Bakic
 - Bratislava
-- Оља
 - Grlica
-- Доротеја
 - Marinika
-- Викторија
 - Petrija
-- Клаудија
 - Nevena Nena
 - Ferika
 - Radovanka
@@ -2304,27 +2209,13 @@ firstnames_female:
 - Adaleta
 - Avokado
 - Dragojla
-- Драгица
 - Vesna Goran
 - Milomirka
-- Хана
-- Ема
-- Мартина
 - Slavena
-- Божана
-- Нела
-- Стефана
 - Kosara
 - Rujka
-- Селена
-- Теа
-- Горица
 - Zvezdica
-- Хелена
 - Urke
-- Санела
-- Нена
-- Зора
 - Zlatna
 - Werica
 - Sekana
@@ -2340,7 +2231,6 @@ firstnames_female:
 - Skola
 - Blaža
 - Aiša
-- Ленка
 - Tanana
 - Sirka
 - Zulja
@@ -2457,7 +2347,6 @@ firstnames_female:
 - Rabrenovic
 - Petar-Stefan
 - Džejla
-- Анастасја
 - Hulija
 - Marina Saša
 - Radojicic
@@ -2467,12 +2356,9 @@ firstnames_female:
 - Ikonija
 - Endzela
 - Esteticstudio
-- Ружица
 - Myleene
-- Шћепановић
 - Ražnatović
 - Kupujem Prodajem
-- Жика
 - Roćenović
 - Božović
 - Mistic
@@ -2484,16 +2370,12 @@ firstnames_female:
 - Suanita
 - Andjelaa
 - Ernad Alma
-- Милета
 - Vujacic
 - Studentski
 - Turanje
 - Čukić
-- Эстетика
 - Dzasmin
 - Podni Dim
-- Настасија
-- Калезић
 - Asmir Selma
 - Bernisa
 - Bisenija
@@ -2512,7 +2394,6 @@ firstnames_female:
 - Trenerke
 - Gardaroba
 - Aleksandra Saška
-- Војка
 - Maida Maja
 - Elzeta
 - Masaza
@@ -2545,7 +2426,6 @@ firstnames_female:
 - Marovic
 - Miroslava Mira
 - Mevlyda
-- Мија
 - Modni Atelje
 - Radović
 - Vezirka
@@ -2558,36 +2438,26 @@ firstnames_female:
 - Stevanija
 - Casovi Fizike
 - Rucni
-- Божица
 - Dzevahira
 - Ajtena
 - Pletenice
 - Njegosava
 - Milica Mimi
-- Далиборка
 - Svilene
 - Viki Violeta
-- Матовић
 - Ivan Dragana
 - Ljubina Buba
 - Lukić
 - Ajtana
 - Natasa Milos
-- Јулија
 - Kristina Nina
-- Радица
 - Aleksandra Sanja
 - Jasmina Jaca
 - Nerkeza
 - Birsena Suad
 - Marija Boban
-- Лукић
-- Уна
 - Krstić
-- Жељана
-- Дејана
 - Culafic
-- Јелица
 - Kostana
 - Ljubina
 - Milena Lena
@@ -2595,7 +2465,6 @@ firstnames_female:
 - Jagodinka
 - Aleksandra Caka
 - Decija
-- Ђорђевић
 - Ivana Goran
 - Varagic
 - Opacic
@@ -2608,9 +2477,7 @@ firstnames_female:
 - Sandra Saki
 - Slavica Caca
 - Un Altra
-- Владана
 - Kozomora
-- Ђокић
 - Milhata
 - Snežana Nena
 - Shefka
@@ -2618,17 +2485,11 @@ firstnames_female:
 - Stojiljkovic
 - Sanvila
 - Djendji
-- Петровић
-- Душанка
-- Јаковљевић
 - Cvet
 - Rasadnik
 - Aleksandra Sara
 - Pera Aneta
 - Jelenica
-- Сунчица
-- Верица
-- Дачић
 - Natasa Tasa
 - Ognjana
 - Žiža
@@ -2639,7 +2500,6 @@ firstnames_female:
 - Nermina Sead
 - Szanella
 - Mrdja
-- Милијана
 - Parukeri
 - Xhulja
 - Xhevo
@@ -2725,36 +2585,12 @@ firstnames_female:
 - Eltida
 - Eshat
 - Angéle
-- Здравка
-- Радослава
-- Ванеса
-- Цвета
-- Момо
-- Кати
-- Илинка
-- Константина
-- Веса
-- Северина
-- Младенка
-- Дона
-- Касандра
-- Димитра
 - Stamenka
-- Мали
-- Радинка
-- Ава
-- Анабела
-- Гроздана
-- Вида
-- Жаклина
 - Opasna
 - Radislava
-- Селма
 - Mortisha
 - Morska
-- Мили
 - Zieta
-- نوريا
 - Dzika
 - Salije
 - Nerxhivane
@@ -2767,7 +2603,6 @@ firstnames_female:
 - Šefika
 - Lalifere
 - Belgrade
-- Οδύσσεια
 - Bogdanova
 - Radunka
 - Jarmilka
@@ -2788,21 +2623,14 @@ firstnames_female:
 - Dojna
 - Sadjida
 - Nailja
-- Алика
 - Darjana
 - Avetlana
 - Vitaminka
-- Серафима
 - Angelija
 - Katjusa
-- Лела
-- Мане
 - Sladosti
 - Soping
-- Квартира
-- Лилит
 - Airly
-- Θεοδωρα
 - Marinina
 - Miljenka
 - Gracijela
@@ -2976,23 +2804,8 @@ firstnames_female:
 - Papula
 - Deleta
 - Tasana
-- Мираш
-- Мока
-- Резеда
-- Таша
-- Бати
-- Тика
-- Милина
-- Кузнецова
-- Маки
-- Натэлла
-- Тиана
-- Клеопатра
-- Нюся
-- Лоя
 - Ligija
 - Olimpija
-- Леонтина
 - Lisap
 - Istorija
 - Klees
@@ -3001,6 +2814,194 @@ firstnames_female:
 - Mifto
 - Tubic
 - Sejdina
+- Cikotic
+- Hanic
+- Tomana
+- Kanazir
+- Bronja
+- Ivana Vanja
+- Bokey
+- Drveni
+- Vladan Marija
+- Ihma
+- Dinja
+- Feija
+- Kitka
+- Aleksanra
+- Yulija
+- Luxiana
+- Subtil
+- Smaruša
+- Krcka
+- Amelen
+- Ljeskovic
+- Lovacki
+- Marikeus
+- Anelj
+- Doroea
+- Fujo
+- Casovi Hemija
+- Urbandog
+- Četkice Za Šminku
+- Tortice Od
+- Čokoladna
+- Adelhaida
+- Klompe
+- Rafting Camp
+- Adjela
+- Olga Olgica
+- Bizuterija
+- Ludaca
+- Mivis
+- Djarica
+- Hipnoterapija
+- Sirevi
+- Brkovic Ivanovic
+- Izdavanje Kuce
+- Nikaljevic Vesna
+- Senka Veka
+- Perudjina
+- Usluge Izrade
+- Anticelulit
+- Radosava Kika
+- Milacic
+- Vogeli
+- Karina-Christina
+- Slavović
+- Summica
+- Ivana Budo
+- Aleksandra Sasha
+- Luka-Vanja
+- Marina Maja
+- Zoronjic Crnovrsanin
+- Milica Marija
+- Mysteria
+- Zilha-Eni
+- Farmaceutske
+- Munirka
+- Cipelici
+- Radionica
+- Vesković
+- Vusurovic
+- Vesko Tijana
+- Andrijasevic
+- Zok Luka
+- Stanka Stanka
+- Dladjda
+- Zotka
+- Tortekolaci
+- Fashionroom
+- Dada Sadat
+- Bisaleta
+- Plema
+- Llissa
+- Goguili
+- Stanislavka Perovic
+- Dragica-Nenad
+- Sandrq
+- Najbolja
+- Aleksandra Kiki
+- Jenndn
+- Ljiljana Simic
+- Sanja Djukanovic
+- Mitra-Mila
+- Kaluđerović
+- Vukčević
+- Fikret Enisa
+- Stevanović
+- Druzimo Se
+- Jeljena
+- Stijepović
+- Dejana Lekovic
+- Pult Prese
+- Kreirajmo
+- Eco Modern
+- Časovi Matematike
+- Prozdrljivac
+- Zilezile
+- Ski Oprema
+- Mirela-Mimi
+- Sofija-Pronails
+- Tarik Mirela
+- Ajsella
+- Zrila
+- Prodajemo
+- Darmila
+- Kalistena
+- Milimirka-Mica
+- Ivanovska
+- Anna Annie
+- Pensjon
+- Haljima
+- Livopoljac
+- Tonka Nikolic
+- Milena Dejan
+- Selveta Sead
+- Cigari Cigarilosi
+- Lekić
+- Radojević
+- Egap
+- Cineta
+- Domace Kiflice
+- Ena Endzi
+- Jovsnka
+- Gordana Gorde
+- Lilanda
+- Domace Po
+- Svecane
+- Krstovic Danijela
+- Danojla
+- Vesna B
+- Aljbina
+- Krstići
+- Dusica Ivan
+- Kaosa
+- Briga Te
+- Meldijana
+- Naile Pali
+- Vladana Vladi
+- Adeljina
+- Faceshoping
+- Podoni
+- Julija Milosevic
+- Milica Rocka
+- Katica Bogojević
+- Luxtech
+- Strelkova
+- Nastasijaa
+- Popadija
+- Edina-Elmedina
+- Anmaje
+- Raba Djesevic
+- Daliborka Seka
+- Dzidzo
+- Suncokret
+- Saci Moj
+- Djgij
+- Bilgena
+- Zakšek
+- Pripravnica
+- Dragićević
+- Belmisa
+- Gojana
+- Raickovic
+- Ssunca
+- Cistacko
+- Ljubavi
+- Tijaret
+- Blackwidow
+- Sead Ulfeta
+- Bajagic
+- Prodaja Svastaricaa
+- Džena Bibić
+- Melisaselma
+- Damir Nermina
+- Flprije
+- Lejla Merima
+- Jabranka
+- Empireo
+- Lelinjoo
+- Dajanagjini
 lastnames:
 - Jovanovic
 - Petrovic
@@ -3196,7 +3197,6 @@ lastnames:
 - Djurisic
 - Todorović
 - Adrovic
-- Јовановић
 - Vujacic
 - Nikcevic
 - Damjanovic
@@ -3255,7 +3255,6 @@ lastnames:
 - Ristić
 - Vucetic
 - Matovic
-- Петровић
 - Nikola
 - Mijailovic
 - Bojic
@@ -3296,7 +3295,6 @@ lastnames:
 - Milinkovic
 - Vojvodic
 - Novovic
-- Николић
 - Bakic
 - Mladenović
 - Šćepanović
@@ -3311,7 +3309,6 @@ lastnames:
 - Rajic
 - Vuletic
 - Radevic
-- Марковић
 - Budva
 - Stojadinovic
 - Nikic
@@ -3355,7 +3352,6 @@ lastnames:
 - Stefanović
 - Dimitrijević
 - Mrdak
-- Поповић
 - Colic
 - Milos
 - Đurić
@@ -3398,7 +3394,6 @@ lastnames:
 - Sijaric
 - Niksic
 - Stanojević
-- Стојановић
 - Kurti
 - Dedic
 - Pajic
@@ -3471,7 +3466,6 @@ lastnames:
 - Stanišić
 - Pešić
 - Mitić
-- Ђорђевић
 - Ljumovic
 - Stevovic
 - Ahmetovic
@@ -3519,7 +3513,6 @@ lastnames:
 - Gazivoda
 - Veljovic
 - Stijepovic
-- Павловић
 - Pejic
 - Becirovic
 - Jevremovic
@@ -3532,7 +3525,6 @@ lastnames:
 - Golubović
 - Kilibarda
 - Vujisic
-- Ковачевић
 - Micunovic
 - Spahic
 - Bijelic
@@ -3555,7 +3547,6 @@ lastnames:
 - Turkovic
 - Vulic
 - Kajevic
-- Илић
 - Šćekić
 - Radoman
 - Krivokapić
@@ -3573,7 +3564,6 @@ lastnames:
 - Rabrenovic
 - Boricic
 - Suljevic
-- Тодоровић
 - Ivana
 - Petronijevic
 - Tutic
@@ -3610,7 +3600,6 @@ lastnames:
 - Spalevic
 - Sutkovic
 - Timotijevic
-- Станковић
 - Mahmutovic
 - Stupar
 - Grujicic
@@ -3650,7 +3639,6 @@ lastnames:
 - Milatovic
 - Bajrovic
 - Krgovic
-- Јанковић
 - Bugarin
 - Krasnici
 - Cekic
@@ -3670,7 +3658,6 @@ lastnames:
 - Banicevic
 - Kaluđerović
 - Sekulovic
-- Кнежевић
 - Mrvaljevic
 - Selimovic
 - Kurtovic
@@ -3724,13 +3711,11 @@ lastnames:
 - Mujovic
 - Jevric
 - Radusinovic
-- Ивановић
 - Brnovic
 - Sekularac
 - Tivat
 - Komatina
 - Kujevic
-- Симић
 - Gjokaj
 - Bajra
 - Mehmedovic
@@ -3755,8 +3740,6 @@ lastnames:
 - Vukićević
 - Radjenovic
 - Cabarkapa
-- Митровић
-- Милошевић
 - Zivadinovic
 - Gligorijevic
 - Music
@@ -3781,7 +3764,6 @@ lastnames:
 - Zejak
 - Nikčević
 - Tomanovic
-- Костић
 - Nokic
 - Matanovic
 - Kralj
@@ -3839,14 +3821,11 @@ lastnames:
 - Opacic
 - Karanovic
 - Kolasinac
-- Живковић
 - Kasalica
 - Orahovac
 - Ćorović
 - Sukovic
 - Nikocevic
-- Стевановић
-- Савић
 - Mustafic
 - Zeljko
 - Mujanovic
@@ -3869,7 +3848,6 @@ lastnames:
 - Vesovic
 - Dulovic
 - Toskic
-- Вуковић
 - Lopicic
 - Veljic
 - Spaic
@@ -3967,7 +3945,6 @@ lastnames:
 - Tufegdzic
 - Stanojkovic
 - Nesovic
-- Лукић
 - Jukic
 - Karic
 - Antonic
@@ -3990,7 +3967,6 @@ lastnames:
 - Ceman
 - Honsic
 - Hajdarpasic
-- Миловановић
 - Zugic
 - Vujačić
 - Jecmenica
@@ -4004,7 +3980,6 @@ lastnames:
 - Lalatovic
 - Klimenta
 - Vidojevic
-- Ристић
 - Plojovic
 - Jovan
 - Saiti
@@ -4081,10 +4056,7 @@ lastnames:
 - Radunović
 - Nikezic
 - Berane
-- Стојковић
 - Raonic
-- Ђукић
-- Живановић
 - Bronja
 - Ranđelović
 - Aleksandra
@@ -4127,15 +4099,12 @@ lastnames:
 - Jerinic
 - Šabotić
 - Cindrak
-- Димитријевић
 - Dupljak
-- Обрадовић
 - Carapic
 - Ćeranić
 - Stojilkovic
 - Stijovic
 - Dabetic
-- Радуловић
 - Radoicic
 - Vusurovic
 - Lalevic
@@ -4144,7 +4113,6 @@ lastnames:
 - Globarevic
 - Suskavcevic
 - Kastratović
-- Радовић
 - Karovic
 - Dojcinovic
 - Ceka
@@ -4207,8 +4175,6 @@ lastnames:
 - Bogucanin
 - Rolovic
 - Igic
-- Маринковић
-- Миленковић
 - Beganovic
 - Hasic
 - Marusic
@@ -4245,10 +4211,8 @@ lastnames:
 - Barovic
 - Papovic
 - Kaljevic
-- Лазаревић
 - Ristanovic
 - Savicevic
-- Остојић
 - Radević
 - Dabanovic
 - Djurdjevac
@@ -4257,7 +4221,6 @@ lastnames:
 - Kojovic
 - Zivaljevic
 - Kalicanin
-- Бабић
 - Drndar
 - Bujisic
 - Radojičić
@@ -4265,11 +4228,8 @@ lastnames:
 - Ćatović
 - Furtula
 - Becovic
-- Јовић
 - Glisovic
-- Филиповић
 - Mojsilovic
-- Гавриловић
 - Vicentijevic
 - Sevo
 - Kollari
@@ -4335,11 +4295,7 @@ lastnames:
 - Dujovic
 - Kustudic
 - Ljuljanovic
-- Новаковић
-- Томић
 - Petrasinovic
-- Милановић
-- Младеновић
 - Mijalkovic
 - Nikaj
 - Gojcaj
@@ -4389,9 +4345,7 @@ lastnames:
 - Bibuljica
 - Hadzibulic
 - Mustajbasic
-- Ђурић
 - Kazanegra
-- Божовић
 - Juncaj
 - Durutovic
 - Radosavovic
@@ -4406,7 +4360,6 @@ lastnames:
 - Sukurica
 - Raspopovic
 - Golovic
-- Максимовић
 - Mickovic
 - Čabarkapa
 - Pravilovic
@@ -4415,9 +4368,7 @@ lastnames:
 - Fustic
 - Mujkovic
 - Vilotijevic
-- Михајловић
 - Prelic
-- Алексић
 - Bojkovic
 - Stoiljkovic
 - Teofilovic
@@ -4500,5 +4451,1262 @@ lastnames:
 - Krcic
 - Bajcetic
 - Zilkic
-- Шћекић
 - Potpara
+- Djuretic
+- Parezanovic
+- Mehović
+- Rugovac
+- Djurasevic
+- Deljanin
+- Čvorović
+- Gordic
+- Kurpejović
+- Roganović
+- Lecic
+- Zeković
+- Sredojevic
+- Deletic
+- Bahovic
+- Milonjic
+- Međedović
+- Arsenijević
+- Semsovic
+- Preljevic
+- Virijevic
+- Dzamic
+- Gorana
+- Cuca
+- Dedvukaj
+- Grgic
+- Redzic
+- Jasarevic
+- Jugovic
+- Becic
+- Mirjana
+- Biljana
+- Stojicevic
+- Rajcic
+- Sandic
+- Latic
+- Cuk
+- Vasilic
+- Erceg
+- Mladen
+- Bilalovic
+- Cacic
+- Kojadinovic
+- Marinkov
+- Hoth
+- Gegic
+- Dunjic
+- Grozdanic
+- Kozic
+- Orlovic
+- Sevic
+firstnames_male_native:
+- Никола
+- Марко
+- Милош
+- Александар
+- Стефан
+- Немања
+- Милан
+- Душан
+- Петар
+- Филип
+- Лука
+- Дејан
+- Драган
+- Лазар
+- Урош
+- Ђорђе
+- Јован
+- Зоран
+- Горан
+- Ненад
+- Игор
+- Младен
+- Бојан
+- Предраг
+- Срђан
+- Дарко
+- Огњен
+- Данило
+- Слободан
+- Жељко
+- Михаило
+- Вук
+- Вељко
+- Димитрије
+- Давид
+- Страхиња
+- Павле
+- Небојша
+- Мирослав
+- Илија
+- Стеван
+- Мирко
+- Бранислав
+- Владан
+- Вукашин
+- Андрија
+- Михајло
+- Миљан
+- Радован
+- Бранко
+- Синиша
+- Балша
+- Матија
+- Матеја
+- Новак
+- Бошко
+- Раде
+- Божидар
+- Милорад
+- Василије
+- Милован
+- Кристијан
+- Данијел
+- Далибор
+- Радомир
+- Сашка
+- Сава
+- Миодраг
+- Милутин
+- Веселин
+- Стојан
+- Славиша
+- Андреј
+- Здравко
+- Станко
+- Томислав
+- Благоје
+- Срећко
+- Љубиша
+- Светозар
+- Јовица
+- Рајко
+- Крсто
+- Ранко
+- Жарко
+- Дамјан
+- Митар
+- Растко
+- Николић
+- Новица
+- Момчило
+- Славко
+- Радош
+- Радивоје
+- Ђоле
+- Драгиша
+- Братислав
+- Будимир
+- Пеђа
+- Момир
+- Марковић
+- Андреја
+- Марјан
+- Драгомир
+- Веско
+- Коста
+- Данко
+- Вукан
+- Мића
+- Војин
+- Дражен
+- Војислав
+- Ђорђије
+- Бобан
+- Бато
+- Ивановић
+- Милић
+- Радосав
+- Недељко
+- Слађан
+- Драгослав
+- Марио
+- Дени
+- Владо
+- Бранимир
+- Оги
+- Велимир
+- Миле
+- Бора
+- Саво
+- Давор
+- Томица
+- Мишко
+- Радоје
+- Гојко
+- Спасоје
+- Антоније
+- Маринко
+- Вукота
+- Свето
+- Угљеша
+- Милија
+- Бане
+- Ристо
+- Шћепан
+- Булатовић
+- Миливоје
+- Велибор
+- Мило
+- Јанко
+- Часлав
+- Јовановић
+- Љуба
+- Реља
+- Владица
+- Васић
+- Обрад
+- Душко
+- Станковић
+- Гога
+- Васо
+- Тихомир
+- Златко
+- Драго
+- Златан
+- Борко
+- Мики
+- Ален
+- Рашо
+- Аки
+- Боса
+- Дамир
+- Ковач
+- Гаврило
+- Ратко
+- Радуле
+- Исидор
+- Блажо
+- Ацо
+- Неђељко
+- Драгић
+- Драгутин
+- Дадо
+- Томовић
+- Кнежевић
+- Јакша
+- Манојле
+- Добрица
+- Милун
+- Хаџи
+- Гогић
+- Јовић
+- Анђелко
+- Љубомир
+- Мићко
+- Сташа
+- Мићо
+- Арсеније
+- Аранђел
+- Илић
+- Живан
+- Србољуб
+- Боривој
+- Џони
+- Ђура
+- Јаков
+- Митровић
+- Сале
+- Чедо
+- Боривоје
+- Дане
+- Сретен
+- Војкан
+- Васа
+- Чедомир
+- Мирољуб
+- Ивица
+- Микица
+- Тадија
+- Милосављевић
+- Аца
+- Јово
+- Мирза
+- Асад
+- Гара
+- Гага
+- Емрах
+- Танер
+- Панчо
+- Емир
+- Само
+- Рашко
+- Шериф
+- Били
+- Невен
+- Радислав
+- Нешко
+- Андро
+- Божо
+- Ивко
+- Боримир
+- Боре
+- Арсо
+- Гани
+- Живомир
+- Баки
+- Харис
+- Светомир
+- Раденко
+- Асо
+- Алфа
+- Ву
+- Томаш
+- Кеша
+- Овсеп
+- Сека
+- Мирхат
+- Ильдус
+- Бока
+- Исаков
+- Влалимир
+- Робин
+- Оби
+- Марвин
+- Дмитрй
+- Славе
+- Мијодраг
+- Љубо
+- Пижурица
+- Боро
+- Релакс Масажа
+- Шемсо
+- Мићуновић
+- Дамјан Даки
+- Чудин
+- Брандо
+- Слобо
+- Миљанић
+- Градња Цркве
+- Ча
+- Бориша
+- Милоје
+- Николај Владимирович
+- Радиша
+- Вељо
+- Максимовић
+- Новаковић
+- Хот
+- Ратко-Медо
+- Капетан
+- Черногорский
+- Цајо
+- Илпарион
+- Милојевић
+- Хорошый
+- Во
+- Елма
+- Иванград Кафе
+- Вазда
+- Вешовић
+- Милутин Мићко
+- Лош
+- Батрић
+- Мило Мишко
+- Боки
+- Бело
+- Ајет
+- Корисник
+- Хаџи Станимир
+- Парохија Никољац
+- Иваан
+- Срби
+- Радивоје Миле
+- Алплплпо
+- Којовић
+- Живојин
+- Мрдак
+- Анто
+- Miloш
+- Миленко
+- Малишић
+- Фјодор
+- Вуксан
+- Милинко
+- Шан
+- Ратимир
+- Милутин Мима
+- Маклухо
+- Дашић
+- Гоца
+- Боричић
+- Бранко Бек
+- Миликић
+- Сандић
+- Сићо
+- Радивоје Раде
+- Немања Цоне
+- Пујо
+- Домик
+- Бошковић
+- Видак
+- Дилајла
+- Бенко
+- Трипо
+- Александр Анатольевич
+- Машковић
+- Радоје Бућић
+- Миодраг-Драган
+- Џувер
+- Нићифор
+- Војо
+- Heмaња
+- Игор Гиле
+- Братство Томића
+- Тањевић
+- Веселинко
+- Јока
+- Данило Дака
+- Мазић
+- Зову
+- Маркелов
+- Гектор
+- Александар Саша
+- Русо
+- Грубишић
+- Жаро
+- Новица Саша
+- Круле
+- Мишо Шоми
+- Долф
+- Видоје
+- Аллекс
+- Шаћир
+- Ново
+- Муодраг
+- Лајовић
+- Бидо
+- Трансферы
+- Живковић
+- Милутин Миро
+- Зарија
+- Свят
+- Пожури
+- Максе
+- Шарић
+- Ђуро
+- Грујица
+- Кислов
+- Алехандр
+- Старчак
+- Драшко
+- Дамјановић
+- Јоко
+- Перпер
+- Машан
+- Павићевић
+- Божий
+- Дуле
+- Ерчеге
+- Нешовић
+- Чанак
+- Ранковић
+- Сретко
+- Недић
+- Ракија
+- Никола Пики
+- Остоја
+- Ивкеее
+- Ненад Нека
+- Стефан Мргуд
+- Огњен Оги
+- Аргументы
+- Николај
+- Дејан Буца
+- Бркић
+- Ратомир
+- Него
+- До
+- Веселиновић
+- Маркоо
+- Градимир
+- Десимир
+- Стијовић
+- Марко Радојичић
+- Рајковић
+- Мандић
+- Александро
+- Коруга
+- Алексеј
+- Смољановић
+- Јагош
+- Нагл
+- Блесић
+- Аљоша
+- Вујадин
+- Вукомановић
+- Кридјфкс
+- Зосима
+- Задружни Савез
+- Слога Биће
+- Мирослав Ћоми
+- Игњат
+- Обрадов
+- Рајић
+- Предраг-Пеђа
+- Милојковић
+- Велисав
+- Васовић
+- Пајић
+- Шеља
+- Нишевић
+- Манастир
+- Томић
+- Лејс
+- Гаћа
+- Стаменковић
+- Брцан
+- Андриа
+- Норис
+- Филип-Симо
+- Вељовић
+- Вићентић
+- Деспот Стефан
+- Радивој
+- Маринковић
+- Дамљан
+- Паја
+- Гвоздић
+- Кнеле
+- Богосав
+- Блаженко
+- Бугарчић
+- Зец
+- Александарр
+- Ђурђевић
+- Дејан Вујић
+- Радовић
+- Шикамару
+firstnames_female_native:
+- Милица
+- Јелена
+- Јована
+- Марија
+- Ивана
+- Алекса
+- Александра
+- Катарина
+- Анђела
+- Тамара
+- Ана
+- Тијана
+- Драгана
+- Теодора
+- Бојана
+- Милена
+- Невена
+- Маја
+- Вања
+- Сара
+- Анастасија
+- Сања
+- Андријана
+- Исидора
+- Снежана
+- Весна
+- Наталија
+- Сандра
+- Маријана
+- Слађана
+- Ања
+- Мирјана
+- Мина
+- Николина
+- Миљана
+- Дуња
+- Андреа
+- Неда
+- Тања
+- Данијела
+- Биљана
+- Љиљана
+- Јана
+- Ксенија
+- Татјана
+- Нађа
+- Славица
+- Даница
+- Зорана
+- Дијана
+- Софија
+- Ива
+- Влада
+- Аница
+- Љубица
+- Соња
+- Јасмина
+- Николета
+- Миа
+- Зорица
+- Нада
+- Дајана
+- Жељка
+- Емилија
+- Радмила
+- Сузана
+- Данка
+- Бранка
+- Гордана
+- Ирена
+- Анита
+- Ивона
+- Оливера
+- Јанковић
+- Ранка
+- Поповић
+- Анђелка
+- Каћа
+- Анђелија
+- Магдалена
+- Елеонора
+- Дара
+- Петра
+- Душка
+- Јасна
+- Тара
+- Павловић
+- Николија
+- Душица
+- Љиља
+- Ђина
+- Јованка
+- Оља
+- Доротеја
+- Викторија
+- Клаудија
+- Драгица
+- Хана
+- Ема
+- Мартина
+- Божана
+- Нела
+- Стефана
+- Селена
+- Теа
+- Горица
+- Хелена
+- Санела
+- Нена
+- Зора
+- Ленка
+- Анастасја
+- Ружица
+- Шћепановић
+- Жика
+- Милета
+- Эстетика
+- Настасија
+- Калезић
+- Војка
+- Мија
+- Божица
+- Далиборка
+- Матовић
+- Јулија
+- Радица
+- Лукић
+- Уна
+- Жељана
+- Дејана
+- Јелица
+- Ђорђевић
+- Владана
+- Ђокић
+- Петровић
+- Душанка
+- Јаковљевић
+- Сунчица
+- Верица
+- Дачић
+- Милијана
+- Здравка
+- Радослава
+- Ванеса
+- Цвета
+- Момо
+- Кати
+- Илинка
+- Константина
+- Веса
+- Северина
+- Младенка
+- Дона
+- Касандра
+- Димитра
+- Мали
+- Радинка
+- Ава
+- Анабела
+- Гроздана
+- Вида
+- Жаклина
+- Селма
+- Мили
+- Алика
+- Серафима
+- Лела
+- Мане
+- Квартира
+- Лилит
+- Мираш
+- Мока
+- Резеда
+- Таша
+- Бати
+- Тика
+- Милина
+- Кузнецова
+- Маки
+- Натэлла
+- Тиана
+- Клеопатра
+- Нюся
+- Лоя
+- Леонтина
+- Станић
+- Ируся
+- Анита Ана
+- Жквковић
+- Шарановић
+- Драгана Лазар
+- Aна
+- Белинда
+- Еržebet
+- Соња Поповић
+- Јокси
+- Грдни
+- Печурица
+- Нарыщенко
+- Људмила
+- Савета
+- Марија Мери
+- Татјанаа
+- Констанция
+- Звездана
+- Шљукић
+- Логопедические
+- Анжелка
+- Арива
+- Мишић
+- Латика
+- Молочаева
+- Дашо
+- Елџира
+- Мачка
+- Дража
+- Астролог
+- Марсенић
+- Бауковић
+- Сестра
+- Лабан
+- Садовник
+- Михољски
+- Краљ
+- Пријовић
+- Спасојевић
+- Чикмировић
+- Свештеничке
+- Тија
+- Ћина
+- Ћировић
+- Ћирилица
+- Милка Јанићијевић
+- Сола
+- Рыжая
+- Вишњић
+- Џесика
+- Шамшал
+- Бошкова
+- Квартиры-Станови
+- Антонија
+- Лидия Ивановна
+- Мокуша
+- Неллина
+- Дарија
+- Василија
+- Вујадиновић
+- Јулка
+- Драшковић
+- Дамјана
+- Шеметова
+- Караџић
+- Гульмарьям
+- Миленија
+- Парамонова
+- Анела
+- Јуришевић
+- Машке
+- Малович
+- Даца
+- Наца
+- Марић
+- Миловић
+- Грозда
+- Карановић
+- Ђурђа
+- Александраа
+- Цаца
+- Кими
+- Миона
+- Илинка-Рада
+- Слатка
+- Шобић
+- Пекић
+- Београд
+- Mина
+- Миља
+- Загорка
+- Колесар
+- Бранкица
+- Бујишић
+- Тешић
+- Ђурић
+- Марјановић
+- Вујин
+- Кокић
+- Којчић
+- Јулијана
+- Луи
+- Бојовић
+- Драгана Д. Митровић
+- Владанка
+- Тијана Вукчевић
+- Драгићевић
+- Нешковић
+- Малиша
+- Милошевић
+- Тијана Тина
+- Mилица
+- Алексић
+- Михаиловић
+- Тепавац
+- Лимунка
+- Аријана
+- Кириџић
+- Матаруга
+- Лекић
+- Јовичић
+- Јасмина Јана
+- Ђурђина
+- Симонида
+- Татомир
+- Јеремић
+- Мария Пир
+- Станисављевић
+- Шумадија
+- Милица Гарић
+- Краљица Се
+- Ведрана
+- Царичић
+- Пешић
+- Златица
+- Стојаковић
+- Рајка
+- Лаћарак
+- Тоскић Јовановић
+- Мевена
+- Керекеш
+- Урошевић
+- Стојковић
+- Ханула
+- Русский Бухгалтер
+- Слађа
+- Јеца
+- Јела
+- Предраг Елена
+- Евгенија
+- Надица
+- Каћаа
+- Данијела Милан
+- Миловановић
+- Маргита
+- Ефросинија
+- Вањa
+- Миомир
+- Иљана
+- Вукица
+- Амалија
+- Смуђа
+- Димитријевић
+- Ана Анча
+- Британка
+- Емина
+- Малинић
+- Каја
+- Јустина
+- Рашета
+- Мона Мона
+- Трајковић
+- Петронијевић
+- Аџић
+- Иванаа
+- Пера
+- Горана
+- Ели Јања
+lastnames_native:
+- Јовановић
+- Петровић
+- Николић
+- Марковић
+- Поповић
+- Стојановић
+- Ђорђевић
+- Павловић
+- Ковачевић
+- Илић
+- Тодоровић
+- Станковић
+- Јанковић
+- Кнежевић
+- Ивановић
+- Симић
+- Митровић
+- Милошевић
+- Костић
+- Живковић
+- Стевановић
+- Савић
+- Вуковић
+- Лукић
+- Миловановић
+- Ристић
+- Стојковић
+- Ђукић
+- Живановић
+- Димитријевић
+- Обрадовић
+- Радуловић
+- Радовић
+- Маринковић
+- Миленковић
+- Лазаревић
+- Остојић
+- Бабић
+- Јовић
+- Филиповић
+- Гавриловић
+- Новаковић
+- Томић
+- Милановић
+- Младеновић
+- Ђурић
+- Божовић
+- Максимовић
+- Михајловић
+- Алексић
+- Шћекић
+- Ђуровић
+- Милосављевић
+- Богдановић
+- Миљковић
+- Радовановић
+- Здравковић
+- Божић
+- Пешић
+- Цветковић
+- Вукчевић
+- Марић
+- Лекић
+- Булатовић
+- Бошковић
+- Лазић
+- Величковић
+- Крстић
+- Мирковић
+- Петковић
+- Анђелковић
+- Васић
+- Перић
+- Станојевић
+- Рајковић
+- Милићевић
+- Секулић
+- Радојевић
+- Вујовић
+- Војиновић
+- Ђокић
+- Матић
+- Мандић
+- Павићевић
+- Тошић
+- Недељковић
+- Вељковић
+- Раичевић
+- Јелић
+- Пауновић
+- Никола
+- Стошић
+- Јевтић
+- Лазар
+- Митић
+- Јована
+- Димић
+- Јововић
+- Вучковић
+- Гајић
+- Перовић
+- Јеремић
+- Благојевић
+- Микић
+- Милутиновић
+- Радосављевић
+- Тасић
+- Арсенијевић
+- Грујић
+- Стаменковић
+- Станић
+- Самарџић
+- Радоњић
+- Михаиловић
+- Радојичић
+- Милојевић
+- Томовић
+- Ђурђевић
+- Адамовић
+- Антић
+- Недић
+- Ћурчић
+- Ракић
+- Бранковић
+- Ранђеловић
+- Лука
+- Марко
+- Фемић
+- Ђуришић
+- Миловић
+- Милица
+- Матовић
+- Дробњак
+- Милић
+- Петрић
+- Нешковић
+- Бајић
+- Бојовић
+- Марија
+- Грујичић
+- Терзић
+- Стефановић
+- Трифуновић
+- Спасић
+- Арсић
+- Марјановић
+- Урошевић
+- Радивојевић
+- Стојиљковић
+- Ивковић
+- Јаковљевић
+- Стефан
+- Мартиновић
+- Вучинић
+- Драговић
+- Јокић
+- Анђелић
+- Мијатовић
+- Симоновић
+- Милетић
+- Зечевић
+- Трипковић
+- Конатар
+- Зорић
+- Голубовић
+- Немања
+- Веселиновић
+- Радисављевић
+- Чолић
+- Стојадиновић
+- Рајић
+- Нешић
+- Јоцић
+- Миладиновић
+- Вуксановић
+- Лековић
+- Радевић
+- Луковић
+- Канкараш
+- Лончар
+- Рашковић
+- Папић
+- Ђуретић
+- Матковић
+- Бијелић
+- Даниловић
+- Мијовић
+- Дашић
+- Шошкић
+- Крсмановић
+- Ђоковић
+- Томашевић
+- Аврамовић
+- Мијајловић
+- Милан
+- Милош
+- Станишић
+- Јоксимовић
+- Катић
+- Кузмановић
+- Милинковић
+- Петронијевић
+- Мијаиловић
+- Грбић
+- Јовичић
+- Ранковић
+- Панић
+- Васиљевић
+- Алекса
+- Пантовић
+- Смоловић
+- Недовић
+- Драгићевић
+- Вујошевић
+- Вранеш
+- Минић
+- Шћепановић
+- Ненезић
+- Булајић
+- Рачић
+- Вучићевић
+- Аћимовић
+- Тимотијевић
+- Влаховић
+- Драгана
+- Деспотовић
+- Мердовић
+- Ратковић
+- Росић
+- Пејовић
+- Вукићевић
+- Чукић
+- Војводић
+- Вулић
+- Елез
+- Раковић
+- Огњен
+- Мићић
+- Несторовић
+- Спасојевић
+- Трајковић
+- Давидовић
+- Плавшић
+- Манојловић
+- Антонијевић
+- Пантић
+- Игњатовић
+- Војновић
+- Дабић
+- Протић
+- Цекић
+- Петар
+- Јеличић
+- Пајић
+- Тамара
+- Филип
+- Лучић
+- Јелена
+- Драгаш
+- Јанчић
+- Брајковић
+- Ровчанин
+- Дакић
+- Ћетковић
+- Вујачић
+- Богосављевић
+- Кандић
+- Косовић
+- Човић
+- Пајовић
+- Вујичић
+- Мартић
+- Цицмил
+- Кривокапић
+- Стаматовић
+- Радић
+- Рончевић
+- Лазовић
+- Шљукић
+- Ракочевић
+- Ђачић
+- Нишавић
+- Меденица
+- Драгојловић
+- Говедарица
+- Пекић
+- Черногория
+- Чоловић
+- Бабовић
+- Виторовић
+- Вукић
+- Нинковић
+- Топаловић
+- Цвијовић
+- Ђукановић
+- Вулетић
+- Бакић
+- Чарапић
+- Драгојевић
+- Перишић
+- Ћирковић
+- Коматина
+- Драшковић
+- Глишић
+- Гачић
+- Ђекић
+- Зарић
+- Симовић
+- Стевић
+- Катанић
+- Јанићијевић
+- Мајсторовић
+- Огризовић
+- Јакшић
+- Андрић
+- Велимировић
+- Живић
+- Штрбац
+- Миливојевић
+- Тешић
+- Првуловић
+- Гашић
+- Љубић
+- Пантелић
+- Јекић
+- Тадић
+- Дамњановић
+- Додић
+- Дудић
+- Ивана
+- Ковач
+- Мина
+- Кљајић
+- Обадовић
+- Мрдак
+- Дајевић
+- Ћупић
+- Фатић
+- Куч
+- Горан
+- Рашовић
+- Лалић
+- Јаредић
+- Церовић
+- Савићевић
+- Шарчевић
+- Матановић
+- Мијановић
+- Мараш
+- Радичевић
+- Дукић
+- Видић
+- Кљајевић
+- Раденовић
+- Ћировић
+- Јакић
+- Александар
+- Иванишевић
+- Маровић
+- Фолић
+- Којовић

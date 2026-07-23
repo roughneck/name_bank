@@ -1,3 +1,4 @@
+---
 source: dataset
 firstnames_male:
 - Jón
@@ -1087,11 +1088,9 @@ firstnames_male:
 - Grettisgata
 - Vestur
 - Grzech
-- Димаш
 - Chihabi
 - Lameq
 - Watchthisiceland
-- Робертс
 - Ma Maþin
 - Allt Fyrir Þig
 - Gunnar Ómar
@@ -1102,7 +1101,6 @@ firstnames_male:
 - Rawad Nouman
 - Vöku
 - Ifraheem
-- Доменик
 - Prouvè
 - Aldevino
 - Natugonza
@@ -1114,7 +1112,6 @@ firstnames_male:
 - Sebuliba
 - Hamwde
 - Puskuta
-- Андрюс
 - Zarial
 - Haykal Abdirashid
 - Linksmybes
@@ -1135,8 +1132,6 @@ firstnames_male:
 - Moprif
 - Larus Omar
 - Henry Emeka
-- Деныс
-- Паскарь
 - Antoske
 - Mörður
 - Kastytis
@@ -1144,7 +1139,6 @@ firstnames_male:
 - Xabier Þór
 - Stundvís
 - Jóhann Atli
-- محمد أحمد نور
 - Ísar Logi
 - Wandari
 - Kruchy
@@ -1256,8 +1250,6 @@ firstnames_male:
 - Opoman
 - Mikael Hólm
 - Axel Magnús
-- اسد الحي
-- มิตรภาพและความจริงใจ
 - Bödvar
 - Niels P
 - Páll Sigurvin
@@ -1500,6 +1492,15 @@ firstnames_male:
 - Húsvörðurinn
 - Thorgrímur
 - Hafsteinn Bao
+- Arnthor
+- Jón Ásgeir Haukdal
+- Pétur Aðalsteinn
+- Hlynur Svan
+- Brynjólfur Sveinn
+- Magnús Geir
+- Jon Dan
+- Salómon
+- Arnaldur Elísabetar
 firstnames_female:
 - Guðrún
 - Kristín
@@ -1935,7 +1936,6 @@ firstnames_female:
 - Ásta María
 - Sigurjóna
 - Icelandic
-- ธัญญ์นรี
 - Amalía
 - Júlía Björk
 - Hanna Kristín
@@ -2009,7 +2009,6 @@ firstnames_female:
 - Minushe
 - Desantila
 - Bosii
-- Αναστασία
 - Marcia Andreia
 - Bahía
 - Stella María
@@ -2023,7 +2022,6 @@ firstnames_female:
 - Dóris
 - Mariachiara
 - Isabel Alejandra
-- 丽玲
 - Yaneidy
 - Haysel
 - Kristýnka
@@ -2060,7 +2058,6 @@ firstnames_female:
 - Niksi
 - Móna
 - Anna Dóra
-- พัชรินทร์
 - Fíona
 - Snieguole
 - Mudite
@@ -2487,7 +2484,6 @@ firstnames_female:
 - Regína Ósk
 - Yonette
 - Myra Loni Oriol
-- อนงค์
 - Steinunn B
 - Elisabet Victoría Líf
 - Jarþrúður Hulda
@@ -2568,7 +2564,6 @@ firstnames_female:
 - Unnur Margrét
 - Kristin H
 - Eyrun
-- นางมาร
 - Þuríður Valgerður
 - Kokaff
 - Ungmennafélag
@@ -2597,7 +2592,6 @@ firstnames_female:
 - Ulpiana
 - Camilla Líf
 - Rakel Rós
-- ქართველები
 - Hrefna Margrét
 - Halszka
 - Kamilla Asa
@@ -2733,7 +2727,6 @@ firstnames_female:
 - Pordis
 - Jónína Guðný
 - Ngoan Anna
-- พิน
 - Hólmfriður
 - Annakanthi
 - Mergyte
@@ -3001,6 +2994,14 @@ firstnames_female:
 - Anna Soffía
 - Margrét Kr
 - Alexandra Guðný Berglind
+- Katrina Groudottir
+- Sjofn
+- Mekkin
+- Ann Linda
+- Eygló Brynja
+- Steinunn Rós
+- S. Björk
+- Dís
 lastnames:
 - Jónsson
 - Jónsdóttir
@@ -4428,7 +4429,6 @@ lastnames:
 - Þorarinsdottir
 - Jonsd
 - Khorchai
-- อัครเจริญพัฐ
 - Dimiņš
 - Pakalne
 - Al-Zamil
@@ -4502,3 +4502,4 @@ lastnames:
 - Daviðsson
 - Borgarsson
 - Prawdzik
+- Guðmundardóttir

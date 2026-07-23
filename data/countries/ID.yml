@@ -1,3 +1,4 @@
+---
 source: dataset
 firstnames_male:
 - Agus
@@ -2921,7 +2922,6 @@ firstnames_female:
 - Yusna
 - Igam
 - Uya
-- 유리
 - Irmayani
 - Nikma
 - Iyul
@@ -3001,6 +3001,7 @@ firstnames_female:
 - Haryanti
 - Dayanti
 - Dapoer
+- Agustinawati
 lastnames:
 - Wijaya
 - Gunawan

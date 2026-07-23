@@ -1,3 +1,4 @@
+---
 source: dataset
 firstnames_male:
 - Giuseppe
@@ -1272,7 +1273,6 @@ firstnames_male:
 - Taoufik
 - Davi
 - Abdoul
-- Сергей
 - Bilel
 - Fredi
 - Genci
@@ -1328,7 +1328,6 @@ firstnames_male:
 - Fadil
 - Claude
 - Anderson
-- Александр
 - Maxi
 - Ti
 - Abdelali
@@ -1500,6 +1499,8 @@ firstnames_male:
 - Berti
 - Zef
 - Arsen
+- Nikolin
+- Admir
 firstnames_female:
 - Maria
 - Anna
@@ -2024,7 +2025,6 @@ firstnames_female:
 - Nataliya
 - Giuly
 - Georgiana
-- Марія
 - Gabi
 - Gerardina
 - Consiglia
@@ -2060,7 +2060,6 @@ firstnames_female:
 - Mariacristina
 - Pierina
 - Gerarda
-- Галина
 - Giordana
 - Giovy
 - Jo
@@ -2097,7 +2096,6 @@ firstnames_female:
 - Florinda
 - Fiammetta
 - Sophie
-- Ольга
 - Violetta
 - Lilla
 - Mar
@@ -2107,7 +2105,6 @@ firstnames_female:
 - Katerina
 - Selena
 - Aliona
-- Людмила
 - Ema
 - Aicha
 - Albina
@@ -2140,7 +2137,6 @@ firstnames_female:
 - Flori
 - Loriana
 - Sole
-- Оксана
 - Cosetta
 - Stela
 - Fortunata
@@ -2186,7 +2182,6 @@ firstnames_female:
 - Renza
 - Amira
 - Lulu
-- Татьяна
 - Mikela
 - Marialaura
 - Conny
@@ -2202,14 +2197,12 @@ firstnames_female:
 - Maria Stella
 - Florica
 - Aurica
-- Валентина
 - Palmina
 - Saida
 - Fatiha
 - Alexa
 - Maddy
 - Aleksandra
-- Анна
 - Tanja
 - Miri
 - Tecla
@@ -2290,7 +2283,6 @@ firstnames_female:
 - Mi
 - Souad
 - Georgia
-- Елена
 - Debby
 - Savina
 - Dafne
@@ -2328,7 +2320,6 @@ firstnames_female:
 - Masha
 - Mela
 - Lida
-- Светлана
 - Nela
 - Filo
 - Sere
@@ -2354,7 +2345,6 @@ firstnames_female:
 - Moni
 - Dona
 - Soraya
-- Ирина
 - Valbona
 - Luci
 - Venera
@@ -2381,7 +2371,6 @@ firstnames_female:
 - Angela Maria
 - Iwona
 - Tetyana
-- Мария
 - Mariavittoria
 - Incoronata
 - Maria Giulia
@@ -2464,7 +2453,6 @@ firstnames_female:
 - Sveta
 - Geanina
 - Olha
-- Таня
 - Veruska
 - Tommasina
 - Mariacarmela
@@ -2535,7 +2523,6 @@ firstnames_female:
 - Renate
 - Giorgina
 - Danuta
-- Наталья
 - Tullia
 - Paoletta
 - Annarella
@@ -2565,7 +2552,6 @@ firstnames_female:
 - Larysa
 - Niculina
 - Tanina
-- Світлана
 - Costantina
 - Anna Lucia
 - Giacinta
@@ -2596,7 +2582,6 @@ firstnames_female:
 - Cesira
 - Mattea
 - Patti
-- Люба
 - Gioconda
 - Maruska
 - Tindara
@@ -2623,7 +2608,6 @@ firstnames_female:
 - Miry
 - Karmen
 - Bozena
-- Лариса
 - Sibilla
 - Anna Laura
 - Concita
@@ -2657,8 +2641,6 @@ firstnames_female:
 - Lety
 - Maria Elisa
 - Natasa
-- Оля
-- Галя
 - Khady
 - Scilla
 - Vittorina
@@ -2692,7 +2674,6 @@ firstnames_female:
 - Tosca
 - Giorgiana
 - Edvige
-- Надія
 - Cosimina
 - Lulù
 - Selvaggia
@@ -2708,7 +2689,6 @@ firstnames_female:
 - Viktoriya
 - Carmina
 - Ange
-- Марина
 - Shpresa
 - Drita
 - Merita
@@ -2730,7 +2710,6 @@ firstnames_female:
 - Ancuta
 - Pippi
 - Doinita
-- Надя
 - Nunziata
 - Fiorina
 - Rosa Anna
@@ -2778,10 +2757,7 @@ firstnames_female:
 - Lusy
 - Fedora
 - Milica
-- Леся
 - Domnica
-- Любов
-- Алла
 - Nilla
 - Calogera
 - Ndeye
@@ -2835,11 +2811,7 @@ firstnames_female:
 - Vica
 - Nataliia
 - Justyna
-- Наташа
-- Наталия
 - Norina
-- Наталія
-- Надежда
 - Catena
 - Lisetta
 - Pompea
@@ -2889,10 +2861,8 @@ firstnames_female:
 - Manana
 - Oleksandra
 - Olesea
-- Нина
 - Liubov
 - Pamy
-- Ірина
 - Pietrina
 - Mirea
 - Bertilla
@@ -2953,13 +2923,11 @@ firstnames_female:
 - Martyna
 - Floarea
 - Mirabela
-- Тамара
 - Lesya
 - Petruta
 - Galyna
 - Etta
 - Fanica
-- Любовь
 - Alfonsa
 - Mimina
 - Iaia
@@ -3001,6 +2969,39 @@ firstnames_female:
 - Edlira
 - Manjola
 - Marsela
+- Donika
+- Zamira
+- Mirjana
+- Lumi
+- Fiori
+- Rafaela
+- Isabela
+- Nadja
+- Giselda
+- Elita
+- Marlena
+- Ceci
+- Cloe
+- Mariia
+- Bibiana
+- Vanny
+- Cristel
+- Serra
+- Muriel
+- Luisiana
+- Maricela
+- Jennyfer
+- Luba
+- Saby
+- Emme
+- Aury
+- Susanne
+- Kathrin
+- Anka
+- Zofia
+- Arabella
+- Apollonia
+- Stefana
 lastnames:
 - Rossi
 - Russo

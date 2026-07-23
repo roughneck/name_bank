@@ -1,3 +1,4 @@
+---
 source: dataset
 firstnames_male:
 - Haji
@@ -6,46 +7,26 @@ firstnames_male:
 - Farhad
 - Sayed
 - Ajmal
-- شهزاده
-- نجیب الله
-- علی
 - Haroon
 - Afghan
 - Fahim
 - Wahid
 - Rohullah
-- مصطفی
-- جاوید
 - Mirwais
 - Ramin
-- امید
 - Samiullah
-- نعمت الله
-- حاجی
-- رحمت الله
 - Fawad
 - Sahil
-- حبیب الله
 - Samim
-- فرهاد
-- اسدالله
 - Bashir
-- حمیدالله
 - Asadullah
-- افغان
 - Rahmatullah
-- نقیب الله
-- سمیع الله
-- عصمت الله
 - Najibullah
 - Hamidullah
 - Noorullah
 - Habibullah
-- میرویس
 - Milad
 - Arash
-- ابراهیم
-- احسان الله
 - Shahzada
 - Zabihullah
 - Mansoor
@@ -54,37 +35,22 @@ firstnames_male:
 - Safiullah
 - Zabiullah
 - Jamshid
-- ذبیح الله
-- نورالله
 - Jawid
 - Basir
-- بسم الله
-- امان الله
 - Shafiq
 - Ehsan
 - Hasib
 - Zabi
-- حسین
-- سید
-- عزت الله
 - Murtaza
-- تنها
-- اسماعیل
 - Mujtaba
-- محمدی
-- حمید
 - Hameed
 - Naweed
-- یوسف
 - Wahidullah
 - Waheed
 - Jawed
-- ساحل
 - Najib
-- حکمت الله
 - Amanullah
 - Obaidullah
-- قدرت الله
 - Najeeb
 - Shoaib
 - Naqibullah
@@ -94,68 +60,3755 @@ firstnames_male:
 - Dawood
 - Azizullah
 - Zia
-- مهدی
 - Masoud
-- صفی الله
-- فرید
-- جان
 - Wali
 - Matiullah
 - Elyas
-- عبدالرحیم
-- حیات الله
 - Nazir
 - Farzad
 - Parwiz
-- وحید
-- محمدالله
 - Atiqullah
 - Sardar
-- امیر
 - Saboor
 - Aimal
 - Masood
-- حبیب
-- حفیظ الله
 - Edris
 - Obaid
 - Ehsanullah
-- نوید
-- همایون
-- نورمحمد
 - Wais
-- بچه گک
-- رامین
-- عبیدالله
-- عزیزالله
 - Hashmatullah
 - Safi
 - Ghulam
 - Rafiullah
 - Hayatullah
 - Esmatullah
-- آرش
-- حسیب الله
 - Shafi
 - Yama
-- عبدالبصیر
 - Sohrab
 - Hasibullah
 - Fardin
+- Qasim
+- Nasrat
+- Aminullah
+- Najeebullah
+- Javid
+- Hafizullah
+- Nawid
+- Shafiqullah
+- Shabir
+- Maiwand
+- Ezatullah
+- Nabi
+- Ahmadullah
+- Fazal
+- Naqib
+- Rahimullah
+- Saifullah
+- Nematullah
+- Qudratullah
+- Nasratullah
+- Raees
+- Ahmad Shah
+- Shafiullah
+- Reshad
+- Baran
+- Nasrullah
+- Romal
+- Emal
+- Matin
+- Haseeb
+- Nasir Ahmad
+- Sakhi
+- Sajad
+- Mursal
+- Alireza
+- Esmat
+- Mohibullah
+- Navid
+- Mujeeb
+- Waheedullah
+- Ahmadshah
+- Ahmad Zia
+- Faizullah
+- Atiq
+- Seyar
+- Baktash
+- Zarif
+- Shazada
+- Hazrat
+- Hekmatullah
+- Fayaz
+- Waris
+- Bahram
+- Nisar
+- Ahsanullah
+- Hedayatullah
+- Mortaza
+- Arsalan
+- Tanha
+- Yousaf
+- Mohib
+- Sabawoon
+- Enayatullah
+- Shakib
+- Lutfullah
+- Sadat
+- Khairullah
+- Subhan
+- Massoud
+- Suhrab
+- Sediq
+- Zahidullah
+- Ihsanullah
+- Hikmatullah
+- Sarwar
+- Rasool
+- Sahel
+- Nesar
+- Mashal
+- Jaweed
+- Shukrullah
+- Sharifullah
+- Ramish
+- Mojtaba
+- Tawab
+- Shekib
+- Qader
+- Zalmai
+- Hamayoon
+- Mohammadullah
+- Almas
+- Hekmat
+- Faridullah
+- Qadir
+- Basit
+- Ziaulhaq
+- Hikmat
+- Hameedullah
+- Mehran
+- Bashir Ahmad
+- Sebghatullah
+- Ali Ahmad
+- Naqeeb
+- Shahram
+- Enayat
+- Ali Reza
+- Baryalai
+- Mohammad Ali
+- Noor Ahmad
+- Faridoon
+- Shadab
+- Rayees
+- Sanaullah
+- Ataullah
+- Asef
+- Masih
+- Mobin
+- Nemat
+- Farid Ahmad
+- Asmatullah
+- Qasem
+- Morteza
+- Zabih
+- Ahmadi
+- Atal
+- Rahmanullah
+- Wakil
+- Qudrat
+- Sefatullah
+- Musawer
+- Kabul
+- Khyber
+- Farshad
+- Niamatullah
+- Hedayat
+- Zainullah
+- Qari
+- Ahmadzia
+- Sayeed
+- Edrees
+- Nawab
+- Sadeq
+- Wahed
+- Fazel
+- Amrullah
+- Nesar Ahmad
+- Firooz
+- Muhibullah
+- Abdul Basir
+- Basir Ahmad
+- Yaqoob
+- Maroof
+- Mateen
+- Bismillah
+- Nazir Ahmad
+- Shamsullah
+- Noorahmad
+- Nooragha
+- Hewad
+- Jahan
+- Ziaullah
+- Abdulhadi
+- Subhanullah
+- Abdul Saboor
+- Behzad
+- Roohullah
+- Asmat
+- Ghafar
+- Abdulhaq
+- Abdul Hadi
+- Shapoor
+- Idrees
+- Abdul Wahid
+- Abdulwahid
+- Karimullah
+- Fraidoon
+- Abdul Rahim
+- Ahmadzai
+- Ahmad Fawad
+- Mosawer
+- Bacha
+- Ezat
+- Jamshed
+- Farshid
+- Eshaq
+- Mohammad Reza
+- Haseebullah
+- Muzamil
+- Sediqullah
+- Zekrullah
+- Bachagak
+- Satar
+- Noori
+- Ahmad Farid
+- Attaullah
+- Niamat
+- Abdul Wahab
+- Fardeen
+- Sangar
+- Tasal
+- Homayoon
+- Malang
+- Noor Mohammad
+- Zekria
+- Salahuddin
+- Sohil
+- Assadullah
+- Aziz Ahmad
+- Watan
+- Abdul Wali
+- Nabiullah
+- Zalmay
+- Baset
+- Mahbob
+- Abdul Samad
+- Yousof
+- Nisar Ahmad
+- Merwais
+- Wasi
+- Hamdullah
+- Mohammad Amin
+- Ghafoor
+- Mudasir
+- Khan Mohammad
+- Besmellah
+- Naseeb
+- Janan
+- Abdul Karim
+- Zaker
+- Yosuf
+- Hamayoun
+- Mohammad Arif
+- Ozair
+- Naqeebullah
+- Afghanistan
+- Abdulbasir
+- Wazir
+- Nasib
+- Abdul Ahad
+- Khalilullah
+- Aliahmad
+- Zobair
+- Baheer
+- Younas
+- Mujib
+- Baseer
+- Mohammad Asif
+- Hamayon
+- Mudaser
+- Qaseem
+- Loy
+- Azizi
+- Javeed
+- Abdul Khaliq
+- Bakhtyar
+- Abdulkhaliq
+- Moheb
+- Sayed Ahmad
+- Gulab
+- Gull
+- Dost
+- Khushal
+- Khwaja
+- Zakirullah
+- Rohid
+- Omaid
+- Ghani
+- Muhib
+- Ziauddin
+- Nasirahmad
+- Nasibullah
+- Kaihan
+- Hidayat
+- Mohammad Sharif
+- Mojib
+- Abdul Malik
+- Shokrullah
+- Masoom
+- Shamsuddin
+- Gholam
+- Hamdard
+- Irfanullah
+- Abdul Manan
+- Omidullah
+- Ghulam Sakhi
+- Sadaqat
+- Mehrab
+- Jalaluddin
+- Waliullah
+- Hidayatullah
+- Abdul Hakim
+- Abdulwali
+- Hijratullah
+- Mohebullah
+- Shirzad
+- Mohammadi
+- Ahmad Fahim
+- Jalil Ahmad
+- Qadeer
+- Shamshad
+- Rostam
+- Samsoor
+- Popal
+- Ahmad Wali
+- Ebadullah
+- Parwez
+- Parviz
+- Dawod
+- Rasol
+- Abdulahad
+- Masihullah
+- Muhammadullah
+- Haji Mohammad
+- Toryalai
+- Behroz
+- Ahmad Khalid
+- Noorulhaq
+- Raziq
+- Rezwan
+- Sifatullah
+- Faridon
+- Faramarz
+- Shahir
+- Abdul Qadir
+- Habib Ullah
+- Najmuddin
+- Abdul Wasi
+- Namatullah
+- Eraj
+- Ahmad Jawid
+- Alisina
+- Abdulmalik
+- Mojeeb
+- Ahmad Reshad
+- Ali Sina
+- Wakil Ahmad
+- Khoshal
+- Sami Ullah
+- Shahidullah
+- Shahwali
+- Rahmat Ullah
+- Sadiqullah
+- Saifurahman
+- Khalil Ahmad
+- Homayoun
+- Mehr
+- Abdul Hamid
+- Abdul Jalil
+- Hares
+- Naseer Ahmad
+- Afg
+- Barakatullah
+- Noor Agha
+- Saranwal
+- Azizahmad
+- Ershad
+- Hijrat
+- Fazlullah
+- Hazratullah
+- Khaliq
+- Abdul Basit
+- Bezhan
+- Mohammad Haroon
+- Ferdows
+- Malyar
+- Azatullah
+- Sayed Ali
+- Raes
+- Mohammad Nabi
+- Abdul Latif
+- Gul Ahmad
+- Rahimi
+- Mohammad Rafi
+- Baryali
+- Qurban
+- Jamaluddin
+- Babur
+- Ziarmal
+- Abozar
+- Nazif
+- Shirahmad
+- Ruhullah
+- Fakhruddin
+- Ferdous
+- Mohabat
+- Amiri
+- Valy
+- Babrak
+- Ahmad Jawed
+- Darwish
+- Nooruddin
+- Sudais
+- Islamuddin
+- Asmail
+- Toofan
+- Ahmad Jawad
+- Bacha Gak
+- Arbab
+- Ali Khan
+- Tabish
+- Abdulhakim
+- Abdul Ghafar
+- Faiz Mohammad
+- Nazifullah
+- Mohammad Nasim
+- Ferooz
+- Wares
+- Inamullah
+- Abdul Ghafoor
+- Sobhan
+- Abdul Qader
+- Azimullah
+- Mohammad Fahim
+- Abdul Matin
+- Omed
+- Kayhan
+- Ahmad Seyar
+- Maihan
+- Ahmad Farhad
+- Abdulsamad
+- Ulfat
+- Ikramullah
+- Abdulbasit
+- Haje
+- Juma Khan
+- Zikrullah
+- Abdul Wahed
+- Noor Rahman
+- Mohammad Naser
+- Khodadad
+- Sherzad
+- Ziaurahman
+- Abdul Satar
+- Bahir
+- Sharafat
+- Taqi
+- Afshin
+- Rahmani
+- Abdulhai
+- Abdulbari
+- Abdulsaboor
+- Zabi Ullah
+- Sefat
+- Kambiz
+- Wafiullah
+- Dilawar
+- Behrooz
+- Tofan
+- Abdulmanan
+- Abdul Bari
+- Najeb
+- Rayes
+- Lemar
+- Shuja
+- Saidullah
+- Saliman
+- Sabor
+- Khanagha
+- Zadran
+- Obidullah
+- Baryal
+- Siawash
+- Baqir
+- Abdul Majid
+- Abdulwahed
+- Abdul Jabar
+- Nawroz
+- Nawed
+- Ashiqullah
+- Shah Mohammad
+- Shirshah
+- Mohammad Naim
+- Shabeer
+- Anayat
+- Alyas
+- Salaam
+- Delawar
+- Mirahmad
+- Mohammad Akbar
+- Abasin
+- Bashirahmad
+- Taj Mohammad
+- Hassib
+- Jumakhan
+- Abdul Majeed
+- Yaqub
+- Humayoon
+- Ahmad Khan
+- Naimatullah
+- Abdul Rashid
+- Alijan
+- Haqmal
+- Ismatullah
+- Khaibar
+- Mohammad Dawood
+- Mohammad Saber
+- Modaser
+- Jan Mohammad
+- Bakht
+- Ali Akbar
+- Saeedullah
+- Mohammadali
+- Abidullah
+- Abdulqadir
+- Ghulam Nabi
+- Abdul Ghani
+- Afgan
+- Kanishka
+- Homayon
+- Sonil
+- Abdul Bashir
+- Waisuddin
+- Janagha
+- Ashuqullah
+- Mohammad Nasir
+- Fridoon
+- Qandagha
+- Abdulsatar
+- Naimat
+- Zubir
+- Wasiq
+- Muqadas
+- Abdul Haq
+- Nimatullah
+- Habib Rahman
+- Rameen
+- Abdul Raziq
+- Amirullah
+- Naseebullah
+- Massi
+- Rokhan
+- Nazari
+- ﺭﻭﺡ ﺍﻟﻠﻪ
+- Ahmad Zaki
+- Baryalay
+- Bache
+- Rabani
+- Wahdat
+- Sharafuddin
+- Ahmad Samim
+- Genral
+- Edriss
+- Fraidon
+- Sifat
+- Wasil
+- Yonus
+- Zaland
+- Din Mohammad
+- Faridahmad
+- Sayed Mohammad
+- Mohammad Sadiq
+- Shir Ahmad
+- Sta
+- Nesarahmad
+- Hashimi
+- Besmillah
+- Hasanat
+- Abdul Jamil
+- Abuzar
+- Saadat
+- Baitullah
+- Raqib
+- Abdulqader
+- Asad Ullah
+- Aqbal
+- Bakhtullah
+- Wasiullah
+- Ahsan Ullah
+- Fazalhaq
+- Mohammad Khalid
+- Mohammad Azim
+- Mohammad Omar
+- Habibrahman
+- Nisarahmad
+- Besmullah
+- Izatullah
+- Noormohammad
+- Abdul Mateen
+- Amir Mohammad
+- Muzamel
+- Shafiq Ullah
+- Basirahmad
+- Abdul Sami
+- Hejran
+- Shahmahmood
+- Gulahmad
+- Ahmad Zubair
+- Sorosh
+- Ajab
+- Sheer
+- Qayum
+- Shoib
+- Hamayun
+- Khorshid
+- Abdul Ali
+- Wahid Ullah
+- Gulrahman
+- Mohammad Wali
+- Shahpoor
+- Sear
+- Ali Mohammad
+- Mohammad Hussain
+- Rohollah
+- Wahedullah
+- Mohammad Jawad
+- Wardak
+- Faraidoon
+- Hakimullah
+- Gul Mohammad
+- Mohammad Yasin
+- Eltaf
+- Mahfooz
+- Saifuddin
+- Rukhsar
+- Jahanzeb
+- Amir Khan
+- Sameem
+- Namat
+- Burhanuddin
+- Abdulghani
+- Khaksar
+- Arifullah
+- Zazai
+- Abaseen
+- Khan Agha
+- Shakirullah
+- Hanifullah
+- Kefayatullah
+- Ahmad Nawid
+- M Haroon
+- Shawali
+- Mohammad Anwar
+- Pasoon
+- Mohammad Qasim
+- Abdul Fatah
+- Abdul Wakil
+- Mohammad Shafi
+- Mohammad Jan
+- Ahmad Shoaib
+- Razaq
+- Faqir
+- Saraj
+- M Arif
+- Alikhan
+- Kamaluddin
+- Wali Khan
+- M Amin
+- M Sharif
+- Baser
+- Samandar
+- Ainullah
+- Najib Ullah
+- Modasir
+- Momand
+- Mozamel
+- Abobaker
+- Safi Ullah
+- Abdulraziq
+- Norullah
+- Amruddin
+- Lal Mohammad
+- Shir Mohammad
+- Moshtaq
+- Nasrat Ullah
+- Habiburahman
+- Temor
+- Rateb
+- Wahid Ahmad
+- Mujeebullah
+- Tajuddin
+- Abdul Sattar
+- Taib
+- Ali Jan
+- Abdul Razaq
+- Allahdad
+- Ebad
+- Hanzala
+- M Dawood
+- Khair Mohammad
+- Ashoqullah
+- Zulmai
+- Mohammad Ibrahim
+- Sayed Abdullah
+- Abdul Qahar
+- Rohallah
+- Samsor
+- Abdul Khalil
+- Jahanzib
+- Fazlahmad
+- Bakhtiar
+- Izat
+- Ashaq
+- Ali Asghar
+- Himat
+- Qayoom
+- Abdul Qadeer
+- Tawhid
+- Sanjar
+- Khudadad
+- Abadullah
+- Shamsulhaq
+- Obaid Ullah
+- M Rahim
+- Basharmal
+- Sardarwali
+- Ahmad Tamim
+- Ahmad Shekib
+- Ahmadwali
+- Mir Ahmad
+- Maseeh
+- Moein
+- Faiz Ahmad
+- Nazirahmad
+- Tamkin
+- Nasar Ahmad
+- Pacha
+- Abdul Hai
+- Mohammad Naeem
+- Jomakhan
+- Shabir Ahmad
+- Ghulam Hazrat
+- Bismullah
+- Khairuddin
+- Islamudin
+- Sayed Mustafa
+- Hamid Ullah
+- Bismellah
+- Kefayat
+- Mehrullah
+- Shamsudin
+- Hayat Ullah
+- Hashmat Ullah
+- Mohammad Ajmal
+- Naeim
+- Abdulghafar
+- Ewaz
+- Haji Abdul
+- Sabawon
+- Selab
+- Sodais
+- Edress
+- Folad
+- Massih
+- Nangyalai
+- M Asif
+- Abdulrazaq
+- Farmanullah
+- Niazi
+- Barat
+- Bachi
+- Zalmi
+- Abdul Baset
+- Farmanda
+- Mobasher
+- Gul Rahman
+- Shah Mahmood
+- Roheed
+- Mohammad Ullah
+- Gulagha
+- Mohammad Hanif
+- Azizrahman
+- Ahmad Milad
+- Abdul Qayum
+- Dost Mohammad
+- Mahbobullah
+- M Reza
+- Abdulwasi
+- Ahmad Jan
+- Abdulsami
+- Abdul Rauf
+- Muhabat
+- Eqbal
+- Salahudin
+- Sadullah
+- Ghulam Rasool
+- Gran
+- M Nabi
+- Ab Rahman
+- Toba
+- Noorahman
+- Sebghat
+- Fathullah
+- Ansarullah
+- Yar Mohammad
+- Fazalrahman
+- Mohammad Hashim
+- Meelad
+- Abdul Waris
+- Pahlawan
+- Naqib Ullah
+- Mohammad Aref
+- Tajmohammad
+- Poya
+- Tawheed
+- Azimi
+- Aziz Rahman
+- Wase
+- Timor
+- Khesraw
+- Shershah
+- Abdul Hameed
+- Pakhtoon
+- M Hussain
+- Noor Ullah
+- Najebullah
+- Rasoul
+- Zubaid
+- Najmudin
+- Mohammad Hassan
+- Khirullah
+- Qahar
+- Mohammad Shah
+- Shiragha
+- Murteza
+- Pamir
+- Mohammad Zahir
+- Mohammadreza
+- Neamatullah
+- Ahmad Naweed
+- Baqer
+- Ainuddin
+- Rabiullah
+- Siar
+- M Rafi
+- Soraj
+- Mohammad Ashraf
+- Baloch
+- Najeem
+- Aliakbar
+- Noor Muhammad
+- Siyar
+- Najeeb Ullah
+- Shahim
+- Walikhan
+- Jan Agha
+- Fazal Rahman
+- Fahimullah
+- Dilagha
+- Gulmohammad
+- Ghafor
+- Sayed Reza
+- Saidrahman
+- Shiraqa
+- Said Ahmad
+- Sardar Wali
+- Lotfullah
+- Serat
+- Aemal
+- Mujibullah
+- Monib
+- Ezzatullah
+- Jasoor
+- Nazar Mohammad
+- Khalilahmad
+- Shukran
+- Rishad
+- Khanzada
+- Marhaba
+- Obid
+- Abduljalil
+- Ajab Khan
+- Abdul Ahmad
+- Mohammad Yousuf
+- Enamullah
+- Noorrahman
+- Mohammad Zia
+- Ahmad Ullah
+- Khanmohammad
+- Anayatullah
+- Mohammad Zaman
+- Ruhollah
+- Daryosh
+- Atiq Ullah
+- Farzam
+- Sayed Mahdi
+- Hussain Ali
+- Haidari
+- Hotak
+- Karimi
+- Dadullah
+- Mohammad Nader
+- Shaiq
+- Abdulmatin
+- Mohammad Ehsan
+- ﻋﺒﺪﺍﻟﻮﺍﺣﺪ
+- Mohammad Edris
+- Pardes
+- Sayed Rahman
+- Shamsurahman
+- Ghulam Mohammad
+- Shokor
+- Hasamuddin
+- Wakilahmad
+- Nezamuddin
+- Mohammad Aman
+- Wakeel
+- Nizamuddin
+- Asif Khan
+- Sidiq
+- Alam Khan
+- Noorali
+- Rohin
+- M Ibrahim
+- Sheragha
+- Waheed Ullah
+- Barish
+- Khanwali
+- Hijran
+- Qahir
+- Abdulbaqi
+- Rahim Ullah
+- Mohammad Shoaib
+- Niaz Mohammad
+- Ahmad Bilal
+- M Nasim
+- Frogh
+- Alidad
+- Serajuddin
+- Eid Mohammad
+- Sayed Murtaza
+- Zahid Ullah
+- Miragha
+- Rasool Khan
+- Abdul Azim
+- Abdul Hafiz
+- Abdulkhalil
+- Qayoum
+- Ehsan Ullah
+- Ahmad Faisal
+- Hassibullah
+- Zala
+- Farden
+- Hasib Ullah
+- Wali Mohammad
+- Mahboob
+- Jan Jan
+- Aman Ullah
+- Gulwali
+- Bilal Ahmad
+- Hafeezullah
+- Shafi Ullah
+- Abdulghafoor
+- Qurban Ali
+- Amini
+- Zabih Ullah
+- Sediqi
+- Nawidullah
+- Abdul Kabir
+- Nangialai
+- Abdulqahar
+- Khal Mohammad
+- Sabaoon
+- Mohammad Shafiq
+- Tabesh
+- Ehsas
+- Mohammad Agha
+- Khan Wali
+- Mirwis
+- Mohammad Mustafa
+- Ahmad Omid
+- Hejrat
+- Ahmadfarid
+- Silab
+- Hamedullah
+- Azizurahman
+- Sakhidad
+- Raz Mohammad
+- Khaiber
+- Shirali
+- Shirzai
+- Jalilahmad
+- Esmat Ullah
+- Qaher
+- Imran Khan
+- Laiq
+- Khial
+- Mashooq
+- Zabit
+- Inayatullah
+- M Ishaq
+- Sekandar
+- Zainuddin
+- M Khalid
+- Gul Khan
+- Khan Muhammad
+- Rafi Ullah
+- M Akbar
+- M Anwar
+- Abdulwakil
+- Noorudin
+- Mohammad Karim
+- Abdulrashid
+- Aziz Ullah
+- Mohammad Kabir
+- Mohammad Tahir
+- Rafiqullah
+- Nik Mohammad
+- Mohammad Asef
+- Fazluddin
+- Saidahmad
+- Khudaidad
+- Qudrat Ullah
+- Mohammad Zarif
+- Zamari
+- Razmohammad
+- Shinwari
+- Fareedullah
+- Polad
+- Mohammad Khan
+- Abdul Raouf
+- Sameullah
+- Ahmad Farzad
+- Ghulamsakhi
+- Herat
+- Akhtar Mohammad
+- Ahmad Reza
+- Khpalwak
+- Sadruddin
+- Mohammad Rahim
+- Faizahmad
+- Ahmad Walid
+- Ateeq
+- Saif Ullah
+- Abdul Waheed
+- Shaber
+- Ajmir
+- Kalimullah
+- Wajed
+- Alishah
+- Gulkhan
+- Mashoq
+- Razeq
+- Sharif Ullah
+- Hoshang
+- Hakimi
+- Adam Khan
+- Komail
+- Wafadar
+- Baz Mohammad
+- Shirmohammad
+- Ganral
+- Lalmohammad
+- Lalagha
+- Mohammad Taher
+- Khairmohammad
+- Allahmohammad
+- Hafiz Ullah
+- Shujauddin
+- M Omar
+- Zaidullah
+- Haji Khan
+- Ashuq
+- Nayeb
+- Mohammad Ishaq
+- Eimal
+- Mohammad Bashir
+- Yazdan
+- Noorzai
+- Mozamil
+- Mayel
+- Haji Abdullah
+- Mohammad Sadeq
+- Abduljabar
+- Merajuddin
+- Sarshar
+- Abdul Baqi
+- Marof
+- Ab Saboor
+- Samiulhaq
+- Mohammad Osman
+- Zakiullah
+- Kifayat
+- Jamsheed
+- Mazar
+- Khyal
+- Faizi
+- Sherali
+- Noor Khan
+- Humayon
+- Amirkhan
+- M Naeem
+- M Qasim
+- Mukhlis
+- Sibghat
+- Bais
+- Shahmohammad
+- Mojeb
+- Abdulbaset
+- Qiamuddin
+- Said Rahman
+- Nangialy
+- Hidayat Ullah
+- Abduljamil
+- Mushtaq Ahmad
+- Muhammad Nabi
+- Seddiq
+- Shirkhan
+- Khoshhal
+- Sultan Ahmad
+- Haji Ahmad
+- Edres
+- Zelgai
+- Muhebullah
+- Eiraj
+- Mohammad Qasem
+- Sadaat
+- Abdulfatah
+- Fazl Ahmad
+- Hikmat Ullah
+- Tooryalai
+- Mohammad Aslam
+- Firooz Ahmad
+- Mubasher
+- Ustad
+- Hasrat
+- Naib
+- Ajmeer
+- Nasir Khan
+- Amir Ali
+- Dewana
+- Gul Muhammad
+- Musawir
+- Abdulali
+- Mohammad Salim
+- Yaqob
+- Haqyar
+- Frotan
+- Khushhal
+- Mohammad Omer
+- Seyam
+- Fazal Rabi
+- Sibghatullah
+- Mubariz
+- Barialy
+- Ghulam Haidar
+- Maqsoud
+- Masuod
+- Saifudin
+- Naser Ahmad
+- Gul Agha
+- Toryali
+- ﹺﹺ
+- ﺟﻤﻌﻪ ﺧﺎﻥ
+- Hujatullah
+- Rizwanullah
+- Khalil Rahman
+- Ahmadkhalid
+- Angar
+- Delagha
+- Fawad Ahmad
+- Mohammad Rafiq
+- Raess
+- Zahin
+- Haji Gul
+- Ziaullhaq
+- Mohammad Yousaf
+- Mateullah
+- Abdulqadeer
+- Mohmand
+- Parwan
+- Sayed Mujtaba
+- Janaqa
+- Nooraqa
+- Abdulhay
+- Masiullah
+- Rohed
+- Ostad
+- Fridon
+- Rokay
+- Kakar
+- M Sadiq
+- Towfiq
+- Sayed Hamid
+- Ahmad Rashid
+- Bilal Khan
+- Zarwali
+- Sher Khan
+- M Ismail
+- Wadood
+- Sorab
+- Idress
+- Mohammad Taqi
+- Wadan
+- Mirhamza
+- Mohammad Salem
+- Mehraban
+- Bazmohammad
+- Mohammad Zaher
+- Mohammad Noor
+- Pashton
+- Janat Gul
+- Mohammad Ismail
+- Hakmatullah
+- Said Mohammad
+- Srosh
+- Hematullah
+- Hekmat Ullah
+- Nasirullah
+- Ahsas
+- Hizb
+- Hejratullah
+- Farid Ullah
+- Awalkhan
+- Hezb Ullah
+- Ghairat
+- Shah Wali
+- Abdulnasir
+- Noorallah
+- Sharifi
+- Abolfazl
+- Ahmadsha
+- Stanikzai
+- Sayed Jawad
+- Monir Ahmad
+- Mohammad Nazir
+- Moqim
+- Abdul Nasir
+- Saidagha
+- Sayed Dawood
+- M Yasin
+- Mohammad Rasool
+- Ahmad Sohail
+- Shekeb
+- Allahnazar
+- Muheb
+- Nangyali
+- Mohammad Halim
+- Sayed Khalil
+- Nasimullah
+- Hadid
+- Naweedullah
+- Khalilrahman
+- Ashoq
+- Barialay
+- Janmohammad
+- Ahmad Ramin
+- Mohammad Jawid
+- Gulbadin
+- Ahmad Fayaz
+- Khowaja
+- Zubaidullah
+- Besmallah
+- Kihan
+- Fayeq
+- Wazir Ahmad
+- Sharif Ahmad
+- Hamasa
+- M Shafi
+- Abdulbashir
+- Bahadar
+- Shukoor
+- Qadar
+- Raqeeb
+- M Ashraf
+- Mujeeb Rahman
+- Hazrat Ali
+- Parwaiz
+- Sherkhan
+- Haji Muhammad
+- Yousaf Khan
+- Abdul Shakoor
+- Irfan Ullah
+- M Hassan
+- Allahyar
+- Ghulam Ali
+- Zobir
+- Sayed Habib
+- Adamkhan
+- Ziaudin
+- Mohammadnabi
+- Noorwali
+- Mohammad Kazim
+- Millad
+- ﺧﺎﻥ ﻣﺤﻤﺪ
+- Hazbullah
+- Sultan Mohammad
+- Sayed Rohullah
+- Mohammad Farid
+- ﺣﺰﺏ ﺍﻟﻠﻪ
+- Batoor
+- Khaliqdad
+- Nikzad
+- Abdulrazeq
+- Torialay
+- Mohammad Ebrahim
+- Morid
+- Abdulrab
+- Dinmohammad
+- Mati Ullah
+- Haji Hamid
+- Rahman Ullah
+- M Hamid
+- Sabrullah
+- Mohammad Baqer
+- Nikmohammad
+- Temorshah
+- Wasiqullah
+- Mobarez
+- Hakmat
+- Omeed
+- Khan M
+- Said Agha
+- Ghaibullah
+- Nowroz
+- Drs
+- Mobashir
+- Mohammad Aziz
+- Roheen
+- Emra
+- Seyawash
+- Habiburrahman
+- Farhadullah
+- Neman
+- Ezat Ullah
+- Ghorzang
+- Mureed
+- Khan Khan
+- Sher Ali
+- Abdulrauf
+- Intezar
+- Bawar
+- Bahader
+- Asmat Ullah
+- Humayoun
+- Muhammad Amin
+- Allahnoor
+- Hamraz
+- Mohammadjan
+- Safat
+- Sarajuddin
+- Ab Qader
+- Zahirshah
+- Ziaurrahman
+- Fida Mohammad
+- Toryalay
+- Gulabuddin
+- Mohammad Gul
+- Munir Ahmad
+- Janm
+- Awal Khan
+- Ahmad Samir
+- Khayber
+- Fazalrabi
+- M Azim
+- Fazel Rahman
+- Abdul Baseer
+- Anwarullah
+- Noorani
+- Hazrat Shah
+- Abdul Wadood
+- Safatullah
+- Sayed Haroon
+- Aqa
+- Haseb
+- Sayed Hassan
+- Abdul Tawab
+- Mohammad Omid
+- Sejad
+- Mawluddin
+- Zikria
+- Ahmad Shakib
+- Akbari
+- Hamidulla
+- Fazalhadi
+- Ahmadjan
+- Sultani
+- M Jawad
+- M Fahim
+- Sidiqullah
+- Sayed Akbar
+- Gholam Sakhi
+- Khodaidad
+- Haji Farid
+- Baqi
+- Abdul Hanan
+- Dil Agha
+- Shakeb
+- Shoja
+- Adibullah
+- Sher Shah
+- Ahmad Parwiz
+- Ahmadfawad
+- Sirat
+- Maseh
+- Mohammad Ramin
+- Abdul Naser
+- Orfan
+- Nasruddin
+- Ghullam
+- M Tariq
+- Ajmal Khan
+- M Hanif
+- Azghar
+- Shoiab
+- Emraan
+- Multan
+- Qalandar
+- Ihsan Ullah
+- Ali Shah
+- Bostan
+- Talash
+- Mahram
+- Sanm
+- Asadulla
+- Jan Muhammad
+- Sayed Hussain
+- Azmatullah
+- Rahimgul
+- Hameed Ullah
+- Nazrullah
+- Majnoon
+- Khalmohammad
+- Dostmohammad
+- Amin Ullah
+firstnames_female:
+- Bahar
+- Sadaf
+- Sanam
+- Roya
+- Bano
+- Yalda
+- Neda
+- Shabnam
+- Tamana
+- Mahsa
+- Shir
+- Asra
+- Nargis
+- Freshta
+- Banoo
+- Dunya
+- Zuhal
+- Shadokht
+- Shadukht
+- Arezo
+- Morsal
+- Ferdaws
+- Setayesh
+- Asal
+- Nazanin
+- Nilofar
+- Zohal
+- Narges
+- Alham
+- Mahnaz
+- Maisam
+- Khatera
+- Anosh
+- Muska
+- Bahara
+- Tahmina
+- Sosan
+- Manizha
+- Payman
+- Marzia
+- Hasenat
+- Muzhgan
+- Nilab
+- Hosna
+- Yasna
+- Shahdokht
+- Elaha
+- Parwana
+- Frozan
+- Elnaz
+- Frishta
+- Hemat
+- Arzoo
+- Yasamin
+- Usra
+- Hasti
+- Moqadas
+- Sohaila
+- Palwasha
+- Dawlat
+- Negin
+- Zuhra
+- Nelofar
+- Sediqa
+- Najiba
+- Paiman
+- Nooria
+- Harir
+- Muzhda
+- Asenat
+- Tabasom
+- Parwin
+- Nazifa
+- Nafas
+- Waslat
+- Feda
+- Heela
+- Masooma
+- Shahdukht
+- Kainat
+- Nimat
+- Masoma
+- Ziba
+- Wazhma
+- Shafiqa
+- Anosha
+- Shakiba
+- Farahnaz
+- Pardis
+- Shukria
+- Setara
+- Arzo
+- Tabasum
+- Rokhsar
+- Armaghan
+- Nastaran
+- Dokhtarak
+- Hadis
+- Shogofa
+- Maroo
+- Behishta
+- Zamary
+- Noor Ali
+- Zarghona
+- Asoo
+- Atifa
+- Rohina
+- Khatira
+- Roqia
+- Fatana
+- Beheshta
+- Negina
+- Benafsha
+- Zenat
+- Shekiba
+- Mahboba
+- Eshwa
+- Shokria
+- Basira
+- Mahya
+- Sodaba
+- Zarmina
+- Jumagul
+- Kayenat
+- Mozhgan
+- Nasiba
+- Hasinat
+- Fareshta
+- Negah
+- Sweeta
+- Nazila
+- Efat
+- Mozhda
+- Gulalai
+- Mahdia
+- Masouda
+- Shafaq
+- Friba
+- Moska
+- Shokran
+- Barin
+- Mehria
+- Saghar
+- Seerat
+- Farishta
+- Nehan
+- Yagana
+- Qudsia
+- Hareer
+- Nazdana
+- Farkhunda
+- Malalai
+- Metra
+- Ellaha
+- Farshta
+- Nelab
+- Setaish
+- Hosai
+- Shagha
+- Tajala
+- Krishma
+- Husnia
+- Firoza
+- Farima
+- Zarlasht
+- Yasra
+- Leeda
+- Wagma
+- Ozra
+- Zarifa
+- Khoshi
+- Satayesh
+- Fakhria
+- Harer
+- Hoora
+- Pakiza
+- Frohar
+- Tarawat
+- Rokai
+- Dukhtarak
+- Oranos
+- Aqila
+- Niloo
+- ﻓﺮﺷﺘﻪ
+- Khanom
+- Dokhtar
+- Hamta
+- Masooda
+- Brishna
+- Homaira
+- Farkhonda
+- Hadisa
+- Najeba
+- Deeba
+- Tayeba
+- Giti
+- Razma
+- Najila
+- Atefa
+- Freba
+- Laleh
+- Gozal
+- Najeeba
+- Mehrsa
+- Armita
+- Farwa
+- Shamali
+- Nelam
+- Bibi Haji
+- Homira
+- Ahoo
+- Arozo
+- Feroza
+- Ghezal
+- Taranom
+- Talwasa
+- Khoshbo
+- Faryal
+- Hangama
+- Nadima
+- Firdaws
+- Setayish
+- Malali
+- Bareen
+- Malalay
+- Arghawan
+- Samana
+- Shaqayeq
+- Shamsia
+- Parasto
+- Deyana
+- Mozhdah
+- Farangis
+- Sadf
+- Angiza
+- Sarwari
+- Stara
+- Rangina
+- Parniyan
+- Afsoon
+- Madeena
+- Sharbat
+- Sayeeda
+- Tooba
+- Geety
+- ﺑﻬﺎﺭ
+- Shugofa
+- Kaynat
+- Meetra
+- Zamzama
+- Murwarid
+- Shazya
+- Fardina
+- Jailan
+- Guzal
+- Omida
+- Behshta
+- Somaye
+- Dokht
+- Fereshta
+- Gity
+- Mezhgan
+- Parween
+- Nosrat
+- Breshna
+- ﺍﺟﻤﻞ
+- Parnian
+- Sa Na
+- Tazagul
+- Storay
+- Satara
+- Dokhi
+- Zalma
+- Neelab
+- Shadkht
+- Pashtana
+- Hasty
+- Helay
+- Needa
+- Staish
+- Asnat
+- Lailuma
+- Tamken
+- Forozan
+- Khushbo
+- Sadiqa
+- Aqela
+- Alnaz
+- Moskan
+- Mastora
+- Spozhmai
+- Nargas
+- Nigin
+- Arazo
+- Fardows
+- Dokhtark
+- Nigina
+- Orya
+- Hemmat
+- Bahaar
+- Spogmai
+- Kohistani
+- Rangin
+- Sughra
+- Behtar
+- Hussna
+- Morwarid
+- Tamna
+- Hä
+- Katayon
+- Elhaam
+- Zolal
+- Khatima
+- Benazer
+- Gulsom
+- Andisha
+- Khanoom
+- Zulal
+- Neyayesh
+- Paresa
+- Lailoma
+- Forogh
+- Qadria
+- Zakera
+- Helai
+- Arezu
+- Banafsha
+- Sabna
+- Geeti
+- Eftikhar
+- Massoma
+- Tahora
+- Farashta
+- Froozan
+- Khanm
+- Nastran
+- Anargul
+- Yakta
+- Azmary
+- Sozha
+- Spozhmay
+- Elinaz
+- Kreshma
+- Feriba
+- Mohadesa
+- Ezha
+- Hasunat
+- Nazaneen
+- ﻓﺎﻃﻤﻪ
+- Ashwa
+- Neyaish
+- Kunduz
+- Doshiza
+- Nazanen
+- Roia
+- Niayesh
+- Mehrmah
+- ﺳﺘﺎﻳﺶ
+- Rukhshana
+- Storai
+- Arizo
+- Farzanah
+- Sadna
+- Quëën
+- Shadokhat
+- Dorsa
+- Engila
+- Azada
+- Mahwash
+- Suhilla
+- Kahkashan
+- Frashta
+- Behtarin
+- Tahoora
+- Muzh
+- Maqbolak
+- Zarghuna
+- Razya
+- Froogh
+- Sana Gul
+- Yasreb
+- Khatara
+- Mà
+- Nazoo
+- Tamkeen
+- Muzhdah
+- Humira
+- Gulzada
+- Neelo
+- Samimi
+- Baano
+- Norya
+- Asanat
+- Noorjan
+- Osra
+- Elhama
+- Lalai
+- ﺩﺧﺘﺮﻙ
+- Ziagul
+- Mehrma
+- Soghra
+- Gite
+- Shukib
+- Mehry
+- Wesa
+- Pirncess
+- Aseya
+- Šã
+- Weeda
+- Sharzad
+- Gisoo
+- ﻣﻬﺴﺎ
+- Ganan
+- Rezwana
+- Lovely Gak
+- Sudaba
+- Tajalla
+- Aynaz
+- Sadaf Jan
+- Aahoo
+- Sataish
+- ﮔﻞ
+- Afson
+- Oranus
+- Nozhat
+- Ghezala
+- Barana
+- Setaysh
+- Qandi
+- Aqlima
+- Yasrib
+- Barfin
+- Hooria
+- Hafasa
+- Rahmana
+- Somayah
+- Mersana
+- Najlla
+- Shadukhtak
+- Yasamen
+- Masoomeh
+- Mehrna
+- Mawloda
+- Ro Ya
+- Bilqees
+- Sotoda
+- Ferishta
+- Orzala
+- Ğh
+- Paimana
+- Fareba
+- Zohrah
+- Hamrah
+- Ellham
+- Aseman
+- Yesna
+- Noorya
+- Nahan
+- Ferdws
+- Fereshte
+- Princss
+- Masoomah
+- Rohafza
+- Hā
+- Shah Dukht
+- Ferdouse
+- Nargiss
+- Dokhter
+- Mâ
+- Marhamat
+- Dinez
+- Zahra Jan
+- Hamesha
+- Shah Dokht
+- Shuhra
+- Oranoos
+- Hå
+- Hamisha
+- Sazia
+- Gety
+- Nekhat
+- Shogufa
+- Jàn
+- Shadakht
+- Fazela
+- Paymana
+- Taranum
+- Qandolak
+- Mansoora
+- Yegane
+- Yasameen
+- Mehrana
+- Parwen
+- Mehrin
+- Šâ
+- Fruzan
+- ﺻﺪﻑ
+- Omulbanin
+- Baheshta
+- Aylar
+- Sana Jan
+- Sa Mi
+- Sana Khan
+- Agmal
+- El Ham
+- Trena
+- Falwasha
+- Simeen
+- ﻣﻠﻜﻪ
+- Ýalda
+- ﻣﮋﮔﺎﻥ
+- Tareen
+- Gullalai
+- Farht
+- Ferdoos
+- Neloofar
+- Golsom
+- Rokhshana
+- Parneyan
+- Sangari
+- Setayash
+- Salgy
+- Zholi
+- Khatra
+- Ozlam
+- Hamaas
+- ﻋﺰﯾﺰ
+- Barati
+- Naemat
+- Shohra
+- R Jan
+- Eqlima
+- Sataysh
+- Safora
+- Śø
+- Massuma
+- ﻧﺎﺩﻳﻪ
+- Faieza
+- Gulaly
+- Sidiqa
+- ﺁﺭﺯﻭ
+- Zawan
+- Frahnaz
+- Sorgul
+- Naz Jan
+- Jaweria
+- Bahin
+- Pakhtana
+- Layluma
+- Marzeya
+- Shukiba
+- Gawharshad
+- ﺑﻬﺸﺘﻪ
+- Jalwa
+- Monaza
+- Fareshtah
+- Aynoor
+- Engal
+- Nä
+- Salgai
+- Mehrnosh
+- Nasimah
+- Serwat
+- Manija
+- Somaira
+- Zooya
+- Pranses
+- Sanaee
+- Łøÿ
+- Midwife
+- Zarefa
+- Awezha
+- Zulikha
+- Stayash
+- Arshida
+- Harira
+- ﻣﺮﯾﻢ
+- Zarafshan
+- Farnosh
+- Mansora
+- Shadoukht
+- Prancess
+- Gulpanra
+- Shekeba
+- Mushtari
+- Nazii
+- Wezha
+- Mahjabin
+- Toorpekai
+- Wranga
+- Godi Gak
+- Farangiz
+- Noorin
+- Shaqaiq
+- Kaenat
+- Mahdis
+- Mar Wa
+- Frshta
+- Ghezaal
+- Rawina
+- ﻓﻴﺮﻭﺯ
+- Almaas
+- Azmoon
+- Tawala
+- Masome
+- Mir Abdul Qahar
+- Nedah
+- Nawida
+- Hadesa
+- Raheal
+- Hariwa
+- Surraya
+- Zaitoon
+- Ša
+- Qazal
+- Sheja
+- Golsum
+- Râh
+- Alaha
+- Saiema
+- Şa
+- Shakeba
+- Mehro
+- Ahdia
+- Mehroma
+- Sedeqa
+- Soraiya
+- Roona
+- Motahara
+- Shbnam
+- Mahrokh
+- Sabargul
+- Faranaz
+- Forouhar
+- Haseba
+- Bahishta
+- Pirancess
+- Gulsoom
+- Pariwash
+- Andesha
+- Wajma
+- Båhår
+- Fershta
+- Stayesh
+- Marziye
+- Šä
+- Qüeeñ
+- Sahraa
+- Tamoo
+- Mohadisa
+- Ponam
+- Ozma
+- Meherma
+- Morowat
+- Zarmena
+- Sanajan
+- Princese
+- Masouma
+- Zarghoona
+- Aysoon
+- Tahiry
+- Fardws
+- Deewa
+- Silsila
+- Marmarin
+- Morwat
+- Sa Har
+- Ramika
+- Binazir
+- Farhnaz
+- Shadukhat
+- Hogai
+- Asma Jan
+- Parkha
+- Nazilla
+- Zelaikha
+- Forohar
+- Trawat
+- Dukhtark
+- Wassy
+- Pransis
+- Gulabo
+- Harier
+- Maryam Jan
+- Eqra
+- Bheshta
+- Nazya
+- Mæ
+- Shadukt
+- Mahria
+- Shahzia
+- Asoda
+- Forugh
+- Masoda
+- Beshta
+- Nigena
+- Shdokht
+- Mahnaaz
+- Eilham
+- Neayesh
+- Marzya
+- Shallah
+- Ainaz
+- Ainoor
+- Khatema
+- Marsana
+- Aarzo
+- Shahdokhtak
+- Parwize
+- Yildız
+- Samren
+- Shegofa
+- Noorullain
+- Mehrzada
+- Barshna
+- Ahoo Gak
+- Sõ
+- Khush Hal
+- Shkeba
+- Bihishta
+- Harveen
+- Pareesa
+- Zwand
+- Maishat
+- Gandom
+- Shkiba
+- Havaa
+- Ensia
+- Zufnoon
+- Massuda
+- Said Farooq
+- Sazada
+- Negeen
+- Ba Har
+- Ghlam Sakhi
+- Kishwer
+- Enaiat
+- Sajed Ullah
+- Sahsr
+lastnames:
+- Ahmadi
+- Jan
+- Afghan
+- Safi
+- Mohammadi
+- Noori
+- Sadat
+- Azizi
+- Rahimi
+- Tanha
+- Amiri
+- Ahmadzai
+- Karimi
+- Rahmani
+- Nazari
+- Ullah
+- Wafa
+- Azimi
+- Sultani
+- Habibi
+- Haidari
+- Hashimi
+- Sediqi
+- Shinwari
+- Hamdard
+- Amini
+- Hakimi
+- Akbari
+- Sharifi
+- Niazi
+- Momand
+- Hamidi
+- Faizi
+- Sahil
+- Shirzad
+- Zazai
+- Zadran
+- Hotak
+- Stanikzai
+- Hussaini
+- Sarwari
+- Wardak
+- Naz
+- Omari
+- Muradi
+- Arman
+- Kakar
+- Ahmady
+- Haidary
+- Nabizada
+- Mangal
+- Bahar
+- Sherzad
+- Hashemi
+- Ibrahimi
+- Rasooli
+- Qaderi
+- Alizada
+- Afg
+- Rasoli
+- Noorzai
+- Osmani
+- Muhammadi
+- Naseri
+- Danish
+- Samadi
+- Arab
+- Sarwary
+- Popal
+- Amiry
+- Samim
+- Shams
+- Anwari
+- Mohmand
+- Afzali
+- Fazli
+- Walizada
+- Wali
+- Armani
+- Moradi
+- Sahak
+- Jafari
+- Sahar
+- Nikzad
+- Rasa
+- Barakzai
+- Amani
+- Ahadi
+- Gak
+- Ebrahimi
+- Joya
+- Khaksar
+- Yousufi
+- Omid
+- Zamani
+- Faqiri
+- Rasuli
+- Kohistani
+- Sidiqi
+- Zia
+- Sadiqi
+- Sakhizada
+- Sadaat
+- Quraishi
+- Nawabi
+- Yaqubi
+- Hassani
+- Mayar
+- Nasiri
+- Nazary
+- Aryan
+- Wahidi
+- Faizy
+- Bayat
+- Salehi
+- Alokozay
+- Hemat
+- Yousufzai
+- Ayoubi
+- Hamraz
+- Waziri
+- Ghafoori
+- Yousofi
+- Mohammady
+- Talash
+- Zaheer
+- Mohamadi
+- Zada
+- Frotan
+- Haqyar
+- Aslami
+- Saadat
+- Parsa
+- Hashmi
+- Rezaie
+- Rashidi
+- Elham
+- Dost
+- Rezai
+- Halimi
+- Bakhshi
+- Malikzada
+- Jalali
+- Atal
+- Afshar
+- Dawlatzai
+- Niazai
+- Qasimi
+- Zaland
+- Ehsas
+- Rahmati
+- Rohani
+- Noory
+- Jami
+- Safari
+- Wahedi
+- Amarkhil
+- Naderi
+- Nasrat
+- Rahimy
+- Seddiqi
+- Haqmal
+- Qasemi
+- Popalzai
+- Ghafori
+- Sherzai
+- Sakhi
+- Mahmoodi
+- Hossaini
+- Rasooly
+- Ehsan
+- Qazizada
+- Majidi
+- Behzad
+- Latifi
+- Farahmand
+- Taheri
+- Azami
+- Aria
+- Kabul
+- Nezami
+- Siddiqi
+- Saeedi
+- Yousafzai
+- Akbary
+- Rasouli
+- Baloch
+- Ashna
+- Arian
+- Pjr
+- Jabarkhil
+- Alizai
+- Shirzai
+- Rajabi
+- Rahmany
+- Yar
+- Ayubi
+- Sahibzada
+- Khalili
+- Sadeqi
+- Mirzad
+- Akrami
+- Salarzai
+- Hafizi
+- Jamshidi
+- Parwani
+- Shamal
+- Samimi
+- Totakhil
+- Qarizada
+- Arsalan
+- Poya
+- Raufi
+- Laghmani
+- Shahab
+- Ghafari
+- Yosufi
+- Yaqoobi
+- Khaliqi
+- Hajizada
+- Tokhi
+- Mosavi
+- Ayobi
+- Mashal
+- Himat
+- Asadi
+- Farahi
+- Sharify
+- Saifi
+- Barak
+- Rasoly
+- Farhad
+- Ameri
+- Nori
+- Naimi
+- Sahel
+- Omary
+- Sayedi
+- Barekzai
+- Soltani
+- Khamosh
+- Kamawal
+- Rezaei
+- Kazimi
+- Sirat
+- Yaqobi
+- Nasiry
+- Hanifi
+- Balkhi
+- Durani
+- Salimi
+- Noorzad
+- Farooqi
+- Gull
+- Jalili
+- Kabuli
+- Bahrami
+- Afgan
+- Khanzada
+- Kazemi
+- Qadiri
+- Bigzad
+- Mirzada
+- Fazly
+- Almas
+- Afghanistan
+- Mandozai
+- Ahmade
+- Arash
+- Rahemi
+- Ghaznawi
+- Niazy
+- Pacha
+- Yusufi
+- Hamidy
+- Rasikh
+- Panjshiri
+- Sedeqi
+- Usmani
+- Nasery
+- Khosti
+- Mohabat
+- Rezaee
+- Safdari
+- Shenwari
+- Janan
+- Hazara
+- Najafi
+- Aimaq
+- Malikzai
+- Hosaini
+- Orya
+- Fayaz
+- Andar
+- Alkozay
+- Tasal
+- Wahdat
+- Faqirzada
+- Khostai
+- Mohseni
+- Miakhil
+- Turkmen
+- Hairan
+- Zarifi
+- Alamyar
+- Hameedi
+- Ahmadzi
+- Ulfat
+- Ahsas
+- Karimy
+- ﺧﺎﻥ
+- Shinwary
+- Nayab
+- Shafaq
+- Bawar
+- Nasimi
+- Asghari
+- Qurbani
+- Jabarkhail
+- Hamkar
+- Haydari
+- Sadid
+- Gholami
+- Zargar
+- Alimi
+- Atayee
+- Lodin
+- Ramin
+- Baheer
+- Saberi
+- Durrani
+- Paktiawal
+- Wazir
+- Malang
+- Jalalzai
+- Anwary
+- Ghanizada
+- Zai
+- Safai
+- Ahmadyar
+- Mamozai
+- Zafari
+- Erfan
+- Watandost
+- Serat
+- Nejrabi
+- Joon
+- Yousefi
+- Mukhlis
+- Turkman
+- Naqshbandi
+- Wesal
+- Hassanzada
+- Esmati
+- Saidy
+- Khurasani
+- Hazrati
+- Mubariz
+- Ihsas
+- Afghani
+- Zahed
+- Seerat
+- Ghulami
+- Totakhail
+- Katawazai
+- Mazari
+- Sakha
+- Farzam
+- Alkozai
+- Rasuly
+- Khosty
+- Rezayee
+- Mehraban
+- Kabiri
+- Rasekh
+- Murady
+- Saqib
+- Naaz
+- Hamedi
+- Alemi
+- Alizadah
+- Darman
+- Mobariz
+- Ghaznavi
+- Yari
+- Sofizada
+- Ataee
+- Bakhtyar
+- Barati
+- Naeemi
+- Abdulrahimzai
+- Haqjo
+- Neyazi
+- Ibrahimkhil
+- Mohmmadi
+- Khpalwak
+- Maroof
+- Tofan
+- Sediq
+- Amarkhail
+- Aminy
+- ﺗﻨﻬﺎ
+- Jawid
+- Mosawi
+- Mohammdi
+- Farzad
+- Nasari
+- Ehsani
+- Rahmat
+- Sekandari
+- Hasanzada
+- Yousofzai
+- Salar
+- Hossini
+- Baraki
+- Jawed
+- Nizami
+- Danesh
+- Zahiri
+- Enayat
+- Oria
+- Mehrabi
+- Mansoori
+- Shadab
+- Kotwal
+- Alizadeh
+- Hakimy
+- Faqiry
+- Ashrafi
+- Ayar
+- Panahi
+- Musazai
+- Hejran
+- Madadi
+- Sangar
+- Qarqin
+- Eshaqzai
+- Oryakhil
+- Qayoumi
+- Farhang
+- Fawad
+- Halak
+- Ebadi
+- Zurmati
+- Paiman
+- Rahime
+- Alokozai
+- Azimy
+- Mateen
+- Qurishi
+- Husaini
+- Hedayat
+- Habibzai
+- Wahidy
+- Temori
+- Mahmodi
+- Qalandari
+- Ghawsi
+- Sadaf
+- Abasi
+- Obaidi
+- Karemi
+- Malakzai
+- Rustami
+- Kargar
+- Qadery
+- Stanekzai
+- Yarzada
+- Qayomi
+- Askari
+- Sorosh
+- Payman
+- Ludin
+- Abrahimi
+- Kochai
+- Mirzai
+- Mobarez
+- Hoshmand
+- Ishaqzai
+- Qayumi
+- Nawid
+- Hekmat
+- Tarakhil
+- Naziri
+- Mohammadzai
+- Hasrat
+- Tabish
+- Omarzai
+- Sultany
+- Bashardost
+- Amire
+- Sabawoon
+- Saboori
+- Sajad
+- Masoom
+- Zabi
+- Mazar
+- Dilsoz
+- Arabzada
+- Ahmad Zai
+- Khaliqyar
+- Hussainy
+- Afzaly
+- Wisal
+- Mubarez
+- Panjshir
+- Babak
+- Khorasani
+- Tabesh
+- Raoufi
+- Alizay
+- Shamsi
+- Khuram
+- Saboor
+- Ranjbar
+- Karwan
+- Nawrozi
+- Taraki
+- Akhlaqi
+- Salangi
+- Omarkhil
+- Akhtari
+- Tanai
+- Hashimy
+- Hussini
+- Habibzada
+- ﻣﺤﻤﺪﻱ
+- Arefi
+- Kohestani
+- Arabzai
+- Azizyar
+- Bahram
+- Niyazi
+- Daudzai
+- Saighani
+- Kohi
+- Ataie
+- Timory
+- Tareen
+- Achakzai
+- Baktash
+- Yusofi
+- Jahani
+- Mehran
+- Danishyar
+- Faryabi
+- Ali Zada
+- Tajik
+- Panjsheri
+- Nooristani
+- Barez
+- Hamrah
+- Asil
+- Timori
+- Miakhel
+- Temory
+- Saddiqi
+- Satari
+- Noorzahi
+- Sarhadi
+- Naweed
+- Sahebzada
+- Rostami
+- Morady
+- Zakhil
+- Marzi
+- Shahzada
+- Kharoti
+- Noorani
+- Lakanwal
+- Pashtoon
+- Alikhil
+- Sharefi
+- Raofi
+- Ahmadzay
+- Abdali
+- Kaihan
+- Seyar
+- Tahery
+- Shayan
+- Fazel
+- Stoman
+- Habiby
+- Hashime
+- Hamnawa
+- Kunduzi
+- Hidari
+- Khogyani
+- Kohdamani
+- Mahbobi
+- Ataye
+- Babakarkhil
+- Hijran
+- Darya
+- Wafadar
+- Intezar
+- Mujadidi
+- Ziarmal
+- Sohrabi
+- Alham
+- Kayhan
+- Reshad
+- Nazami
+- Muhammady
+- Zaheri
+- Yagana
+- Tahiry
+- Mohebi
+- Wasiq
+- Roya
+- Qais
+- Bakhtiar
+- Ramazani
+- Rezayi
+- Waziry
+- Akhundzada
+- Bromand
+- Frogh
+- Rahmaty
+- Daqiq
+- Rahmanzai
+- Yoldash
+- Turkmani
+- Hashami
+- Selab
+- Mujaddidi
+- Panjshiry
+- Sayeedi
+- Asifi
+- Khatibi
+- Barikzai
+- Saraj
+- Mohsini
+- Muslimyar
+- ﺭﺳﻮﻟﯽ
+- Dawoodzai
+- Zalmai
+- Mehrzad
+- Maqsoodi
+- Shirzay
+- Burhani
+- Wais
+- Nabizadah
+- Mirzaie
+- Jahed
+- Ghori
+- Muhabat
+- Neda
+- Mirzaee
+- Liwal
+- Bagram
+- Bahaduri
+- Frahmand
+- Zahin
+- Afghanyar
+- Taban
+- Khawari
+- Shekib
+- Watan
+- Ameeri
+- Muhamadi
+- Azizy
+- Nazeri
+- Qadiry
+- Attai
+- Arghandiwal
+- Wahedy
+- Nowrozi
+- Samady
+- Samsoor
+- Kochi
+- Jafary
+- Haqani
+- Nikmal
+- Khaleqi
+- Najibi
+- Ghafory
+- Mehr
+- Farzan
+- Shuja
+- Musavi
+- Amirzai
+- Bahir
+- Ramaki
+- Osmany
+- Ahmadzada
+- Majeedi
+- Bashiri
+- Ahady
+- Rashidy
+- Yawari
+- Khairkhwa
+- Qani
+- Masomi
+- Sarshar
+- Sahibi
+- Yosufzai
+- Ghafoory
+- Uzbek
+- Tarin
+- Akhunzada
+- Hotaki
+- Sarvari
+- Badakhsh
+- Herati
+- Behroz
+- Asir
+- Hemmat
+- Jawadi
+- Baryal
+- Nangarhari
+- Zwak
+- Rezaye
+- Nekzad
+- Baghlani
+- Nabizadeh
+- Watan Dost
+- Sabiri
+- Hakemi
+- Sadaqat
+- Jamshid
+- Mohib
+- Mirzaei
+- Tnha
+- Makhdom
+- Yasini
+- Nabi Zada
+- Maiwand
+- Emami
+- Baburi
+- Kharotai
+- Mushfiq
+- Faqeri
+- Kamgar
+- Raees
+- Basharat
+- Arbab
+- Sharafat
+- Zahedi
+- Logari
+- Saqeb
+- Nijrabi
+- Hassanzai
+- Samsor
+- Khavari
+- Mohammedi
+- Fetrat
+- Mohammade
+- Fayzi
+- Yawar
+- Hamdam
+- Faramarz
+- Pashton
+- Sultanzada
+- Mehri
+- Sarfaraz
+- Khadim
+- Bakhtari
+- Sediqy
+- Aryoubi
+- Hadawal
+- Mirzaye
+- Tanin
+- Norzai
+- Ziaee
+- Chakari
+- Hashemy
+- Heydari
+- Subhani
+- Faryad
+- Hazrat
+- Asrar
+- Nesar
+- Pakhtoon
+- Cricket
+- Yazdani
+- Kunari
+- Mirzayee
+- Dawran
+- Yadgari
+- Qayoomi
+- Delsoz
+- Pashai
+- Barakzay
+- Basiri
+- Amirzada
+- Hussainzada
+- Mokhlis
+- Rahyab
+- Nasrati
+- Haqjoo
+- Sayedzada
+- Bayani
+- Radmanish
+- Dorani
+- Sangin
+- Sarabi
+- Shagiwal
+- Nadri
+- Torabi
+- Yosofi
+- Wakili
+- Mohibi
+- Amiree
+- Erfani
+- Mozafari
+- Qorbani
+- Rawofi
+- Ghiasi
+- Khairandish
+- Andarabi
+- Atai
+- Shahir
+- Zazi
+- Watanyar
+- Naqib
+- Folad
+- Ghorzang
+- Haji Zada
+- Lemar
+- Formuli
+- Akbarzada
+- Asefi
+- Monib
+- Naseeri
+- Noorzay
+- Hidary
+- Mahshar
+- Paikan
+- Pardis
+- Esmat
+- Rezwan
+- Zahidi
+- Ibrahimkhail
+- Sadad
+- Nadiri
+- Akhondzada
+- Entezar
+- Saeedy
+- Paikar
+- Akakhil
+- Majroh
+- Jalaly
+- Noorzi
+- Atash
+- Bahadori
+- Shoja
+- Jahish
+- Zori
+- Shahabi
+- Khwaja
+- Hashmat
+- Haqparast
+- Merzai
+- Faqiryar
+- Parwan
+- Karime
+- Masoomi
+- Aslamy
+- Mosazai
+- Quraishy
+- Ziayee
+- Nassery
+- Rabani
+- Hikmat
+- Dard
+- Rozi
+- Hiran
+- Attaie
+- Silab
+- Nafas
+- Utmanzai
+- Rahimzai
+- Ghairat
+- Malekzada
+- Nuristani
+- Sanjar
+- Hamta
+- Nadery
+- Bachagak
+- Yadgar
+- Azemi
+- Ataei
+- Wadan
+- Sheerzad
+- Bikzad
+- Katawazi
+- Darwishi
+- Yousafi
+- Mujtaba
+- Saify
+- Khadem
+- Dosti
+- Moheb
+- Noore
+- Hakimzada
+- ﺟﺎﻥ
+- Fayeq
+- Faroqi
+- Khamoosh
+- Jasoor
+- Mirwais
+- Aminzai
+- Omarkhail
+- Ziba
+- Malyar
+- Qarar
+- Bawari
+- Khalily
+- Zirak
+- ﻭﻓﺎ
+- Dawoodi
+- Jurat
+- Latify
+- Oryakhail
+- Yusufzai
+- Ramish
+- Payenda
+- Sekandary
+- Sayedy
+- Ayoobi
+- Gulzad
+- Barkzai
+- Sufizada
+- Dawar
+- Mashwani
+- Sameem
+- Rasol
+- Merzaie
+- Khostwal
+- Himmat
+- Mohamady
+- Safy
+- Shaiq
+- Zeerak
+- Hossainy
+- Ghafuri
+- Tarakai
+- Kalakani
+- Arezo
+- Yousefzai
+- Paktin
+- Frootan
+- Zakhilwal
+- Tawana
+- Sajadi
+- Amanzai
+- Musawer
+- Herat
+- Danishjo
+- Gran
+- Nasseri
+- Sorush
+- Qattali
+- Ghafar
+- Chamkani
+- Wardag
+- Munib
+- Alamdar
+- Angar
+- Toofan
+- Mahdavi
+- Janbaz
+- Zaheen
+- Wahidyar
+- Akhonzada
+- Sardari
+- Joyan
+- Nemati
+- Babakarkhail
+- Behrooz
+- Miakhail
+- Qadari
+- Gulistani
+- ﻣﺤﻤﺪﯼ
+- Rasouly
+- Mazlomyar
+- Rezay
+- Masoodi
+- Shaheer
+- Mastan
+- Navid
+- Rafiqi
+- Entizar
+- Sharife
+- ﺍﺣﻤﺪﯼ
+- Ebrahimy
+- Naizi
+- Ghiasy
+- Qarizadah
+- ﺭﺣﻴﻤﻲ
+- Stanakzai
+- Wakilzada
+- Fahimi
+- Karimzada
+- Shokori
+- Walizai
+- Haqbeen
+- Paghmani
+- Ahmadzia
+- Naimy
+- Sabery
+- Sultanzai
+- Delawar
+- Majedi
+- Ataiy
+- Atayi
+- Aminzada
+- Obaidy
+- Haideri
+- Mujahed
+- Farhadi
+- Soroush
+- Asra
+- Omeri
+- Zerak
+- Rhmani
+- Begzad
+- Qarluq
+- Türkmen
+- Nejat
+- Sangeen
+- Zahiry
+- Wazeri
+- Sangari
+- Hakimyar
+- Kamawi
+- Sattari
+- Masoudi
+- Nazdana
+- Samandari
+- Qazizadah
+- Fayazi
+- Yaqoubi
+- Painda
+- Gawhari
+- Heravi
+- Ayazi
+- Zarin
+- Hasam
+- Shazada
+- Turab
+- Gardezi
+- Ghazniwal
+- Gurbaz
+- Alimy
+- Bakhtyari
+- Malik Zada
+- Ahamdi
+- Storai
+- Samoon
+- Kohistany
+- Kohzad
+- Fazeli
+- Mommand
+- Shegiwal
+- Barekzay
+- Pasoon
+- Hosini
+- Habibyar
+- Pahlawan
+- Anosh
+- Haleemi
+- Mohamade
+- ﻧﻮﺭﻱ
+- Sakhi Zada
+- Sadri
+- Sulimankhil
+- Yosefi
+- Andish
+- Haqiqat
+- Ashori
+- Qiam
+- Nayel
+- Shayeq
+- Nazri
+- Yarzadah
+- Azime
+- Bakhtani
+- Jailani
+- Aasi
+- Babur
+- Faiq
+- Kareemi
+- Rustaqi
+- Salihy
+- Banoo
+- Totakhel
+- Gharibyar
+- ﻧﻆﺮﻱ
+- Gharwal
+- Commando
+- Andishmand
+- Badakhshi
+- Mardani
+- Raheemi
+- Rahnaward
+- Waheedi
+- Khoram
+- Mandegar
+- Zarify
+- Musawi
+- Panjsher
+- Shokh
+- Ahmdi
+- Noorzada
+- Khalilzad
+- Amanyar
+- Hazraty
+- Qaumi
+- Esmaty
+- Kabiry
+- Sadiqyar
+- Gulbahari
+- Pouya
+- Balouch
+- Gulab
+- Samiullah
+- Ghazanfar
+- Sarwan
+- Arzo
+- Menawal
+- Faize
+- Minawal
+- Kandahari
+- Alikhail
+- Akbarzai
+- Omerzai
+- Khazan
+- Shenwary
+- Sedaqat
+- ﺭﺳﻮﻟﻲ
+- Omarkhel
+- Pamir
+- Mirzayi
+- Azeemi
+- Sherzay
+- Auobi
+- Hafizy
+- Bazarak
+- Janm
+- Jamalzada
+- Behnam
+- Ziar
+- Bismil
+- Omery
+- Sikandari
+- Kohdaman
+- Rezae
+- Hasti
+- Haqiqi
+- Hatami
+- Ehrari
+- Rastagar
+- Aliyar
+- Sabari
+- Qasmi
+- Pashteen
+- Rashedi
+- Ibrahimy
+- Omerkhil
+- Haidery
+- Hekmati
+- Doost
+- ﺣﻴﺪﺭﻱ
+- Fitrat
+- Qambari
+- Amarkhel
+- Turabi
+- Jawanmard
+- Qane
+- Sabori
+- Satary
+- Aubi
+- Khogiani
+- Rohullah
+- Hemati
+- Kamalzada
+- Haqdost
+- Mansoory
+- Wahabzada
+- Mirzadah
+- Mominzada
+- Hosainy
+- Mudaser
+- Qurban
+- Faqir
+- Dunya
+- Lashkari
+- Qahar
+- Pakteen
+- Hewad
+- Akhtary
+- Attayee
+- Gardiwal
+- Shaida
+- Royesh
+- Khairkhah
+- Omaid
+- Samangani
+- Makhdum
+- Yousufy
+- Tawakoli
+- Raziqi
+- Khyber
+- Ibrahimkhel
+- Naziry
+- Seddiq
+- Hussainkhail
+- Ameni
+- Ghorbandi
+- Gardizi
+- Panjshery
+- Atmar
+- Amery
+- Rastin
+- Mukhles
+- Alozai
+- Momeni
+- Ghousi
+- Arify
+- Frough
+- Zabih
+- Khurami
+- Alizade
+- Walizadah
+- Sabawon
+- Jahesh
+- Azadani
+- Haqbin
+- Akhgar
+- Saljuqi
+- Omarzada
+- Sadeed
+- Majidy
+- Romal
+- Masroor
+- Mahboob
+- Naib
+- Zalmay
+- Yarmal
+- Rasole
+- Bigzada
+- Harir
+- Qahraman
+- Khorami
+- Skandari
+- Yaftali
+- Haidarzada
+- Sediqe
+- Tamana
+- Faqeeri
+- Jabarkhel
+- Rassoli
+- Kabuly
+- Dilsooz
+- Radmanesh
+- Naibi
+- Mahdawi
+- Zewari
+- Rahimee
+- Dawlat
+- Sabiry
+- Eltaf
+- ﺍﻓﻐﺎﻥ
+- Adeli
+- Qalandar
+- Ahamadi
+- Olfat
+- Aimal
+- Bahawi
+- Feda
+- Padar
+- Harooni
+- Stanikzay
+- Khairkhwah
+- Dawari
+- Hofyani
+- Borkan
+- Kaker
+- Ferozi
+- Barakzi
+- ﻋﺰﻳﺰﻱ
+- Herawi
+- Bahadury
+- Khwajazada
+- Zazay
+- Halimy
+- Nawabzada
+- Ekhlas
+- Esar
+- Zuri
+- Parwiz
+- Fazl
+- Paghman
+- Askarzada
+- Balooch
+- Jaweed
+- Ahrari
+- Sadozai
+- Aseer
+- Khil
+- Nadem
+- Afghanzai
+- Paiwand
+- Suhrabi
+- Takhari
+- Rezwani
+- Zamiri
+- Haqiar
+- Nasire
+- Jebran
+- ﻭﺍﺣﺪﯼ
+- Rahmane
+- Salarzi
+- Mehryar
+- Bostani
+- Jamshidy
+- Sobhani
+- Amere
+- Razai
+- Sideqi
+- Armany
+- Panah
+- Rezaiy
+- Salamzada
+- Hasanzai
+- Saydi
+- Yakta
+- Moshfiq
+- Bashari
+- Charkhi
+- Husainy
+- Zurmaty
+- Khoshal
+- Sajjadi
+- Mirzazada
+- Rokhan
+- Lalzada
+- Salihe
+- Arbabzada
+- Forotan
+- Mohebbi
+- Shahryar
+- Qurbanzada
+- Suhrab
+- Bakhtiari
+- Firoozi
+- Eqbal
+- Armane
+- Khademi
+- Tawab
+- Pardes
+- Humdard
+- Muhmand
+- Qalamyar
+- Shanwari
+- Surosh
+- Alikhel
+- Faryadi
+- Safary
+- Ismailzada
+- Muhibi
+- Afghn
+- Zamany
+- Mosawer
+- Soroosh
+- Nadiry
+- Bariz
+- Qasimy
+- Kharoty
+- Darvish
+- Gheyasi
+- Sediqee
+- Niazmand
+- ﺭﺣﻤﺎﻧﻲ
+- Norzay
+- Omarzad
+- Shadman
+- Shojaee
+- Sarware
+- Ghafary
+- Emal
+- Bekzad
+- Weqar
+- Takal
+- Ahadyar
+- Pirzad
+- Niazay
+- Payam
+- Mozaffari
+- Olam
+- Juya
+- ﻛﺮﻳﻤﻲ
+- Golzar
+- Asmati
+- Hamraaz
+- Muzafari
+- Zafary
+- Rahmanyar
+- Saboory
+- Yardam
+- Attaye
+- Merzaye
+- Srosh
+- Omidi
+- Bidar
+- Mahmoody
+- Mujeeb
+- Dedar
+- Laiq
+- Khushal
+- Noorullah
+- Faizee
+- Khäñ
+- Mohibzada
+- Sulaimankhil
+- Ayuobi
+- Maftoon
+- Dehqan
+- Oriakhail
+- Ghazni
+- Najimi
+- Mumand
+- Qand
+- Arsari
+- Mosadiq
+- Mowahid
+- Rasteen
+- Mohebzada
+- Jalily
+- ﹺﹺ
+- Umari
+- Wahide
+- Pazhwak
+- Dawodzai
+- Tarakhel
+- Shirzada
+- Rahmatzada
+- Salimy
+- Nejati
+- Yousfzai
+- Nang
+- Tamkin
+- Koshan
+- Qubadi
+- Fekrat
+- Moshtaq
+- Sarvary
+- Aslamzada
+- Wahaj
+- Jäñ
+- Ebrahemi
+- Samimy
+- Razaqi
+- Sargand
+- Atahi
+- Ikhlas
+- Zarabi
+- Baraty
+- Forogh
+- Rasully
+- ﻳﻮﺳﻔﻲ
+- Mohamdi
+- Nemat
+- Mowahed
+- Ghafouri
+- Gulbahar
+- Jamili
+- Alkozy
+- Abawi
+- Tabibzada
+- Sharifzada
+- Zakeri
+- Shinware
+- Payez
+- Zurmatai
+- Barish
+- Baryalai
+- Maqsodi
+- Lawang
+- Zhman
+- Mansory
+- Sharifee
+- Kunary
+- Saddat
+- Alipoor
+- Hakimzai
+- Kashefi
+- Mradi
+- Khawreen
+- Kaliwal
+- Wakily
+- Aryobi
+- Achekzai
+- Qazizadeh
+- Setayesh
+- Qurbany
+- Merzad
+- Fazili
+firstnames_male_native:
+- شهزاده
+- نجیب الله
+- علی
+- مصطفی
+- جاوید
+- امید
+- نعمت الله
+- حاجی
+- رحمت الله
+- حبیب الله
+- فرهاد
+- اسدالله
+- حمیدالله
+- افغان
+- نقیب الله
+- سمیع الله
+- عصمت الله
+- میرویس
+- ابراهیم
+- احسان الله
+- ذبیح الله
+- نورالله
+- بسم الله
+- امان الله
+- حسین
+- سید
+- عزت الله
+- تنها
+- اسماعیل
+- محمدی
+- حمید
+- یوسف
+- ساحل
+- حکمت الله
+- قدرت الله
+- مهدی
+- صفی الله
+- فرید
+- جان
+- عبدالرحیم
+- حیات الله
+- وحید
+- محمدالله
+- امیر
+- حبیب
+- حفیظ الله
+- نوید
+- همایون
+- نورمحمد
+- بچه گک
+- رامین
+- عبیدالله
+- عزیزالله
+- آرش
+- حسیب الله
+- عبدالبصیر
 - نجیب
 - فریدون
 - خیرالله
 - شاه
 - مرسل
 - احمدی
-- Qasim
-- Nasrat
 - نصیراحمد
-- Aminullah
 - هارون
 - نوراحمد
 - جمشید
-- Najeebullah
 - مرتضی
 - گل احمد
 - داود
@@ -164,151 +3817,91 @@ firstnames_male:
 - میلاد
 - امین الله
 - عزیز
-- Javid
-- Hafizullah
-- Nawid
 - غلام
 - سمیر
 - عبدالخالق
-- Shafiqullah
 - غلام سخی
 - ادریس
 - علی احمد
-- Shabir
 - شکرالله
 - گل محمد
 - سعید
-- Maiwand
 - سلیمان
-- Ezatullah
 - نصرالله
 - فهیم
 - بصیر
-- Nabi
 - عتیق الله
 - سیف الله
 - امین
 - سهراب
 - بشیر
-- Ahmadullah
 - وحیدالله
-- Fazal
-- Naqib
-- Rahimullah
 - محب الله
 - عنایت الله
-- Saifullah
 - عبدالحمید
 - فضل احمد
 - عبدالغفار
-- Nematullah
-- Qudratullah
 - عبدالحکیم
 - فیض الله
 - صبغت الله
 - عبدالقدیر
-- Nasratullah
 - ریس
 - عبدالکریم
-- Raees
 - گل
-- Ahmad Shah
 - احمدشاه
-- Shafiullah
 - وفا
-- Reshad
 - زلمی
-- Baran
 - عبدالهادی
 - هدایت الله
 - رحیم الله
 - شاهین
-- Nasrullah
-- Romal
-- Emal
 - شاه محمد
 - فیصل
-- Matin
 - عبدالمنان
 - فیروز
-- Haseeb
 - یاسین
-- Nasir Ahmad
 - شیر
 - نثاراحمد
 - قاری
 - رحیم
-- Sakhi
 - نصرت الله
-- Sajad
 - بچه
 - ستا
-- Mursal
 - محیب الله
-- Alireza
-- Esmat
 - نعیم
 - عبدالوهاب
 - کریم
 - سردار
-- Mohibullah
 - فواد
 - پرویز
 - نصیر
 - خال محمد
-- Navid
-- Mujeeb
-- Waheedullah
-- Ahmadshah
 - یونس
 - ایمل
 - جان محمد
 - عبدالقیوم
-- Ahmad Zia
-- Faizullah
 - خلیل
 - عبدالستار
-- Atiq
 - عبدالجبار
 - عبدالغفور
 - بریالی
 - نورالدین
-- Seyar
-- Baktash
-- Zarif
-- Shazada
 - حشمت الله
-- Hazrat
-- Hekmatullah
 - شریف
-- Fayaz
-- Waris
 - نسیم
 - شفیق الله
-- Bahram
 - عبدالصمد
 - مطیع الله
 - شیرمحمد
-- Nisar
-- Ahsanullah
 - عبدالصبور
 - مجتبی
-- Hedayatullah
-- Mortaza
 - تاج محمد
-- Arsalan
-- Tanha
 - رحمت
 - صفت الله
-- Yousaf
-- Mohib
 - عبدالرازق
 - عبدالمجید
 - بشیراحمد
-- Sabawoon
-- Enayatullah
 - شمس الله
-- Shakib
 - عصمت
 - غلام نبی
 - جانان
@@ -318,116 +3911,71 @@ firstnames_male:
 - بچه گگ
 - ذکرالله
 - عبدالروف
-- Lutfullah
 - لعل محمد
 - مرادی
-- Sadat
-- Khairullah
 - یاسر
-- Subhan
 - عرفان
 - دین محمد
-- Massoud
-- Suhrab
 - عبدالحق
 - نقیب
 - آصف
 - شفیع الله
-- Sediq
-- Zahidullah
 - نوری
-- Ihsanullah
-- Hikmatullah
 - نظری
 - سیداحمد
 - عبدالمتین
 - محمد نعیم
 - رفیع الله
-- Sarwar
-- Rasool
-- Sahel
 - موسی
 - عبدالعزیز
 - خیرمحمد
-- Nesar
 - رحمانی
-- Mashal
-- Jaweed
 - احمدالله
 - محمدعارف
-- Shukrullah
-- Sharifullah
 - ابوبکر
 - نیک محمد
 - جلیل احمد
-- Ramish
 - وکیل احمد
-- Mojtaba
-- Tawab
 - نعمت
-- Shekib
-- Qader
 - حاجی محمد
 - زین الله
-- Zalmai
 - عبدالطیف
-- Hamayoon
 - عبدالرحمان
 - سلیم
 - محمدعلی
 - شعیب
 - یارمحمد
 - کوس
-- Mohammadullah
-- Almas
-- Hekmat
-- Faridullah
 - سهیل
-- Qadir
 - حسیب
 - شمس الدین
 - محمدامین
 - علی رضا
 - سمیع
-- Basit
-- Ziaulhaq
 - محمد حسین
 - زبیر
-- Hikmat
-- Hameedullah
 - لطف الله
 - رحمان
-- Mehran
 - شفیق
-- Bashir Ahmad
 - خاکسار
 - بصیراحمد
 - محمدحسین
 - گلبدین
 - محمد داود
-- Sebghatullah
 - داکتر
 - مجید
 - محمدرضا
 - عبدالقدوس
-- Ali Ahmad
 - عبدالباری
-- Naqeeb
-- Shahram
 - دوست محمد
 - غلام محمد
-- Enayat
 - حکمت
-- Ali Reza
 - امان
 - رحیمی
 - فیض محمد
 - عبدالرشید
-- Baryalai
 - شریف الله
-- Mohammad Ali
 - فرزاد
-- Noor Ahmad
 - محمد علی
 - عبدالمالک
 - بازمحمد
@@ -437,26 +3985,16 @@ firstnames_male:
 - عبدالاحد
 - فریداحمد
 - عبدالغنی
-- Faridoon
-- Shadab
-- Rayees
 - صلاح الدین
 - نبی
 - حکیم
 - محمد امین
-- Sanaullah
-- Ataullah
-- Asef
 - مدثر
 - سجاد
 - خلیل احمد
-- Masih
 - محمدنبی
-- Mobin
-- Nemat
 - زمری
 - عبادالله
-- Farid Ahmad
 - تمیم
 - مسافر
 - محمد الله
@@ -464,9 +4002,6 @@ firstnames_male:
 - صدیق
 - شیراحمد
 - صدیق الله
-- Asmatullah
-- Qasem
-- Morteza
 - اکبر
 - توریالی
 - قربان
@@ -479,36 +4014,22 @@ firstnames_male:
 - علی محمد
 - نصیر احمد
 - حبیب الرحمن
-- Zabih
 - مزمل
 - حاجي
-- Ahmadi
-- Atal
 - صبور
 - صمیم
-- Rahmanullah
 - عبدالبشیر
 - شهزاد
-- Wakil
-- Qudrat
 - اخترمحمد
 - سیدمحمد
 - باران
-- Sefatullah
-- Musawer
 - احمد شاه
-- Kabul
-- Khyber
 - نظام الدین
 - حیدری
 - سیف الدین
-- Farshad
-- Niamatullah
 - فردین
-- Hedayat
 - محمد نسیم
 - اسلام الدین
-- Zainullah
 - حضرت
 - محمدآصف
 - امرالله
@@ -517,85 +4038,44 @@ firstnames_male:
 - حمید الله
 - محمدیوسف
 - آرین
-- Qari
-- Ahmadzia
 - دوست
 - عبدالولی
 - نورالحق
-- Sayeed
 - ولی
-- Edrees
 - همدرد
-- Nawab
-- Sadeq
 - عبدالحی
 - جمال الدین
 - محمد یونس
-- Wahed
 - سرور
 - طوفان
 - کریم الله
 - متین
-- Fazel
 - جمیل
-- Amrullah
 - معروف
-- Nesar Ahmad
 - عبدالقهار
 - مجیب
 - محمدنعیم
-- Firooz
-- Muhibullah
 - محمدحسن
 - نورآغا
-- Abdul Basir
 - امیدالله
-- Basir Ahmad
 - عزیزاحمد
-- Yaqoob
-- Maroof
-- Mateen
-- Bismillah
-- Nazir Ahmad
-- Shamsullah
 - نصرت
 - مبارز
-- Noorahmad
-- Nooragha
-- Hewad
-- Jahan
 - ملنگ
 - محبت
 - خداداد
 - عبدالواسع
-- Ziaullah
-- Abdulhadi
 - قادر
-- Subhanullah
-- Abdul Saboor
 - عبدالباقی
 - ذبیع الله
-- Behzad
-- Roohullah
 - محمدعمر
 - اتل
 - نصیب الله
-- Asmat
-- Ghafar
-- Abdulhaq
-- Abdul Hadi
-- Shapoor
-- Idrees
-- Abdul Wahid
-- Abdulwahid
-- Karimullah
 - زبیح الله
 - محمدنسیم
 - سادات
 - جلال الدین
 - ولی محمد
-- Fraidoon
-- Abdul Rahim
 - محبوب
 - محمدجان
 - عبدالجلیل
@@ -604,7 +4084,6 @@ firstnames_male:
 - شفیع
 - حشمت
 - فرید احمد
-- Ahmadzai
 - الله محمد
 - سید محمد
 - خلیفه
@@ -614,124 +4093,62 @@ firstnames_male:
 - محمدابراهیم
 - رستم
 - رفیع
-- Ahmad Fawad
 - ارمانی
 - محمد عمر
-- Mosawer
-- Bacha
-- Ezat
 - دیوانه
 - صافی
 - نثار احمد
-- Jamshed
-- Farshid
 - گل آغا
-- Eshaq
 - شکیب
 - امیری
-- Mohammad Reza
 - محمد یاسین
-- Haseebullah
 - کمال الدین
-- Muzamil
 - دل
 - محمد ناصر
 - سرشار
-- Sediqullah
-- Zekrullah
 - برهان الدین
-- Bachagak
-- Satar
-- Noori
 - شیر محمد
 - عبدالودود
-- Ahmad Farid
 - لطیف
-- Attaullah
-- Niamat
-- Abdul Wahab
-- Fardeen
 - بهرام
 - پهلوان
 - هادی
-- Sangar
-- Tasal
-- Homayoon
 - نوروز
 - عزیز الله
-- Malang
-- Noor Mohammad
 - محمد نبی
 - محمد جان
 - عزیزی
-- Zekria
-- Salahuddin
-- Sohil
-- Assadullah
 - قدرت
 - حقیقت
-- Aziz Ahmad
 - فیض
 - ارسلان
 - زندگی
-- Watan
-- Abdul Wali
-- Nabiullah
 - عبدالخلیل
 - میوند
 - جاويد
 - ضیا
 - عنایت
-- Zalmay
-- Baset
 - منیر
 - کامران
 - برکت الله
 - امیرمحمد
 - غوث الدین
-- Mahbob
-- Abdul Samad
-- Yousof
-- Nisar Ahmad
-- Merwais
 - صدیقی
 - سعادت
 - غلام سرور
-- Wasi
-- Hamdullah
 - هدایت
 - احمدضیا
 - افغانستان
 - محمد قاسم
-- Mohammad Amin
-- Ghafoor
-- Mudasir
 - محبوب الله
-- Khan Mohammad
 - ریحان
-- Besmellah
-- Naseeb
-- Janan
-- Abdul Karim
-- Zaker
-- Yosuf
-- Hamayoun
-- Mohammad Arif
-- Ozair
 - محمد ابراهیم
 - دلاور
 - کریمی
 - حمدالله
-- Naqeebullah
-- Afghanistan
 - مهراب
-- Abdulbasir
 - اسد الله
-- Wazir
-- Nasib
-- Abdul Ahad
 - بشیر احمد
-- Khalilullah
 - خدایداد
 - محمدناصر
 - شهرام
@@ -739,7 +4156,6 @@ firstnames_male:
 - محمدیونس
 - حیدر
 - زاهد
-- Aliahmad
 - فرمانده
 - سید احمد
 - محمدعالم
@@ -748,66 +4164,38 @@ firstnames_male:
 - عشقی
 - مجیب الرحمن
 - عزیز احمد
-- Zobair
 - عبدالظاهر
 - محمدیاسین
 - صدرالدین
 - امرالدین
-- Baheer
 - نثار
 - کمال
-- Younas
-- Mujib
-- Baseer
-- Mohammad Asif
 - نواب
 - عین الدین
 - علیرضا
 - محمد صادق
 - محمد اسماعیل
 - محمدشریف
-- Hamayon
 - حسینی
 - رامش
-- Mudaser
-- Qaseem
-- Loy
 - وفادار
 - انعام الله
 - یعقوب
 - قدیر
 - محمدولی
 - عمری
-- Azizi
 - حفیظ
 - الله داد
-- Javeed
-- Abdul Khaliq
-- Bakhtyar
-- Abdulkhaliq
-- Moheb
 - صالح محمد
 - محمدگل
 - مجیب الله
 - دنیای
 - خیرالدین
-- Sayed Ahmad
 - وارث
 - خواجه
 - ذکریا
-- Gulab
-- Gull
-- Dost
-- Khushal
-- Khwaja
-- Zakirullah
 - ویس
-- Rohid
 - لالا
-- Omaid
-- Ghani
-- Muhib
-- Ziauddin
 - عبدالحلیم
 - درد
 - درویش
@@ -815,165 +4203,84 @@ firstnames_male:
 - نجيب الله
 - شراف الدین
 - یما
-- Nasirahmad
-- Nasibullah
 - بهزاد
 - بکتاش
 - بصیر احمد
 - استاد
 - شیر بچه
-- Kaihan
 - شایسته
-- Hidayat
 - اختر
 - شیرآغا
 - محمدطاهر
 - محمدخان
-- Mohammad Sharif
 - عبدالسمیع
 - ستار
 - محمد شریف
-- Mojib
-- Abdul Malik
 - محمدداود
 - شبانه
 - جان آغا
 - حسام الدین
 - فضل الرحمن
 - ضیاوالدین
-- Shokrullah
 - بنیامین
-- Masoom
-- Shamsuddin
-- Gholam
-- Hamdard
-- Irfanullah
-- Abdul Manan
-- Omidullah
 - عبدالملک
 - محمدانور
 - قیوم
 - علاوالدین
 - میثم
-- Ghulam Sakhi
 - علی سینا
-- Sadaqat
-- Mehrab
-- Jalaluddin
-- Waliullah
-- Hidayatullah
-- Abdul Hakim
-- Abdulwali
 - محمد هاشم
 - عبدالوکیل
 - معراج
 - هجرت الله
-- Hijratullah
-- Mohebullah
 - عظیم
-- Shirzad
 - سباوون
 - احمد جاوید
-- Mohammadi
-- Ahmad Fahim
-- Jalil Ahmad
-- Qadeer
-- Shamshad
-- Rostam
 - کبیر
 - شاکر
 - اختر محمد
-- Samsoor
-- Popal
-- Ahmad Wali
 - شبیر
 - غفور
-- Ebadullah
-- Parwez
-- Parviz
-- Dawod
-- Rasol
-- Abdulahad
-- Masihullah
-- Muhammadullah
 - عبید
 - فدامحمد
 - نیازی
 - حنیف
 - کفایت الله
 - محمد ایوب
-- Haji Mohammad
-- Toryalai
 - دلسوز
 - زین الدین
-- Behroz
-- Ahmad Khalid
-- Noorulhaq
 - وحید الله
-- Raziq
-- Rezwan
 - صداقت
 - نظر
 - ذاکر
 - محمدظاهر
-- Sifatullah
-- Faridon
 - غلام علی
-- Faramarz
-- Shahir
-- Abdul Qadir
-- Habib Ullah
-- Najmuddin
 - ننگیالی
 - محمدهاشم
-- Abdul Wasi
-- Namatullah
 - امیرخان
 - ظریف
 - حقیار
-- Eraj
 - ساده
 - سميع الله
-- Ahmad Jawid
-- Alisina
-- Abdulmalik
-- Mojeeb
 - فریدالله
 - وکیل
 - نبی الله
-- Ahmad Reshad
 - ملا
 - غیب الله
 - رومل
 - عبدالحنان
 - محمد ظاهر
 - امیر محمد
-- Ali Sina
 - حیات
 - محمد انور
-- Wakil Ahmad
-- Khoshal
-- Sami Ullah
-- Shahidullah
-- Shahwali
-- Rahmat Ullah
-- Sadiqullah
 - لوی
 - شاولی
-- Saifurahman
 - جانم
 - معراج الدین
 - محمد طاهر
 - گلاب
 - فرشاد
 - محمد عیسی
-- Khalil Ahmad
-- Homayoun
-- Mehr
-- Abdul Hamid
-- Abdul Jalil
-- Hares
-- Naseer Ahmad
 - فیض احمد
 - عیسی
 - محمد یعقوب
@@ -983,35 +4290,21 @@ firstnames_male:
 - باسط
 - محمدقاسم
 - محمدنادر
-- Afg
 - هاشمی
-- Barakatullah
-- Noor Agha
-- Saranwal
-- Azizahmad
-- Ershad
 - احمدزی
 - شکورالله
 - بی وفا
 - علی جان
 - محمد نادر
-- Hijrat
 - خیر محمد
 - شیربچه
 - بختیار
 - بی
-- Fazlullah
-- Hazratullah
 - محمد رفیع
 - محمد هارون
-- Khaliq
-- Abdul Basit
-- Bezhan
 - شاداب
 - مهرالله
-- Mohammad Haroon
 - محمدعیسی
-- Ferdows
 - ایوب
 - حضرت الله
 - فضل الدین
@@ -1022,68 +4315,37 @@ firstnames_male:
 - علی اکبر
 - شاه ولی
 - پسرک
-- Malyar
-- Azatullah
-- Sayed Ali
-- Raes
-- Mohammad Nabi
-- Abdul Latif
 - سیاوش
 - عبدل
 - نوراغا
 - ارشاد
 - قیام الدین
 - جنت گل
-- Gul Ahmad
 - اکرام
-- Rahimi
-- Mohammad Rafi
-- Baryali
 - گل آقا
 - گرگ
-- Qurban
-- Jamaluddin
-- Babur
 - حميدالله
 - حقانی
 - محمداکبر
 - محمد رحیم
 - احمدخان
-- Ziarmal
-- Abozar
-- Nazif
 - راز محمد
-- Shirahmad
 - کاظم
 - دانش
 - تاج الدین
 - قندآغا
 - احمد الله
-- Ruhullah
 - سردارولی
-- Fakhruddin
-- Ferdous
-- Mohabat
 - وزیر
-- Amiri
 - میرزا
 - خالدین
-- Valy
 - دادمحمد
 - رشید
 - شمس الحق
 - عطامحمد
 - عبدالعلی
 - صمد
-- Babrak
-- Ahmad Jawed
-- Darwish
 - بلوچ
-- Nooruddin
-- Sudais
-- Islamuddin
-- Asmail
-- Toofan
 - زکریا
 - خیال محمد
 - رحم الدین
@@ -1091,17 +4353,11 @@ firstnames_male:
 - محمد صابر
 - محمدصابر
 - حجت الله
-- Ahmad Jawad
 - آرمان
 - گمنام
 - امام الدین
 - ازمری
 - نذیراحمد
-- Bacha Gak
-- Arbab
-- Ali Khan
-- Tabish
-- Abdulhakim
 - صحبت الله
 - خدایبردی
 - قلندر
@@ -1112,82 +4368,42 @@ firstnames_male:
 - زنده گی
 - محمد زمان
 - حبيب الله
-- Abdul Ghafar
 - ژوند
 - باز محمد
-- Faiz Mohammad
-- Nazifullah
 - محمد اکبر
-- Mohammad Nasim
-- Ferooz
-- Wares
 - فرامرز
-- Inamullah
-- Abdul Ghafoor
-- Sobhan
 - سلطان محمد
 - ممتاز
-- Abdul Qader
 - نظر محمد
 - دنیایی
-- Azimullah
 - شکور
 - محمد فهیم
 - معاذالله
-- Mohammad Fahim
 - سلطان احمد
-- Abdul Matin
-- Omed
-- Kayhan
-- Ahmad Seyar
 - محمد عثمان
-- Maihan
-- Ahmad Farhad
-- Abdulsamad
-- Ulfat
 - عبدا
-- Ikramullah
-- Abdulbasit
-- Haje
-- Juma Khan
 - سیدعلی
-- Zikrullah
 - کیهان
 - مات
 - فولاد
-- Abdul Wahed
 - بهروز
 - محمدجاوید
 - احمد فرید
-- Noor Rahman
 - شیرزاد
-- Mohammad Naser
 - محمدرحیم
-- Khodadad
 - معصوم
 - شمس الرحمن
-- Sherzad
-- Ziaurahman
 - شهزاده گک
 - پیمان
 - سیدالله
 - وهاب
-- Abdul Satar
-- Bahir
 - حاجی مراد
 - بابه
-- Sharafat
-- Taqi
-- Afshin
-- Rahmani
-- Abdulhai
-- Abdulbari
 - اسلم
 - محمد سلیم
 - عین الله
 - شاه محمود
 - فیاض
-- Abdulsaboor
 - محیب
 - عبدالوارث
 - سمسور
@@ -1198,23 +4414,12 @@ firstnames_male:
 - سمع الله
 - نذیر
 - نظام
-- Zabi Ullah
 - ایمان
 - کابل
 - فضل الحق
 - امینی
-- Sefat
 - فرشید
-- Kambiz
-- Wafiullah
-- Dilawar
-- Behrooz
-- Tofan
-- Abdulmanan
-- Abdul Bari
-- Najeb
 - ستړی
-- Rayes
 - قسیم
 - ګل
 - احمدجاوید
@@ -1230,19 +4435,11 @@ firstnames_male:
 - سدیس
 - مقدس
 - غفار
-- Lemar
-- Shuja
-- Saidullah
-- Saliman
-- Sabor
 - نیازمحمد
 - رومان
 - شریفی
-- Khanagha
-- Zadran
 - الله نظر
 - میهن
-- Obidullah
 - عبدالجمیل
 - محمدرفیع
 - ذکی
@@ -1250,115 +4447,60 @@ firstnames_male:
 - محمدزمان
 - محمدیعقوب
 - مرد
-- Baryal
 - ملنګ
 - شمشاد
 - نذیر احمد
-- Siawash
 - دل آغا
 - اميد
-- Baqir
-- Abdul Majid
 - شاهد
-- Abdulwahed
-- Abdul Jabar
 - سیلاب
 - تواب
 - سید حسین
 - پښتون
 - گلاب الدین
 - حبیبی
-- Nawroz
 - یار محمد
-- Nawed
-- Ashiqullah
 - نورزی
-- Shah Mohammad
 - عبدالکبیر
 - آغامحمد
 - حکیمی
-- Shirshah
 - روزگار
 - فروشگاه
 - ضمیر
-- Mohammad Naim
-- Shabeer
-- Anayat
-- Alyas
-- Salaam
-- Delawar
 - سیف
 - عید محمد
-- Mirahmad
 - حسنی
 - محمدالدین
 - ميرويس
 - تقی
-- Mohammad Akbar
-- Abasin
 - سلطانی
-- Bashirahmad
-- Taj Mohammad
 - رحمان الله
 - فضل الله
 - عبدالمطلب
 - شیر احمد
-- Hassib
-- Jumakhan
 - حلیم
-- Abdul Majeed
-- Yaqub
 - ملک
-- Humayoon
-- Ahmad Khan
-- Naimatullah
-- Abdul Rashid
-- Alijan
-- Haqmal
 - غازی
 - محمدعظیم
 - اباسین
 - ځوان
-- Ismatullah
 - غمجن
 - حسین علی
 - جوانان
 - محمد موسی
-- Khaibar
 - محمدشاه
 - کاروان
-- Mohammad Dawood
-- Mohammad Saber
 - ثاقب
 - ناکام
-- Modaser
 - ذبيح الله
-- Jan Mohammad
 - شیرآقا
-- Bakht
-- Ali Akbar
-- Saeedullah
-- Mohammadali
-- Abidullah
-- Abdulqadir
-- Ghulam Nabi
-- Abdul Ghani
-- Afgan
-- Kanishka
-- Homayon
-- Sonil
-- Abdul Bashir
 - صفی
 - ابوذر
 - محمد ولی
-- Waisuddin
 - شهید
 - محمدجواد
 - محمد ظریف
 - ندیم
-- Janagha
-- Ashuqullah
-- Mohammad Nasir
 - محمدحنیف
 - اشنا
 - تیمور
@@ -1367,17 +4509,9 @@ firstnames_male:
 - لیونی
 - شجاع
 - محی الدین
-- Fridoon
-- Qandagha
 - چاری
-- Abdulsatar
 - خلیل الله
 - ارش
-- Naimat
-- Zubir
-- Wasiq
-- Muqadas
-- Abdul Haq
 - ولید
 - رئیس
 - امیرجان
@@ -1385,9 +4519,7 @@ firstnames_male:
 - اسلامی
 - رفیق
 - محمد حنیف
-- Nimatullah
 - انجنیر
-- Habib Rahman
 - اکرام الدین
 - شبیراحمد
 - دادالله
@@ -1395,178 +4527,760 @@ firstnames_male:
 - محمدهارون
 - دانیال
 - محمدایوب
-- Rameen
 - شیرزی
-- Abdul Raziq
-- Amirullah
-- Naseebullah
 - مظلوم
-- Massi
-- Rokhan
 - روحانی
 - غنی
-- Nazari
 - شجاع الدین
 - مقبول
 - محمد گل
 - سخی محمد
-- ﺭﻭﺡ ﺍﻟﻠﻪ
-- Ahmad Zaki
-- Baryalay
-- Bache
 - شکر الله
-- Rabani
 - اکرم
 - سعدالله
 - محمدصدیق
 - اکبری
-- Wahdat
 - شیرخان
 - شیرعلی
 - نویدالله
 - محمد صدیق
 - هیواد
 - جان جان
-- Sharafuddin
-- Ahmad Samim
-- Genral
 - توحید
-- Edriss
-- Fraidon
-- Sifat
-- Wasil
-- Yonus
 - خادم
 - حمیدی
 - زاهدالله
 - دین
 - فدا
-- Zaland
-- Din Mohammad
 - طلحه
 - اسحق
-- Faridahmad
 - الله نور
 - ورک
 - عطاوالله
-- Sayed Mohammad
-- Mohammad Sadiq
 - مومین
 - احمدولی
-- Shir Ahmad
-- Sta
 - رازق
 - فخرالدین
 - مسیح الله
-- Nesarahmad
 - وحیداحمد
-- Hashimi
-- Besmillah
-- Hasanat
 - فیروز احمد
 - نورزهی
-- Abdul Jamil
-- Abuzar
-- Saadat
-- Baitullah
-- Raqib
-- Abdulqader
-- Asad Ullah
-- Aqbal
-- Bakhtullah
-- Wasiullah
-- Ahsan Ullah
 - سیدحسن
 - روزی محمد
 - دمینی
-- Fazalhaq
 - سیدالرحمن
 - خیال
-- Mohammad Khalid
-- Mohammad Azim
 - امیرالله
 - علیزاده
 - یار
 - عزیزالرحمن
-- Mohammad Omar
-- Habibrahman
 - غلام ربانی
 - شرکت
-- Nisarahmad
 - عجب گل
 - تنهای
-- Besmullah
-- Izatullah
-- Noormohammad
-- Abdul Mateen
-- Amir Mohammad
-firstnames_female:
+- ارباب
+- غلام عباس
+- مهاجر
+- عظیم الله
+- محمد ادریس
+- وحید احمد
+- یوسفی
+- اکرام الله
+- خیر
+- ادیب
+- حفيظ الله
+- غلام صدیق
+- محمدصالح
+- محمد جاوید
+- امیرحسین
+- نایب
+- عبدالمحمد
+- ایوبی
+- احمدفرید
+- منان
+- عبدالمعروف
+- میر
+- وسیم
+- خالق
+- خلیل الرحمن
+- ضیاوالحق
+- عبدالمبین
+- سیدحسین
+- غلام رضا
+- نظیر
+- آتش
+- شاهزاده
+- محمد جمعه
+- قهرمان
+- عبدالعلیم
+- احمد خالد
+- حامیان
+- محمدعثمان
+- اسیر
+- بهادر
+- ثناءالله
+- عبدالوحید
+- ولی جان
+- فدا محمد
+- سید علی
+- مالک
+- محمدشفیع
+- ظفر
+- اخمد
+- آقای
+- انجینر
+- نصرالدین
+- نورآقا
+- محمدعوض
+- محمداسلم
+- شامحمد
+- مبشر
+- بهیر
+- ثناوالله
+- جلالی
+- برکت
+- یحیی
+- میرحمزه
+- عبدالواحید
+- حيات الله
+- عبدالحفیظ
+- خیبر
+- کلبه
+- خراسان
+- منیب
+- سیرت
+- صفت
+- تابش
+- تلاش
+- محمد سرور
+- قمرالدین
+- افعان
+- محمدجمعه
+- داریوش
+- ترکمن
+- زخمی
+- عثمانی
+- ذبیع
+- خداینظر
+- افشین
+- صدای
+- عطا محمد
+- مرتظی
+- انیل
+- فیضی
+- شاپور
+- سروری
+- ذاکرالله
+- حاجى
+- زهیر
+- بیت الله
+- شیراغا
+- معلومات
+- حبیب الرحمان
+- کلیوال
+- عطاءالله
+- کوس گای
+- عبدالبصير
+- آرمین
+- اشکان
+- سنگر
+- پوپل
+- توفیق
+- عبيدالله
+- بی نام
+- غم
+- خبیب
+- حنظله
+- عبداللطیف
+- احمدخالد
+- الله مراد
+- محمد اشرف
+- محمد کریم
+- محراب الدین
+- ذاهدالله
+- محمدظریف
+- عظیمی
+- گران
+- بابر
+- قرقین
+- شوخ
+- غلام حسن
+- سیدآغا
+- حنفی
+- امیر حسین
+- فقیراحمد
+- نظیراحمد
+- مولوی
+- کرامت الله
+- خال الدین
+- هجرت
+- امید الله
+- اومید
+- عشقم
+- محمداشرف
+- غلام غوث
+- علی اصغر
+- محمد شفیع
+- عبدالعظیم
+- محمدخالد
+- شیخ احمد
+- جیلان
+- مهر
+- عبداللہ
+- محمدسرور
+- مینه ناک
+- پشتون
+- ابوزر
+- مرتضا
+- امام
+- ثمرالدین
+- طیب
+- بچگک
+- جان اغا
+- وحدت
+- جمشيد
+- بلال احمد
+- تور
+- نورعلی
+- سیدمصطفی
+- سخی داد
+- سعیدی
+- څارګر
+- کون
+- محمداصف
+- عزیر
+- فقیر
+- بارکزی
+- قریشی
+- قدوس
+- تیمورشاه
+- شوکت
+- فیروزاحمد
+- نادرشاه
+- ویس الدین
+- لعل
+- محمد کبیر
+- سید حسن
+- وحيدالله
+- ړنګ
+- علیم
+- سید مصطفی
+- قومندان
+- ابوالفضل
+- محمدموسی
+- قیام
+- باز
+- سیداکبر
+- شاهدالله
+- عبدالمنیر
+- جنبش
+- نورخان
+- ذین الله
+- مهربان
+- رفيع الله
+- عبدالرقیب
+- آقمراد
+- بهاوالدین
+- عبدالرسول
+- صوفی
+- میرآغا
+- محمدکریم
+- سرباز
+- احمد بلال
+- سکندر
+- استا
+- غفوری
+- محمد عوض
+- صهیب
+- کیانوش
+- احمد فهیم
+- فاریابی
+- رضایی
+- شفيق الله
+- محمد اسلم
+- شراف
+- مقصود
+- آسمان
+- ربانی
+- بی تو
+- عتيق الله
+- رحمن الله
+- سالار
+- زلگی
+- ارماني
+- شریف احمد
+- بخت الله
+- شب
+- وردگ
+- ستومان
+- افضل
+- غلام یحی
+- عبدالخبیر
+- واسع
+- خاطرات
+- پرنده
+- عمیر
+- پیرمحمد
+- خودم
+- قاري
+- زبیع الله
+- عوض علی
+- عبدالله جان
+- محمد آغا
+- معین
+- محمدکبیر
+- عبدالنظر
+- محمدفهیم
+- ضیاءالحق
+- ولی الله
+- احمد ولی
+- محمدبشیر
+- تازه گل
+- شهزاده گگ
+- گلب الدین
+- مولاداد
+- فهيم
+- روزی
+- امپراطور
+- سیدرضا
+- احمد فواد
+- خال
+- گلاجان
+- کلیم الله
+- شیرالله
+- زبیح
+- زما
+- سرفراز
+- خیاطی
+- قطب الدین
+- همراز
+- محمد قسیم
+- مصور
+- نزیر
+- درمان
+- رحيم الله
+- ولی احمد
+- یحیا
+- محمداکرم
+- غیاث الدین
+- محبت الله
+- قربانی
+- خبر
+- همايون
+- بچگگ
+- طالب جان
+- غمگین
+- آمر
+- عبدالقدیم
+- امين الله
+- محمد اکرم
+- مسلیم
+- آغاجان
+- محمد اعظم
+- زیارمل
+- دوستت
+- سیدعمر
+- ملامحمد
+- آق محمد
+- سیدولی
+- گلالی
+- نادرخان
+- غلام دستگیر
+- سیدرحیم
+- سیدعالم
+- سینا
+- شرافت
+- شکست
+- جوره
+- بخت محمد
+- شوک
+- همیشه
+- ضیاءالدین
+- عبدالولي
+- زرین
+- سمندر
+- احمد فرهاد
+- شا
+- الکوزی
+- سنت الله
+- ارمانى
+- سیدابراهیم
+- سیدعبدالله
+- نورانی
+- خپلواک
+- کوچی
+- محمد باقر
+- دوستت دارم
+- محمد شعیب
+- نیاز
+- ځلاند
+- ګلاب
+- کابلی
+- بیدالله
+- ريس
+- ظفرخان
+- لیاقت
+- ذاهد
+- میروس
+- شیرین آغا
+- خسرو
+- حیران
+- احمد زبیر
+- خانمحمد
+- تسل
+- حكمت الله
+- ضیاء
+- انصار
+- احمد جان
+- نزیراحمد
+- محمدآغا
+- صبغت
+- الله بردی
+- برات
+- هرات
+- محمدعلم
+- پویا
+- همزه
+- لغمانی
+- گل رحمان
+- عبدالحسین
+- مطيع الله
+- طاهری
+- سپین
+- نظیف الله
+- میراجان
+- پاینده
+- خانزاده
+- احمد جواد
+- غریب
+- خیر الله
+- نور آغا
+- شير
+- شوی
+- ابراهیمی
+- مسیح
+- شکران
+- خاموش
+- نويد
+- جهانگیر
+- سیدانور
+- حاجی عبدالله
+- محمدنظر
+- آزاد
+- شایق
+- احد
+- میرالله
+- صیف الله
+- عنايت الله
+- امیرحمزه
+- انصاری
+- ملیار
+- محمد امان
+- میراغا
+- احمدجواد
+- صديق الله
+- محمد شفیق
+- نیاز محمد
+- شاکرالله
+- خالید
+- بدری
+- غلام قادر
+- حضرت محمد
+- محمد نظر
+- ربیع الله
+- شیر آغا
+- نیک
+- فیض الرحمن
+- شاه بچه
+- جگر
+- شفيع الله
+- خدابخش
+- غلام محی الدین
+- عبدالواسیع
+- گلستان
+- مسرور
+- ساحیل
+- محمد مصطفی
+- توکل
+- پسر
+- سیدعباس
+- ملنگ بچه
+- نعیم الله
+- محبوب شاه
+- سکوت
+- موالدین
+- تنهایی
+- بهرالدین
+- ذکر الله
+- وزیراحمد
+- محمد حلیم
+- عیدی محمد
+- احمد نوید
+- راه
+- آریا
+- خسته
+- محمودی
+- رشیدی
+- فريدون
+- آصیف
+- اعجازالحق
+- سیدعارف
+- واحید
+- ظاهرشاه
+- صفي الله
+- کاکا
+- غلامی
+- شوخک
+- اصیل
+- قربان علی
+- خوږ
+- حذیفه
+- ظهیر
+- دستگیر
+- محمدیاسر
+- خسته ام
+- جیلانی
+- احمدظاهر
+- رسولی
+- حسن علی
+- محمد اسلام
+- رهگذر
+- حاجی احمد
+- محمد کاظم
+- شهباز
+- محمد طارق
+- رقیب
+- اﺣﻤﺪ
+- شاه جهان
+- ضیاوالله
+- علی آغا
+- سیدامین
+- درمحمد
+- لال محمد
+- امیدجان
+- جمع گل
+- میرآقا
+- بهنام
+- طاها
+- ریاض
+- صبرالله
+- تیموری
+- عدالت
+- نسیم الله
+- جمعه الدین
+- بهترین
+- جاهد
+- محمدرفیق
+- حضرت شاه
+- علی آقا
+- راشید
+- مصطفا
+- هزاره
+- محمد افضل
+- پیر
+- فيض الله
+- دلبر
+- حان
+- سخی مراد
+- احمد شعیب
+- اغامحمد
+- دل شکسته
+- رحمن
+- مست
+- احمدفواد
+- روشن
+- ارین
+- حقایق
+- سید رضا
+- محمد حامد
+- اصغر
+- عبدالحد
+- امیرعلی
+- محمدادریس
+- محمدي
+- احمد شکیب
+- بصير
+- کرام الدین
+- لمر
+- کامل
+- محمدشفیق
+- سید مرتضی
+- زوبیر
+- سیدقاسم
+- جویا
+- صالحی
+- میر احمد
+- عبدالرب
+- نورحمان
+- گروه
+- محمد سخی
+- محمد مراد
+- فضل الربی
+- عبیده
+- حاجی حسین
+- گل الرحمن
+- گل رحمن
+- سمیع اللہ
+- مخدوم
+- بدرالدین
+- سيف الله
+- مرکز آموزشی
+- عابدالله
+- سرزمین
+- عبدالمتين
+- بهرام الدین
+- ډاکټر
+- اوزبیک
+- هواداران
+- هوا
+- هوتک
+- پنجشیر
+- گل ولی
+- خلیلی
+- شکر
+- محمد هادی
+- کهکشان
+- خالقداد
+- شرف الدین
+- رجب علی
+- فرید الله
+- عبدالسلیم
+- تازه
+- احمد سیر
+- محمد منصور
+- دهکده
+- بهمن
+- نصيراحمد
+- فروتن
+- قاسیم
+- مایل
+- جمالدین
+- گل نبی
+- احمد رشاد
+- سردارمحمد
+- محمد الیاس
+- تک
+- شهریار
+- سیداغا
+- تیم فوتسال
+- اشعار
+- سمیع الحق
+- شیراقا
+- شیرشاه
+- عفت
+- مبارک
+- مینوال
+- شاه کیر
+- محمد فاروق
+- نورگل
+- مومند
+- احمد ظاهر
+- مظلوم یار
+- باتور
+- وطنم
+- محمدقسیم
+- زریالی
+- محمد بلال
+- دورمحمد
+- سنگین
+- سردار محمد
+- حسین داد
+- سیدی
+- امیرگل
+- مبارک شاه
+- هدايت الله
+- ثمرگل
+- محمد حکیم
+- فقیری
+- منگل
+- فیسبوک
+- حجت
+- محمدشاکر
+- محمدالیاس
+- محمدافضل
+- ميوند
+- روکی
+- موسا
+- فرمان الله
+- حقجو
+- آغا
+- خدایرحم
+- معاون
+- عبدالباعث
+- حاجی امان الله
+- نقيب
+- اکبرخان
+- نبی جان
+- محيب الله
+- محمد علم
+- کربلایی
+- حاجی گل
+- عباد الله
+- میرحسین
+- ملتان
+- محمد مهدی
+- صادقی
+- سعیدالله
+- بچه های
+- محمدسالم
+- شیخ
+- ظهور
+- سیدامید
+- ایرج
+- فایق
+- صفر
+- منظور
+- عاجز
+- فضل محمد
+- حسيب الله
+- روحید
+- عزيزالله
+- شینواری
+- ذوالفقار
+- پکتیاوال
+- صادیق
+- سفر
+- بخت
+- احمدنوید
+- جلات
+firstnames_female_native:
 - مریم
-- Bahar
-- Sadaf
 - فرشته
 - اجمل
 - شادخت
-- Sanam
 - بهار
 - دخترک
 - زهرا
-- Roya
-- Bano
 - مینه
 - صدف
-- Yalda
 - ستایش
 - رویا
-- Neda
-- Shabnam
-- Tamana
 - لیلا
 - یلدا
 - تمنا
 - دنیا
 - مروه
-- Mahsa
-- Shir
 - شبنم
 - نرگس
 - بانو
-- Asra
-- Nargis
-- Freshta
 - نازنین
 - ثنا
-- Banoo
 - سمیرا
 - سکس
 - آرزو
 - نور محمد
-- Dunya
 - فردوس
 - زینب
 - سبحان
 - الماس
-- Zuhal
-- Shadokht
-- Shadukht
 - ندا
 - فرزانه
-- Arezo
 - مژده
-- Morsal
 - سارا
-- Ferdaws
 - مهسا
 - ستاره
-- Setayesh
-- Asal
-- Nazanin
 - نیلوفر
 - صنم
-- Nilofar
-- Zohal
-- Narges
-- Alham
 - تبسم
 - دختر
 - عایشه
@@ -1575,149 +5289,78 @@ firstnames_female:
 - نور احمد
 - اقبال
 - زیبا
-- Mahnaz
-- Maisam
 - اسما
-- Khatera
 - هجران
-- Anosh
 - خاطره
 - حسنا
 - مدینه
-- Muska
-- Bahara
 - فریبا
 - همت
-- Tahmina
 - ملکه
 - انتظار
 - بهاره
 - مژگان
-- Sosan
-- Manizha
-- Payman
-- Marzia
-- Hasenat
 - دولت
 - بهشته
 - فریده
 - مينه
 - مهتاب
 - سونیا
-- Muzhgan
 - خانم
-- Nilab
 - یسرا
-- Hosna
-- Yasna
 - مهناز
-- Shahdokht
-- Elaha
-- Parwana
-- Frozan
-- Elnaz
 - شیرین
-- Frishta
 - جمیله
-- Hemat
 - نادیه
 - ثریا
 - یاسمین
 - جهان
-- Arzoo
 - کوثر
-- Yasamin
 - سمیه
-- Usra
-- Hasti
 - دریا
-- Moqadas
-- Sohaila
 - نور الله
 - پرنسس
-- Palwasha
-- Dawlat
-- Negin
 - شادوخت
 - لیدا
-- Zuhra
 - شکیلا
 - سکسی
 - کاینات
 - زحل
 - سلما
 - شهر
-- Nelofar
 - نفس
 - پروانه
-- Sediqa
-- Najiba
-- Paiman
-- Nooria
-- Harir
-- Muzhda
 - مینا
-- Asenat
 - فریحه
 - شقایق
-- Tabasom
-- Parwin
-- Nazifa
-- Nafas
-- Waslat
-- Feda
-- Heela
 - سیما
 - الفت
 - هیله
-- Masooma
 - شاهدخت
-- Shahdukht
 - نسرین
-- Kainat
-- Nimat
-- Masoma
 - معصومه
-- Ziba
-- Wazhma
 - بسم
-- Shafiqa
-- Anosha
-- Shakiba
-- Farahnaz
 - شگوفه
 - عاطفه
 - جنت
 - راز
 - حمیده
 - ارزو
-- Pardis
 - پریسا
-- Shukria
 - نوریه
 - نازدانه
 - مهدیه
 - نورالرحمن
 - سهیلا
 - لیمه
-- Setara
-- Arzo
 - شکریه
-- Tabasum
 - نیلاب
 - محراب
 - راضیه
-- Rokhsar
-- Armaghan
-- Nastaran
 - کرشمه
-- Dokhtarak
-- Hadis
 - مسکا
 - لطیفه
 - اسرا
-- Shogofa
-- Maroo
 - زه
 - انوش
 - ليلا
@@ -1725,150 +5368,88 @@ firstnames_female:
 - روف
 - ریحانه
 - خالده
-- Behishta
-- Zamary
-- Noor Ali
 - حمیرا
-- Zarghona
 - نگین
-- Asoo
 - فوزیه
-- Atifa
 - نجلا
-- Rohina
 - افسانه
 - رخسار
 - شکیبا
 - نازیه
 - لاله
-- Khatira
 - الناز
 - بنفشه
 - گیتی
-- Roqia
-- Fatana
 - نیایش
-- Beheshta
 - شریفه
 - شازیه
-- Negina
-- Benafsha
-- Zenat
 - فریشته
-- Shekiba
-- Mahboba
 - لینا
 - شاه دخت
 - نرگیس
-- Eshwa
 - یگانه
-- Shokria
 - ناهید
 - اورانوس
 - زینت
-- Basira
-- Mahya
-- Sodaba
 - نازی
 - زرغونه
-- Zarmina
 - مرضیه
-- Jumagul
 - مهریه
 - فرحت
-- Kayenat
-- Mozhgan
-- Nasiba
 - نجیبه
 - شیلا
 - ملالی
-- Hasinat
-- Fareshta
 - الطاف
-- Negah
-- Sweeta
-- Nazila
-- Efat
 - عزیزه
-- Mozhda
 - هانیه
 - حلیمه
 - لیلی
 - نبیلا
 - خدیجه
-- Gulalai
 - ارمغان
-- Mahdia
 - طلوع
 - شفیقه
 - صابره
-- Masouda
-- Shafaq
 - امانی
 - نسیمه
 - شکوفه
 - سعیده
 - صدیقه
-- Friba
 - پروین
 - گوزل
-- Moska
 - ښکلا
 - نسترن
 - آسنات
-- Shokran
 - منیژه
 - الینا
-- Barin
 - رها
 - شادختک
 - ماریا
-- Mehria
-- Saghar
-- Seerat
 - حاسنات
-- Farishta
-- Nehan
 - آزیتا
-- Yagana
 - یسنا
 - میترا
-- Qudsia
 - زرمینه
-- Hareer
 - ترنم
-- Nazdana
 - کریمه
-- Farkhunda
-- Malalai
 - حدیث
 - مریم جان
 - نگینه
 - گیتا
 - پلوشه
-- Metra
-- Ellaha
 - فرحناز
-- Farshta
 - نرګس
 - فیروزه
-- Nelab
 - بشرا
 - مادر
 - پرستو
-- Setaish
 - صفیه
-- Hosai
-- Shagha
 - فهیمه
 - هستی
 - یکتا
 - شهلا
 - عالیه
 - الهه
-- Tajala
-- Krishma
-- Husnia
 - حسنات
 - صحرا
 - محبوبه
@@ -1881,97 +5462,49 @@ firstnames_female:
 - رعنا
 - فرخنده
 - خوشبو
-- Firoza
 - پرنیان
 - مهرماه
 - آسیه
-- Farima
-- Zarlasht
-- Yasra
 - طاهره
-- Leeda
 - نهان
 - سکینه
-- Wagma
 - تهمینه
 - وفاه
 - راحیل
-- Ozra
-- Zarifa
-- Khoshi
 - ناهیده
-- Satayesh
 - تمکین
-- Fakhria
-- Harer
 - ساناز
-- Hoora
-- Pakiza
-- Frohar
 - طیبه
-- Tarawat
-- Rokai
-- Dukhtarak
-- Oranos
 - حفصه
-- Aqila
 - تینا
-- Niloo
-- ﻓﺮﺷﺘﻪ
-- Khanom
 - شفق
 - نجوا
 - اسلامي
 - کوسی
-- Dokhtar
-- Hamta
 - عادله
 - نازیلا
 - دخترك
-- Masooda
 - ناجیه
 - مسکان
-- Brishna
-- Homaira
 - برشنا
-- Farkhonda
-- Hadisa
-- Najeba
 - ارغوان
-- Deeba
-- Tayeba
 - حبیبه
 - نگاه
 - دیانا
-- Giti
 - رحیمه
-- Razma
 - سویتا
 - در
-- Najila
 - زکیه
 - ساغر
 - بصیره
-- Atefa
-- Freba
 - مهرناز
 - شیما
-- Laleh
 - مزار
 - سیتا
-- Gozal
-- Najeeba
-- Mehrsa
-- Armita
 - پری
-- Farwa
-- Shamali
-- Nelam
-- Bibi Haji
 - فاطیمه
 - گلثوم
 - امینه
-- Homira
 - مریم وفا
 - مرسل جان
 - راحله
@@ -1983,440 +5516,246 @@ firstnames_female:
 - حسینا
 - شفا
 - سبا
-- Ahoo
-- Arozo
-- Feroza
 - نورجان
 - سعدیه
-- Ghezal
 - مرینا
 - ستايش
 - حدیثه
-- Taranom
 - مهری
 - مسعوده
-- Talwasa
 - هدا
 - ادا
-- Khoshbo
-- Faryal
-- Hangama
-- Nadima
 - شرین
 - چنار
-- Firdaws
-- Setayish
 - ذکیه
 - کامله
 - نيلوفر
 - نیلم
-- Malali
 - حریر
 - سلگی
-- Bareen
 - فرهناز
-- Malalay
 - نرکس
 - سدره
 - سایه
 - سوله
 - بهناز
 - بیتا
-- Arghawan
-- Samana
 - همتا
-- Shaqayeq
-- Shamsia
 - نجیلا
 - دینا
-- Parasto
-- Deyana
-- Mozhdah
-- Farangis
 - سودابه
-- Sadf
 - ویدا
 - پریا
-- Angiza
-- Sarwari
-- Stara
-- Rangina
 - آتنا
-- Parniyan
 - ملیکه
-- Afsoon
-- Madeena
-- Sharbat
-- Sayeeda
-- Tooba
 - لیلا جان
 - آروزو
 - هيله
-- Geety
-- ﺑﻬﺎﺭ
-- Shugofa
 - نظیفه
 - دلم گرفته
 - سمانه
-- Kaynat
 - مطهره
-- Meetra
 - دونیا
 - دوختر
 - وژمه
-- Zamzama
-- Murwarid
 - رويا
-- Shazya
 - سميرا
 - اسلامى
 - آیدا
-- Fardina
-- Jailan
 - نیلا
 - سوگند
-- Guzal
 - هديه
-- Omida
 - فرشته جان
-- Behshta
 - سفید
 - مارال
-- Somaye
-- Dokht
 - شیبا
 - نیلو
 - بینظیر
-- Fereshta
-- Gity
-- Mezhgan
 - عشوه
 - هیلی
-- Parween
-- Nosrat
-- Breshna
-- ﺍﺟﻤﻞ
 - روبینا
 - فریما
-- Parnian
 - شما
 - نبيلا
 - آروز
 - سیده
 - ماریه
-- Sa Na
 - رونا
 - ندامحمد
 - نویده
-- Tazagul
-- Storay
 - شاد
 - بهاری
-- Satara
-- Dokhi
-- Zalma
-- Neelab
 - خجسته
-- Shadkht
-- Pashtana
 - سپوژمی
 - سومن
 - روز محمد
-- Hasty
 - دخت
-- Helay
-- Needa
 - قندولک
 - نیدا
-- Staish
-- Asnat
 - لیلما
-- Lailuma
-- Tamken
 - آزاده
-- Forozan
-- Khushbo
-- Sadiqa
 - نگار
 - رسا
-- Aqela
-- Alnaz
 - یاقوت
-- Moskan
 - دیبا
 - دختری
-- Mastora
-- Spozhmai
-- Nargas
 - اسنات
-- Nigin
-- Arazo
 - سنم
-- Fardows
 - دخترکی
-- Dokhtark
-- Nigina
 - اسمه
 - پیغله
 - زندگی زیباست
-- Orya
-- Hemmat
 - شمسیه
-- Bahaar
 - شازيه
 - الهی
-- Spogmai
 - سمینه
 - سحرا
 - فاضله
 - بیان
 - گل ناز
-- Kohistani
-- Rangin
-- Sughra
 - دوخترک
-- Behtar
 - ترینا
 - سعادات
 - دخترک ناز
-- Hussna
-- Morwarid
-- Tamna
 - آناهیتا
 - ماهره
 - شمیلا
 - شیدا
-- Hä
 - بی بی حاجی
 - ملینا
 - کس
-- Katayon
-- Elhaam
-- Zolal
 - ستوده
 - دوشیزه
 - آمینه
-- Khatima
 - محیا
 - سلیمه
-- Benazer
-- Gulsom
 - نیل
 - صحر
 - پاییز
-- Andisha
 - آذر
 - سونیتا
 - هوسی
-- Khanoom
-- Zulal
 - حوا
-- Neyayesh
 - شهز
 - گل های
 - آینور
-- Paresa
 - آیناز
 - نجيبه
 - زرمينه
-- Lailoma
 - سونم
 - مهرسا
-- Forogh
 - انیسه
 - طوبا
-- Qadria
 - نوشین
 - نازدانه گک
 - فرنوش
-- Zakera
-- Helai
-- Arezu
-- Banafsha
 - مسلمه
-- Sabna
 - تنهاتنها
-- Geeti
 - نیگینه
 - ملاله
-- Eftikhar
 - کتایون
-- Massoma
 - مقبوله
 - څانګه
-- Tahora
 - ځلا
-- Farashta
-- Froozan
 - روقیه
-- Khanm
 - سیدمیرویس
-- Nastran
-- Anargul
-- Yakta
 - کلالی
-- Azmary
 - نازا
 - فريشته
 - مرادي
 - حوستی
-- Sozha
 - عاقله
 - حوریه
 - عسلی
 - شمسی
 - ثنا جان
-- Spozhmay
-- Elinaz
-- Kreshma
-- Feriba
 - ملیکا
 - روبینه
 - فریباه
 - سودا
 - شمیم
-- Mohadesa
 - نازو
 - پلواشه
-- Ezha
-- Hasunat
 - زبیا
-- Nazaneen
-- ﻓﺎﻃﻤﻪ
 - ليمه
-- Ashwa
 - آوا
-- Neyaish
-- Kunduz
 - فرا
-- Doshiza
-- Nazanen
 - ژاله
-- Roia
-- Niayesh
 - امارات
-- Mehrmah
 - عروسک
-- ﺳﺘﺎﻳﺶ
 - انوشه
-- Rukhshana
 - آهو
-- Storai
-- Arizo
-- Farzanah
-- Sadna
-- Quëën
 - زهراه
-- Shadokhat
 - فيروزه
-- Dorsa
 - مهوش
 - بهشت
-- Engila
-- Azada
-- Mahwash
 - پښتنه
-- Suhilla
 - مهین
-- Kahkashan
 - آی
-- Frashta
 - انگیزه
 - توبا
-- Behtarin
 - توره
 - سپنا
 - حنیفه
 - سارینا
-- Tahoora
-- Muzh
 - کودکستان
-- Maqbolak
-- Zarghuna
 - تانیا
 - مهربانو
 - سپیده
-- Razya
-- Froogh
 - نبیله
-- Sana Gul
-- Yasreb
-- Khatara
 - سایره
 - لیزا
 - ماندگار
 - فرنگیز
 - صوفیا
-- Mà
 - زليخا
 - مرزیه
-- Nazoo
-- Tamkeen
 - افسون
 - پشتنه
-- Muzhdah
 - کائنات
 - فریال
 - دخترک تنها
-- Humira
 - زرلشت
 - سوریا
 - يلدا
-- Gulzada
 - تمنا جان
 - ساراه
 - دختران
 - نزری
 - پیوستون
-- Neelo
 - په زړه
-- Samimi
 - مریم تنها
 - لیما
-- Baano
-- Norya
 - ایلف
-- Asanat
 - سحر جان
 - رابیه
-- Noorjan
 - دوست دارم
-- Osra
 - گل یاس
 - مینه جان
 - کل رحمن
 - رحما
 - سیتایش
-- Elhama
 - لوی دخترک
 - مستانه
 - گل دسته
 - نوريه
 - ګودر
 - ملالي
-- Lalai
 - نازک
-- ﺩﺧﺘﺮﻙ
 - دال
 - جنتی
 - زره
 - غنچه
-- Ziagul
 - نرگیز
-- Mehrma
 - رویای
 - لیله
 - جلوه
 - ترانه
-- Soghra
 - مهیا
 - خادم الله
 - زمر
 - سید طوفان
-- Gite
-- Shukib
 - نسيمه
-- Mehry
 - سایمه
 - دولت محمد
 - الاهه
@@ -2425,179 +5764,80 @@ firstnames_female:
 - عشق ناتمام
 - نورز
 - مقام
-- Wesa
 - فاطمه جان
 - زلال
-- Pirncess
 - اسیا
 - سوده
-- Aseya
 - روخشانه
-- Šã
 - گل پانه
-- Weeda
 - گلدوزی
-- Sharzad
 - قلبم
-- Gisoo
-- ﻣﻬﺴﺎ
 - شغله
 - فروغ
-- Ganan
-- Rezwana
 - حیاتی
 - ماری
-- Lovely Gak
-- Sudaba
-- Tajalla
-- Aynaz
-- Sadaf Jan
-- Aahoo
 - مروارید
-- Sataish
-- ﮔﻞ
-- Afson
-- Oranus
 - یمنا
 - شهره
-- Nozhat
-- Ghezala
-- Barana
-- Setaysh
 - رشیده
-- Qandi
-- Aqlima
 - زوان
-- Yasrib
 - يار
-- Barfin
 - دلربا
 - ملیحه
 - فلم سکس
-- Hooria
-- Hafasa
 - منیه
-- Rahmana
 - صبریه
 - آرایشگاه
-- Somayah
 - نازگل
-- Mersana
 - عذرا
-- Najlla
 - استقلال
-- Shadukhtak
-- Yasamen
-- Masoomeh
 - فرناز
-- Mehrna
-- Mawloda
-- Ro Ya
-- Bilqees
-- Sotoda
-- Ferishta
-- Orzala
 - نفیسه
 - زویا
-- Ğh
-- Paimana
-- Fareba
 - تها
-- Zohrah
-- Hamrah
-- Ellham
-- Aseman
 - مات زره
 - دختره
-- Yesna
-- Noorya
-- Nahan
-- Ferdws
-- Fereshte
-- Princss
 - مادر جان
-- Masoomah
-- Rohafza
-- Hā
 - الیا
-- Shah Dukht
-- Ferdouse
 - سلګۍ
-- Nargiss
 - حاجی محمد اسماعیل
-- Dokhter
-- Mâ
 - فلوشه
-- Marhamat
-- Dinez
 - گول
-- Zahra Jan
-- Hamesha
-- Shah Dokht
 - گلی
 - دلتنگم
-- Shuhra
-- Oranoos
 - مرغ
-- Hå
 - رویدا
-- Hamisha
-- Sazia
 - نغمه
 - شاه دوخت
-- Gety
 - پاکیزه
-- Nekhat
-- Shogufa
 - رویایی
 - جدایی
-- Jàn
-- Shadakht
-- Fazela
-- Paymana
 - مهرما
-- Taranum
-- Qandolak
 - نصیبه
 - مشاوره
 - برهان الله
 - لیسه
 - مرا
 - مینه ناکه
-- Mansoora
-- Yegane
 - سیمین
-- Yasameen
-- Mehrana
-- Parwen
 - تمنا تنها
 - دنیز
 - انجیلا
-- Mehrin
 - حسیبا
 - نازلی
-- Šâ
 - مهرسانا
 - سپوږمی
-- Fruzan
-- ﺻﺪﻑ
-- Omulbanin
-- Baheshta
 - چرا
-- Aylar
-- Sana Jan
 - صنم جان
 - بیتو
 - لیا
 - کبرا
-- Sa Mi
 - گلشن
 - آسایش
 - عایشه گل
 - علینا
 - آیلین
 - شکوه
-- Sana Khan
 - سوریه
 - بهنوش
 - آسمان آبی
@@ -2605,76 +5845,44 @@ firstnames_female:
 - رحم الله
 - روبينه
 - گلهای
-- Agmal
 - شهربانو
 - به امید
 - شعر های
 - اسپوژمی
 - ساده هلک
-- El Ham
-- Trena
-- Falwasha
 - اومیدالله
 - شازاده
-- Simeen
 - ناز جان
-- ﻣﻠﻜﻪ
-- Ýalda
 - شکريه
 - سکیس
 - عشق بی
-- ﻣﮋﮔﺎﻥ
 - اروزو
 - اسمآ
 - نازولي
 - مینه مینه
 - قلبهای
-- Tareen
 - کوکی
-- Gullalai
 - زبیدالله
-- Farht
 - الحافظ احسان الله
 - حسنیه
 - پروانه جان
-- Ferdoos
 - حنیسه
-- Neloofar
-- Golsom
 - نجما
 - بسمینه
 - ولی.محمد
-- Rokhshana
-- Parneyan
-- Sangari
 - رخشانه
 - سبغت الله
 - زرعونه
-- Setayash
-- Salgy
-- Zholi
 - نجیب الله جان
-- Khatra
 - ګل پاڼه
-- Ozlam
-- Hamaas
 - سیدکفایت الله
-- ﻋﺰﯾﺰ
 - درديدلى
 - تقوا
 - فاروقي
-- Barati
 - قران
-- Naemat
-- Shohra
-- R Jan
-- Eqlima
 - عبدرخمان
 - سمينه
-- Sataysh
 - حورا
-- Safora
-- Śø
 - مسكان
 - سیمه
 - کیمیا
@@ -2684,1045 +5892,581 @@ firstnames_female:
 - حکیمه
 - مرىم
 - امیده
-- Massuma
-- ﻧﺎﺩﻳﻪ
-- Faieza
 - دیوانه گگ
 - نرګیس
-- Gulaly
 - پارسی
 - آسما
 - صنا
 - ورقه
 - قاری عبدالحمید
 - سیاست
-- Sidiqa
 - سمی
 - زری
-- ﺁﺭﺯﻭ
-- Zawan
-- Frahnaz
 - سلینا
 - رامینا
 - فاطی
 - سوز
 - وفا تنها
 - مدسیر
-- Sorgul
 - یقین
 - گلبهار
-- Naz Jan
-- Jaweria
 - عارفه
-- Bahin
-- Pakhtana
 - نامتان
 - نامرد
 - مهرا
 - فروانه
 - مرګ
 - حینا
-- Layluma
 - سوری
 - ملیسا
-- Marzeya
-- Shukiba
 - زهل
-- Gawharshad
 - سکس کوس
-- ﺑﻬﺸﺘﻪ
 - سونیا جان
 - لیلاجان
 - خبرنگار
-- Jalwa
 - هلنا
-- Monaza
-- Fareshtah
 - شاکره
-- Aynoor
-- Engal
-- Nä
 - سریا
-- Salgai
-- Mehrnosh
-- Nasimah
-- Serwat
-- Manija
 - ﻓﺮﺯاﻧﻪ
-- Somaira
 - آنلاین
-- Zooya
 - فریدہ
 - صمیرا
 - ویرانه
 - مهرنوش
-- Pranses
-- Sanaee
-- Łøÿ
-- Midwife
-- Zarefa
 - بوی
-- Awezha
-- Zulikha
 - سپوږمۍ
 - مرسانا
-- Stayash
 - طناز
 - مجددی
-- Arshida
-- Harira
 - حميرا
-- ﻣﺮﯾﻢ
-- Zarafshan
 - ضحی
-- Farnosh
-- Mansora
 - آرمیلا
 - نوش
-- Shadoukht
 - شبنم جان
-- Prancess
-- Gulpanra
 - یولدوز
 - بهارک
-- Shekeba
-- Mushtari
-- Nazii
-- Wezha
 - اقبال احمد
 - زهرا تنها
-- Mahjabin
-- Toorpekai
 - کبری
 - مهر ماه
-- Wranga
-- Godi Gak
-- Farangiz
 - مبینا
-- Noorin
 - الیناز
-- Shaqaiq
 - هلینا
-- Kaenat
 - مارینا
 - نادیہ
-- Mahdis
-- Mar Wa
 - خالده جان
 - مهدیس
-- Frshta
-- Ghezaal
 - مهشید
-- Rawina
 - رهگزر
-- ﻓﻴﺮﻭﺯ
 - چوچه
 - عشق یعنی
 - سبنا
-- Almaas
-- Azmoon
-- Tawala
 - زهرا جان
-- Masome
 - ﻳﻠﺪا
-- Mir Abdul Qahar
-- Nedah
 - بانوی
-- Nawida
-- Hadesa
-- Raheal
-- Hariwa
 - نرمین
 - آصفه
 - درسا
-- Surraya
 - فيروزاحمد
-- Zaitoon
 - زم
-- Ša
-- Qazal
-- Sheja
 - عشق ناکام
 - شکستی
-- Golsum
 - ستاهیرول
-- Râh
 - عزیزم
-- Alaha
-- Saiema
 - کلپ ورزشی
-- Şa
 - روحینا
 - اخگر
 - آرامش
-- Shakeba
-- Mehro
-- Ahdia
 - قطعه
 - گیسو
 - نازیتا
-- Mehroma
-- Sedeqa
 - سحر وفا
-- Soraiya
-- Roona
-- Motahara
 - فرحد
-- Shbnam
-- Mahrokh
 - دردونه
 - صوفى
 - نادیا
-- Sabargul
 - مر یم
 - ګلالۍ
-- Faranaz
-- Forouhar
 - ویژه
 - طوبی
-- Haseba
-- Bahishta
-- Pirancess
 - ددری
 - طراوت
-- Gulsoom
-- Pariwash
-- Andesha
-- Wajma
-- Båhår
 - زلاله
 - لیذا
-- Fershta
 - حیت
-- Stayesh
-- Marziye
-- Šä
-- Qüeeñ
-- Sahraa
 - مومنه
 - سحرناز
-- Tamoo
 - ازاده
-- Mohadisa
-- Ponam
 - روشنی
 - زنیب
 - پریناز
-- Ozma
 - الیسا
-- Meherma
-- Morowat
-- Zarmena
 - ستاره جان
-- Sanajan
 - گل دختر
-- Princese
 - فردینا
 - فوادجان
 - زیبا جان
-- Masouma
 - نایده
 - خکلا
-- Zarghoona
 - ذبىح الله
 - آی نور
 - راحیله
 - کیانا
 - فلورانس
 - قلبی
-- Aysoon
-- Tahiry
-- Fardws
 - زیباه
 - شمس.الله
-- Deewa
-- Silsila
-- Marmarin
 - دجانان
 - مروه جان
-- Morwat
 - روحا
-- Sa Har
-- Ramika
-- Binazir
 - آی سیور
 - عیشوه
-- Farhnaz
 - شتایش
-- Shadukhat
-- Hogai
 - سیاموی
-- Asma Jan
 - مقدسه
-- Parkha
 - فروه
-- Nazilla
-- Zelaikha
 - جمع جان
 - نور الرحمن
 - تک دختر
 - نر
-- Forohar
-- Trawat
 - محناز
-- Dukhtark
 - خدمت
 - سمینا
 - سحر تنها
-- Wassy
-- Pransis
-- Gulabo
-- Harier
 - علیا
 - نهایش
-- Maryam Jan
-- Eqra
 - مبایل
 - قدریه
-- Bheshta
-- Nazya
-- Mæ
 - ستامینی
-- Shadukt
 - جملات
-- Mahria
-- Shahzia
 - اطهر
-- Asoda
 - فریده جان
 - یاسمن
-- Forugh
 - فراموشت
 - رویا جان
-- Masoda
-- Beshta
 - موسکا
 - طهورا
-- Nigena
 - روینا
 - صدف جان
-lastnames:
+- لبخند
+- شه
+- نارون
+- شکیله
+- ودیر
+- آثنات
+- بی نظیر
+- اﺣﻤﺪﺯﻱ
+- ظاهره
+- ترکیه
+- لېونی
+- الهامه
+- احمیدالله
+- وږمه
+- امىنه
+- داکتره
+- زهید
+- سمینہ
+- کمک
+- لیونی مینه
+- نظراغا
+- امرا
+- کلپ قوت الرمی
+- شاه سوار
+- غزل غزل
+- لیلاه
+- حاجی عبدالمطلب
+- شبنم وفا
+- اومیرا
+- رازوق
+- بلی
+- دین من
+- استادعبدالله
+- نركس
+- جاسمین
+- نړۍ
+- عبدال قادر
+- مرموز
+- خز
+- جگرجان
+- شهزاده شاهین
+- نارنین
+- شاکیرالله
+- جنىد
+- یاسا
+- افغانستا
+- پرشته
+- ملا پنجی
+- علی ریضا
+- اسینه
+- فظلاحمد
+- سوگل
+- نازیه جان
+- يار محمد
+- لیلوما
+- ربابه
+- چمن حسین
+- واژه
+- فاتیمه
+- ملاوزیر
+- شاناز
+- سیدکریم الله
+- شهزاده یی
+- نورینا
+- شکلا
+- حجابم
+- سیاه موی
+- تولدت
+- روهینا
+- ذهیر
+- عبدل صبور
+- میرو
+- حمآب
+- مرزيه
+- سیده زهرا
+- عقیق
+- زه ستا
+- زرافشان
+- عیبدالله
+lastnames_native:
 - محمدی
-- Ahmadi
 - احمدی
-- Jan
-- Afghan
 - تنها
-- Safi
-- Mohammadi
-- Noori
 - افغان
-- Sadat
-- Azizi
-- Rahimi
-- Tanha
 - نوری
-- Amiri
 - جان
 - رحیمی
 - نظری
-- Ahmadzai
 - مرادی
 - امیری
 - رحمانی
 - وفا
-- Karimi
-- Rahmani
 - حیدری
 - حسینی
-- Nazari
-- Ullah
-- Wafa
 - سادات
 - عزیزی
 - کریمی
 - صافی
-- Azimi
-- Sultani
-- Habibi
-- Haidari
-- Hashimi
-- Sediqi
 - هاشمی
-- Shinwari
 - صدیقی
-- Hamdard
-- Amini
-- Hakimi
-- Akbari
-- Sharifi
 - نیازی
 - یوسفی
-- Niazi
-- Momand
-- Hamidi
-- Faizi
 - همدرد
 - خاکسار
 - سلطانی
 - شریفی
-- Sahil
-- Shirzad
 - اکبری
 - حمیدی
 - امینی
 - حکیمی
-- Zazai
 - حبیبی
 - ابراهیمی
-- Zadran
-- Hotak
 - رضایی
-- Stanikzai
-- Hussaini
 - عمری
 - قادری
-- Sarwari
 - عظیمی
-- Wardak
 - احمدزی
-- Naz
 - فیضی
-- Omari
 - سروری
-- Muradi
-- Arman
-- Kakar
-- Ahmady
 - رسولی
-- Haidary
-- Nabizada
-- Mangal
-- Bahar
-- Sherzad
-- Hashemi
-- Ibrahimi
 - عرب
-- Rasooli
 - شیرزاد
 - دلسوز
 - غفوری
 - ناصری
-- Qaderi
-- Alizada
-- Afg
-- Rasoli
 - نورزی
-- Noorzai
 - جانان
-- Osmani
-- Muhammadi
-- Naseri
-- Danish
-- Samadi
 - بهار
-- Arab
 - عشق
 - سعیدی
-- Sarwary
 - بلوچ
-- Popal
 - بارکزی
-- Amiry
 - ایوبی
-- Samim
 - یعقوبی
-- Shams
-- Anwari
 - ارمانی
 - عثمانی
 - حسنی
-- Mohmand
-- Afzali
-- Fazli
 - نورزهی
 - مبارز
 - غلامی
 - تیموری
-- Walizada
 - علیزاده
-- Wali
 - قریشی
 - ناز
-- Armani
-- Moradi
 - نبی زاده
-- Sahak
 - قاسمی
-- Jafari
 - طاهری
 - ترکمن
 - وردگ
-- Sahar
 - سعادت
-- Nikzad
-- Rasa
 - عطایی
 - شینواری
 - ساحل
-- Barakzai
-- Amani
-- Ahadi
-- Gak
 - الکوزی
-- Ebrahimi
-- Joya
-- Khaksar
 - حقیار
 - صمدی
 - جعفری
 - هوتک
-- Yousufi
 - محمودی
 - موسوی
-- Omid
-- Zamani
-- Faqiri
 - قربانی
-- Rasuli
-- Kohistani
-- Sidiqi
-- Zia
-- Sadiqi
 - میرزایی
 - هلک
-- Sakhizada
 - صالحی
 - فقیری
 - محمدي
-- Sadaat
 - ارمان
-- Quraishi
 - کوهستانی
 - انتظار
-- Nawabi
 - انوری
-- Yaqubi
 - عابد
 - عشقی
 - مومند
 - نظامی
 - همراز
-- Hassani
-- Mayar
-- Nasiri
-- Nazary
 - کاکر
 - مجاهد
-- Aryan
-- Wahidi
 - افغانستان
-- Faizy
-- Bayat
 - یوسفزی
-- Salehi
-- Alokozay
-- Hemat
-- Yousufzai
-- Ayoubi
-- Hamraz
 - صادقی
-- Waziri
-- Ghafoori
 - غزنوی
-- Yousofi
-- Mohammady
-- Talash
-- Zaheer
-- Mohamadi
-- Zada
 - احمدي
-- Frotan
 - رشیدی
-- Haqyar
 - انصاری
-- Aslami
-- Saadat
 - نادری
 - فاریابی
-- Parsa
 - دانش
-- Hashmi
 - علی
-- Rezaie
-- Rashidi
 - مجیدی
-- Elham
 - جلالی
-- Dost
-- Rezai
-- Halimi
-- Bakhshi
 - حقانی
-- Malikzada
 - گل
-- Jalali
 - کابلی
-- Atal
 - فروتن
-- Afshar
 - لغمانی
-- Dawlatzai
-- Niazai
-- Qasimi
 - بلخی
 - جمشیدی
-- Zaland
 - اشنا
 - همت
-- Ehsas
-- Rahmati
-- Rohani
 - امانی
-- Noory
 - خلیلی
-- Jami
 - هزاره
 - افضلی
 - جویا
-- Safari
 - امین
 - ستانکزی
-- Wahedi
 - احدی
-- Amarkhil
 - فراهی
 - مزاری
 - سیدی
 - شاه
-- Naderi
 - مهمند
-- Nasrat
-- Rahimy
 - منصوری
-- Seddiqi
 - کندزی
-- Haqmal
 - رحمتی
-- Qasemi
 - رجبی
 - حاجی زاده
-- Popalzai
 - سخی زاده
 - تاجیک
-- Ghafori
-- Sherzai
-- Sakhi
-- Mahmoodi
-- Hossaini
-- Rasooly
-- Ehsan
 - محبت
-- Qazizada
 - قیومی
 - پوپل
-- Majidi
-- Behzad
 - الهام
-- Latifi
 - علی زاده
-- Farahmand
 - نیکزاد
-- Taheri
 - حقمل
-- Azami
 - قرقین
-- Aria
 - پهلوان
-- Kabul
 - حقجو
-- Nezami
-- Siddiqi
-- Saeedi
 - پنجشیری
 - نوروزی
 - حسن زاده
-- Yousafzai
 - بغلانی
 - دوست
 - عباسی
 - زوری
-- Akbary
 - روفی
-- Rasouli
-- Baloch
-- Ashna
 - خالقی
 - شاهین
 - صفری
 - مزار
-- Arian
 - کابل
 - تو
 - منګل
-- Pjr
-- Jabarkhil
-- Alizai
-- Shirzai
-- Rajabi
 - افعان
 - شهر
 - نعیمی
-- Rahmany
-- Yar
-- Ayubi
 - زاده
 - حنفی
 - درویش
 - وفادار
 - ژوند
-- Sahibzada
 - وزیری
 - خراسانی
 - حاجی
-- Khalili
 - ولی زاده
-- Sadeqi
-- Mirzad
-- Akrami
-- Salarzai
-- Hafizi
-- Jamshidi
 - نجرابی
 - روحانی
-- Parwani
 - خوستی
-- Shamal
 - صاحب
 - اوزبیک
-- Samimi
-- Totakhil
-- Qarizada
-- Arsalan
 - سحر
-- Poya
 - الدین
-- Raufi
-- Laghmani
 - اتل
-- Shahab
-- Ghafari
 - عالمی
 - بچه
 - غفاری
 - هجران
 - منگل
 - صداقت
-- Yosufi
 - جنبش
 - مسافر
 - حلیمی
-- Yaqoobi
 - کاروان
 - طوفان
 - زمانی
-- Khaliqi
 - فضلی
-- Hajizada
-- Tokhi
-- Mosavi
 - امید
-- Ayobi
 - علیزایی
 - نصرت
 - نورزایی
-- Mashal
 - خیرخواه
-- Himat
 - سلیمانی
 - بارک
-- Asadi
 - رضای
-- Farahi
 - نوري
 - پروانی
 - سلیمی
-- Sharify
 - کاظمی
-- Saifi
-- Barak
 - مخلص
-- Rasoly
-- Farhad
 - احسان
-- Ameri
-- Nori
 - لالا
-- Naimi
 - صابری
-- Sahel
-- Omary
-- Sayedi
-- Barekzai
-- Soltani
-- Khamosh
 - شیرزی
-- Kamawal
 - عزیز
-- Rezaei
 - رستمی
 - مستری
-- Kazimi
 - ظاهری
-- Sirat
-- Yaqobi
-- Nasiry
 - من
 - عرب زاده
-- Hanifi
-- Balkhi
 - اسلمی
 - موحد
 - بختیار
-- Durani
 - جوزجانی
 - یار
-- Salimi
 - تخاری
-- Noorzad
 - حسین
-- Farooqi
 - لوگری
-- Gull
 - علیزی
 - سیرت
 - مهربان
-- Jalili
-- Kabuli
 - سلجوقی
-- Bahrami
 - بهادری
 - بیک
-- Afgan
-- Khanzada
-- Kazemi
-- Qadiri
-- Bigzad
 - بهرامی
-- Mirzada
 - اچکزی
 - امرخیل
-- Fazly
-- Almas
-- Afghanistan
 - دولت زی
 - رحماني
 - مینه
 - وطندوست
 - هراتی
-- Mandozai
-- Ahmade
-- Arash
 - امامی
-- Rahemi
 - ملنگ
-- Ghaznawi
 - غوری
 - توخی
 - جاوید
 - تلاش
-- Niazy
 - جامی
-- Pacha
 - پکتیاوال
 - فاروقی
-- Yusufi
 - ځدراڼ
 - سیلاب
 - جلالزی
 - رحيمي
-- Hamidy
-- Rasikh
-- Panjshiri
-- Sedeqi
-- Usmani
-- Nasery
 - براتی
-- Khosti
-- Mohabat
-- Rezaee
-- Safdari
 - حسین خیل
-- Shenwari
-- Janan
-- Hazara
-- Najafi
 - ترکی
 - اسماعیلی
 - آرین
-- Aimaq
 - بای
 - عرفان
 - محسنی
 - صمیم
-- Malikzai
 - جمالی
-- Hosaini
-- Orya
-- Fayaz
-- Andar
 - بشردوست
-- Alkozay
 - زیبا
 - صديقي
 - وردک
-- Tasal
-- Wahdat
 - شاهی
-- Faqirzada
 - ارماني
-- Khostai
-- Mohseni
 - خیری
-- Miakhil
-- Turkmen
-- Hairan
-- Zarifi
 - جلیلی
 - ظریفی
-- Alamyar
-- Hameedi
-- Ahmadzi
-- Ulfat
 - شهزاده
 - سکندری
-- Ahsas
-- Karimy
-- ﺧﺎﻥ
 - ایماق
 - وردګ
-- Shinwary
 - کوچی
-- Nayab
 - میاخیل
 - امیر
-- Shafaq
 - فرهمند
 - پروان
 - قصاب
-- Bawar
 - صافى
 - ضیایی
 - کمالی
-- Nasimi
-- Asghari
 - ولی
-- Qurbani
 - احمدى
-- Jabarkhail
-- Hamkar
-- Haydari
-- Sadid
 - حان
-- Gholami
-- Zargar
 - کوهی
-- Alimi
-- Atayee
 - بهزاد
-- Lodin
 - رخشانی
-- Ramin
 - حيدري
 - لطیفی
-- Baheer
 - ملکی
-- Saberi
 - کتوازی
-- Durrani
 - الماس
-- Paktiawal
 - ابراهمی
 - افشار
-- Wazir
-- Malang
 - شار
 - قلندری
-- Jalalzai
 - عارفی
 - زاهد
 - خواجه
-- Anwary
 - سخی
-- Ghanizada
-- Zai
 - ستومان
 - بدخشی
-- Safai
 - اسدی
 - حبیب
-- Ahmadyar
-- Mamozai
-- Zafari
 - بیگ
-- Erfan
 - اميري
 - غوربندی
-- Watandost
-- Serat
 - خیاط
-- Nejrabi
-- Joon
-- Yousefi
-- Mukhlis
-- Turkman
 - یوسف
-- Naqshbandi
 - شيرزاد
 - اکرمی
-- Wesal
-- Hassanzada
 - رسا
 - محمدى
-- Esmati
-- Saidy
-- Khurasani
-- Hazrati
 - هاشمي
-- Mubariz
-- Ihsas
 - آریا
 - بیگزاد
-- Afghani
-- Zahed
-- Seerat
 - گک
 - ملنګ
 - راسخ
-- Ghulami
 - نظري
 - سمنگانی
 - اسلامی
-- Totakhail
-- Katawazai
-- Mazari
 - صوفی زاده
 - میرزاده
-- Sakha
 - احمدزي
 - الفت
-- Farzam
 - سهاک
-- Alkozai
 - توکلی
-- Rasuly
 - علیزهی
-- Khosty
-- Rezayee
 - ابراهیم خیل
-- Mehraban
-- Kabiri
-- Rasekh
-- Murady
-- Saqib
-- Naaz
 - سیفی
-- Hamedi
-- Alemi
 - پنجشیر
 - سکس
-- Alizadah
-- Darman
 - ګل
 - نوابی
 - جباری
@@ -3730,178 +6474,92 @@ lastnames:
 - اخلاقی
 - سرشار
 - دنیا
-- Mobariz
-- Ghaznavi
-- Yari
 - سعید
-- Sofizada
 - مهاجر
 - سجادی
-- Ataee
-- Bakhtyar
 - تاجک
 - مصطفی
-- Barati
 - مخدوم
-- Naeemi
 - همنوا
-- Abdulrahimzai
-- Haqjo
 - رحمی
-- Neyazi
-- Ibrahimkhil
 - بیات
-- Mohmmadi
 - ریس
 - حیران
 - شينوارى
-- Khpalwak
 - مایار
-- Maroof
 - عزيزي
 - قاری زاده
 - شاکر
 - غنی زاده
-- Tofan
-- Sediq
 - شوخ
-- Amarkhail
-- Aminy
-- ﺗﻨﻬﺎ
-- Jawid
-- Mosawi
-- Mohammdi
 - حسین زاده
 - غمگین
 - احسانی
-- Farzad
 - عاشوری
-- Nasari
-- Ehsani
-- Rahmat
 - آرمان
 - ملک زاده
 - فقیرزاده
 - خاموش
 - عمرخیل
 - رمضانی
-- Sekandari
-- Hasanzada
-- Yousofzai
-- Salar
-- Hossini
 - زرگر
 - نجفی
 - ظاهر
-- Baraki
 - شکوری
 - هرات
 - ملکزاده
-- Jawed
-- Nizami
-- Danesh
-- Zahiri
 - نبی
-- Enayat
 - آغا
 - احمدزى
 - کوس
 - ریحان
 - نوید
 - همراه
-- Oria
 - خپلواک
 - خادم
-- Mehrabi
-- Mansoori
-- Shadab
-- Kotwal
-- Alizadeh
 - مریم
 - صفا
 - بخشی
 - محبی
 - بی وفا
 - زندگی
-- Hakimy
-- Faqiry
-- Ashrafi
-- Ayar
-- Panahi
 - حمید
 - ولیزاده
 - سروش
 - فرهاد
-- Musazai
 - اوریاخیل
 - وصال
-- Hejran
-- Madadi
-- Sangar
 - خاوری
 - زندانی
 - طوطاخیل
-- Qarqin
-- Eshaqzai
-- Oryakhil
-- Qayoumi
-- Farhang
-- Fawad
-- Halak
 - پارسا
-- Ebadi
 - ابراهیم
-- Zurmati
 - مینوال
 - وفاه
 - میرزای
-- Paiman
 - قاریزاده
-- Rahime
 - ستاری
-- Alokozai
-- Azimy
-- Mateen
-- Qurishi
 - رحمان
-- Husaini
-- Hedayat
 - قلندر
-- Habibzai
-- Wahidy
 - درویشی
 - سنگری
 - حنیف
 - قاضی زاده
 - علوی
 - زړه
-- Temori
 - رحمت الله
 - شهزاد
 - ماندگار
 - اختری
-- Mahmodi
-- Qalandari
-- Ghawsi
-- Sadaf
-- Abasi
 - نيازي
 - دورانی
 - معصومی
 - نصیری
-- Obaidi
-- Karemi
 - سرحدی
 - ثاقب
 - دوستی
-- Malakzai
 - دیوانه
-- Rustami
-- Kargar
 - غم
-- Qadery
-- Stanekzai
-- Yarzada
 - سالار
 - سلیمان
 - رحیم
@@ -3910,119 +6568,54 @@ lastnames:
 - وحدت
 - تره کی
 - نایاب
-- Qayomi
 - حضرتی
-- Askari
-- Sorosh
-- Payman
 - عرفانی
 - زدران
-- Ludin
 - عابدی
 - جهان
 - ملاخیل
 - کامران
 - کوهدامنی
 - ذکی
-- Abrahimi
 - ظفری
-- Kochai
-- Mirzai
 - اسماعیل
-- Mobarez
 - اچگزی
-- Hoshmand
-- Ishaqzai
-- Qayumi
 - سفری
-- Nawid
-- Hekmat
 - حفیظی
-- Tarakhil
 - ارسلان
 - آشنا
-- Naziri
-- Mohammadzai
 - غلجایی
-- Hasrat
-- Tabish
 - دل
-- Omarzai
 - زلمی
 - عصمتی
-- Sultany
 - پویا
 - شکسته
-- Bashardost
-- Amire
 - مقبول
-- Sabawoon
-- Saboori
-- Sajad
-- Masoom
-- Zabi
-- Mazar
-- Dilsoz
-- Arabzada
 - شمالی
 - رویا
-- Ahmad Zai
 - فیروزی
 - تلخ
-- Khaliqyar
-- Hussainy
-- Afzaly
 - بدخش
-- Wisal
 - اسدالله
 - توحیدی
-- Mubarez
-- Panjshir
 - لودین
 - شریف
-- Babak
-- Khorasani
 - ناصري
-- Tabesh
-- Raoufi
-- Alizay
-- Shamsi
-- Khuram
-- Saboor
-- Ranjbar
-- Karwan
 - خواجه زاده
 - صفدری
-- Nawrozi
 - آزاد
-- Taraki
-- Akhlaqi
-- Salangi
 - سبحانی
-- Omarkhil
-- Akhtari
-- Tanai
-- Hashimy
 - مظلوم یار
-- Hussini
 - پدر
-- Habibzada
 - صاحبی
 - حنیفی
-- ﻣﺤﻤﺪﻱ
-- Arefi
 - افغانی
 - کندوزی
 - سید
-- Kohestani
 - برهانی
 - زرمتی
-- Arabzai
-- Azizyar
 - سالنگی
 - قیصاری
-- Bahram
-- Niyazi
 - خراسان
 - قهرمان
 - حسيني
@@ -4031,174 +6624,83 @@ lastnames:
 - شمسی
 - نظر
 - سیدزاده
-- Daudzai
-- Saighani
-- Kohi
 - روزی
 - یگانه
-- Ataie
-- Timory
-- Tareen
-- Achakzai
 - نورانی
 - سیدخیلی
 - قرلق
-- Baktash
 - حیات
 - حمیدالله
 - زمری
 - پیمان
 - دلاور
 - سلامی
-- Yusofi
-- Jahani
-- Mehran
-- Danishyar
 - حقيار
 - مشفق
-- Faryabi
-- Ali Zada
 - درانی
 - زهیر
 - سمسور
 - جبارخیل
-- Tajik
 - خمآب
 - رضوانی
 - صاحب زاده
-- Panjsheri
 - نورزیی
 - اﺣﻤﺪﻱ
-- Nooristani
-- Barez
 - نعمت الله
-- Hamrah
 - مرزایی
 - کوهدامن
 - میر
-- Asil
-- Timori
 - عبیدی
-- Miakhel
 - تابش
-- Temory
 - شينواري
 - مهدی
-- Saddiqi
-- Satari
-- Noorzahi
-- Sarhadi
-- Naweed
 - شجاع
 - سهار
 - خالقیار
-- Sahebzada
 - همکار
-- Rostami
 - اعظمی
-- Morady
-- Zakhil
 - کمال
 - امان
-- Marzi
-- Shahzada
-- Kharoti
-- Noorani
-- Lakanwal
-- Pashtoon
 - فهیم
 - یارزاده
 - مظفری
 - درد
-- Alikhil
 - فیاض
 - پشتون
-- Sharefi
-- Raofi
-- Ahmadzay
 - سلطاني
 - الیاس
-- Abdali
 - بیگزاده
 - آرمانی
-- Kaihan
-- Seyar
 - نجیب
-- Tahery
-- Shayan
-- Fazel
 - بگرام
 - عبداللهی
-- Stoman
 - معلومات
 - مرادي
-- Habiby
-- Hashime
 - آرش
 - منیب
-- Hamnawa
-- Kunduzi
-- Hidari
-- Khogyani
-- Kohdamani
 - مینه ناک
 - ځاځی
 - زنده گی
 - شیر
 - درمان
 - بارگزی
-- Mahbobi
 - خیراندیش
 - صبوری
-- Ataye
-- Babakarkhil
-- Hijran
 - کریم
-- Darya
-- Wafadar
-- Intezar
-- Mujadidi
-- Ziarmal
-- Sohrabi
 - پناهی
-- Alham
-- Kayhan
 - نورى
-- Reshad
-- Nazami
-- Muhammady
-- Zaheri
 - خانزاده
 - علی خیل
-- Yagana
 - دلها
-- Tahiry
 - چهاردهی
-- Mohebi
-- Wasiq
-- Roya
-- Qais
-- Bakhtiar
-- Ramazani
-- Rezayi
-- Waziry
 - صدیق
-- Akhundzada
 - نورالله
 - تسل
-- Bromand
 - نسیمی
-- Frogh
 - پښتون
 - خلیل
-- Rahmaty
-- Daqiq
-- Rahmanzai
-- Yoldash
 - حبیب الله
 - اللہ
-- Turkmani
-- Hashami
 - فاتح
 - حکمت
 - ادریس
@@ -4209,125 +6711,67 @@ lastnames:
 - متین
 - اندړ
 - آخندزاده
-- Selab
 - هروی
-- Mujaddidi
 - شفق
 - فرید
 - بشیر
-- Panjshiry
 - كريمي
-- Sayeedi
-- Asifi
-- Khatibi
-- Barikzai
-- Saraj
 - اکبر
 - نجیب الله
 - جگرخون
-- Mohsini
-- Muslimyar
 - سردار
-- ﺭﺳﻮﻟﯽ
 - سیاه
-- Dawoodzai
-- Zalmai
 - هاشیمی
 - شکردره
 - بختیاری
-- Mehrzad
 - صمیمی
 - کټوازی
 - سکسی
 - عربزاده
-- Maqsoodi
 - خوشحال
-- Shirzay
-- Burhani
-- Wais
 - آرزو
-- Nabizadah
-- Mirzaie
-- Jahed
-- Ghori
-- Muhabat
-- Neda
-- Mirzaee
 - ادیب
 - وطنم
-- Liwal
 - نقیب الله
-- Bagram
 - مسعودی
-- Bahaduri
 - وکیلی
 - نسیم
 - دانشجو
-- Frahmand
-- Zahin
 - جانم
 - حقیقت
-- Afghanyar
 - متوکل
 - زاهدی
-- Taban
-- Khawari
-- Shekib
 - وزیر
-- Watan
-- Ameeri
 - سلیم
-- Muhamadi
 - نيازى
 - حیاتی
 - پغمان
 - جهانی
 - عطای
 - پوپلزی
-- Azizy
 - ځلاند
-- Nazeri
-- Qadiry
 - حقدوست
-- Attai
-- Arghandiwal
 - فدایی
 - دوکاندار
-- Wahedy
 - تنهایی
 - عطائی
-- Nowrozi
-- Samady
-- Samsoor
-- Kochi
 - میرویس
 - یوسفزهی
 - عادلی
-- Jafary
-- Haqani
 - ستوری
 - بیکزاد
 - بهاری
 - ملکزی
 - پاچا
-- Nikmal
 - نعمتی
-- Khaleqi
 - دریا
-- Najibi
-- Ghafory
 - زازی
 - بغلان
 - مدثر
 - سمیر
 - قاری
 - رنجبر
-- Mehr
-- Farzan
-- Shuja
 - خاكسار
-- Musavi
-- Amirzai
 - هدایت
 - رامین
 - فيضي
@@ -4336,56 +6780,30 @@ lastnames:
 - سمیع الله
 - فیصل
 - خروتی
-- Bahir
 - مندوزی
 - غوثی
 - عظمی
-- Ramaki
-- Osmany
 - شجاعی
 - نورزاد
-- Ahmadzada
-- Majeedi
-- Bashiri
-- Ahady
-- Rashidy
-- Yawari
 - یولداش
-- Khairkhwa
-- Qani
-- Masomi
 - يوسفي
 - غزنوي
 - خوستي
 - داودزی
-- Sarshar
 - کبیری
 - شاداب
 - عبادی
 - خوگیانی
 - ابدالی
-- Sahibi
 - کوهستان
-- Yosufzai
 - انصار
 - دولتی
 - مينه
-- Ghafoory
 - ځوان
-- Uzbek
-- Tarin
 - ایشان
-- Akhunzada
 - بابری
 - وفایی
-- Hotaki
-- Sarvari
-- Badakhsh
-- Herati
-- Behroz
-- Asir
 - ارمانى
-- Hemmat
 - شوقی
 - بامیانی
 - مسلمیار
@@ -4393,112 +6811,820 @@ lastnames:
 - غزنی
 - عظيمي
 - زیباست
-- Jawadi
-- Baryal
 - روشن
-- Nangarhari
-- Zwak
 - گلاب
 - یونس
-- Rezaye
 - خورشید
 - ازبیک
-- Nekzad
 - نام
-- Baghlani
-- Nabizadeh
-- Watan Dost
 - ننگرهاری
 - نازدانه
-- Sabiri
-- Hakemi
 - چهاردی
-- Sadaqat
-- Jamshid
-- Mohib
-- Mirzaei
-- Tnha
 - مقصودی
 - غریب یار
 - شفیق
-- Makhdom
 - ساپی
-- Yasini
-- Nabi Zada
 - یاری
 - سهیل
 - شريفي
-- Maiwand
-- Emami
 - بسم الله
-- Baburi
 - جانه
 - گای
 - سعادات
-- Kharotai
-- Mushfiq
-- Faqeri
 - حامدی
 - سنگر
-- Kamgar
 - میرزاد
 - فایق
-- Raees
-- Basharat
-- Arbab
-- Sharafat
-- Zahedi
-- Logari
 - اسیر
-- Saqeb
 - رحمت
 - سلیمانخیل
-- Nijrabi
 - آصف
-- Hassanzai
 - ترابی
 - اسکندری
 - سجاد
-- Samsor
 - محب
 - اندر
 - بلخ
 - مسرور
 - ازبک
-- Khavari
 - مردانی
 - گیلانی
-- Mohammedi
 - فروغ
 - گگ
-- Fetrat
-- Mohammade
-- Fayzi
-- Yawar
-- Hamdam
-- Faramarz
-- Pashton
-- Sultanzada
 - یاوری
-- Mehri
-- Sarfaraz
-- Khadim
 - عاجز
 - حیدر
 - میلاد
 - مولوی زاده
 - امان الله
-- Bakhtari
-- Sediqy
 - پنهان
 - عمرزی
 - شاهد
 - عسکری
 - فریادی
-- Aryoubi
-- Hadawal
 - فولاد
 - جوادی
 - بابکرخیل
-- Mirzaye
-- Tanin
+- وحیدی
+- باقری
+- حکیم
+- کیهان
+- یم
+- باور
+- جاهد
+- کلیوال
+- جاغوری
+- یزدانی
+- اخندزاده
+- خیرخوا
+- اشرفی
+- مهدوی
+- حکمت الله
+- فایز
+- طاغن
+- رحمیی
+- قربان
+- لوگر
+- نورزای
+- اندرابی
+- فاریاب
+- زبیر
+- سعدی
+- مصباح
+- بهیر
+- واحیدی
+- سراجی
+- جون
+- عزیزالله
+- بشارت
+- دارم
+- ضیا
+- پلویان
+- قمبری
+- ها
+- دل شکسته
+- مظهری
+- صافی زاده
+- شعیب
+- مقری
+- شکیب
+- سالاری
+- نجیبی
+- استانکزی
+- ابراهیم زاده
+- ملک
+- ندا
+- اخلاص
+- سیار
+- محمدالله
+- معصوم
+- نعیم
+- کلدری
+- دانشیار
+- دیدار
+- علمی
+- عبدالرحیم
+- شهبازی
+- نوراحمد
+- گلستانی
+- سبز
+- دلاوری
+- ابوبکر
+- علیزای
+- جیگرخون
+- نقشبندی
+- گردیزی
+- یاران
+- سیغانی
+- شهیدزاده
+- اميني
+- خوستى
+- نورمحمد
+- قريشي
+- اصغری
+- اتلان
+- شکرالله
+- مموزی
+- یاسینی
+- قدیری
+- فیروز
+- احراری
+- مقبل
+- وافا
+- رحمانى
+- رازقی
+- تگابی
+- فیضانی
+- انقلابی
+- آریایی
+- ارشاد
+- یونسی
+- اجمل
+- حکمی
+- غلام سخی
+- ثنا
+- جوزجان
+- عیار
+- گلزار
+- مقدس
+- اوغان
+- غلام
+- تک
+- جدران
+- کوس گای
+- عدالت
+- رامش
+- سیدخیل
+- فطرت
+- خوشدل
+- ستایش
+- هستم
+- دین
+- بچه گگ
+- هوتکی
+- صحرا
+- نعمانی
+- ترکمنی
+- عزت الله
+- هوشمند
+- شیک
+- نعمت
+- شفایی
+- دولت
+- قاسیمی
+- امیدی
+- ارباب زاده
+- رفیق
+- مالکی
+- حلیم
+- شولگری
+- کاپیسا
+- دخترک
+- زخمی
+- خزان
+- خرم
+- ذاکری
+- فخری
+- ځدران
+- عشقم
+- سمندری
+- غفوري
+- ابراهيمي
+- بیگی
+- حبیب زاده
+- مومن
+- بدخشان
+- خطیبی
+- ندیم
+- باوری
+- کبیر
+- موفق
+- قتالی
+- گمنام
+- نورزائی
+- فاضلی
+- خمآبی
+- محبوبی
+- سرداری
+- بانو
+- میدانوال
+- فرزاد
+- شهریار
+- سخا
+- سدید
+- میوند
+- سنگین
+- بارکزهی
+- خیل
+- قلبها
+- ځوانان
+- زیارمل
+- جوینده
+- وقار
+- قندهاری
+- ظهیر
+- علیمی
+- بدری
+- فولادی
+- قانع
+- ذاهد
+- وکیل زاده
+- عصمت الله
+- خیر خواه
+- ارغندیوال
+- موسی زی
+- سرباز
+- کندهاری
+- بصیر
+- بیدار
+- مزمل
+- خانی
+- نورستانی
+- لغمان
+- اوریا
+- وحید
+- محرابی
+- اسحق زی
+- شادخت
+- صدف
+- سهراب
+- فراه
+- میری
+- اقبال
+- ننګرهاری
+- قاسمي
+- تڼی
+- حفیظ الله
+- لوګری
+- رضائی
+- ذاکر
+- گلبهاری
+- احمدیار
+- خادمی
+- مفتون
+- جمشید
+- امارتی
+- کاکړ
+- میهن
+- سروري
+- متقی
+- فرهادی
+- ضیائی
+- ترکستانی
+- صیاد
+- آصفی
+- مختاری
+- نایبی
+- سخیزاده
+- مهر
+- سهرابی
+- اسلم
+- خیرالله
+- مرتضی
+- جانانه
+- جگر
+- تاتار
+- تره خیل
+- پاینده
+- ایثار
+- مادر
+- بیوفا
+- لشکری
+- کوهبندی
+- احسان الله
+- لطفی
+- خنجری
+- همدم
+- فقیریار
+- صنم
+- هادی
+- پغمانی
+- غوربند
+- ذبیح الله
+- حسرت
+- کارگر
+- آزادی
+- نایل
+- آقچه
+- كتوازي
+- حضرت
+- کرمی
+- څارګر
+- بکسر
+- عدیل
+- پشه یی
+- براهویی
+- رحيمى
+- بینوا
+- زرمتي
+- اکبرزاده
+- بهبودی
+- اسماعیل زاده
+- مومن زاده
+- ربانی
+- لعلی
+- همتی
+- الوزی
+- بارسایی
+- پردیس
+- اﻣﻴﺮﻱ
+- نظیری
+- خیرخانه
+- کندز
+- قویاش
+- سمیع
+- سباوون
+- نیکمل
+- ناصرى
+- مهریار
+- خطب
+- نازنین
+- موسی
+- تخار
+- ارباب
+- گلبهار
+- یلانی
+- اندخویی
+- استاد
+- دایی
+- شرنوال
+- میرزائی
+- وال
+- ترین
+- رشید
+- شایسته
+- عسقلانی
+- اكبري
+- غمجن
+- ترک
+- شیخ زاده
+- قدرت الله
+- گل محمد
+- قدوسی
+- قدرت
+- مرزی
+- گرزیوانی
+- عبیدالله
+- رهنورد
+- عظیم
+- توانا
+- بهادر
+- جمیل
+- نصیر
+- بهرام
+- عنایت
+- انگار
+- گروپ
+- ايوبي
+- گرگ
+- افغاني
+- هفت بلا
+- زهرا
+- طوطاخيل
+- سرخ
+- سعيدي
+- مشال
+- یاور
+- بشیری
+- ناب
+- نظرى
+- مددی
+- فرخاری
+- اسرار
+- شیرین
+- غازی
+- دین دوست
+- خسته صدا
+- جسور
+- باختری
+- فیض الله
+- شیرذاد
+- حقبین
+- بکتاش
+- کوچک
+- قره باغ
+- مدنی
+- فیض
+- سامانی
+- بوستانی
+- دهاتی
+- حقاني
+- غریب
+- غمخوار
+- هلمند
+- حيدرى
+- سرخابی
+- مروی
+- حیات الله
+- دولتزی
+- قاطع
+- منیر
+- خنجر
+- روزگار
+- مرد
+- عزیزیار
+- ممتاز
+- جیلانی
+- تنہا
+- خاک سار
+- باستان
+- کلکانی
+- قومندان
+- خدا
+- آتش
+- تمیم
+- زی
+- اکاخیل
+- مياخيل
+- سبحان
+- حكيمي
+- مرکز
+- سرپلی
+- زمانزی
+- صبور
+- علمیار
+- شرافت
+- غیرت
+- اخنذاده
+- عبدالهی
+- باتور
+- نبی ذاده
+- هستی
+- بیانی
+- فرقانی
+- سيلاب
+- دره
+- بابر
+- کاکا
+- یارمل
+- عصمت
+- عثماني
+- سهر
+- اميرى
+- رضوی
+- فرهنگ
+- مجبور
+- خوستوال
+- جنت
+- خوستۍ
+- زړګی
+- ژوندون
+- ظریف
+- متونوال
+- بهروز
+- غزنیوال
+- مجید
+- قانت
+- انوري
+- عمرى
+- صديقى
+- گل احمد
+- بوکسر
+- صاحبزاده
+- سدیس
+- افتخاری
+- است
+- کاموال
+- هاشمى
+- همایون
+- وهاب
+- مرادى
+- لغمانى
+- غریب دوست
+- برقی
+- برحق
+- نفس
+- نتها
+- کیر
+- نیمروزی
+- ریگی
+- خدادادی
+- خوشبخت
+- خرابات
+- حافظی
+- بریالی
+- آنلاین
+- رفیعی
+- خوب
+- ریالی
+- نورزي
+- آرام
+- صبری
+- نورالدین
+- عاطفی
+- اکرام
+- مطلب
+- ارنجی
+- اربابی
+- مورادی
+- فانی
+- الحنفی
+- يار
+- فقیر
+- طلحه
+- باز
+- حمدرد
+- چکری
+- ﻣﺮاﺩﻱ
+- بیکزاده
+- دوران
+- فضلي
+- دهقان
+- مظلومیار
+- خلمی
+- شفیعی
+- ذهین
+- احمد زی
+- شهابی
+- یفتلی
+- نبي زاده
+- عبید
+- کوسی
+- اعظیمی
+- تقوا
+- كوهستاني
+- پرچه
+- شیرزاده
+- نثار
+- بی پایان
+- محمدزی
+- حنفي
+- امیرزاده
+- کارته نو
+- بی پروا
+- بشر دوست
+- شب
+- اﺣﻤﺪ
+- علیزائی
+- ناکام
+- رهگذر
+- رستاقی
+- نبیل
+- منی
+- شکران
+- لعل محمد
+- قندوزی
+- عیسی
+- ملگری
+- چوپان
+- شرفی
+- مجاهید
+- قره
+- دلدار
+- مينوال
+- حسیب
+- یی
+- مرگ
+- افضل
+- قمری
+- دین محمد
+- فرشته
+- جان محمد
+- گلدره
+- تنها تنها
+- امین الله
+- دکو
+- داودی
+- صحرایی
+- هیمت
+- هلمندی
+- صادیقی
+- عالی
+- نجات
+- حوستی
+- جمیلی
+- زیرک
+- ځاځي
+- فائز
+- پرست
+- شایق
+- فرحت
+- گوهری
+- صفایی
+- درزابی
+- لغماني
+- اباسین
+- مرتضوی
+- اعتمادی
+- سمندر
+- محمودي
+- سرفراز
+- ملنگ یار
+- یوسف زی
+- بهسودی
+- رفیع
+- حقیقی
+- عزيزى
+- زابلی
+- تنھا
+- ګلاب
+- خروټی
+- سرتیری
+- قیام
+- پسرلی
+- مرزای
+- نطری
+- مومینی
+- نصرتی
+- احمدشاه
+- باسط
+- بزرگ
+- لکڼوال
+- عبدالرحیم زی
+- رامکی
+- جمالزاده
+- فیاضی
+- عنایت الله
+- رهبر
+- خاورین
+- خکسار
+- صفی الله
+- شیدا
+- خرمی
+- دختر
+- یادگاری
+- چاری
+- جهانگیر
+- فیسبوک
+- پلويان
+- فرملی
+- شیراحمد
+- ارین
+- یقوبی
+- اوزبک
+- محیبی
+- توحیدیار
+- میمنه
+- جاجی
+- شیرمحمد
+- افضلي
+- ودان
+- فریدون
+- تیمور
+- قیوم
+- میرخیل
+- ناتمام
+- تمنا
+- زلاند
+- فیشن
+- مدقق
+- عاصی
+- ټولنه
+- جلیل
+- سادت
+- غربت
+- بزاز
+- مهتاب
+- غلجائی
+- علیزیی
+- داد
+- ننګرهارى
+- سیر
+- حارث
+- وحیدالله
+- سافی
+- لیلا
+- الكوزي
+- فرامرز
+- صیفی
+- دوستان
+- وارث
+- فقيري
+- اﻓﻐﺎﻥ
+- ضمیری
+- آمیری
+- خانه
+- اخمدی
+- داعی
+- فدا
+- زنده باد
+- سیف الله
+- مجتبی
+- تنهای
+- برات
+- رزاقی
+- اقبالی
+- تابان
+- حشمت
+- حکیم زاده
+- آبی
+- میدان وال
+- سیاوش
+- فردوسی
+- توسلی
+- سدوزی
+- منطقه
+- زره
+- خالدی
+- محقق
+- غم ها
+- نوین
+- عبدالبصیر
+- نی
+- خیشکی
+- قانونی
+- دلشکسته
+- فرزام
+- ماشوم
+- لمر
+- بصیری
+- بایانی
+- سید زاده
+- مردان
+- نجمی
+- يم
+- لیوال
+- عبدالحکیم
+- تازه
+- يوسفزي
+- اﻟﻠﻪ
+- سرنوشت
+- خبر
+- فهیمی
+- درخشان
+- مشوانی
+- طلایی
+- اعظم
+- مسکین یار
+- ننګرهار
+- رحیم الله
+- انوش
+- دقیق
+- عطايي
+- خاشرودی
+- زمین
+- غوریانی
+- سالک
+- نهتانی
+- بکخیل
+- اریا
+- حیدرزاده
+- اولم
+- بازمحمد
+- مغل
+- جانی
+- خال محمد
+- کٹوازی
+- قریش
+- حمدی
+- ګربز
+- امین زاده
+- عبدالعزیز
+- کلدار
+- کاشفی
+- طاهري
+- مخبت
+- سفید
+- براهوی
+- افریدی
+- غبار
+- ضیاء
+- احمدالله
+- ماموند
+- یلدا
+- صفت الله
+- سنجر
+- جان جان
+- صفی
+- اکرم
+- جمال زاده
+- شفیع
+- ځواک
+- خلیفه
+- یکتاپرست
+- هوتخیل
+- کون
+- کاکری
+- نقیب
+- مسکین
+- فضل احمد
+- عزتی
+- مهدی زاده
+- یادگار
+- قرار
+- بیگ زاده
+- الچ
+- صوفی
+- میشت
+- مل
+- سازش

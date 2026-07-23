@@ -1,3 +1,4 @@
+---
 source: dataset
 firstnames_male:
 - Mehmet
@@ -15,7 +16,6 @@ firstnames_male:
 - Hakan
 - Ibrahim
 - Fatih
-- محمد
 - Ismail
 - Kadir
 - Abdullah
@@ -50,7 +50,6 @@ firstnames_male:
 - Ercan
 - Emrah
 - Serdar
-- احمد
 - Samet
 - Mesut
 - Kenan
@@ -64,7 +63,6 @@ firstnames_male:
 - Yaşar
 - Erdal
 - Yakup
-- ابو
 - Ümit
 - Yılmaz
 - Engin
@@ -128,14 +126,12 @@ firstnames_male:
 - Sultan
 - Oğuzhan
 - Berat
-- محمود
 - Yüksel
 - Turan
 - Özkan
 - Taner
 - Alper
 - Memet
-- علي
 - Eyüp
 - Suat
 - Ufuk
@@ -196,14 +192,11 @@ firstnames_male:
 - Hamit
 - Tarık
 - Yahya
-- مصطفى
-- حسن
 - Ilyas
 - Tahsin
 - Eray
 - Sezer
 - Anıl
-- حسين
 - Ihsan
 - Cafer
 - Suleyman
@@ -213,7 +206,6 @@ firstnames_male:
 - Adil
 - Sezgin
 - Kazım
-- خالد
 - Nurullah
 - Önder
 - Yücel
@@ -224,8 +216,6 @@ firstnames_male:
 - Birol
 - Fevzi
 - Yunus Emre
-- أحمد
-- عمر
 - Hacı
 - Tamer
 - Niyazi
@@ -244,7 +234,6 @@ firstnames_male:
 - Cüneyt
 - Ilker
 - Ertan
-- أبو
 - Akif
 - Fahri
 - İsa
@@ -290,9 +279,7 @@ firstnames_male:
 - Gokhan
 - Berke
 - Mutlu
-- ابراهيم
 - Muhittin
-- يوسف
 - Hayri
 - Necmettin
 - Duran
@@ -313,7 +300,6 @@ firstnames_male:
 - Bulent
 - Bora
 - Seyhan
-- عبدو
 - Bahri
 - Halis
 - Veysi
@@ -431,14 +417,11 @@ firstnames_male:
 - Cavit
 - Abbas
 - Ensar
-- عمار
 - Yıldırım
 - Habib
-- علاء
 - Toprak
 - Nilay
 - Ersan
-- عبد
 - Mahsun
 - Ulaş
 - Raşit
@@ -458,7 +441,6 @@ firstnames_male:
 - Numan
 - Ethem
 - Cebrail
-- خليل
 - Alparslan
 - Ilhami
 - Şerafettin
@@ -485,7 +467,6 @@ firstnames_male:
 - Fethi
 - Üzeyir
 - Hüsamettin
-- امير
 - Feyzullah
 - Rana
 - Recai
@@ -496,7 +477,6 @@ firstnames_male:
 - Ata
 - Cetin
 - Köksal
-- ياسر
 - Turhan
 - Senol
 - Menderes
@@ -545,7 +525,6 @@ firstnames_male:
 - Ertugrul
 - Güner
 - Mehmetcan
-- صالح
 - Rüstem
 - Vahap
 - Abuzer
@@ -558,7 +537,6 @@ firstnames_male:
 - Nazif
 - Esen
 - Eymen
-- زكريا
 - Ökkeş
 - Rahim
 - Sadullah
@@ -579,7 +557,6 @@ firstnames_male:
 - Ozcan
 - Berkant
 - Sukru
-- ابو محمد
 - Nil
 - Muhamet
 - Tc Mehmet
@@ -591,7 +568,6 @@ firstnames_male:
 - Yaman
 - Tacettin
 - Gökay
-- عبدالرحمن
 - Ishak
 - Yucel
 - Derviş
@@ -609,15 +585,12 @@ firstnames_male:
 - Çağdaş
 - Muhammet Ali
 - Huseyın
-- اسماعيل
 - Ferhan
-- عدنان
 - Atila
 - Alpay
 - Birkan
 - Necat
 - Iskender
-- باسل
 - Cuneyt
 - Durmus
 - Malik
@@ -626,25 +599,20 @@ firstnames_male:
 - Mehmet Akif
 - Feyzi
 - Doruk
-- ماهر
-- حسام
 - Ogün
 - Celalettin
 - Nazim
 - Hakki
 - Imdat
 - Ersoy
-- يحيى
 - Paşa
 - İlhami
 - Beşir
 - Alaaddin
-- مهند
 - Ferat
 - Ayberk
 - Ateş
 - Vehbi
-- بشار
 - Raif
 - Tc Mustafa
 - Şenel
@@ -657,7 +625,6 @@ firstnames_male:
 - Leman
 - Atalay
 - Muhterem
-- جمال
 - Muhammed Ali
 - Fatos
 - Nezir
@@ -676,11 +643,9 @@ firstnames_male:
 - Hamdullah
 - Ergül
 - Feyyaz
-- عبود
 - Sarp
 - Unal
 - Zekai
-- عبد الرحمن
 - Sevket
 - Cihangir
 - Sıtkı
@@ -706,7 +671,6 @@ firstnames_male:
 - Nizam
 - Abdulkerim
 - Göktuğ
-- ايمن
 - Akin
 - Nesim
 - Gürbüz
@@ -717,7 +681,6 @@ firstnames_male:
 - Dilaver
 - Tolgahan
 - Seyithan
-- جمعة
 - Eslem
 - Tc Ali
 - Sertan
@@ -725,21 +688,16 @@ firstnames_male:
 - Kıvanç
 - Mustafa Kemal
 - Meriç
-- حمودي
 - Ezel
 - Sabit
 - Elçin
 - Cesim
 - Murtaza
 - Faysal
-- سامر
-- حمزة
 - Agit
 - Dinçer
-- ابو احمد
 - Kayhan
 - Müjdat
-- فراس
 - Erkut
 - Aliosman
 - Hami
@@ -766,9 +724,7 @@ firstnames_male:
 - Neşet
 - Doğuş
 - Ahsen
-- بلال
 - Seydi
-- فادي
 - Mitat
 - Tunay
 - Gökan
@@ -776,7 +732,6 @@ firstnames_male:
 - Türker
 - Alı
 - Yaşam
-- ابومحمد
 - Özdemir
 - Hızır
 - İslam
@@ -784,7 +739,6 @@ firstnames_male:
 - Çakır
 - Tunç
 - Mohmad
-- وائل
 - Zülfikar
 - Bugra
 - Ali Kemal
@@ -792,8 +746,6 @@ firstnames_male:
 - Ali İhsan
 - Anil
 - Murad
-- عبدالقادر
-- انس
 - Erdinc
 - Barbaros
 - Halilibrahim
@@ -804,7 +756,6 @@ firstnames_male:
 - Kurtuluş
 - Muratcan
 - Yasir
-- عبد الله
 - Öztürk
 - Candan
 - Canberk
@@ -839,27 +790,19 @@ firstnames_male:
 - Inan
 - Memiş
 - Mirza
-- ماجد
 - Mansur
 - Gani
 - Ramiz
-- حمودة
 - Evin
 - Nafiz
-- حمود
-- جاسم
-- رامي
 - Sidar
 - Medet
 - Tayyip
 - Nazar
-- صلاح
 - Abdi
 - Ay
 - Eyyup
 - Cabbar
-- بسام
-- حسان
 - Ersen
 - Efkan
 - Rüştü
@@ -867,16 +810,11 @@ firstnames_male:
 - Alattin
 - Şiyar
 - Fazıl
-- حميد
-- إبراهيم
-- مالك
 - Ali Haydar
 - Kemalettin
 - Behcet
-- براهيم
 - Velat
 - Mehmet Nuri
-- مجد
 - Zihni
 - Pusat
 - Zübeyir
@@ -884,7 +822,6 @@ firstnames_male:
 - Ali Can
 - Cezmi
 - Zakir
-- يزن
 - Alkan
 - Mervan
 - Muttalip
@@ -892,16 +829,12 @@ firstnames_male:
 - Şamil
 - Burhanettin
 - Ibrahim Halil
-- فهد
-- زياد
 - Resat
 - Tayyar
 - Abdulsamet
 - İmdat
-- عبد القادر
 - Özgün
 - Selehattin
-- عثمان
 - Mhmad
 - Erkin
 - Kamer
@@ -909,21 +842,15 @@ firstnames_male:
 - Tc Hasan
 - Vahdettin
 - Şehmuz
-- قاسم
-- ياسين
-- جميل
 - Okay
 - Vakkas
 - Barıs
 - Mert Can
-- ابو علي
 - Ramis
 - Zülfü
 - Özhan
 - Gencay
 - Emre Can
-- شادي
-- جهاد
 - Ersel
 - Sule
 - Mursel
@@ -938,14 +865,12 @@ firstnames_male:
 - Yusufcan
 - Mehmet Fatih
 - Yunusemre
-- صبحي
 - Lutfi
 - Masal
 - Sarı
 - Bartu
 - Tc Hüseyin
 - Ikram
-- اسامة
 - Bahadir
 - Asmin
 - Bayram Ali
@@ -976,16 +901,13 @@ firstnames_male:
 - Ahmet Ali
 - Hurşit
 - Nino
-- قصي
 - Musti
 - Mehmed
 - Haldun
 - Ümmet
 - Gürol
 - Yavuz Selim
-- جمعه
 - Ramadan
-- ابو عبدو
 - Besim
 - Rustem
 - Menduh
@@ -993,7 +915,6 @@ firstnames_male:
 - Bozkurt
 - Altay
 - Kürşad
-- رمضان
 - Musab
 - Ahmd
 - Rasit
@@ -1002,15 +923,12 @@ firstnames_male:
 - Behzat
 - İbo
 - Saadettin
-- حيدر
 - Izzettin
 - Husnu
 - Ferruh
 - Murathan
 - Muhammet Emin
 - Durmuş Ali
-- هاني
-- رشيد
 - Merdan
 - Yildirim
 - Gursel
@@ -1019,11 +937,6 @@ firstnames_male:
 - Yalnız
 - Varol
 - Mohamd
-- مازن
-- عبدالكريم
-- رضوان
-- لؤي
-- عبد الكريم
 - Kaptan
 - Telat
 - Seckin
@@ -1035,7 +948,6 @@ firstnames_male:
 - Abdulaziz
 - Azim
 - Hasim
-- أبو محمد
 - Kamber
 - Feti
 - Maksut
@@ -1062,8 +974,6 @@ firstnames_male:
 - Reza
 - Maruf
 - M Ali
-- وسام
-- رياض
 - Nisan
 - Abdil
 - Fener
@@ -1074,7 +984,6 @@ firstnames_male:
 - Abdulvahap
 - Ragıp
 - Mazhar
-- ابواحمد
 - Miran
 - Caglar
 - Serafettin
@@ -1089,14 +998,7 @@ firstnames_male:
 - Mustafa Ali
 - Baver
 - Kadircan
-- سعد
-- غريب
-- طه
-- ابوعلي
-- نضال
 - Ruslan
-- ابو عمر
-- فواز
 - Aydemir
 - Sehmus
 - İmran
@@ -1117,7 +1019,6 @@ firstnames_male:
 - Murat Can
 - Bashar
 - Ikbal
-- غسان
 - Mumin
 - Elvin
 - Umran
@@ -1127,12 +1028,8 @@ firstnames_male:
 - İsrafil
 - Şemsi
 - Mümtaz
-- حلب
 - Basel
-- عباس
 - Mahfuz
-- عزيز
-- عدي
 - Cano
 - Resit
 - Nasuh
@@ -1147,10 +1044,6 @@ firstnames_male:
 - Rohat
 - Ayvaz
 - Abdulrahman
-- مصطفي
-- وسيم
-- اسعد
-- بكري
 - Halid
 - Yildiray
 - Ali Ekber
@@ -1164,10 +1057,6 @@ firstnames_male:
 - Kadır
 - Çağlayan
 - Nezih
-- حمزه
-- رائد
-- بشير
-- ليث
 - Ulvi
 - Giorgi
 - Satilmis
@@ -1183,10 +1072,8 @@ firstnames_male:
 - Şahan
 - Şahabettin
 - Altuğ
-- عبدالرزاق
 - Kurt
 - Fazli
-- حموده
 - Gulbahar
 - Senel
 - Cihad
@@ -1201,8 +1088,6 @@ firstnames_male:
 - Aptullah
 - Selva
 - Arafat
-- سلام
-- خلف
 - Tan
 - Öz
 - Mecnun
@@ -1211,10 +1096,7 @@ firstnames_male:
 - Hacı Mehmet
 - Orhun
 - Ali Eren
-- عبدالعزيز
-- طلال
 - Bir
-- جلال
 - Hasbi
 - Çelik
 - Berdan
@@ -1230,10 +1112,6 @@ firstnames_male:
 - Yusuf Ziya
 - Umur
 - Çelebi
-- عارف
-- عبد العزيز
-- انور
-- أنس
 - Pasa
 - Bektas
 - Cinar
@@ -1249,10 +1127,6 @@ firstnames_male:
 - Sırrı
 - Seyit Ahmet
 - Atıf
-- اياد
-- فاضل
-- عبودي
-- محمد نور
 - Namik
 - Dervis
 - Muzafer
@@ -1264,16 +1138,12 @@ firstnames_male:
 - Özgen
 - Muhtar
 - Zekeriye
-- عبد الرزاق
-- ابوعبدو
 - Barkın
 - M Emin
 - Mehmet Efe
 - Ismail Hakkı
 - Hacı Ali
 - Mhmd
-- اسير
-- تيم
 - Hakime
 - Zana
 - Lider
@@ -1295,10 +1165,6 @@ firstnames_male:
 - Faris
 - Pala
 - Zarif
-- أسامة
-- زين
-- خضر
-- ابرهيم
 - Nafi
 - Yunis
 - Muharem
@@ -1325,12 +1191,7 @@ firstnames_male:
 - Mehmet Şerif
 - Mert Ali
 - Nabi
-- بدر
 - Feras
-- عمران
-- جان
-- علوش
-- سوري
 - Gullu
 - Nural
 - Vasfi
@@ -1353,13 +1214,8 @@ firstnames_male:
 - Apocan
 - Kamran
 - Gs
-- فايز
 - Zabit
-- فاروق
 - Aladdin
-- عبد الحميد
-- قيس
-- نوري
 - Destan
 - Turabi
 - Dincer
@@ -1380,16 +1236,11 @@ firstnames_male:
 - Gokmen
 - Tc Fatih
 - Rustam
-- رضا
-- نادر
 - Omid
 - Er
 - Ramin
 - Abdulhakim
-- ايهم
-- ابو محمود
 - Ramo
-- أبراهيم
 - Nevruz
 - Mestan
 - Bave
@@ -1407,8 +1258,6 @@ firstnames_male:
 - Gökberk
 - Siraç
 - Alirıza
-- شعبان
-- ابو خالد
 - Abdulhadi
 - Gafur
 - Seven
@@ -1435,13 +1284,8 @@ firstnames_male:
 - Arya
 - Vahid
 - Gaffar
-- محمد علي
-- حازم
-- صدام
 - Abdul Kadir
 - Isak
-- يامن
-- ابو حسن
 - Akile
 - Araz
 - Elcin
@@ -1453,11 +1297,9 @@ firstnames_male:
 - Genco
 - Erbay
 - Batıkan
-- اسمر
 - Yok
 - Mhmod
 - Tc Halil
-- زكور
 - Devlet
 - Sıraç
 - Cumaali
@@ -1472,11 +1314,7 @@ firstnames_male:
 - Didar
 - Yazan
 - Husam
-- ابوعمر
-- جعفر
-- عبدلله
 - Fadil
-- فرهاد
 - Usta
 - Durak
 - Cagri
@@ -1500,6 +1338,169 @@ firstnames_male:
 - Atanur
 - Sabir
 - Hafiz
+- Munir
+- Ibrahem
+- Ismayil
+- Abdullatif
+- Ruhan
+- Mensur
+- Ebu
+- Sero
+- Onat
+- Minel
+- Gencer
+- Cagdas
+- Halıl
+- Ümüt
+- Dursunali
+- Huzeyfe
+- İmam
+- Hasanali
+- Erim
+- Mujdat
+- Tural
+- Cavidan
+- Lezgin
+- Akay
+- Yasın
+- Ergul
+- Rıfkı
+- Deren
+- Burkay
+- Feyat
+- Tuğberk
+- Ahmet Emin
+- Doğanay
+- Aşık
+- Zeynel Abidin
+- Yalın
+- Yusuf Emre
+- Eyüphan
+- Zaman
+- Sham
+- Roni
+- Kan
+- Muaz
+- Tefik
+- Saide
+- Selamet
+- Aydogan
+- Diren
+- Hüdaverdi
+- Siyami
+- Gurcan
+- Masallah
+- Ziver
+- Guney
+- Şahap
+- Uzay
+- Tc Ayhan
+- Kuddusi
+- Tc Süleyman
+- Alikemal
+- Onur Can
+- Hasretim
+- Nimetullah
+- Ehsan
+- Ak
+- Safi
+- Ayham
+- Sina
+- Kar
+- Gio
+- Nesip
+- Suayip
+- Akan
+- Sinasi
+- Meric
+- Bedran
+- Üstün
+- Mikdat
+- Nebil
+- Kagan
+- Serhad
+- Recep Ali
+- Servan
+- Heybet
+- Mülayim
+- Abubekir
+- Selattin
+- Sencer
+- Tc Gökhan
+- Süha
+- Tc Emre
+- Tayip
+- Ömerfaruk
+- Ali Efe
+- Ömer Ali
+- Mhmt
+- Kadirhan
+- Tc Serdar
+- Hussam
+- Mohanad
+- Baraa
+- Hazim
+- Ser
+- Hasn
+- Abdurahim
+- Azem
+- Amet
+- Benan
+- Erdin
+- Aliihsan
+- Berin
+- Canpolat
+- Tc Erkan
+- Miktat
+- Ubeydullah
+- Server
+- Mekan
+- Sabır
+- Muhiddin
+- Gurbuz
+- Tc Kadir
+- Huzur
+- Cenker
+- Özgur
+- Karahan
+- Eftal
+- Emincan
+- Babacan
+- Şentürk
+- Hebun
+- Kutlay
+- Ahmet Eren
+- Mehmet Şah
+- Nesih
+- İnanç
+- Casim
+- Ahmet Furkan
+- Ensari
+- Muhyettin
+- Arash
+- Mahmad
+- Mamo
+- Roj
+- Aram
+- Bedi
+- Nasip
+- Iso
+- Sebo
+- Attila
+- Esad
+- Renas
+- Zikri
+- Keramettin
+- Ural
+- Feramuz
+- Agah
+- Antepli
+- Seyid
+- Ahmet Hakan
+- Mehti
+- Ercument
+- Ersun
+- Soykan
 firstnames_female:
 - Fatma
 - Ayşe
@@ -1714,7 +1715,6 @@ firstnames_female:
 - Kaya
 - Nebahat
 - Asuman
-- زهرة
 - Kevser
 - Kara
 - Ipek
@@ -1725,7 +1725,6 @@ firstnames_female:
 - Makbule
 - Bilge
 - Çağla
-- نور
 - Ilayda
 - Senem
 - Sevcan
@@ -1853,7 +1852,6 @@ firstnames_female:
 - Nisanur
 - Işıl
 - Pakize
-- وردة
 - Riza
 - Berivan
 - Busra
@@ -1882,7 +1880,6 @@ firstnames_female:
 - Nurhayat
 - Guler
 - Seren
-- ياسمين
 - Hümeyra
 - Selvi
 - Sezen
@@ -1957,7 +1954,6 @@ firstnames_female:
 - Gulsum
 - Yaprak
 - Bedia
-- عطر
 - Mercan
 - Beyaz
 - Halide
@@ -2000,10 +1996,8 @@ firstnames_female:
 - Aysen
 - Sevde
 - Dicle
-- نسيم
 - Serra
 - Nilgun
-- فاطمة
 - Sahra
 - Neziha
 - Sevtap
@@ -2061,7 +2055,6 @@ firstnames_female:
 - Dilay
 - Sila
 - Nilufer
-- شام
 - Sati
 - Zelal
 - Hüsne
@@ -2223,9 +2216,7 @@ firstnames_female:
 - Iclal
 - Müyesser
 - Elif Nur
-- شمس
 - Svetlana
-- جوان
 - Ömrüm
 - Sündüs
 - Nurdane
@@ -2383,7 +2374,6 @@ firstnames_female:
 - Lali
 - Nami
 - Elmira
-- راما
 - Ismihan
 - Zennure
 - Kumru
@@ -2414,7 +2404,6 @@ firstnames_female:
 - Sırma
 - Suha
 - Almira
-- شيرين
 - Nazime
 - Sefika
 - Yurdagul
@@ -2429,7 +2418,6 @@ firstnames_female:
 - Zerda
 - Sumeyra
 - Gulser
-- بنتك
 - Gülfem
 - Esranur
 - Pelinsu
@@ -2437,9 +2425,6 @@ firstnames_female:
 - Sema Nur
 - Fatma Zehra
 - Lela
-- جود
-- مايا
-- ريماس
 - Dilya
 - Afife
 - Inga
@@ -2467,9 +2452,7 @@ firstnames_female:
 - Seda Nur
 - Şukran
 - Netice
-- عشق
 - Guli
-- نجمة
 - Es
 - Sengül
 - Halise
@@ -2493,7 +2476,6 @@ firstnames_female:
 - Çilem
 - Şehriban
 - Nadi
-- ملك
 - Fadile
 - Fatmana
 - Nargiz
@@ -2521,10 +2503,7 @@ firstnames_female:
 - Işılay
 - İzel
 - Mame
-- نسمة
 - Dinara
-- زهر
-- جودي
 - Nasiba
 - Eliz
 - Acelya
@@ -2538,7 +2517,6 @@ firstnames_female:
 - Aşka
 - Seniye
 - Belkız
-- مال
 - Tc Sibel
 - Canım
 - Ayşem
@@ -2582,9 +2560,7 @@ firstnames_female:
 - Altın
 - Lamia
 - Zemzem
-- جنى
 - Maka
-- ميس
 - Gulya
 - Alis
 - Feza
@@ -2614,9 +2590,6 @@ firstnames_female:
 - Iremsu
 - Zinet
 - Elis
-- غزل
-- Елена
-- بتول
 - Ajda
 - Nasibe
 - Nazike
@@ -2650,12 +2623,9 @@ firstnames_female:
 - Belgüzar
 - Müesser
 - Gülüşan
-- عائشة
-- خديجة
 - Yusra
 - Tatyana
 - Nazo
-- Татьяна
 - Nigora
 - Serin
 - Zamira
@@ -2667,7 +2637,6 @@ firstnames_female:
 - Turna
 - Mavis
 - Esmeray
-- نسمات
 - Kadiriye
 - Bera
 - Mahire
@@ -2727,13 +2696,10 @@ firstnames_female:
 - Hadise
 - Fitnat
 - Mefaret
-- ياسمينة
-- بيسان
 - Tc Selma
 - Özgü
 - Gökşen
 - Tc Tülay
-- زهرت
 - Hüda
 - Dilfuza
 - Elif Sude
@@ -2754,18 +2720,12 @@ firstnames_female:
 - Semira
 - Raghad
 - Shirin
-- علا
 - Natalya
 - Duha
 - Suzi
 - Olya
-- جيهان
-- لين
-- Ирина
 - Bete
-- بيان
 - Gia
-- Ольга
 - Deli
 - Neva
 - Belkis
@@ -2822,14 +2782,10 @@ firstnames_female:
 - Diya
 - Asal
 - Alena
-- مروة
 - Neda
 - Gula
-- امينة
 - Nazira
 - Ne
-- Светлана
-- Марина
 - Zohre
 - Tea
 - Lika
@@ -2915,20 +2871,12 @@ firstnames_female:
 - Hira Nur
 - Hivda
 - Rim
-- نورا
 - Husna
 - Dua
-- بشرى
 - Yuliya
-- ولاء
-- ريتاج
 - Samr
-- سوزان
-- موج
 - Tamar
 - Sade
-- نور الهدى
-- رولا
 - Ayna
 - Veda
 - Zulal
@@ -2942,7 +2890,6 @@ firstnames_female:
 - Nesil
 - Elit
 - Elem
-- Мария
 - Yazgülü
 - Hevin
 - Nurdagül
@@ -2962,7 +2909,6 @@ firstnames_female:
 - Fulden
 - Faika
 - Mamet
-- سيدرا
 - Turcan
 - Cemaliye
 - Hasgül
@@ -3001,6 +2947,61 @@ firstnames_female:
 - Firuzan
 - Gizem Nur
 - Zakire
+- Sherin
+- Alem
+- Sidra
+- Sura
+- Sedra
+- Ati
+- Rahmet
+- Roya
+- Mer
+- Batoul
+- Rano
+- Bilen
+- Fatme
+- Madona
+- Marziye
+- Lorin
+- Nezihat
+- Destina
+- Semine
+- Jwan
+- Tamila
+- Yurda
+- Sevginar
+- Rükiye
+- Dilem
+- Mirhan
+- Nargül
+- Gunel
+- Gülnar
+- Gozel
+- Tahire
+- Aysem
+- Aişe
+- Sevara
+- Zennur
+- Kaybolan
+- Süphan
+- Talya
+- Merdiye
+- Gokcen
+- Selviye
+- Nebiha
+- Gulfidan
+- Şengul
+- Dildora
+- Tc Gül
+- Esmahan
+- Eski
+- Mumine
+- Kıvılcım
+- Guleser
+- Ayperi
+- Eyşan
+- Hürmüz
+- Şencan
 lastnames:
 - Yılmaz
 - Kaya
@@ -3045,7 +3046,6 @@ lastnames:
 - Ateş
 - Uzun
 - Aksoy
-- محمد
 - Aydin
 - Yildiz
 - Erdoğan
@@ -3134,7 +3134,6 @@ lastnames:
 - Usta
 - Çiftçi
 - Keleş
-- احمد
 - Bayrak
 - Soylu
 - Türkmen
@@ -3157,7 +3156,6 @@ lastnames:
 - Akyol
 - Ayaz
 - Ünlü
-- علي
 - Baran
 - Sert
 - Fidan
@@ -3217,7 +3215,6 @@ lastnames:
 - Akman
 - Atalay
 - Oğuz
-- العلي
 - Akdemir
 - Akdeniz
 - Poyraz
@@ -3328,12 +3325,10 @@ lastnames:
 - Elmas
 - Guler
 - Özden
-- الاحمد
 - Okur
 - Kaçar
 - Güçlü
 - Alan
-- حسن
 - Candan
 - Dede
 - Genc
@@ -3353,7 +3348,6 @@ lastnames:
 - Bayar
 - Aytekin
 - Dinçer
-- المحمد
 - Solak
 - Şenol
 - Arıkan
@@ -3365,7 +3359,6 @@ lastnames:
 - Köroğlu
 - Göktaş
 - Baysal
-- حسين
 - Tok
 - Erden
 - Deveci
@@ -3402,7 +3395,6 @@ lastnames:
 - Kiliç
 - Akıncı
 - Şahan
-- الحسن
 - Emir
 - Aktürk
 - Karabacak
@@ -3450,12 +3442,10 @@ lastnames:
 - Duru
 - Yanık
 - Osman
-- الحسين
 - Demirhan
 - Yener
 - Berber
 - Dağlı
-- محمود
 - Gürel
 - Özbay
 - Değirmenci
@@ -3486,12 +3476,10 @@ lastnames:
 - Dere
 - Karademir
 - Sayın
-- عمر
 - Aşık
 - Köseoğlu
 - Turk
 - Yeşilyurt
-- الشام
 - Tek
 - Inci
 - Eryılmaz
@@ -3517,7 +3505,6 @@ lastnames:
 - Cebeci
 - Yakut
 - Guzel
-- مصطفى
 - Akcan
 - Kır
 - İpek
@@ -3551,7 +3538,6 @@ lastnames:
 - Kök
 - Kızıl
 - Kalaycı
-- خليل
 - Yazici
 - Tatlı
 - Okumuş
@@ -3562,7 +3548,6 @@ lastnames:
 - Akca
 - Düzgün
 - Bağcı
-- الحلبي
 - Göksu
 - Büyük
 - Kiraz
@@ -3573,10 +3558,8 @@ lastnames:
 - Balkan
 - Subaşı
 - Arık
-- حلب
 - Colak
 - Arıcı
-- ابراهيم
 - Ünver
 - Özyurt
 - Eraslan
@@ -3600,7 +3583,6 @@ lastnames:
 - Civelek
 - Aldemir
 - Ugur
-- عبدو
 - Alemdar
 - Bilici
 - Kurtuluş
@@ -3608,7 +3590,6 @@ lastnames:
 - Başkan
 - Ayvaz
 - Özbey
-- كوباني
 - Özdoğan
 - Bozan
 - Taşçı
@@ -3622,7 +3603,6 @@ lastnames:
 - Dereli
 - Temur
 - Bozdağ
-- الشامي
 - Kaba
 - Pamuk
 - Çakıcı
@@ -3631,7 +3611,6 @@ lastnames:
 - Yakar
 - Bostan
 - Gökdemir
-- يوسف
 - Karacan
 - Özgün
 - Eken
@@ -3687,7 +3666,6 @@ lastnames:
 - Hakan
 - Esmer
 - Canbaz
-- ابو محمد
 - Ayar
 - Yoldaş
 - Ozan
@@ -3706,7 +3684,6 @@ lastnames:
 - Cömert
 - Meriç
 - Akalın
-- العراقي
 - Karakus
 - Durgun
 - Yörük
@@ -3723,7 +3700,6 @@ lastnames:
 - Karadaş
 - Halil
 - Tokgöz
-- العمر
 - Güllü
 - Ataman
 - Guney
@@ -3799,7 +3775,6 @@ lastnames:
 - Sancar
 - Kaygusuz
 - Türkyılmaz
-- عبدالله
 - Alpaslan
 - Ertuğrul
 - Çalış
@@ -3810,7 +3785,6 @@ lastnames:
 - Kacar
 - Karaarslan
 - Yucel
-- عثمان
 - Çiftci
 - Göçmen
 - Akpinar
@@ -3829,7 +3803,6 @@ lastnames:
 - Dalgıç
 - Tanrıkulu
 - Kalyoncu
-- الشيخ
 - Ari
 - Celebi
 - Durdu
@@ -3848,7 +3821,6 @@ lastnames:
 - Göl
 - Demirkıran
 - Bakar
-- الحمصي
 - Bakan
 - Serbest
 - Konuk
@@ -3915,11 +3887,9 @@ lastnames:
 - Çobanoğlu
 - Çayır
 - Muhammed
-- أحمد
 - Akyürek
 - Türkan
 - Çelen
-- سليمان
 - Salih
 - Akcay
 - Yetim
@@ -3995,8 +3965,6 @@ lastnames:
 - Ozen
 - Doğanay
 - Çakan
-- ابو احمد
-- محمدی
 - Mavi
 - Akdag
 - Sözen
@@ -4017,7 +3985,6 @@ lastnames:
 - Çakal
 - Karaoğlan
 - Karan
-- نور
 - Soy
 - Özhan
 - Daş
@@ -4027,7 +3994,6 @@ lastnames:
 - Akkus
 - Konak
 - Ağca
-- الحموي
 - Akbal
 - Ramazan
 - Veli
@@ -4045,11 +4011,8 @@ lastnames:
 - Karabıyık
 - Ataç
 - Öğüt
-- الجاسم
 - Tekeli
 - Erdoğdu
-- ابومحمد
-- العبدالله
 - Sertkaya
 - Kural
 - Battal
@@ -4069,7 +4032,6 @@ lastnames:
 - Kayacan
 - Saygın
 - Ben
-- اسماعيل
 - Dikici
 - Talay
 - Ileri
@@ -4079,7 +4041,6 @@ lastnames:
 - Durna
 - Kızıltaş
 - Göktürk
-- الصالح
 - Sel
 - Arikan
 - Kaygısız
@@ -4142,7 +4103,6 @@ lastnames:
 - Tütüncü
 - Kıraç
 - Altınok
-- مرادی
 - Taskin
 - Akkan
 - Atabey
@@ -4174,7 +4134,6 @@ lastnames:
 - Sargın
 - Şahbaz
 - Arıcan
-- صالح
 - Özdil
 - Çeçen
 - Elçi
@@ -4199,7 +4158,6 @@ lastnames:
 - Türe
 - Yaldız
 - Abdo
-- الخلف
 - Enes
 - Savas
 - Erarslan
@@ -4246,9 +4204,7 @@ lastnames:
 - Uğuz
 - Ülkü
 - Kazancı
-- البحر
 - Zaza
-- نجار
 - Özdamar
 - Tural
 - Göktepe
@@ -4258,25 +4214,20 @@ lastnames:
 - Algül
 - Çetintaş
 - Gazi
-- نظری
 - Okyay
 - Yaren
 - Sakallı
 - Erim
 - Arpacı
 - Çelenk
-- جان
-- العيسى
 - Balkaya
 - Akinci
 - Alev
 - Koçoğlu
 - Kalafat
 - Uyan
-- شيخو
 - Tümer
 - Aktay
-- تنها
 - Harman
 - Alkaya
 - Tokat
@@ -4294,7 +4245,6 @@ lastnames:
 - Altıparmak
 - Başkaya
 - Kocabıyık
-- حمود
 - Muradi
 - Turna
 - Artan
@@ -4325,7 +4275,6 @@ lastnames:
 - Hançer
 - Çaylak
 - Tanha
-- الأحمد
 - Ayas
 - Tüysüz
 - Köylü
@@ -4343,7 +4292,6 @@ lastnames:
 - Yalın
 - Gökçen
 - Cansız
-- الديري
 - Gur
 - Atabay
 - Var
@@ -4362,7 +4310,6 @@ lastnames:
 - Dağdeviren
 - Ar
 - Fatma
-- الملك
 - Maral
 - Erman
 - Sarac
@@ -4376,8 +4323,6 @@ lastnames:
 - Pekdemir
 - Demır
 - Pişkin
-- الله
-- اليوسف
 - Erken
 - Elma
 - Selcuk
@@ -4409,11 +4354,9 @@ lastnames:
 - Kilinç
 - Altınışık
 - Yıldızhan
-- النعيمي
 - Sunar
 - Ahmadi
 - Gs
-- الحمد
 - Ayten
 - Ceran
 - Saraçoğlu
@@ -4442,7 +4385,6 @@ lastnames:
 - Aslantaş
 - Burhan
 - Furkan
-- الحمود
 - Eryilmaz
 - Baylan
 - Avsar
@@ -4458,7 +4400,6 @@ lastnames:
 - Bayramoğlu
 - Dumlu
 - Musa
-- الشمري
 - Cem
 - Bayer
 - Ilter
@@ -4476,15 +4417,12 @@ lastnames:
 - Gürer
 - Yürük
 - Adem
-- عيسى
-- المصطفى
 - Kenan
 - Kacmaz
 - Serkan
 - Candemir
 - Atilla
 - Toklu
-- عفرين
 - Düz
 - Marangoz
 - Ataseven
@@ -4502,3 +4440,66 @@ lastnames:
 - Tur
 - Adar
 - Uludag
+- Aygül
+- Bayrakdar
+- Tayfur
+- Dolu
+- Merve
+- Muhammet
+- Öktem
+- Erkul
+- Kalın
+- Sağlık
+- Altındağ
+- Tunçer
+- Yetiş
+- Karabay
+- Tasci
+- Kobani
+- Kavas
+- Kalem
+- Aycan
+- Bahtiyar
+- Mahmut
+- Korucu
+- Tektaş
+- Güvercin
+- Bölükbaşı
+- Kaş
+- Savcı
+- Helvacı
+- Belen
+- Kum
+- Mazlum
+- Yanik
+- Canan
+- Köken
+- Gözlüm
+- Sevil
+- Yeşildağ
+- Sengul
+- Atasever
+- Çal
+- Erel
+- Arslantaş
+- Sağ
+- Kuyucu
+- Boğa
+- Karabağ
+- Karaboğa
+- Gülhan
+- Ayık
+- Sapmaz
+- Kor
+- Gursoy
+- Tunalı
+- Oğur
+- Altundağ
+- Bekdemir
+- Erkmen
+- Dedeoğlu
+- Baydemir
+- Sarıbaş
+- Güder
+- Ayçiçek
+- Kanmaz

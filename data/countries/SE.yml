@@ -1,3 +1,4 @@
+---
 source: dataset
 firstnames_male:
 - Johan
@@ -1255,7 +1256,6 @@ firstnames_male:
 - Razmus
 - Karl-Åke
 - Shamon
-- بچه
 - Sabawoon
 - Alisina
 - M Reza
@@ -1305,7 +1305,6 @@ firstnames_male:
 - Sehmus
 - Seymur
 - Xelil
-- Фаррух
 - Rashka
 - Veysi
 - Bashka
@@ -1351,7 +1350,6 @@ firstnames_male:
 - Abdisalan
 - Jiannis
 - Garabet
-- Шухрат
 - Cabdala
 - Poorya
 - Sandis
@@ -1500,6 +1498,9 @@ firstnames_male:
 - Shafici
 - Gurey
 - Carl Magnus
+- Lars Magnus
+- Dadir
+- Varg
 firstnames_female:
 - Anna
 - Eva

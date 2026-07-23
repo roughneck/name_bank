@@ -1,9 +1,4511 @@
+---
 source: dataset
 firstnames_male:
-- محمد
 - Ahmad
-- احمد
 - Mohammad
+- Mahmoud
+- Alaa
+- Khaled
+- Mohamad
+- Anas
+- Osama
+- Zaid
+- Yazan
+- Yousef
+- Abood
+- Hamza
+- Abdullah
+- Amer
+- Abdallah
+- Rami
+- Abo
+- Laith
+- Emad
+- Abu
+- Ayman
+- Ammar
+- Samer
+- Saif
+- Raed
+- Fadi
+- Tareq
+- Mohmmad
+- Rana
+- Waleed
+- Ashraf
+- Saleh
+- Amjad
+- Hamzeh
+- Maher
+- Bashar
+- Malek
+- Abd
+- Mahmood
+- Majd
+- Ibrahem
+- Eyad
+- Adnan
+- Abed
+- Marwan
+- Belal
+- Hani
+- Moath
+- Wael
+- Qusai
+- Odai
+- Hussam
+- Feras
+- Ehab
+- Hussein
+- Firas
+- Shadi
+- Wesam
+- Rashed
+- Fares
+- Murad
+- Faisal
+- Jehad
+- Bassam
+- Tamer
+- Hazem
+- Sameer
+- Ziad
+- Rakan
+- Tariq
+- Majed
+- Mohanad
+- Haitham
+- Naser
+- Mohmad
+- Hashem
+- Bahaa
+- Mohannad
+- Qais
+- Ibraheem
+- Issa
+- Baraa
+- Basel
+- Yazeed
+- Mahmod
+- Yaser
+- Mazen
+- Karam
+- Mousa
+- Saeed
+- Husam
+- Thaer
+- Morad
+- Nader
+- Ayham
+- Hamzah
+- Toto
+- Oday
+- Hisham
+- Salam
+- Zain
+- Nedal
+- Talal
+- Hosam
+- Eslam
+- Suhaib
+- Motaz
+- Saed
+- Rafat
+- Hamada
+- Raad
+- Sanad
+- Bader
+- Momen
+- Mhamad
+- Moayad
+- Ghassan
+- Motasem
+- Othman
+- Ameen
+- Abdalla
+- Mohammd
+- Hatem
+- Basem
+- Mosa
+- Loay
+- Ghaith
+- Faris
+- Nabeel
+- Mutaz
+- Waseem
+- Amr
+- Saleem
+- Hossam
+- Mohamd
+- Kareem
+- Shahed
+- Mhmad
+- Obada
+- Monther
+- Loai
+- Majdi
+- Asem
+- Essam
+- Nidal
+- Abdallh
+- Jawad
+- Fayez
+- Maen
+- Mosab
+- Mhammad
+- Hesham
+- Ramzi
+- Yosef
+- Jafar
+- Hamoda
+- Abod
+- Adham
+- Fuad
+- Esam
+- Yanal
+- Aws
+- Sameh
+- Hamodeh
+- Essa
+- Kaled
+- Fahed
+- Zeyad
+- Muath
+- Mhmd
+- Sohaib
+- Atef
+- Awad
+- Ahmmad
+- Amro
+- Eng
+- Muhannad
+- Basil
+- Mamoun
+- Yaseen
+- Sadam
+- Qusay
+- Baha
+- Khaleel
+- Suliman
+- Qasem
+- Shaker
+- Issam
+- Fawaz
+- Yamen
+- Musab
+- Diaa
+- Fade
+- Haytham
+- Abdalrhman
+- Sleman
+- Yahia
+- Ghazi
+- Jihad
+- Mamoon
+- Jameel
+- Ward
+- Medo
+- Kamel
+- Emran
+- Nael
+- Iyad
+- Omran
+- Khader
+- Ahed
+- Rame
+- Jad
+- Thamer
+- Fathi
+- Mohand
+- Hussien
+- Nayef
+- Montaser
+- Radwan
+- Abdalrahman
+- Nezar
+- Moad
+- Khaldoun
+- Mutasem
+- Suleiman
+- Tayseer
+- Waled
+- Zead
+- ﻣﺤﻤﺪ
+- Nawras
+- Shade
+- Basheer
+- Ramadan
+- Zuhair
+- Saqer
+- Saef
+- Abdelrahman
+- Riyad
+- Fawzi
+- Gaith
+- Awni
+- Ramez
+- Abrahem
+- Yaman
+- Shaher
+- Mahmmod
+- Mhmood
+- Hammam
+- Muneer
+- Eid
+- Moataz
+- Aboud
+- Hamzh
+- Khaldoon
+- Hakam
+- Mhmoud
+- Mahmmoud
+- Falah
+- Hamooda
+- Safwan
+- Shareef
+- Rashad
+- Layth
+- Rabee
+- Ghaleb
+- Sufian
+- Deaa
+- Moneer
+- Raid
+- Bebo
+- Zezo
+- Ebrahem
+- Moutaz
+- Mamon
+- Azzam
+- Majde
+- Aref
+- Munther
+- Saher
+- Mahmuod
+- Hamood
+- Ihab
+- Anan
+- Same
+- Tawfiq
+- Aloosh
+- Sakher
+- Reyad
+- Ayed
+- Wisam
+- Abd Alrahman
+- Nawaf
+- Obaida
+- Ismaeel
+- Wasfi
+- Mhmod
+- Derar
+- Isam
+- Subhi
+- Zeid
+- Rawand
+- Hamouda
+- Arafat
+- Abd Alrhman
+- Yazed
+- Suhib
+- Khalaf
+- Lawyer
+- Younis
+- Bara
+- Hamoodeh
+- Nashat
+- Radi
+- Khalel
+- Salameh
+- Mothana
+- Suhail
+- Ata
+- Azmi
+- Hazim
+- Osamah
+- Yuosef
+- Qosai
+- Sofyan
+- Adeeb
+- Zyad
+- Khaldon
+- Ziyad
+- Rabea
+- Mhamd
+- Ebraheem
+- Sameeh
+- Odeh
+- Bakr
+- Braa
+- Hamdan
+- Luay
+- Enad
+- Zaed
+- Obadah
+- Sharaf
+- Abdalah
+- Aysar
+- Bhaa
+- Muhanad
+- Eiad
+- Sohib
+- Sufyan
+- Osaid
+- Raafat
+- Hakem
+- Mohnad
+- Taleb
+- Hussen
+- Moatasem
+- Rateb
+- Moaed
+- Jamel
+- Jaafar
+- Wajdi
+- Deyaa
+- ﺍﺣﻤﺪ
+- Assem
+- Hmada
+- Jawdat
+- Thabet
+- Mosaab
+- Hamze
+- Moaad
+- Moutasem
+- Nabel
+- Eyas
+- Mahde
+- Atallah
+- Wasem
+- Moayed
+- Faraj
+- Nemer
+- Basim
+- Basam
+- Melad
+- Qutaiba
+- Awwad
+- Moaath
+- Yehya
+- Dr-Mohammad
+- Farouq
+- Yacoub
+- Mhmmad
+- Yazen
+- Hamodh
+- Rajab
+- Mahmmad
+- Hane
+- Hitham
+- Hareth
+- Ezz
+- Own
+- Hamam
+- Aktham
+- Mazin
+- Mamdouh
+- Hekmat
+- Asmar
+- Huthaifa
+- Moayyad
+- Zein
+- Ph
+- Hamode
+- Hammad
+- Azooz
+- Bassel
+- Esmaeel
+- Mojahed
+- Ishaq
+- Abdullh
+- Mhammed
+- Esmat
+- Luai
+- Husni
+- Anoos
+- Read
+- Mouath
+- Maan
+- Sadeq
+- Soltan
+- Kayed
+- Gassan
+- Najeh
+- Abdalluh
+- Yahea
+- Fawwaz
+- Habeeb
+- Medhat
+- Eng-Mohammad
+- Hmoda
+- Moeen
+- Rn
+- Anmar
+- Nimer
+- Raeed
+- Sahel
+- Abdala
+- Sulieman
+- Majdy
+- Eng-Ahmad
+- Hamodah
+- Sahem
+- Zayed
+- Barakat
+- Lutfi
+- Daoud
+- Zakarya
+- Kald
+- Jaser
+- Bshar
+- Adv
+- Bandar
+- Ahmaad
+- Hamoudeh
+- Fakhri
+- Jeries
+- Hammodeh
+- Hmood
+- Talat
+- Nassar
+- Ezzat
+- Mrwan
+- Aiham
+- Lorans
+- Baker
+- Abed Alrahman
+- Tahseen
+- Esmael
+- Tarq
+- Lith
+- Sharef
+- Beso
+- Akef
+- Qussai
+- Rasmi
+- Yassen
+- Sobhi
+- Mamdoh
+- Diyaa
+- Ragheb
+- Aeman
+- Hayel
+- Taiseer
+- Ramze
+- Laeth
+- Soud
+- Thair
+- Tharwat
+- Qays
+- Zeiad
+- Moyad
+- Mashhour
+- Motasm
+- Dr-Ahmad
+- Amjed
+- Yousf
+- Izzat
+- Mohmmd
+- Mujahed
+- Aser
+- Fathe
+- Seef
+- Muntaser
+- Tawfeeq
+- Faleh
+- Bahjat
+- Muayad
+- Sager
+- Taim
+- Zoher
+- Nasri
+- Qassem
+- Muthana
+- Moumen
+- Wadee
+- Mohannd
+- Dyaa
+- Abdalkareem
+- Moody
+- Rawad
+- Yaseer
+- Hosni
+- Hasn
+- Huseen
+- Lemar
+- Qusi
+- Magd
+- Awn
+- Abedallah
+- ﻣﺤﻤﻮﺩ
+- Moaid
+- Shawkat
+- Ragab
+- Nahar
+- Waddah
+- Refat
+- Alosh
+- Nart
+- Deeb
+- Kahled
+- Mofeed
+- Nazeeh
+- Nafez
+- Qosay
+- Hikmat
+- Safe
+- Fisal
+- Saker
+- Diab
+- Natheer
+- Jmal
+- Yhya
+- Seaf
+- Zakarea
+- Noor Aldeen
+- Abedalrahman
+- Abdelrhman
+- Amon
+- Yasen
+- Habeb
+- Humam
+- Zeko
+- Hmza
+- Hade
+- Ryad
+- Motasim
+- Mumen
+- Hamde
+- Mjd
+- Hamoodh
+- Elsayed
+- Ahamd
+- Aladdin
+- Saaed
+- Rashd
+- Zahi
+- Musaab
+- Abdalaziz
+- ﻋﺎﺷﻖ
+- Wajeeh
+- Aeham
+- ﺳﻴﻒ
+- Abdalh
+- Yazn
+- Mwafaq
+- Amjd
+- Wasef
+- Sofean
+- Muayyad
+- Hammoda
+- Bisher
+- Obaidah
+- Abdulkareem
+- Enam
+- Aseer
+- Khaleed
+- Karm
+- Faez
+- Izz
+- Mohamaad
+- Moaiad
+- Loae
+- Odae
+- Ahmad M
+- Oun
+- Ghalib
+- Tameem
+- Meshal
+- Fayz
+- Nasem
+- Edrees
+- Blal
+- Adli
+- Sayel
+- Shawqi
+- Kalel
+- Abu Zaid
+- Mohnnad
+- Rawhi
+- Thaeer
+- Hmooda
+- Qutiba
+- Tareg
+- Moawiah
+- Jafer
+- Mohammad Ali
+- Barhoom
+- Juman
+- Mutasim
+- Amaar
+- Khamees
+- Moawia
+- ﺧﺎﻟﺪ
+- Ammer
+- Raaed
+- Rajai
+- Fras
+- Daher
+- Muad
+- Mones
+- Hseen
+- Saeb
+- Tawfeq
+- Habes
+- Shahem
+- Saloom
+- Rahoof
+- Hasoon
+- Kaleel
+- Nemat
+- Monzer
+- Mohanned
+- Dawod
+- Nooh
+- Ameed
+- Hosny
+- Aoun
+- Leith
+- Majood
+- Naef
+- Moawya
+- Obida
+- Abd Al-Rahman
+- Wajde
+- Moayd
+- Louy
+- Zuhdi
+- Kaldon
+- Turki
+- Homam
+- Naem
+- Abu Omar
+- Fesal
+- ﻋﺒﺪﺍﻟﻠﻪ
+- Abraheem
+- ﺍﺑﻮ
+- Orwa
+- Nazeh
+- Mhammd
+- Bssam
+- Qaes
+- Abd-Alrahman
+- Owais
+- Mufeed
+- Mohab
+- Moamen
+- Harith
+- Wassem
+- Louai
+- Abu Ali
+- Raef
+- Sdam
+- Sohaeb
+- Abdalhadi
+- Rebhi
+- Raslan
+- Rezeq
+- Hothifa
+- Haetham
+- Abd Alkareem
+- Saqr
+- Fakher
+- Arch
+- Ramz
+- Dirar
+- Abn
+- ﻋﻠﻲ
+- Odi
+- Waeel
+- Zuher
+- Jomaa
+- Furat
+- Bsam
+- ﺍﻣﻴﺮ
+- Momn
+- Hytham
+- Osamh
+- Abdalsalam
+- Zakrea
+- Abdel Rahman
+- Farag
+- Ahmaed
+- Abu Ahmad
+- Soheb
+- Abdelfattah
+- Besher
+- Loui
+- Medoo
+- Zeed
+- Magde
+- Nayel
+- Ghasan
+- Abo Omar
+- Hmam
+- Abdelkareem
+- Sleeman
+- Apood
+- Hmodeh
+- Fayiz
+- Taqi
+- Nazem
+- Qassim
+- Abduallah
+- Housam
+- Dr-Ali
+- Rushdi
+- Hemo
+- Ayser
+- Waheeb
+- Aon
+- Harb
+- Meran
+- Trad
+- Gasem
+- Abd Al Rahman
+- Abdalazez
+- Hashm
+- Salamh
+- Moaead
+- Audai
+- Nooraldeen
+- Tayel
+- Opada
+- Mowafaq
+- Ahmad Ali
+- Brhoom
+- Badi
+- Bakir
+- Muthanna
+- Ayesh
+- Yosaf
+- Abdllah
+- Moneeb
+- Abo Ahmad
+- Abdallha
+- Basl
+- Bander
+- Adhm
+- Zuheir
+- Qussay
+- Sohayb
+- Mossab
+- Basm
+- Wsam
+- Hamadh
+- Saden
+- Rasem
+- Wajeh
+- Abed Alrhman
+- Abedalrhman
+- Bajes
+- Hothaifa
+- Alzoubi
+- Sharhabeel
+- Yaqoub
+- Abud
+- Shaaban
+- Faroq
+- Mezo
+- Talaat
+- Manhal
+- Moheeb
+- ﻋﻤﺮ
+- Asmael
+- Naje
+- Harbi
+- Anos
+- Rabeea
+- Nashaat
+- Assaf
+- Sief
+- Mazn
+- ﺃﺣﻤﺪ
+- Aous
+- Ahmab
+- ﺍﺑﺮﺍﻫﻴﻢ
+- Sohieb
+- Raft
+- Wadea
+- Eng-Mohammed
+- Shhab
+- Nofan
+- Mohammad A
+- Jebreel
+- Mohmaad
+- Hammoudeh
+- Abdelqader
+- Loiy
+- Eng Ahmad
+- Darwish
+- Jumaa
+- Baher
+- Eqbal
+- Moaaz
+- Maamoun
+- Obai
+- Aboode
+- Turky
+- Eshaq
+- Tamem
+- Kreem
+- Natale
+- Ajwad
+- Jasser
+- Abboud
+- Mahmmud
+- Jwad
+- Aemn
+- Khattab
+- Rajeh
+- Hmoodh
+- Bassil
+- Mousab
+- Mahmooud
+- Baseem
+- Dr-Mohammed
+- Montser
+- Wleed
+- Nzar
+- Yamn
+- Jhad
+- Maamon
+- Shehadeh
+- Bakeer
+- Taem
+- Flah
+- Muhand
+- ﻣﺆﻳﺪ
+- Mothna
+- Hothefa
+- Mefleh
+- Qies
+- Mohammad Khair
+- Qutaibah
+- Acc-Ahmad
+- Abdalkreem
+- Kaldoon
+- Hmodh
+- Mashal
+- Mahmmed
+- Shreef
+- Molham
+- Sammer
+- Gomaa
+- Daood
+- Dawoud
+- ﻳﻮﺳﻒ
+- Dedo
+- Nassem
+- Khaldun
+- Moode
+- Fayyad
+- Hamoode
+- Zedan
+- Alomari
+- Yarob
+- Abdarhman
+- Ebn
+- Walled
+- Shamel
+- Sobhe
+- Sohip
+- Hammodh
+- Monjed
+- Ribhi
+- Forat
+- Muosa
+- Mohammad M
+- Thaaer
+- Thaar
+- Zaidoon
+- Daifallah
+- Eng Mohammad
+- Abu Rashed
+- Suhieb
+- Hamzawe
+- Hamudeh
+- Muaath
+- Huthifa
+- Nadem
+- Moman
+- Abdelsalam
+- Romany
+- Ismaiel
+- Khames
+- Abdelrahim
+- Ghandi
+- Mohammad Noor
+- Esaa
+- Odie
+- Jaad
+- Badran
+- Sezar
+- Nebras
+- Hael
+- Hamadah
+- Abu Adam
+- Raied
+- Samh
+- Abo Adam
+- Foaad
+- Ehap
+- Mmdoh
+- Esaam
+- Eng-Mahmoud
+- Atalla
+- Gaze
+- Galeb
+- Obay
+- Ayhm
+- Moohamad
+- Wasfe
+- Motassem
+- Abdalqader
+- Kaleed
+- Lieth
+- Abu Saif
+- Mohammad H
+- Abd Alsalam
+- Alhareth
+- Abo Rayan
+- Obieda
+- Mothanna
+- Hamoodah
+- Acc-Mohammad
+- Abo Jood
+- Nuwan
+- Fahid
+- Abdulqader
+- Amman
+- Qaseem
+- Majad
+- Hmoud
+- Sloom
+- Muhsen
+- Hazeem
+- Smeer
+- Youseef
+- Musbah
+- Kalad
+- Ayyoub
+- Habis
+- Azme
+- Jarah
+- Naief
+- Jarrah
+- Mussab
+- Taysir
+- Moued
+- Abdulfattah
+- Arar
+- Attallah
+- Hamedo
+- Deiaa
+- Dr-Ibrahim
+- Bshara
+- Yzeed
+- Mashhoor
+- Abo Zaid
+- Nather
+- Saif Aldeen
+- Faeq
+- Khldoon
+- Moawea
+- Nawzat
+- Abo Rashed
+- Abu Rayan
+- Motasam
+- Drahmad
+- Eng-Alaa
+- Abdalazeez
+- Eng-Omar
+- Thaher
+- Hmzah
+- Tabarak
+- Faiq
+- Abdulraheem
+- Parbin
+- Jumah
+- Talab
+- Mueen
+- Abeed
+- Fayeq
+- Ãhmãd
+- Ghazwan
+- Gasan
+- Abu Mohammad
+- Taisir
+- Maysara
+- Aisar
+- Muataz
+- Morhaf
+- Jomah
+- Hazm
+- Sahm
+- Taym
+- Nahil
+- Abd Alaziz
+- ﺃﻣﻴﺮ
+- Khalled
+- ﺍﻟﻄﻴﺮ
+- Moatz
+- Hosaam
+- Awny
+- Besoo
+- Moomen
+- Ãbø
+- Emaad
+- Raaft
+- Moatsem
+- Iyas
+- Aied
+- Aehm
+- Abu Anas
+- Abed Alkareem
+- Mohammad S
+- Sudqi
+- Ahmad H
+- Ahmad S
+- Sohaip
+- Muawiya
+- Abu Jood
+- Eng-Ali
+- Nayf
+- Abd Alazez
+- Eqab
+- Qosi
+- Mekhled
+- Abedalaziz
+- Sattam
+- Ahmad Al
+- Dr-Omar
+- Abdalhameed
+- Motsem
+- Yazoon
+- Abøød
+- Abdalraheem
+- Abd Alhameed
+- Obadh
+- Hazaa
+- Hansi
+- Shaman
+- Taraq
+- Alsayed
+- Abu Baker
+- Sleem
+- Malook
+- Afeef
+- Besho
+- Khatab
+- Sobhy
+- Musleh
+- Modar
+- Gerges
+- Ratib
+- Faiez
+- ﻃﺎﺭﻕ
+- Zakrya
+- Rean
+- Zaha
+- Walied
+- Mazan
+- Hosne
+- Jorj
+- Zezoo
+- Jabr
+- Mahd
+- Nashmi
+- Adwan
+- Reef
+- Ramah
+- ﺻﻘﺮ
+- Aead
+- Rabei
+- Ataa
+- Foud
+- Tamr
+- Siaf
+- Mohmoud
+- Yoseef
+- Ibrahiem
+- Ghazy
+- Abw
+- Mootaz
+- Yehea
+- Taiser
+- Rafea
+- Dr-Khaled
+- Rabeaa
+- Suhayb
+- Suheil
+- Liath
+- Forsan
+- Awne
+- Jubran
+- Baseel
+- Nabeeh
+- Bker
+- Mohee
+- Aybak
+- Kanaan
+- Ahmad A
+- Abu Yazan
+- Nser
+- Subhe
+- Raean
+- Zoheer
+- Osaed
+- Qosae
+- Mosap
+- Rajaie
+- Watheq
+- Wesaam
+- Allosh
+- Ghayth
+- Sufean
+- Aows
+- Kalaf
+- Moied
+- Majali
+- Abd-Alrhman
+- Loie
+- Malkawi
+- Abdalmajeed
+- Mosub
+- Mwaffaq
+- Moaayad
+- Suhip
+- Qaiss
+- Ruwan
+- Asanka
+- Susantha
+- Sadu
+- Mulham
+- Munzer
+- Mohammaed
+- Rafeq
+- Sate
+- Suheb
+- Nameer
+- Badawi
+- Moahmmad
+- Hkmat
+- Alaeddin
+- Ashek
+- Brahem
+- Waal
+- Mamdooh
+- Kameel
+- Anad
+- Rizq
+- Mashhor
+- Odah
+- Chem
+- Lotfe
+- Abo Yamen
+- Albaraa
+- Mudar
+- Fawze
+- Ømãr
+- ﺍﻟﺤﺐ
+- ﺣﺴﺎﻡ
+- ﺍﻟﺒﺮﻧﺲ
+- Abdelhameed
+- Beboo
+- Abdall
+- Meedo
+- Abd Allh
+- Waell
+- Homs
+- Aasem
+- Hsam
+- Abo Saif
+- Roshdi
+- Hamdallah
+- Yman
+- Muaad
+- Wajdy
+- Aehab
+- Khleel
+- Abedalla
+- Robeen
+- Hijazi
+- Badee
+- Waeed
+- Reiad
+- Thaier
+- Sltan
+- Obaeda
+- Rkan
+- Obeda
+- Fadeel
+- Ynal
+- Alasmar
+- Kathem
+- Ezaldeen
+- Hetham
+- ﻋﺒﻮﺩ
+- Awss
+- Darweesh
+- Qusie
+- Muawya
+- Zaied
+- Abedalsalam
+- Ghssan
+- Jareer
+- Mouhanad
+- Fozan
+- Abu Wesam
+- Mufleh
+- Abd Alqader
+- Abedalkareem
+- Noor Al-Deen
+- Eyhab
+- Eng-Osama
+- Nour Aldeen
+- Zuhier
+- Muawia
+- Orwah
+- Abdelrazzaq
+- Mhmaad
+- Drmohammad
+- Aqaba
+- Maamoon
+- Refad
+- Abdalkarem
+- Sanjeewa
+- Qader
+- Sadaam
+- Adool
+- Wajed
+- Tammam
+- Beshoy
+- Shahim
+- Taimour
+- Zahran
+- Ghiath
+- Jado
+- Nabhan
+- Qaher
+- Marouf
+- Ali M
+- ﻋﺒﺪﺍﻟﺮﺣﻤﻦ
+- Mashaal
+- Maheer
+- Lafi
+- Mouayad
+- Duraid
+- Noureddin
+- Bolbol
+- Harth
+- Menwer
+- Kahlil
+- Muhanned
+- Moen
+- Fuaad
+- Atiah
+- Zaidan
+- Haithm
+- Khled
+- Mofed
+- Rafaat
+- Nemr
+- Alloush
+- Mufid
+- Mohammad Ahmad
+- Aos
+- Meshaal
+- Ømar
+- ﻣﺼﻄﻔﻰ
+- Yuosf
+- Hamuda
+- ﺃﺑﻮ
+- Dr-Ahmed
+- Mahfouz
+- Abdelnaser
+- Mahmoad
+- Abdeen
+- Albasha
+- Ibraheim
+- ﻣﺎﻟﻚ
+- Sharf
+- Allord
+- ﻣﻬﻨﺪ
+- Helme
+- Alameer
+- Abd Al Rhman
+- Dr-Alaa
+- Dr-Osama
+- Ꮜꮑ Ꭿꮑꭿꭵ
+- Abu Hamza
+- Frhan
+- Qadri
+- Bishara
+- Jlal
+- Tmam
+- Kaed
+- Loord
+- Yzan
+- Asmaeel
+- Shadee
+- Thabit
+- Abedallh
+- Rajaee
+- Munjed
+- Abo Yazan
+- Msalam
+- Nayif
+- Abu Karam
+- Abo Khaled
+- Jadallah
+- Aesar
+- Taeser
+- Ghaze
+- Omar M
+- Moiad
+- Mooad
+- Qasm
+- Wasam
+- Hakm
+- Suhaeb
+- Shalan
+- Aahmad
+- Hmodah
+- Abo Ameer
+- Mhmmoud
+- Riziq
+- Mahammd
+- Nawwaf
+- Apod
+- Qusae
+- Abd Alkreem
+- Suhaip
+- Eng-Yazan
+- Shahm
+- Àhmad
+- Huthaifah
+- Moatasm
+- Abdalelah
+- Momani
+- Abo Karam
+- Hmoodeh
+- Abdelmajeed
+- Mahmmuod
+- Adiga
+- Taboosh
+- Lbrahem
+- Jaradat
+- Mouth
+- Abed Al Rahman
+- Moawyah
+- Sakhr
+- Mhmmod
+- Bakerr
+- Qusy
+- Ahmad K
+- ﻗﺼﻲ
+- Abdalslam
+- ﻋﺪﻱ
+- Rakez
+- Obidah
+- Kassab
+- Ezz Aldeen
+- Hazza
+- Wasantha
+- Nishantha
+- Yameen
+- Namat
+- Musallam
+- Hayan
+- Darwesh
+- Syrian
+- Saifo
+- Tharu
+- Mhommad
+- Maeen
+- Hiru
+- Muheeb
+- Hammod
+- Fakhre
+- Ramee
+- Khalied
+- ﺑﻼﻝ
+- Ahmade
+- Abedullah
+- Drali
+- Waid
+- Ekrema
+- Eleas
+- Haker
+- Ahid
+- Haddad
+- Saliba
+- Mjde
+- Wadeea
+- Abdulelah
+- Zakareya
+- Beshoo
+- Fandi
+- Faesal
+- Fakhry
+- Ashour
+- Damen
+- Mayyas
+- Bebars
+- Seso
+- Abdalnaser
+- Sife
+- Ømâr
+- Abdelbaset
+- ﺍﻳﻤﻦ
+- Abd Elrahman
+- ﺻﺎﻟﺢ
+- Oudai
+- Sohyb
+- Abdel-Rahman
+- Rmdan
+- Hoosam
+- Hsham
+- Ead
+- Osamaa
+- Alamer
+- Dr-Mahmoud
+- Abdelraheem
+- Drmohammed
+- Ibrhem
+- Khalf
+- Ziead
+- Apd
+- ﺭﺍﻣﻲ
+- Zekoo
+- Ateef
+- Aprahem
+- Ehaab
+- Abo Anas
+- Loaay
+- ﺣﻤﺰﻩ
+- ﻋﺎﻣﺮ
+- Muayed
+- Dr-Abdullah
+- Quasi
+- Abuzaid
+- Fadee
+- Ahmad Abu
+- Mhde
+- Tameer
+- Smer
+- Khlel
+- Foze
+- Deab
+- Osayd
+- Brhom
+- Ibrheem
+firstnames_female:
+- Um
+- Noor
+- Eman
+- Om
+- Amal
+- Heba
+- Rawan
+- Hala
+- Farah
+- Abeer
+- Hanan
+- Reem
+- Lolo
+- Hadeel
+- Haneen
+- Aseel
+- Maha
+- Manal
+- Esraa
+- Malak
+- Rania
+- Rasha
+- Asma
+- Razan
+- Rama
+- Em
+- Rahaf
+- Bayan
+- Nour
+- Maram
+- Muna
+- Lana
+- Amani
+- Leen
+- Doaa
+- Wafaa
+- Huda
+- Samar
+- Haya
+- Ayat
+- Ruba
+- Tala
+- Ahlam
+- Sanaa
+- Yasmeen
+- Sawsan
+- Ola
+- Enas
+- Manar
+- Walaa
+- Yara
+- Raghad
+- Safaa
+- Ghada
+- Marah
+- Saja
+- Samah
+- Batool
+- Lama
+- Faten
+- Asmaa
+- Dania
+- Reham
+- Ghadeer
+- Areej
+- Tasneem
+- Wafa
+- Mais
+- Suzan
+- Nisreen
+- Randa
+- Suha
+- Alia
+- Arwa
+- Duaa
+- Nawal
+- Mai
+- Reema
+- Elham
+- Rola
+- Lubna
+- Khawla
+- Layan
+- Basma
+- Raneem
+- Roaa
+- Shatha
+- Dalal
+- Rand
+- Nesreen
+- Seham
+- Dema
+- Waed
+- Israa
+- Jood
+- Sajeda
+- Hanaa
+- Shereen
+- Rula
+- Hanadi
+- Maysoon
+- Najah
+- Sondos
+- Fedaa
+- Areen
+- Fadia
+- Rema
+- Soso
+- Fatema
+- Nuha
+- Bushra
+- Nadeen
+- Deema
+- Afnan
+- Mervat
+- Zaina
+- Tahani
+- Nedaa
+- Ayah
+- Fadwa
+- Rajaa
+- Haifa
+- Kholoud
+- Majeda
+- Taghreed
+- Jumana
+- Doha
+- Afaf
+- Suad
+- Amany
+- Remas
+- Amneh
+- Najwa
+- Renad
+- Ameera
+- Sereen
+- Kefah
+- Raeda
+- Raya
+- Amera
+- Shosho
+- Sameera
+- Mays
+- Leena
+- Mera
+- Shahd
+- Suhad
+- Khetam
+- Sabreen
+- Suhair
+- Dena
+- Roro
+- Dareen
+- Fatoom
+- Lujain
+- Sadeen
+- Heyam
+- Sewar
+- Lamees
+- Zeina
+- Malk
+- Samera
+- Amoon
+- Maysa
+- Ayoosh
+- Jehan
+- Duha
+- Khitam
+- Um Ahmad
+- Raghda
+- Nehad
+- Um Mohammad
+- Wedad
+- Tagreed
+- Joud
+- Nahla
+- Mayar
+- Anood
+- Hanen
+- Banan
+- Jomana
+- Besan
+- Haboosh
+- Amane
+- Nsreen
+- Hend
+- Nahed
+- Yasmen
+- Salsabeel
+- Yusra
+- Diala
+- Feryal
+- Shireen
+- Maisa
+- Ranoosh
+- Nagham
+- Neveen
+- Ansam
+- Kawther
+- Abla
+- Rehab
+- Ebtesam
+- Basema
+- Balqees
+- Wejdan
+- Shadia
+- Maysaa
+- Mayada
+- Baraah
+- Etaf
+- Toleen
+- Waad
+- Nareman
+- Om Ahmad
+- Shoroq
+- Nermeen
+- Sozan
+- Ekhlas
+- Shaimaa
+- Shorouq
+- Sura
+- Somaya
+- Bana
+- Masa
+- Ghazal
+- Wessam
+- Hanady
+- Kholod
+- Hiam
+- Rabaa
+- Shefaa
+- Saeda
+- Roba
+- Hiyam
+- Sumaya
+- Fatimah
+- Tamam
+- Fatmeh
+- Ekram
+- Amaal
+- Wasan
+- Weam
+- Ebtisam
+- Enaam
+- Wala
+- Ruaa
+- Entesar
+- Montaha
+- Sedra
+- Ibtisam
+- Wesal
+- Nidaa
+- Kafa
+- Nebal
+- Ranosh
+- Om Mohammad
+- Feda
+- Jenan
+- Muntaha
+- Anaam
+- Raneen
+- Asmahan
+- Maream
+- Naya
+- Anoud
+- Nabeela
+- Majida
+- Neven
+- Ghofran
+- Fidaa
+- Toqa
+- Lamis
+- Rawaa
+- Ibtesam
+- Luma
+- Maisaa
+- Om Omar
+- Majdoleen
+- Asoom
+- Samya
+- Sheren
+- Shaden
+- Rozan
+- Fatin
+- Ghaidaa
+- Naheel
+- Hanade
+- Merna
+- Um Omar
+- Um Zaid
+- Shimaa
+- Buthaina
+- Niveen
+- Boshra
+- Raida
+- Retal
+- Nadoosh
+- Amnah
+- Kawthar
+- Danya
+- Retaj
+- Sabaa
+- Gada
+- Kholood
+- Fatemah
+- Gadeer
+- Naela
+- Ragad
+- Hadel
+- Asool
+- Samr
+- Gazal
+- Tahany
+- Lames
+- Oraib
+- Fayzeh
+- Suhaila
+- Hadool
+- Sumaia
+- Sireen
+- Yaqeen
+- Um Mohammed
+- Gharam
+- Basima
+- Sohad
+- Ghaida
+- Taima
+- Sadeel
+- Nasima
+- Rawda
+- Ohood
+- Deya
+- Lojain
+- Fatina
+- Areeg
+- Worood
+- Khadeja
+- Ferial
+- Intesar
+- Seren
+- Rafeef
+- Reta
+- Meso
+- Maysam
+- Nehaya
+- Ghalia
+- Taslima
+- Batoul
+- Halla
+- Jory
+- Hla
+- Ranem
+- Jamela
+- Kinda
+- Hazar
+- Rere
+- Amool
+- Rooz
+- Khaleda
+- Wijdan
+- Shrooq
+- Remah
+- Em Ahmad
+- Maisoon
+- Um Yazan
+- Jawaher
+- Fatmah
+- Shefa
+- Madleen
+- Snaa
+- Fayza
+- Roze
+- Aliaa
+- Gehad
+- Alham
+- Atheer
+- Halah
+- Shorooq
+- Rahmeh
+- Khulood
+- Ruma
+- Layal
+- Khlood
+- Semo
+- Somaia
+- Taleen
+- Kifah
+- Nadera
+- Tuqa
+- Mram
+- Mayson
+- Kefaya
+- Madu
+- Sathi
+- Lenda
+- Om Zaid
+- Um Ali
+- Um Saif
+- Hedaya
+- Dyala
+- Firyal
+- Sameha
+- Shrouq
+- Hadoosh
+- Zeena
+- Najlaa
+- Ikhlas
+- Heam
+- Khawlah
+- Rahf
+- Majedah
+- Um Anas
+- Shaymaa
+- Layali
+- Fairouz
+- Ghena
+- Weaam
+- Eleen
+- Ebtehal
+- Rwan
+- Ayosh
+- Nazma
+- Ghina
+- Haia
+- Naheda
+- Enass
+- Nadosh
+- Nanoosh
+- Aroob
+- Akhi
+- Anwaar
+- Shada
+- Awatef
+- Haifaa
+- Elaf
+- Mnal
+- Rozana
+- Ethar
+- Tmara
+- Fatena
+- Sajedah
+- Sarab
+- Khloud
+- Omayma
+- Gofran
+- Hebah
+- Nesren
+- Nazek
+- Tasnem
+- Ensaf
+- Ragda
+- Tahane
+- Tharaa
+- Om Osama
+- Um Laith
+- Ashwaq
+- Nahida
+- Sammar
+- Olfat
+- Narmeen
+- Ketam
+- Rayah
+- Braah
+- Ghufran
+- Shati
+- Anfal
+- Marem
+- Zahrat
+- Asala
+- Rowaida
+- Roa
+- Nadea
+- Roqaya
+- Aum
+- Njood
+- Samaher
+- Ronza
+- Um Mohamad
+- Om Anas
+- Seleen
+- Ekhlass
+- Runa
+- Aishah
+- Fajer
+- Hayfa
+- ﻧﻮﺭ
+- Aleen
+- Ebtsam
+- Basmah
+- Suher
+- Angham
+- Ranea
+- Om Mohammed
+- Sujood
+- Sanabel
+- Habosh
+- Um Mahmoud
+- Um Alaa
+- Um Rashed
+- Sundus
+- Rahmah
+- Dode
+- Intisar
+- Maysoun
+- Bisan
+- Noorhan
+- Siwar
+- Nabela
+- Hyam
+- Ebaa
+- Jwana
+- Soher
+- ﺳﻮﺳﻮ
+- Kawla
+- Asmhan
+- Taimaa
+- Tamador
+- Um Abdullah
+- Asal
+- Sudu
+- Zooz
+- Halema
+- Moyna
+- Thuraya
+- Aklima
+- Monera
+- Maisam
+- Thanaa
+- Sameeha
+- Sukaina
+- Assel
+- Jore
+- Roua
+- Maali
+- Sundos
+- Rafef
+- Üm
+- Ezdehar
+- Um Osama
+- Mukta
+- Sarmin
+- Inaam
+- Daad
+- Asraa
+- Allaa
+- Um Hamza
+- Myassar
+- Fadya
+- Zahret
+- Naden
+- Jod
+- Entsar
+- Yafa
+- Tolen
+- Wardeh
+- Aysheh
+- Thekra
+- Um Karam
+- Um Abdallah
+- Hanada
+- Nouf
+- Muneera
+- Soaad
+- Øm
+- Zahera
+- Mnar
+- Najwan
+- Kenda
+- Dalaa
+- Suheir
+- Em Mohammad
+- Kawkab
+- Nermen
+- Wlaa
+- Amert
+- Asom
+- Aroub
+- Rnoosh
+- Lelas
+- Marwah
+- Zainb
+- Josna
+- Ayaat
+- Jwan
+- Sand
+- Jorna
+- Om Ali
+- Heno
+- Ghaydaa
+- Amenah
+- Suheer
+- Mysoon
+- Lanoosh
+- Haloosh
+- Hboosh
+- Dua
+- Salamah
+- Yumna
+- Pakhi
+- Nethu
+- Ftoom
+- Sosoo
+- Ehssan
+- Adla
+- Rinad
+- Farh
+- Yasmeena
+- Tayser
+- Shifaa
+- Um Khaled
+- Eshraq
+- Um Rayan
+- Om Laith
+- Um Yousef
+- Um Yamen
+- Hayam
+- Suaad
+- Joory
+- Mirvat
+- Lipi
+- Nibal
+- Ansaf
+- Shreen
+- Fayrouz
+- Maison
+- Shurooq
+- Mayas
+- Mahasen
+- Rzan
+- Bessan
+- Om Mohamad
+- Wajd
+- Mayoosh
+- Buthina
+- Um Ameer
+- Tuleen
+- Um Jawad
+- Um Ibrahim
+- Alanood
+- Taniya
+- Kulsum
+- Rojina
+- Nipa
+- Khuloud
+- Dala
+- Ishraq
+- Eklas
+- Nansy
+- Nowar
+- Garam
+- Ohoud
+- Hanon
+- Smar
+- Marea
+- Sohair
+- Solaf
+- ﻋﺎﺷﻘﺔ
+- Fryal
+- Katreen
+- Shymaa
+- Habebt
+- Salsabel
+- Ghidaa
+- Om Khaled
+- Ghadah
+- Om Saif
+- Daleen
+- Tahreer
+- Tagred
+- Najd
+- Ensherah
+- Hayoosh
+- Hadosh
+- Om Yazan
+- Nemeh
+- Um Hashem
+- Basemah
+- Sume
+- Saduni
+- Nupur
+- Shilpi
+- Nethmi
+- Reman
+- Rafah
+- Um Ahmed
+- Nagam
+- Sumia
+- Rodina
+- Mst
+- Batol
+- Olaa
+- Helda
+- Soos
+- Malaak
+- Reemas
+- Mallak
+- ﺍﻡ
+- Søsø
+- Menas
+- Rowida
+- Sabren
+- Shahenaz
+- Loleta
+- Roqaia
+- Swsan
+- Omama
+- Om Abdallah
+- Worod
+- Sojood
+- Nihaya
+- Laian
+- Wrood
+- Nareeman
+- Taqwa
+- Um Tareq
+- Umahmad
+- Um Rami
+- Sakhaa
+- Um Ayham
+- Noof
+- Nirosha
+- Parul
+- Shathi
+- Bilkis
+- Souzan
+- Lema
+- Qween
+- Walla
+- Takwa
+- Maes
+- Ebtihal
+- Shahrazad
+- Ashjan
+- Barah
+- Smah
+- Tabark
+- Um Adam
+- ﺩﻣﻮﻉ
+- ﻣﻠﻚ
+- Zahrt
+- Halaa
+- Raghed
+- Nanosh
+- Manoosh
+- Mesoo
+- Tsneem
+- Aisheh
+- Jamelah
+- Om Alaa
+- Fadea
+- Lojen
+- Njoud
+- Daed
+- Um Jood
+- Om Rashed
+- Em Zaid
+- Um Ammar
+- Alanoud
+- Semsem
+- Ramia
+- Danah
+- Rolla
+- Omima
+- Roqia
+- Zohor
+- Somya
+- Fatemh
+- Lilas
+- Rodaina
+- Neama
+- Prinses
+- Bsma
+- Raedah
+- Loma
+- Jamileh
+- Bassima
+- Shadya
+- Rua
+- Olla
+- Taghred
+- ﺍﻣﻴﺮﺓ
+- Haba
+- Wfaa
+- Rna
+- Om Hamza
+- Maaly
+- Ibtsam
+- Beesan
+- Myasar
+- Lelyan
+- Om Rami
+- Ndoosh
+- Nemah
+- Seedra
+- Űm
+- Wateen
+- Danea
+- Wjdan
+- Ûm
+- Um Wesam
+- Razoon
+- Um Ayman
+- Deemah
+- Um Samer
+- Chamila
+- Chathu
+- Iresha
+- Dawlat
+- Shooq
+- Zoz
+- Ruqaya
+- Zainah
+- Taghrid
+- Nusaiba
+- Ghader
+- Raba
+- Deea
+- Maisoun
+- Remal
+- Nosaiba
+- Rajae
+- Entisar
+- Byan
+- Ruqaia
+- Doua
+- Njah
+- Zekra
+- Kholud
+- ﺑﻨﺖ
+- Woroud
+- Frah
+- Fayroz
+- Nirmeen
+- Layaly
+- Azeza
+- Jakleen
+- Om Yousef
+- Rero
+- Hanood
+- Joman
+- Kifaya
+- Baian
+- Amnh
+- Asalah
+- Mysaa
+- Rudaina
+- Arej
+- Izdehar
+- Tyseer
+- Heiam
+- Rhaf
+- Ghayda
+- Oroob
+- Etedal
+- Om Ameer
+- Balqes
+- Kolod
+- Um Qais
+- Um Amer
+- Um Abood
+- Um Qusai
+- Jameleh
+- Obeidat
+- Um Bashar
+- Fayzah
+- Farooh
+- Um Fadi
+- Aidah
+- Sabha
+- Jesmin
+- Kadeja
+- Fardous
+- Mrmr
+- Nodi
+- Fareda
+- Sosan
+- Prinsess
+- Sahera
+- Deia
+- Rotna
+- Pharmacist
+- Zhoor
+- Nabaa
+- Khadijeh
+- Andaleeb
+- Obeida
+- Ibtehal
+- Hepa
+- Nsren
+- Roreta
+- Sulaf
+- ﺯﻫﺮﺓ
+- Tayma
+- Maiss
+- Retag
+- Nardeen
+- Kareman
+- Soheer
+- Om Mahmoud
+- Ranen
+- Dandon
+- Fatmh
+- Marh
+- Ùm
+- Mageda
+- Sojod
+- Em Khaled
+- Sjood
+- Laloosh
+- Rnosh
+- Taymaa
+- Oroba
+- Insherah
+- Hifa
+- Fayrooz
+- Om Karam
+- Um Hamzeh
+- Nayfeh
+- Om Odai
+- Faizeh
+- Ammal
+- Jomanah
+- Om Tareq
+- Emaan
+- Zenat
+- Sahida
+- Sopna
+- Sabreena
+- Jasmen
+- Sarh
+- Nasema
+- Shopna
+- Taslema
+- Omaya
+- Balqis
+- Rawabi
+- Thekrayat
+- Amerah
+- Nadwa
+- Alisar
+- Baidaa
+- Bissan
+- ﻗﻤﺮ
+- Sojoud
+- Lma
+- Karmel
+- Shorok
+- Ehdaa
+- Myar
+- Sande
+- Sfaa
+- Ziena
+- Bothaina
+- Dooa
+- Rsha
+- Khoulod
+- Lareen
+- Frial
+- Lool
+- Rørø
+- Gadah
+- Misaa
+- Em Alaa
+- Em Omar
+- Em Anas
+- Tojan
+- Balkees
+- Rabeha
+- Shoruq
+- Hdeel
+- Faeda
+- Om Ayman
+- Rawah
+- Asseel
+- Khadejah
+- Nisrein
+- Ayoot
+- Raghood
+- Um Odai
+- Omahmad
+- Um Ashraf
+- Um Emad
+- Om Abdullah
+- Um Ehab
+- Haloom
+- Shouq
+- Sriyani
+- Rahema
+- Nisansala
+- Shoog
+- Reya
+- Mashael
+- Rabeya
+- Reemo
+- Um Mohamed
+- Nade
+- Prenses
+- Limar
+- Maksuda
+- Rohima
+- Bisti
+- Silpi
+- Rufaida
+- Enaya
+- Rojena
+- Nuor
+- Bayoon
+- Joody
+- Reeman
+- Ameerah
+- Sooso
+- Um Hassan
+- Fateen
+- Rawdah
+- Atieh
+- Alward
+- Shemaa
+- Sondus
+- Nisren
+- Em Ali
+- Fardos
+- Bassema
+- Majdolin
+- Freal
+- Õm
+- Mesk
+- Misk
+- Yassmen
+- Narmen
+- Ream
+- Ashraqat
+- Nessren
+- Lmar
+- Mayosh
+- Amall
+- Nanse
+- Soze
+- ﺍﻡ ﻣﺤﻤﺪ
+- Sheeren
+- Gader
+- Remaa
+- Khtam
+- Smadi
+- Raheeq
+- Majdolen
+- Montha
+- Shuroq
+- Timaa
+- Hnadi
+- Rulla
+- Kamleh
+- Lalosh
+- Intsar
+- Moneera
+- Teeba
+- Mayyada
+- Baean
+- Halosh
+- Om Amer
+- Amerat
+- Amoneh
+- Um Malek
+- Maysarah
+- Um Raed
+- Lanosh
+- Um Mohmmad
+- Om Ayham
+- Myaser
+- Laean
+- Um Hussam
+- Slsabeel
+- Hawazen
+- Um Sanad
+- Mayadah
+- Omzaid
+- Um Tariq
+- Om Hashem
+- Rawaah
+- Rund
+- Um Fares
+- Niluka
+- Arooj
+- Ghala
+- Nilanthi
+- Nadee
+- Nimat
+- Megla
+- Dilrukshi
+- Bdoor
+- Jahanara
+- Nimesha
+- Magla
+- Madeha
+- Suhila
+- Ysra
+- Rudina
+- Naia
+- Ramosh
+- Khadiza
+- Kohinur
+- Munia
+- Rehena
+- Mokta
+- Ropa
+- Shahera
+- Shaty
+- Samea
+- Maisara
+- Rabiha
+- Hanoon
+- Juhaina
+- Dlal
+- Ftoon
+- Ruwaida
+- Doa
+- Umniah
+- Jolia
+- Sulafa
+- Itaf
+- Zakieh
+- Etidal
+- Rwaida
+- Khulud
+- Hodhod
+- Alaà
+- ﻭﺭﺩﺓ
+- ﻭﺭﺩ
+- Om Mohamed
+- Baylasan
+- Nadaa
+- Yasoo
+- Nagah
+- Yasmena
+- Myada
+- Essraa
+- Hnaa
+- Nrmeen
+- Semoo
+- Bothina
+- Logain
+- Faroha
+- Fatn
+- Rooa
+- Ghazl
+- Sokaina
+- Hnade
+- Jamalat
+- Hedaia
+- Thraa
+- Sujoud
+- Mysa
+- Hneen
+- Amenh
+- Hanoosh
+- Qater
+- Rneem
+- Eatedal
+- Mear
+- Lamoosh
+- Aeda
+- Naqaa
+- Easmen
+- Khwla
+- Ghosoon
+- Estabraq
+- Khansaa
+- Leth
+- Om Noor
+- Om Bashar
+- Ghosoun
+- Um Amjad
+- Ghadoosh
+- Um Haitham
+- Om Rayan
+- Enshrah
+- Mlt
+- Lovek
+- Um Rakan
+- Jumanah
+- Myasser
+- Jameeleh
+- Henoo
+- Om Hamzeh
+- Om Rakan
+- Um Suhaib
+- Daniah
+- Naelah
+- Om Samer
+- Fawzieh
+- Orouba
+- Futoon
+- Besaan
+- Sukina
+- Om Raed
+- Lujin
+- Um Yanal
+- Kolood
+- Buthainah
+- Om Tariq
+- Chandani
+- Ishara
+- Gayani
+- Dilini
+- Dilani
+- Jwaher
+- Joj
+- Sadamali
+- Momena
+- Smsm
+- Monmon
+- Sumya
+- Parven
+- Jooj
+- Sumayah
+- Princees
+- Mahera
+- Shemo
+- Nadiah
+- Neso
+- Eso
+- Merfat
+- Mervet
+- Morium
+- Monni
+- Rujina
+- Morjina
+- Shate
+- Rasida
+- Sokina
+- Essra
+- Aalaa
+- Aamal
+- Um Noor
+- Esoo
+- Aneen
+- Um Khalid
+- Manool
+- Leema
+- Rasmia
+- Farooha
+- Masah
+- Dilki
+- Nanos
+- Sihina
+- Joode
+- Etab
+- Madlin
+- Rusul
+- Zienab
+- Buthayna
+- Gaidaa
+- Rofaida
+- ﻣﻼﻙ
+- ﺃﻣﻴﺮﺓ
+- Lølø
+- Wared
+- Katrena
+- Shorouk
+- Kariman
+- Maiar
+- Omyma
+- ﺍﻣﻴﺮﻩ
+- Rewaa
+- Hebaa
+- Raghd
+- ﺍﻟﻮﺭﺩﻩ
+- Rowayda
+- Donea
+- Prïñçësś
+- Leqaa
+- Eaman
+- Rowaa
+- Ahlaam
+- Zekrayat
+- Haleemah
+- Qabas
+- Ablah
+- Manwa
+- Ror
+- Smaher
+- Sharehan
+- Em Mohammed
+- Thaera
+- Em Eyad
+- Em Yousef
+- Shaheera
+- Orayb
+- Mesaa
+- Em Ayman
+- Qmar
+- Sreen
+- Lelean
+- Wajeha
+- Deala
+- Jamelh
+- Khulod
+- Majduleen
+- Em Emad
+- Aeat
+- Anagheem
+- Amjaad
+- Fatoon
+- Ragdah
+- Maroosh
+- Nøør
+- Malakeh
+- Hbosh
+- Sharefa
+- Bnan
+- Malath
+- Noras
+- Naimeh
+- Umzaid
+- Um Shadi
+- Hnoon
+- Alaá
+- Ramoosh
+- Tiseer
+- Joore
+- Um Feras
+- Om Emad
+- Jolya
+- Om Jawad
+- Um Firas
+- Somayya
+- Om Waleed
+- Um Yazeed
+- Um Salah
+- Ummohammad
+- ﻫﻨﺎﺩﻱ
+- Fofoo
+- Um Saleh
+- Dandoon
+- Fattom
+- Em Saif
+- Demah
+- Um Marwan
+- Um Murad
+- Em Rayan
+- Um Majd
+- Ezdihar
+- Um Bahaa
+- Om Yamen
+- Um Jehad
+- Um Wael
+- Laiali
+- Sajedh
+- Sara Ahmad
+- Ameert
+- Um Zain
+- Neameh
+- Bardees
+- Nameh
+- Shorog
+- Um Mutaz
+- Úm
+- Nanoos
+- Um Tamer
+- Um Thaer
+- Um Sultan
+- Eklass
+- Um Malik
+- Om Mohmmad
+- Tharwa
+- Dammika
+- Inoka
+- Nilmini
+- Nadeeka
+- Kumudu
+- Budoor
+- Shareefa
+- Damayanthi
+- Thushari
+- Dammi
+- Disna
+- Fairooz
+- Harshani
+- Hiruni
+- Lakmali
+- Smera
+- Piumi
+- Sadali
+- Munera
+- Shoq
+- Shahood
+- Ruqia
+- Somayah
+- Zynab
+- Soona
+- Salena
+- Enta
+- Hebo
+- Maimona
+- Maie
+- Andera
+- Minara
+- Fatan
+- Laboni
+- Nurjahan
+- Borsha
+- Moriom
+- Shahanaj
+- Kobita
+- Jharna
+- Lipy
+- Sahanaj
+- Shapna
+- Rasma
+- Moina
+- Nusiba
+- Lamea
+- Genan
+- Abtesam
+- Athraa
+- Tharushi
+- Samoor
+- Nofa
+- Huwaida
+- Sausan
+- Wassan
+- Um Hasan
+- Andleeb
+- Um Malak
+- Raidah
+- Izdihar
+- Ameenah
+- Helana
+- Zinah
+- Soheir
+- Christeen
+- Hibah
+- Sawsn
+- Dalea
+- Shadea
+- Sonea
+- Kenana
+- Öm
+- Rasmieh
+- Um Mustafa
+- Nimeh
+- Lojin
+- Wallaa
+- Habibt
+- Ôm
+- ﻣﻠﻜﺔ
+- Ikhlass
+- ﺍﻟﻮﺭﺩﺓ
+- Mrah
+- ﺍﻟﻮﺭﺩ
+- ﻳﺎﺳﻤﻴﻦ
+- Dimah
+- Worlds
+- Ëm
+- Rotana
+- Rokaia
+- Maiada
+- Yasmein
+- Brincess
+- Remoo
+- Marvat
+- ﺯﻫﺮﻩ
+- Om Adam
+- Sbah
+- Apeer
+- Loloo
+- Sonds
+- Om Malak
+- Logen
+- Rodena
+- Êm
+- ﻟﻮﻟﻮ
+- Reeham
+- Tarneem
+- Jackleen
+- Omomar
+- Saham
+- Om Malek
+- Rore
+- Bodour
+- Lelian
+- Prensesa
+- Seleena
+- Sereena
+- Ayshah
+- Salee
+- Maea
+- Jafra
+- Maesa
+- Tahrer
+- Em Mohamad
+- Rosol
+- Rozeen
+- Badera
+- Nehaia
+- Em Mahmoud
+- Bashaer
+- Mream
+- Sadel
+- Em Yazan
+- Em Rami
+lastnames:
+- Ahmad
+- Mohammad
+- Omar
+- Alzoubi
+- Akter
+- Obeidat
+- Saleh
+- Hamdan
+- Khaled
+- Jaber
+- Malkawi
+- Yousef
+- Alomari
+- Haddad
+- Almomani
+- Mahmoud
+- Hammad
+- Odeh
+- Ana
+- Jaradat
+- Awad
+- Almasri
+- Smadi
+- Ababneh
+- Mohamad
+- Alkhateeb
+- Momani
+- Tarawneh
+- Alawneh
+- Bataineh
+- Rawashdeh
+- Sy
+- Salameh
+- Issa
+- Aktar
+- Awwad
+- Naser
+- Alqudah
+- Aladwan
+- Nassar
+- Amer
+- Mansour
+- Omari
+- Hamad
+- Shaheen
+- Abdallah
+- Othman
+- Abed
+- Ramadan
+- Yaseen
+- Majali
+- Qudah
+- Khader
+- Rababah
+- Hijazi
+- Assaf
+- Emad
+- Barakat
+- Mousa
+- Alabadi
+- Lolo
+- Sawalha
+- Nofal
+- Alqaisi
+- Zaid
+- Alnajjar
+- Qasem
+- Alkhatib
+- Bader
+- Abd
+- Samara
+- Adnan
+- Jordan
+- Melhem
+- Shatnawi
+- Khasawneh
+- Eid
+- Jarrar
+- Alazzam
+- Harb
+- Daoud
+- Azzam
+- Kanaan
+- Abbadi
+- Ghanem
+- Gharaibeh
+- Mohmmad
+- Shehadeh
+- Alabbadi
+- Najjar
+- Osama
+- Tamimi
+- Saadeh
+- Waleed
+- Alzaben
+- Abood
+- Badran
+- Otoom
+- Abuzaid
+- Alkurdi
+- Amro
+- Ayman
+- Almanaseer
+- Khalaf
+- Ayasrah
+- Zghoul
+- Al-Zoubi
+- Tawalbeh
+- Shaban
+- Safi
+- Rashed
+- Zoubi
+- Samer
+- Alaa
+- Ashour
+- Alali
+- Hani
+- Ayoub
+- Alhaj
+- Baker
+- Alqadi
+- Banihani
+- Sameer
+- Darwish
+- Altamimi
+- Raed
+- Aljarrah
+- Frehat
+- Alkhaldi
+- Nsour
+- Haddadin
+- Taani
+- Obaid
+- Jo
+- Aljamal
+- Banat
+- Ibrahem
+- Masri
+- Hatamleh
+- Ayyad
+- Alshorman
+- Diab
+- Alrefai
+- Alsmadi
+- Rami
+- Nazzal
+- Alrawashdeh
+- Alasmar
+- Abu Zaid
+- Awamleh
+- Almajali
+- Bani Hani
+- Asfour
+- Alfayez
+- Hijazeen
+- Mosa
+- Bassam
+- Sarhan
+- Abadi
+- Allan
+- Aqel
+- Alquraan
+- Alzyoud
+- Majed
+- Ghaith
+- Zayed
+- Radwan
+- Nawafleh
+- Murad
+- Khoury
+- Al-Omari
+- Alahmad
+- Hawamdeh
+- Olimat
+- Khawaldeh
+- Kharabsheh
+- Habashneh
+- Suliman
+- Khateeb
+- Matar
+- Mohmad
+- Manaseer
+- Abdeen
+- Ziad
+- Alkhawaldeh
+- Khattab
+- Kilani
+- Hayajneh
+- Odat
+- Dmour
+- Alrousan
+- Sabbah
+- Masoud
+- Alkateeb
+- Dabbas
+- Hashem
+- Ibraheem
+- Homs
+- Akther
+- Jood
+- Saqer
+- Ameer
+- Afaneh
+- Arar
+- Alzubi
+- Dababneh
+- Jehad
+- Al-Qudah
+- Hourani
+- Elayyan
+- Khatib
+- Zahran
+- Al-Momani
+- Amjad
+- Deeb
+- Younis
+- Musleh
+- Yazan
+- Magableh
+- Jarrah
+- Alassaf
+- Hammouri
+- Adwan
+- Al Zoubi
+- Masadeh
+- Rayan
+- Kurdi
+- Athamneh
+- Zyoud
+- Quraan
+- Alzghoul
+- Asaad
+- Mansi
+- Rabadi
+- Saed
+- Alabade
+- Al-Khateeb
+- Awawdeh
+- Aqrabawi
+- Rahahleh
+- Ghannam
+- Marwan
+- Ayyash
+- Maaitah
+- Hiary
+- Alzboon
+- Jad
+- Jadallah
+- Al-Masri
+- Rayyan
+- Alhasan
+- Barham
+- Yosef
+- Hamzeh
+- Dawood
+- Mazen
+- Mhamad
+- Lafi
+- Shawabkeh
+- Faraj
+- Khater
+- Almasre
+- Shboul
+- Younes
+- Alabed
+- Rahhal
+- Horani
+- Naimat
+- Shalabi
+- Damra
+- Ayesh
+- Wael
+- Bakeer
+- Qawasmi
+- Alajarma
+- Yaser
+- Alsaleh
+- Shdefat
+- Khazaleh
+- Asha
+- Mhmad
+- Hassouneh
+- Al Masri
+- Alshareef
+- Alazzeh
+- Aljbour
+- Qawasmeh
+- Obiedat
+- Khatatbeh
+- Arabiat
+- Alshami
+- Aljboor
+- Mahadeen
+- Ghazal
+- Joudeh
+- Tahat
+- Nabeel
+- Tareq
+- Fayez
+- Nabulsi
+- Obaidat
+- Al-Abbadi
+- Mahasneh
+- Salahat
+- Jawarneh
+- Zreqat
+- Shlool
+- Aburumman
+- Hussien
+- Habash
+- Ahmmad
+- Altaweel
+- Radaideh
+- Shorman
+- Ananzeh
+- Alnaimat
+- Khaleel
+- Assi
+- Hadad
+- Alramahi
+- Hijjawi
+- Daradkeh
+- Faouri
+- Jameel
+- Talal
+- Obeid
+- Kanan
+- Hindi
+- Nedal
+- Qandeel
+- Zboon
+- Otoum
+- Jaafreh
+- Alshobaki
+- Ennab
+- Suleiman
+- Yaghi
+- Alqam
+- Alamro
+- Arafat
+- Alsharif
+- Almasry
+- Eyad
+- Alsoud
+- Alsayed
+- Asmar
+- Alfar
+- Al Omari
+- Elayan
+- Alsarhan
+- Bitar
+- Abu Ali
+- Aldaja
+- Ata
+- Alhourani
+- Alfaouri
+- Qatawneh
+- Fadi
+- Musallam
+- Manasra
+- Hyari
+- Migdadi
+- Kiswani
+- Alhorani
+- Alnadi
+- Fakhoury
+- Atieh
+- Alturk
+- Okour
+- Hyasat
+- Arabiyat
+- Nader
+- Abubaker
+- Alshaer
+- Jamous
+- Ramahi
+- Talafha
+- Darabseh
+- Shaker
+- Shehab
+- Kaled
+- Qasrawi
+- Kasasbeh
+- Amayreh
+- Sammour
+- Hajeer
+- Alkhawaja
+- Al Momani
+- Omran
+- Alnaser
+- Badarneh
+- Al-Qaisi
+- Khresat
+- Bani Yaseen
+- Hazaimeh
+- Migdady
+- Khraisat
+- Atef
+- Alsheikh
+- Srour
+- Ammari
+- Dweik
+- Hasanat
+- Qaisi
+- Alhayek
+- Albanna
+- Jallad
+- Alkharabsheh
+- Alnsour
+- Kreshan
+- Telfah
+- Sharaf
+- Nimer
+- Daraghmeh
+- Manasrah
+- Hattar
+- Khalifeh
+- Alabsi
+- Amr
+- Badawi
+- Nasrallah
+- Alhindi
+- Alqasem
+- Nimri
+- Maabreh
+- Habahbeh
+- Daas
+- Sar
+- Fahmawi
+- Laith
+- Hammoudeh
+- Freihat
+- Alrashdan
+- Al Ali
+- Fayyad
+- Alshboul
+- Sallam
+- Shammout
+- Al-Najjar
+- Alkouz
+- Alkiswani
+- Alajarmah
+- Aljammal
+- Qasim
+- Rabah
+- Alhariri
+- Yacoub
+- Al Khateeb
+- Samhan
+- Hanandeh
+- Syr
+- Alhassan
+- Barqawi
+- Tayeh
+- Kloub
+- Al-Adwan
+- Altarawneh
+- Abu Rumman
+- Abu Baker
+- Alatrash
+- Zaben
+- Alshawabkeh
+- Atoom
+- Alnatsheh
+- Amawi
+- Aljabali
+- Attar
+- Hamam
+- Ibdah
+- Alsayyed
+- Dagamseh
+- Khlifat
+- Hussam
+- Alshaikh
+- Sleman
+- Hindawi
+- Abdallat
+- Aldabbas
+- Khair
+- Zedan
+- Mhammad
+- Sahawneh
+- Allouzi
+- Aldajah
+- Albdour
+- Amaireh
+- Mohammd
+- Safadi
+- Al-Khatib
+- Abuali
+- Farraj
+- Diabat
+- Hawari
+- Darweesh
+- Alameer
+- Alomary
+- Madanat
+- Bdour
+- Soub
+- Alawamleh
+- Maayah
+- Btoush
+- Shraideh
+- Hisham
+- Titi
+- Feras
+- Nemer
+- Hattab
+- Jarwan
+- Ryalat
+- Refai
+- Orabi
+- Basem
+- Zakarneh
+- Rousan
+- Batarseh
+- Shami
+- Hatem
+- Hayek
+- Khrais
+- Khrisat
+- Alomoush
+- Karadsheh
+- Alward
+- Wahdan
+- Alkhateb
+- Battah
+- Nawaiseh
+- Al-Majali
+- Fakhouri
+- Badwan
+- Shishani
+- Akhter
+- Zeidan
+- Alsham
+- Herzallah
+- Alnatour
+- Rashdan
+- Darawsheh
+- Alquran
+- Alsoudi
+- Alsrhan
+- Alawi
+- Alamer
+- Kayyali
+- Marji
+- Alhawamdeh
+- Al Qaisi
+- Bawaneh
+- Omoush
+- Dwairi
+- Twal
+- Samawi
+- Al Qudah
+- Azar
+- Hazem
+- Alshalabi
+- Weshah
+- Al-Tarawneh
+- Essam
+- Atallah
+- Sabha
+- Albakri
+- Uf
+- Zalloum
+- Harahsheh
+- Sweet
+- Radi
+- Jabr
+- Dajani
+- Wesam
+- Bani Issa
+- Alkhteeb
+- Batayneh
+- Al-Rawashdeh
+- Sabbagh
+- Alzubaidi
+- Ayash
+- Thaher
+- Shatat
+- Kakish
+- Aljabari
+- Hamadneh
+- Alhmoud
+- Matarneh
+- Al Abbadi
+- Alani
+- Firas
+- Khashan
+- Tayyem
+- Alsalhi
+- Alaqrabawi
+- Njadat
+- Daher
+- Kassab
+- Bakri
+- Abdelhadi
+- Alakhras
+- Saraireh
+- Obidat
+- Al Adwan
+- Alkhalili
+- Khawaja
+- Hariri
+- Aldeen
+- Sartawi
+- Alhadidi
+- Ajlouni
+- Almaani
+- Al-Ali
+- Darwesh
+- Alrawi
+- Yassen
+- Al Najjar
+- Atari
+- Al-Tamimi
+- Alnajar
+- Irshaid
+- Sweidan
+- Tayseer
+- Fraihat
+- Bani Amer
+- Siam
+- Alissa
+- Al-Abadi
+- Madadha
+- Alserhan
+- Adaileh
+- Bashabsheh
+- Alodat
+- Alfaqeeh
+- Hlalat
+- Almahsere
+- Thabet
+- Khalel
+- Alaraj
+- Tayem
+- Natsheh
+- Khirfan
+- Maharmeh
+- Abzakh
+- Owais
+- Mahfouz
+- Alhamed
+- Alsadi
+- Ghassan
+- Mashal
+- Saada
+- Zeyad
+- Alsafadi
+- Abu Shanab
+- Abualrub
+- Tobasi
+- Ghawanmeh
+- Zawahreh
+- Sarayrah
+- Maqableh
+- Alnabulsi
+- Alawadi
+- Fuad
+- Bash
+- Alhamad
+- Anabtawi
+- Dawod
+- Awadallah
+- Alqisi
+- Bashtawi
+- Frihat
+- Gammoh
+- Mayyas
+- Abulawi
+- Aljariri
+- Sanad
+- Wadi
+- Alomar
+- Alsalman
+- Albadawi
+- Hmdan
+- Alashqar
+- Halaseh
+- Bsoul
+- Almnaseer
+- Haimour
+- Medo
+- Alfares
+- Mahameed
+- Hadidi
+- Wahbeh
+- Wishah
+- Al Majali
+- Alhadeed
+- Taamneh
+- Esam
+- Fahed
+- Shadi
+- Allaham
+- Amman
+- Abu Saif
+- Al Abadi
+- Sweis
+- Al-Smadi
+- Wardat
+- Al-Khawaldeh
+- Akthar
+- Haitham
+- Alsaeed
+- Nabhan
+- Rabee
+- Abu Omar
+- Maali
+- Jbara
+- Natour
+- Sadaqa
+- Sawalmeh
+- Nserat
+- Abu Salem
+- Abusaif
+- Alabdallat
+- Zregat
+- Marashdeh
+- Atiyat
+- Altal
+- Hosam
+- Nidal
+- Alnasser
+- Tadros
+- Alkilani
+- Kokash
+- Abu Hassan
+- Jubran
+- Odah
+- Alnjjar
+- Alqaissi
+- Alkayed
+- Najdawi
+- Halasa
+- Lababneh
+- Haroun
+- Dawoud
+- Zaidan
+- Ajaj
+- Maani
+- Jawabreh
+- Halawani
+- Jabali
+- Edwan
+- Abade
+- Arafeh
+- Alkateb
+- Al-Manaseer
+- Btoosh
+- Tashman
+- Albtoush
+- Aldmour
+- Aledwan
+- Aljaafreh
+- Almoghrabi
+- Albustanji
+- Fawzi
+- Jamel
+- Majd
+- Almousa
+- Albitar
+- Yamen
+- Karajeh
+- Abu Alrub
+- Selawi
+- Gogazeh
+- Al-Azzam
+- Qtaishat
+- Shwayat
+- Maitah
+- Aldamen
+- Al-Zaben
+- Hesham
+- Salm
+- Najem
+- Yasen
+- Adawi
+- Rihani
+- Oran
+- Ayham
+- Kalbouneh
+- Alghzawi
+- Tabaza
+- Mehyar
+- Maaytah
+- Kumara
+- Fawaz
+- Al Tamimi
+- Sabra
+- Kiwan
+- Shawish
+- Alghoul
+- Alkhaldy
+- Alshare
+- Khanfar
+- Bsharat
+- Maraqa
+- Darwazeh
+- Almherat
+- Alhasanat
+- Makahleh
+- Alshoubaki
+- Alhusban
+- Alhalabi
+- Aljaber
+- Nayef
+- Alsabbagh
+- Foudeh
+- Abulaila
+- Zaitoun
+- Shraim
+- Abuawwad
+- Hamarneh
+- Shannag
+- Krishan
+- Bebo
+- Abu Saleh
+- Kutkut
+- Alkhalde
+- Malhas
+- Ziadeh
+- Abu Hammad
+- Qassas
+- Almomany
+- Almahameed
+- Amareen
+- Al-Naimat
+- Qteshat
+- Mallah
+- Alattar
+- Jumaa
+- Rakan
+- Abu Taleb
+- Fraij
+- Samarah
+- Abu Khadra
+- Abushanab
+- Odibat
+- Alrabee
+- Khashashneh
+- Alsheyab
+- Maharma
+- Aldaaja
+- Halabi
+- Zezo
+- Lutfi
+- Jomaa
+- Qandil
+- Masarweh
+- Alkaraki
+- Alsous
+- Khamaiseh
+- Abusalem
+- Oweis
+- Alqaise
+- Alhunity
+- Ajarmeh
+- Alkhazaleh
+- Albataineh
+- Aref
+- Sadeq
+- Roro
+- Soud
+- Alrooh
+- Alsaad
+- Alshayeb
+- Alsaidi
+- Alsaqer
+- Suboh
+- Taim
+- Alamora
+- Qadan
+- Albaba
+- Alwahsh
+- Shobaki
+- Alqawasmi
+- Alkalde
+- Shakhatreh
+- Elyyan
+- Alajarmeh
+- Hiasat
+- Bani Ata
+- Hajjat
+- Al Manaseer
+- Qamar
+- Assad
+- Qais
+- Qassem
+- Abutaleb
+- Swedan
+- Alroh
+- Jaser
+- Al-Ahmad
+- Dahbour
+- Sandoqa
+- Ajarma
+- Atyat
+- Amarat
+- Almsaeed
+- Emran
+- Altaher
+- Shaaban
+- Adham
+- Alwan
+- Shadid
+- Sukkar
+- Shalan
+- Absi
+- Elian
+- Dabash
+- Hmoud
+- Mehdawi
+- Domi
+- Taweel
+- Amireh
+- Swalha
+- Qusai
+- Ayyoub
+- Bani Hamad
+- Alyamani
+- Semreen
+- Kofahi
+- Alrosan
+- Farajat
+- Al-Jarrah
+- Kayed
+- Alsaid
+- Jaffal
+- Atout
+- Shaher
+- Falahat
+- Almasaeed
+- Almansi
+- Ehab
+- Ghanim
+- Okasha
+- Alotaibi
+- Al Ahmad
+- Abdallh
+- Albasha
+- Albaz
+- Amera
+- Naber
+- Zead
+- Dwekat
+- Abu Awwad
+- Shdifat
+- Hijazin
+- Atmeh
+- Rwashdeh
+- Issam
+- Marei
+- Majdi
+- Alking
+- Ghanayem
+- Sroor
+- Jbour
+- Qwaider
+- Awartani
+- Hammash
+- Wedyan
+- Hailat
+- Abujaber
+- Al Tarawneh
+- Homsi
+- Ayed
+- Marar
+- Waled
+- Awni
+- Alian
+- Ghunaim
+- Alessa
+- Alshraa
+- Selawe
+- Abu Samra
+- Soboh
+- Masalha
+- Obedat
+- Al-Kurdi
+- Nusair
+- Abu Hazeem
+- Al-Zyoud
+- Shamayleh
+- Daabes
+- Alkhalaileh
+- Alsaadi
+- Afifi
+- Raad
+- Turki
+- Abod
+- Husam
+- Tahboub
+- Mosleh
+- Shahwan
+- Salhab
+- Bawab
+- Abo Zaid
+- Shalash
+- Seder
+- Aldeek
+- Zaatreh
+- Abu Ghazaleh
+- Tubaishat
+- Alghazo
+- Nawasreh
+- Zgool
+- Alnaimi
+- Basel
+- Altayeb
+- Salamah
+- Alsalem
+- Alyousef
+- Bushnaq
+- Lahham
+- Abrahem
+- Thaer
+- Al-Khaldi
+- Khlaifat
+- Odai
+- Rjoub
+- Abu Eid
+- Barahmeh
+- Almohtaseb
+- Aloosh
+- Qadomi
+- Al-Jamal
+- Al Kurdi
+- Husban
+- Alhajjaj
+- Al-Dabbas
+- Shdaifat
+- Maaita
+- Sweiss
+- Almaaitah
+- Qutishat
+- Alrefaie
+- Shawaqfeh
+- Ezz
+- Rafat
+- Al Khatib
+- Bustami
+- Soudi
+- Thalji
+- Attieh
+- Jaara
+- Jber
+- Alnjar
+- Alrwashdeh
+- Mashaqbeh
+- Alnobani
+- Akroush
+- Abu Saleem
+- Miqdadi
+- Al-Quraan
+- Makhamreh
+- Alsoub
+- Ramdan
+- Alshaar
+- Alloush
+- Rimawi
+- Darras
+- Alassi
+- Aljarah
+- Massad
+- Abdelqader
+- Yaghmour
+- Abu Awad
+- Alamleh
+- Hawatmeh
+- Alhawari
+- Alroud
+- Hudaib
+- Altiti
+- Aladamat
+- Shajrawi
+- Al-Ajarmah
+- Anagreh
+- Alomare
+- Zayadeen
+- Al-Shorman
+- Tashtoush
+- Shloul
+- Zuhair
+- Khatab
+- Almadani
+- Shahen
+- Abdulhadi
+- Saffarini
+- Aljundi
+- Khalifah
+- Sulieman
+- Anani
+- Asfoor
+- Alshraah
+- Oday
+- Tellawi
+- Naamneh
+- Herbawi
+- Zawahra
+- Samour
+- Azzeh
+- Nobani
+- Almashni
+- Nashwan
+- Alnaji
+- Alajore
+- Saideen
+- Alwardat
+- Qandah
+- Shamaileh
+- Qaralleh
+- Al-Nsour
+- Alawadat
+- Allozi
+- Mashaleh
+- Qaddoumi
+- Ajarmah
+- Majdalawi
+- Sayaheen
+- Hamaideh
+- Megdadi
+- Sqoor
+- Khreisat
+- Al-Refai
+- Johar
+- Ebrahem
+- Jammal
+- Khalili
+- Alzeer
+- Alhob
+- Aldeeb
+- Zarour
+- Kawar
+- Hamarsheh
+- Bata
+- Sunna
+- Alyaseen
+- Bdair
+- Zaitoon
+- Alabady
+- Shaweesh
+- Haboosh
+- Karasneh
+- Al Smadi
+- Alshatti
+- Mazahreh
+- Shannaq
+- Alqasrawi
+- Sameh
+- Alrifai
+- Samman
+- Hmad
+- Aseel
+- Tannous
+- Obied
+- Alshamali
+- Omary
+- Wg
+- Romman
+- Derbas
+- Mestarihi
+- Abozaid
+- Alwaked
+- Sawafta
+- Abu Khalaf
+- Halaweh
+- Tuffaha
+- Abu Odeh
+- Rasras
+- Alkhdour
+- Shahrouri
+- Khlefat
+- Tubishat
+- Al Rawashdeh
+- Ayasreh
+- Tanash
+- Dajah
+- Basbous
+- Alshraideh
+- Altarifi
+- Alwedyan
+- Mashaqba
+- Alrefae
+- Tawaha
+- Qadri
+- Dasan
+- Shosho
+- Makhlouf
+- Rame
+- Subhi
+- Mohanad
+- Kittaneh
+- Mujahed
+- Alghanem
+- Shahrour
+- Moqbel
+- Almsre
+- Albetar
+- Maswadeh
+- Barghouthi
+- Balawi
+- Jebreen
+- Muhaisen
+- Alkhwaldeh
+- Khassawneh
+- Mawajdeh
+- Daradkah
+- Hdaib
+- Abandeh
+- Zghool
+- Baniata
+- Alfawaz
+- Qablan
+- Aljafari
+- Almhsere
+- Shkokani
+- Al-Assaf
+- Abughoush
+- Bdoor
+- Alhaddad
+- Hasn
+- Teto
+- Hajjaj
+- Alasad
+- Gaith
+- Alshekh
+- Saidat
+- Alsharef
+- Sbaih
+- Sowan
+- Abu Laila
+- Albtoosh
+- Qatanani
+- Mobaideen
+- Rawabdeh
+- Abuhazeem
+- Alhiary
+- Alzboun
+- Abu Ghoush
+- Al-Hourani
+- Aloran
+- Abuhammad
+- Althaher
+- Al-Qadi
+- Qwasmeh
+- Adarbeh
+- Massadeh
+- Nusairat
+- Bustanji
+- Aburomman
+- Elmasry
+- Haikal
+- Halawa
+- Baghdadi
+- Alaswad
+- Afana
+- Moghrabi
+- Kawash
+- Slman
+- Nazal
+- Alshame
+- Jarad
+- Ammouri
+- Elyan
+- Salaymeh
+- Amarneh
+- Jboor
+- Abueid
+- Ghazzawi
+- Qashou
+- Alrefaee
+- Bani Mostafa
+- Hamasha
+- Dassan
+- Alswaeer
+- Alkasasbeh
+- Albawab
+- Alselawe
+- Oudat
+- Jweihan
+- Shawaheen
+- Al-Kharabsheh
+- Alnashash
+- Hazaymeh
+- Begam
+- Malk
+- Bahaa
+- Hamzah
+- Jumah
+- Serhan
+- Mhmod
+- Bino
+- Adas
+- Zamel
+- Tarifi
+- Petra
+- Jor
+- Rumman
+- Nezar
+- Alsaudi
+- Salameen
+- ﺍﻟﺤﺐ
+- Kewan
+- Awadeen
+- Hamoudeh
+- Abu Alhaj
+- Awajan
+- Ghnemat
+- Alsyouf
+- Abusaleem
+- Al-Omoush
+- Allahham
+- Alsaifi
+- Al Zaben
+- Alqannas
+- Alhadid
+- Atoum
+- Awadat
+- Alborini
+- Aldaboubi
+- Shdooh
+- Aqeel
+- Numan
+- Pakhi
+- Banna
+- Zaghloul
+- Alhomsi
+- Abbad
+- Alarabi
+- Saifan
+- Jabari
+- Hendawi
+- Monther
+- Khayyat
+- Abusaleh
+- Al-Ramahi
+- Sameeh
+- Abu Zahra
+- Bashiti
+- Abu Jaber
+- Tbakhi
+- Qasqas
+- Abusamra
+- Theeb
+- Doleh
+- Al Asmar
+- Irshedat
+- Al-Zubi
+- Shannak
+- Alnajdawi
+- Almsri
+- Alzuobi
+- Jariri
+- Musharbash
+- Mherat
+- Alsqoor
+- Momany
+- Mahafzah
+- Abukhadra
+- Mhaidat
+- Altarefe
+- Abazeed
+- Armoush
+- Alsaket
+- Al Azzam
+- Mhadeen
+- Mardini
+- Alshammari
+- Khamees
+- Akkawi
+- Nael
+- Qadi
+- Abu Taha
+- Alwadi
+- Jarar
+- Alsardi
+- Jarah
+- Abuawad
+- Aws
+- Salamh
+- Alasal
+- Naffa
+- Azaizeh
+- Jodeh
+- Rezeq
+- Ayoosh
+- Alshara
+- Alzaghal
+- Alsalahat
+- Alayed
+- Qutaishat
+- Albakheet
+- Al-Shawabkeh
+- Alnabali
+- Almughrabi
+- Mrayat
+- Alnawafleh
+- Harasis
+- Bani Salameh
+- Al-Awamleh
+- Sarrar
+- Malkawe
+- Muneer
+- Bayan
+- Shehada
+- Habeb
+- Al Saleh
+- Khaldi
+- Khalefa
+- Qaddoura
+- Abuomar
+- Almallah
+- Abuhassan
+- Khraim
+- Balasmeh
+- Allham
+- Rahaf
+- Sobeh
+- Alshreef
+- Sharabati
+- Ghosheh
+- Jayyousi
+- Abusara
+- Khalayleh
+- Alkordi
+- Helalat
+- Abuodeh
+- Sarairah
+- Aldaoud
+- Bani Sakher
+- Zawaideh
+- Al Zyoud
+- Adiga
+- Alnimer
+- Alharahsheh
+- Hasweh
+- Qadoumi
+- Bani Mustafa
+- Khashman
+- Altamari
+- Mhedat
+- Alamad
+- Khouri
+- Mattar
+- Faour
+- Kattan
+- Mahmmod
+- Jmal
+- Mhmood
+- Zubaidi
+- Naimi
+- Al Qadi
+- Shanab
+- Muhsen
+- Yanal
+- Qattan
+- Alkaldi
+- Alsardy
+- Al-Sharif
+- Al-Haj
+- Milhem
+- Wardeh
+- Alhawary
+- Ghozlan
+- Yazeed
+- Atawneh
+- Shreem
+- Isleem
+- Shrouf
+- Abusalah
+- Mughrabi
+- Al Jamal
+- Masad
+- Abu Obaid
+- Abu Hatab
+- Zatar
+- Daban
+- Ghnaimat
+- Qarqash
+- Almawajdeh
+- Kloob
+- Daaja
+- Alhabashneh
+- Abufares
+- Baniissa
+- Nasarat
+- Samhouri
+- Kandah
+- Alborene
+- Alaween
+- Haymoor
+- Alhyari
+- Bani Younes
+- Al-Maaitah
+- Abo Jood
+- Alhorane
+- Al-Zghoul
+- Alajarmh
+firstnames_male_native:
+- محمد
+- احمد
 - ابو
 - محمود
 - علي
@@ -11,60 +4513,32 @@ firstnames_male:
 - عبدالله
 - ابراهيم
 - عمر
-- Mahmoud
-- Alaa
 - يوسف
-- Khaled
 - علاء
-- Mohamad
-- Anas
 - أحمد
-- Osama
 - حسن
-- Zaid
-- Yazan
-- Yousef
-- Abood
 - أبو
-- Hamza
 - حسين
 - امير
-- Abdullah
 - عماد
-- Amer
-- Abdallah
 - مصطفى
 - حمزه
-- Rami
 - طارق
 - حموده
-- Abo
 - عامر
-- Laith
-- Emad
-- Abu
 - وليد
-- Ayman
-- Ammar
 - ايمن
-- Samer
 - حسام
 - مهند
-- Saif
 - عبود
 - رائد
-- Raed
 - بلال
 - زيد
 - جمال
 - صالح
-- Fadi
 - رامي
 - سليمان
 - عبد
-- Tareq
-- Mohmmad
-- Rana
 - عدي
 - يزن
 - زياد
@@ -76,76 +4550,48 @@ firstnames_male:
 - عمار
 - مالك
 - خليل
-- Waleed
 - عبدالرحمن
 - موسى
 - معاذ
-- Ashraf
 - ناصر
 - سامر
 - مراد
 - ياسر
-- Saleh
 - اسامه
-- Amjad
 - هاني
 - ليث
 - عادل
-- Hamzeh
 - فارس
 - سامي
-- Maher
-- Bashar
-- Malek
 - ماهر
 - عصام
 - ماجد
 - هيثم
 - اشرف
 - عبد الرحمن
-- Abd
 - جهاد
 - اسماعيل
 - صلاح
 - شادي
 - ابو محمد
-- Mahmood
 - يحيى
 - فيصل
 - وائل
-- Majd
-- Ibrahem
 - اياد
 - بسام
-- Eyad
 - سالم
-- Adnan
-- Abed
 - لؤي
-- Marwan
-- Belal
 - عدنان
-- Hani
-- Moath
 - سمير
 - سلطان
 - راشد
-- Wael
-- Qusai
-- Odai
 - وسام
 - عيسى
-- Hussam
-- Feras
 - امجد
 - معتز
 - عبد الله
-- Ehab
-- Hussein
 - نضال
 - هشام
-- Firas
-- Shadi
 - قاسم
 - صهيب
 - السيد
@@ -153,39 +4599,16 @@ firstnames_male:
 - أمير
 - هاشم
 - حماده
-- Wesam
-- Rashed
 - إبراهيم
 - سعد
 - باسل
-- Fares
-- Murad
-- Faisal
-- Jehad
 - مروان
 - معتصم
-- Bassam
-- Tamer
-- Hazem
-- Sameer
 - رعد
-- Ziad
-- Rakan
-- Tariq
 - رضا
-- Majed
-- Mohanad
-- Haitham
-- Naser
 - فايز
 - بكر
-- Mohmad
-- Hashem
-- Bahaa
-- Mohannad
 - صدام
-- Qais
-- Ibraheem
 - نبيل
 - باسم
 - اسلام
@@ -195,184 +4618,104 @@ firstnames_male:
 - ثائر
 - فهد
 - ربيع
-- Issa
-- Baraa
-- Basel
-- Yazeed
 - ابو احمد
 - خلدون
-- Mahmod
 - بهاء
 - بدر
-- Yaser
 - رياض
 - ايهم
 - زكريا
 - ريان
-- Mazen
 - طلال
 - مصعب
-- Karam
 - رمضان
-- Mousa
-- Saeed
-- Husam
 - مجدي
-- Thaer
-- Morad
 - نايف
 - تامر
-- Nader
-- Ayham
-- Hamzah
-- Toto
 - جميل
-- Oday
 - فؤاد
 - صقر
-- Hisham
-- Salam
-- Zain
 - ضياء
 - عيد
-- Nedal
-- Talal
 - عثمان
 - اسامة
 - حبيب
-- Hosam
 - ياسين
 - حمودة
-- Eslam
-- Suhaib
 - ايهاب
 - اكرم
 - ابومحمد
 - حاتم
-- Motaz
 - مازن
 - جعفر
 - مجد
 - عمران
 - مؤمن
 - عمرو
-- Saed
-- Rafat
 - نادر
 - امين
-- Hamada
 - منصور
 - سيد
 - تيسير
 - كرم
 - انور
 - فواز
-- Raad
 - كبرياء
 - غسان
 - عوض
 - كمال
-- Sanad
 - وسيم
-- Bader
 - منذر
-- Momen
-- Mhamad
 - جواد
-- Moayad
-- Ghassan
-- Motasem
 - شريف
 - يونس
 - خلف
-- Othman
-- Ameen
 - غيث
 - يامن
-- Abdalla
-- Mohammd
-- Hatem
-- Basem
 - كريم
-- Mosa
-- Loay
-- Ghaith
 - منير
 - سفيان
 - حمد
-- Faris
 - راكان
-- Nabeel
 - غريب
-- Mutaz
-- Waseem
-- Amr
 - أيمن
 - جرح
 - يزيد
 - طه
-- Saleem
 - غازي
-- Hossam
-- Mohamd
-- Kareem
-- Shahed
 - مصطفي
-- Mhmad
-- Obada
-- Monther
 - سليم
-- Loai
-- Majdi
-- Asem
-- Essam
 - حامد
 - جلال
-- Nidal
-- Abdallh
-- Jawad
 - عبدالكريم
 - سائد
 - معن
 - شعبان
-- Fayez
 - عاصم
-- Maen
 - اسير
 - موفق
 - سامح
-- Mosab
 - على
 - جمعه
-- Mhammad
 - زين
 - سند
 - عبد الكريم
-- Hesham
 - فتحي
 - رجل
 - ثامر
 - رافت
-- Ramzi
 - ابو عمر
 - أنس
 - علوش
 - الصقر
-- Yosef
-- Jafar
-- Hamoda
 - صابر
 - الشيخ
 - ابو علي
 - عبده
 - ممدوح
-- Abod
-- Adham
 - صفاء
 - عايد
-- Fuad
 - حسان
-- Esam
 - سلامه
 - أبو محمد
 - زهير
@@ -382,128 +4725,72 @@ firstnames_male:
 - صبحي
 - ادهم
 - نزار
-- Yanal
-- Aws
-- Sameh
 - سمو
 - توفيق
 - مشعل
-- Hamodeh
 - نواف
 - بدوي
-- Essa
-- Kaled
 - سلام
-- Fahed
 - مهدي
 - راعي
-- Zeyad
-- Muath
 - غالب
 - عواد
 - سعود
 - نمر
-- Mhmd
 - شاكر
 - مأمون
-- Sohaib
-- Atef
 - ابواحمد
 - خضر
-- Awad
 - سلمان
-- Ahmmad
 - بحر
-- Amro
 - حمدي
-- Eng
 - ابو خالد
-- Muhannad
-- Basil
-- Mamoun
 - نورس
-- Yaseen
 - حمادة
-- Sadam
 - نعيم
 - ابو يوسف
-- Qusay
-- Baha
 - كامل
 - حمود
 - رضوان
 - بشير
-- Khaleel
 - عبد العزيز
 - أشرف
 - مامون
 - ابو عبدالله
 - صخر
-- Suliman
-- Qasem
 - منتصر
 - رأفت
-- Shaker
-- Issam
 - نصر
-- Fawaz
-- Yamen
-- Musab
 - فوزي
-- Diaa
-- Fade
 - ابو زيد
 - عباده
-- Haytham
-- Abdalrhman
-- Sleman
 - فرج
 - زمن
 - أبراهيم
 - براء
 - ايوب
 - القيصر
-- Yahia
 - عارف
-- Ghazi
 - جابر
-- Jihad
-- Mamoon
 - شاهر
 - عاهد
-- Jameel
-- Ward
 - صباح
 - همام
-- Medo
-- Kamel
 - صعب
 - وصفي
 - عبدالسلام
 - نجاح
-- Emran
-- Nael
 - وحيد
 - خميس
 - نائل
-- Iyad
-- Omran
-- Khader
-- Ahed
 - هادي
-- Rame
 - تيم
-- Jad
 - هايل
-- Thamer
-- Fathi
 - يعقوب
 - ابوعلي
 - ابو محمود
 - راضي
 - ابو جود
-- Mohand
-- Hussien
 - عزالدين
 - ميدو
 - مخاوي
@@ -511,160 +4798,98 @@ firstnames_male:
 - عوده
 - محمد علي
 - تركي
-- Nayef
-- Montaser
 - نور الدين
-- Radwan
-- Abdalrahman
 - عبد السلام
 - ابو عدي
 - فريد
-- Nezar
 - صبري
 - ينال
-- Moad
 - سميح
 - أمجد
-- Khaldoun
 - قيصر
-- Mutasem
 - عطالله
 - مخلد
-- Suleiman
 - طالب
-- Tayseer
 - عناد
 - اصيل
 - ضيف الله
-- Waled
 - ابرهيم
-- Zead
 - عوني
 - عبد الحميد
 - عبدالرحيم
 - محمد احمد
 - رزق
 - بندر
-- ﻣﺤﻤﺪ
 - وديع
 - جمعة
-- Nawras
-- Shade
 - ابو يزن
-- Basheer
 - ساهر
 - ابو راشد
 - اوس
 - ذكريات
 - ناجح
 - حمدان
-- Ramadan
-- Zuhair
-- Saqer
-- Saef
 - لورنس
-- Abdelrahman
-- Riyad
-- Fawzi
-- Gaith
-- Awni
-- Ramez
-- Abrahem
 - عبدالقادر
 - عطا
 - عرفات
-- Yaman
 - صاحب
-- Shaher
-- Mahmmod
-- Mhmood
 - كايد
 - ابوعمر
-- Hammam
-- Muneer
 - نايل
 - عبيده
-- Eid
-- Moataz
-- Aboud
 - طاهر
 - ذيب
 - عزام
-- Hamzh
 - أبو أحمد
-- Khaldoon
 - العمر
-- Hakam
 - فرحان
-- Mhmoud
 - راتب
-- Mahmmoud
 - ابو ريان
-- Falah
 - فاروق
 - عقاب
 - عبدالهادي
-- Hamooda
-- Safwan
 - عبدلله
-- Shareef
 - زايد
 - سهيل
-- Rashad
 - اسد
 - عبد القادر
-- Layth
 - صياد
 - ركان
-- Rabee
-- Ghaleb
 - عبد المجيد
 - اسمر
-- Sufian
 - يسرى
 - رامز
 - عطيه
-- Deaa
 - يمان
 - ايسر
 - مدحت
 - عبدالرزاق
 - مشهور
-- Moneer
 - رشيد
-- Raid
 - رفيق
 - عبد الرحيم
 - ايام
-- Bebo
 - إسماعيل
 - رشاد
 - معاويه
-- Zezo
 - عبادة
 - حابس
 - ابو العبد
 - الخالدي
 - هانى
-- Ebrahem
 - عبد الفتاح
 - ابو حسن
 - جاد
 - أسامه
 - ميسر
-- Moutaz
-- Mamon
 - ابوعبدالله
 - احمد محمد
-- Azzam
 - سهم
 - الحاج
 - سوري
 - مفلح
-- Majde
-- Aref
 - ابوخالد
-- Munther
 - عبدالفتاح
 - نهاد
 - حذيفه
@@ -675,123 +4900,75 @@ firstnames_male:
 - عون
 - عبيدة
 - صايل
-- Saher
 - هلال
 - عزت
-- Mahmuod
-- Hamood
-- Ihab
-- Anan
 - ابو ابراهيم
 - أسير
 - عز
 - ابو مالك
 - ابو امير
 - برستيج
-- Same
-- Tawfiq
-- Aloosh
 - هارون
-- Sakher
 - عبدالمجيد
-- Reyad
 - مجاهد
-- Ayed
 - محمد محمود
 - حماد
 - الصمت
 - حكمت
 - إياد
 - جبريل
-- Wisam
 - داود
 - ميلاد
 - ضرار
 - ابو حمزه
-- Abd Alrahman
 - ابو طارق
 - ابو قصي
 - قتيبه
 - ابو جواد
-- Nawaf
-- Obaida
 - الدنيا
 - براهيم
 - حمص
-- Ismaeel
 - المصري
 - نديم
 - ابو عمار
-- Wasfi
 - رافع
 - مثنى
-- Mhmod
-- Derar
 - مفيد
-- Isam
-- Subhi
 - قناص
-- Zeid
 - صفوان
-- Rawand
-- Hamouda
 - عافك
 - الاسمر
 - زكي
-- Arafat
 - وجدي
-- Abd Alrhman
-- Yazed
 - الزعيم
 - فضل
 - إسلام
 - زاهر
-- Suhib
 - أيهم
 - ابو ليث
 - مينا
 - ابو حسام
 - عزمي
 - عاكف
-- Khalaf
 - احسان
-- Lawyer
-- Younis
 - ابويوسف
-- Bara
-- Hamoodeh
-- Nashat
-- Radi
-- Khalel
 - جبر
 - ابو فراس
 - حذيفة
 - طايل
-- Salameh
-- Mothana
-- Suhail
-- Ata
-- Azmi
-- Hazim
-- Osamah
-- Yuosef
 - ابو فهد
 - عبد الهادي
 - ابو يامن
-- Qosai
 - ابوعلاء
 - عزوز
 - ابوسيف
 - أبو احمد
 - متعب
-- Sofyan
 - ابو رعد
 - ساحر
 - ابو وديع
 - ذياب
-- Adeeb
 - عبدالناصر
-- Zyad
 - طلعت
 - أمين
 - ساري
@@ -801,142 +4978,90 @@ firstnames_male:
 - المختار
 - حلمي
 - مطنوخ
-- Khaldon
 - ابو كرم
 - عايش جكر
 - الزعبي
-- Ziyad
 - رفعت
-- Rabea
-- Mhamd
 - عبد الرزاق
 - بركات
-- Ebraheem
 - تاج
 - محمد نور
-- Sameeh
 - ابو حسين
-- Odeh
-- Bakr
 - نزيه
 - معين
 - عليان
-- Braa
 - عبدالباسط
 - داوود
 - ابومحمود
 - سراج
-- Hamdan
-- Luay
 - النسر
 - راقي
 - ابو سلطان
 - ظاهر
 - عبدالاله
-- Enad
 - جبرني
-- Zaed
-- Obadah
-- Sharaf
 - عبداللطيف
-- Abdalah
-- Aysar
-- Bhaa
 - عز الدين
 - جاسر
 - ابوزيد
-- Muhanad
 - أبو علي
 - محمد خالد
-- Eiad
 - معاوية
-- Sohib
 - صخري
-- Sufyan
 - عبد المنعم
 - سلامة
 - ابو ايمن
 - أبن
-- Osaid
 - غانم
-- Raafat
 - الذيب
 - علاء الدين
-- Hakem
 - بقايا
 - وجيه
-- Mohnad
 - شهم
-- Taleb
-- Hussen
-- Moatasem
-- Rateb
 - فالح
 - تمام
 - مويد
-- Moaed
 - ابو ايهم
 - نشمي
-- Jamel
 - عبدالمنعم
-- Jaafar
-- Wajdi
 - أبو عبدالله
-- Deyaa
-- ﺍﺣﻤﺪ
 - الحوت
 - أكرم
 - علي محمد
-- Assem
 - الزمن
 - فهمي
 - فخري
 - ابو رامي
 - محمد حسن
 - أبو يوسف
-- Hmada
-- Jawdat
 - آبو
 - عذاب
 - اسيد
 - فاقد
 - ابو حمزة
 - ابو مهند
-- Thabet
 - العندليب
-- Mosaab
 - منور
-- Hamze
-- Moaad
 - جروح
 - هبوب
-- Moutasem
 - نشأت
 - ابوعدي
 - الباشا
-- Nabel
 - أبو خالد
 - ثابت
 - المعلم
-- Eyas
-- Mahde
 - ابو عماد
 - قتيبة
 - معاد
-- Atallah
 - عودة
 - أبو علاء
 - خليفه
-- Wasem
 - الغريب
 - ابو فارس
 - نعمان
-- Moayed
 - عبد الباسط
 - مستحيل
-- Faraj
 - السعيد
-- Nemer
 - ابو صالح
 - مصلح
 - ابو بكر
@@ -944,14 +5069,10 @@ firstnames_male:
 - ابو مصطفى
 - مہحہمہد
 - ابو وسام
-- Basim
 - عبودي
-- Basam
 - سفير
 - صلاح الدين
 - لطفي
-- Melad
-- Qutaiba
 - ابو عبدو
 - كاظم
 - ابو خليل
@@ -961,14 +5082,10 @@ firstnames_male:
 - ابو صهيب
 - ابو شادي
 - ابو فادي
-- Awwad
 - جودت
-- Moaath
-- Yehya
 - شوقي
 - ابو وليد
 - نصار
-- Dr-Mohammad
 - ابو هاشم
 - طائر
 - عبد الحليم
@@ -977,84 +5094,48 @@ firstnames_male:
 - راغب
 - ابو قيس
 - عبد اللطيف
-- Farouq
 - ثروت
-- Yacoub
 - زيدان
-- Mhmmad
-- Yazen
-- Hamodh
-- Rajab
-- Mahmmad
-- Hane
-- Hitham
-- Hareth
-- Ezz
 - نذير
 - اديب
-- Own
 - فخامة
 - ابو زياد
 - وغلاتك
 - طراد
 - محمد يوسف
 - ابوحسن
-- Hamam
 - أدهم
 - البحر
 - شرف
 - عطية
 - تحسين
 - أبو زيد
-- Aktham
-- Mazin
 - هيما
 - جورج
 - الغالي
 - تاهت
-- Mamdouh
 - علاوي
 - شاهين
-- Hekmat
-- Asmar
 - احمد علي
 - عبدالحليم
 - ابو كريم
 - النمر
 - عبد الحكيم
 - العقرب
-- Huthaifa
-- Moayyad
 - ابو سند
 - عابد
 - مسعد
-- Zein
 - نوح
-- Ph
-- Hamode
 - ابو هيثم
 - اتعبني
 - خطاك
-- Hammad
-- Azooz
-- Bassel
 - زيزو
-- Esmaeel
-- Mojahed
 - مصباح
 - عبوده
 - حبيتك
 - ابو تيم
-- Ishaq
-- Abdullh
-- Mhammed
-- Esmat
-- Luai
 - محمد حسين
-- Husni
 - ذبحني
-- Anoos
-- Read
 - مشاري
 - فتى
 - ابو اسلام
@@ -1062,36 +5143,23 @@ firstnames_male:
 - ابو عامر
 - ابو رائد
 - ابويزن
-- Mouath
 - طشرنا
 - كركي
-- Maan
-- Sadeq
 - محمد عبدالله
 - برهوم
-- Soltan
 - محمد صالح
 - مرزوق
-- Kayed
-- Gassan
 - اللورد
 - حارث
-- Najeh
 - ابو اسامه
 - ابو معاذ
 - رسمي
-- Abdalluh
-- Yahea
 - الحويطي
 - ابو مراد
-- Fawwaz
 - فيصلاوي
-- Habeeb
-- Medhat
 - حمدى
 - عصمت
 - مرعي
-- Eng-Mohammad
 - ابو فيصل
 - ابو جمال
 - بهجت
@@ -1099,10 +5167,7 @@ firstnames_male:
 - حربي
 - العبادي
 - ربحي
-- Hmoda
-- Moeen
 - مستر
-- Rn
 - وضاح
 - يسري
 - يحيي
@@ -1110,20 +5175,14 @@ firstnames_male:
 - صافي
 - تميم
 - شوكت
-- Anmar
 - أبو محمود
-- Nimer
 - شخصية
-- Raeed
 - ابو بلال
 - الحج
 - رشدي
 - د.محمد
 - هزاع
-- Sahel
 - محمد ابراهيم
-- Abdala
-- Sulieman
 - لا
 - خيري
 - ما
@@ -1131,39 +5190,22 @@ firstnames_male:
 - جراح
 - ابو مشعل
 - ابوعمار
-- Majdy
 - الاسطورة
 - ابو لؤي
 - ابو جهاد
 - شرحبيل
 - دحام
-- Eng-Ahmad
-- Hamodah
-- Sahem
-- Zayed
 - صديق
-- Barakat
-- Lutfi
-- Daoud
-- Zakarya
 - الاسد
-- Kald
-- Jaser
-- Bshar
-- Adv
-- Bandar
 - بهاء الدين
 - محمد ابو
 - نشات
 - غدار
-- Ahmaad
 - ابو وسيم
 - أوس
-- Hamoudeh
 - برجس
 - الطيب
 - عبداللة
-- Fakhri
 - الشاعر
 - سمسم
 - عرفه
@@ -1173,30 +5215,16 @@ firstnames_male:
 - اسكندر
 - مجنونك
 - ابو بشار
-- Jeries
 - ابوجود
-- Hammodeh
 - مدالله
-- Hmood
-- Talat
-- Nassar
-- Ezzat
-- Mrwan
-- Aiham
-- Lorans
 - مهيب
-- Baker
 - ابو صلاح
 - ابوملك
 - أبو يزن
-- Abed Alrahman
-- Tahseen
-- Esmael
 - محمد عمر
 - عرب
 - فياض
 - خير
-- Tarq
 - دانيال
 - ابوحسين
 - العقيد
@@ -1210,56 +5238,37 @@ firstnames_male:
 - مدين
 - أبو عدي
 - ابو الجود
-- Lith
 - شحاده
 - أبو جود
 - وشلون
-- Sharef
 - درويش
 - عبد الوهاب
-- Beso
 - ابوحمزه
 - الزير
 - مهنا
 - انيس
 - عشاق
 - اناقة
-- Akef
 - راجي
 - الصياد
 - آمير
 - ابو سليمان
 - كبرياء رجل
-- Qussai
 - مرهف
-- Rasmi
 - عبدالله محمد
-- Yassen
-- Sobhi
 - محمد سعيد
 - خالد محمد
 - محمدعلي
-- Mamdoh
-- Diyaa
-- Ragheb
 - ابو سالم
 - برهان
 - اسحق
-- Aeman
-- Hayel
-- Taiseer
 - أصيل
 - الحارث
 - العمري
-- Ramze
 - ابومالك
 - ابو ماهر
 - رجا
 - مثقال
-- Laeth
-- Soud
-- Thair
-- Tharwat
 - شاعر
 - مومن
 - بلبل
@@ -1267,51 +5276,32 @@ firstnames_male:
 - الشمري
 - ابو شهد
 - ابو عدنان
-- Qays
 - عبد الرؤوف
 - سعدي
-- Zeiad
 - سهل
 - ابو يحيى
 - ابو الامير
 - ابو سامر
-- Moyad
 - حويطي
-- Mashhour
-- Motasm
-- Dr-Ahmad
 - القيسي
 - الحريري
 - سلطي
 - محمدخير
-- Amjed
 - عبادي
-- Yousf
-- Izzat
 - مجدى
-- Mohmmd
-- Mujahed
-- Aser
 - عنتر
-- Fathe
-- Seef
 - محمود محمد
-- Muntaser
-- Tawfeeq
 - عبد الغني
 - ابو ناصر
 - خطاب
 - حميدي
 - عاشور
-- Faleh
 - شامخ
 - خليف
 - العنزي
 - ابوفهد
 - جنوبي
 - غالي
-- Bahjat
-- Muayad
 - الشريف
 - بيسو
 - ابو ادهم
@@ -1329,142 +5319,80 @@ firstnames_male:
 - الحمصي
 - عقله
 - ليتك
-- Sager
 - محمد سالم
-- Taim
-- Zoher
 - صفوت
-- Nasri
 - نوار
 - معروف
-- Qassem
 - ابو ياسر
 - باب
-- Muthana
-- Moumen
 - ابو أحمد
 - ابوحسام
 - ابو عبد الرحمن
 - ابو الياس
-- Wadee
-- Mohannd
 - تعبت
 - محروس
 - ابو حازم
-- Dyaa
 - فايق
 - غلاك
 - بني
 - ابو نضال
 - ابو ثائر
-- Abdalkareem
-- Moody
-- Rawad
-- Yaseer
-- Hosni
 - عبدالغني
-- Hasn
-- Huseen
 - كاسر
-- Lemar
-- Qusi
-- Magd
 - وادي
 - الفجر
-- Awn
 - أبو حمزة
 - المعتصم بالله
-- Abedallah
 - والله
-- ﻣﺤﻤﻮﺩ
 - ابو رهف
 - واصف
-- Moaid
 - سبعاوي
-- Shawkat
-- Ragab
 - سامى
-- Nahar
-- Waddah
 - فتحى
-- Refat
 - حمو
 - ابوفارس
 - بيبو
-- Alosh
 - كل
 - غزال
 - لوي
-- Nart
 - شبيه
-- Deeb
 - ابوعبدو
 - العراب
 - بادي
-- Kahled
 - حمزاوي
 - محمد سليمان
 - ابو عصام
 - راح
-- Mofeed
-- Nazeeh
-- Nafez
-- Qosay
 - ابوالعبد
 - أبو راشد
-- Hikmat
-- Safe
-- Fisal
 - ابوبكر
 - ابوصالح
-- Saker
 - رحال
-- Diab
 - ابو عبدالرحمن
 - مخلص
 - ابوطارق
-- Natheer
 - ابو اصيل
-- Jmal
 - عذب
 - مستشار
 - روماني
 - ابو صخر
 - ميماتي
-- Yhya
 - أياد
 - خليك
-- Seaf
 - ابو هاني
-- Zakarea
-- Noor Aldeen
-- Abedalrahman
 - يمك
-- Abdelrhman
 - سلوم
-- Amon
-- Yasen
-- Habeb
-- Humam
 - ابراهيم محمد
-- Zeko
 - يوسف محمد
 - محمدنور
 - حنا
 - محمد امين
-- Hmza
-- Hade
-- Ryad
-- Motasim
-- Mumen
-- Hamde
 - ابو طلال
 - ابو عيسى
 - محمد خليل
 - ابوريان
 - الخال
 - ابو هشام
-- Mjd
 - عبد الرحمان
 - ابو عبد الله
 - آحمد
@@ -1480,180 +5408,673 @@ firstnames_male:
 - ابو عناد
 - مافي
 - حمصي
-- Hamoodh
 - درعاوي
 - المومني
-- Elsayed
-- Ahamd
-- Aladdin
-- Saaed
 - عبوود
-- Rashd
-- Zahi
-- Musaab
 - محمداحمد
 - ابوسلطان
 - حوده
-- Abdalaziz
-- ﻋﺎﺷﻖ
 - ابوانس
-- Wajeeh
 - معمر
 - شايل
-firstnames_female:
+- دواس
+- مالي
+- ابو نور
+- ابو عبد
+- حجاج
+- ابوزياد
+- ابو مروان
+- اه
+- عدلي
+- شايل جروحي
+- حسونه
+- رجائي
+- رباح
+- أبو طارق
+- منهل
+- مطلق
+- سطام
+- ابو شهم
+- رامى
+- مبروك
+- عطا الله
+- حسام الدين
+- عنان
+- ابو باسل
+- الرفاعي
+- عساف
+- ابو ضياء
+- الاصيل
+- الطائر
+- حاجز
+- خليها
+- عندليب
+- مكرم
+- الخطيب
+- م.محمد
+- عيونك
+- باجس
+- مزيد
+- ابو غيث
+- أبو ريان
+- حوران
+- حارق
+- الحوراني
+- النعيمي
+- العمده
+- أحمد محمد
+- عمر محمد
+- عبدالملك
+- محمد السيد
+- عماد الدين
+- الغزال
+- شجاع
+- بشر
+- فقير
+- قسيم
+- مطيع
+- اويس
+- حسن محمد
+- عابر سبيل
+- ابوخليل
+- كاتم
+- النورس
+- ابو جعفر
+- محمد موسى
+- منعم
+- جرجس
+- ابو ربيع
+- حجازي
+- أيام
+- تيمور
+- افندينا
+- المنسي
+- متولي
+- محمد عيد
+- عﻻء
+- ابو عادل
+- فكرك
+- أبو حسام
+- ابو المجد
+- مؤنس
+- ابو يزيد
+- أبو أمير
+- زهدي
+- شحادة
+- ابو عرب
+- ليش
+- غليص
+- أبو ليث
+- ابو نورس
+- أبو جواد
+- علي احمد
+- محمد أحمد
+- الوحش
+- الفهد
+- محمد عوض
+- مشرف
+- نبراس
+- أبو حسين
+- محمود احمد
+- ابو موسى
+- الشبح
+- رؤوف
+- المشاكس
+- علاءالدين
+- درب
+- محي
+- ابو ياسين
+- محمد مصطفى
+- احمد ابو
+- أبو مالك
+- رسلان
+- ابو امجد
+- رداد
+- زيدون
+- ابو غزل
+- ابورعد
+- شافي
+- النشمي
+- غصاب
+- الفاعوري
+- حوراني
+- وحداتي
+- مزيون
+- ابوعبدالرحمن
+- العربي
+- احمد خالد
+- غبار
+- ابو تركي
+- ابوابراهيم
+- سرحان
+- مايكل
+- شحاته
+- الأسمر
+- اسطورة
+- نفسي
+- سجين
+- بديع
+- ابواسلام
+- الأسطورة
+- ابوحمزة
+- أحہمہد
+- ابو شهاب
+- أبو قصي
+- مشكلجي
+- بوح
+- ابوقيس
+- درعا
+- شعيب
+- كيمو
+- محفوظ
+- منيب
+- مناف
+- مين
+- ابوقاسم
+- العلي
+- عزو
+- اثير
+- كلام
+- غياث
+- ضرغام
+- راني
+- طريق
+- الاستاذ
+- عبد الاله
+- جوزيف
+- نصري
+- بحب
+- محمد صلاح
+- غريبه
+- ابوهيثم
+- راجح
+- سمو الامير
+- ابوشادي
+- ابو البراء
+- ابو ماجد
+- ابورامي
+- مليت
+- ابو الوليد
+- ابو معتصم
+- محمد عدنان
+- يعرب
+- ابو اوس
+- يتيم
+- ابوجواد
+- هاجس
+- طفيلي
+- هواجيس
+- بخيت
+- عيسي
+- أبوعبدالله
+- ابو سعيد
+- عبدالعظيم
+- خيال
+- احمدمحمد
+- من
+- عبد الجليل
+- نزال
+- ابوصلاح
+- أبو عمار
+- الواثق
+- ضياء الدين
+- سيمو
+- سعودي
+- ابو اسامة
+- كارم
+- دياب
+- المارد
+- جرحي
+- أبو حمزه
+- صدقي
+- ابو سامي
+- أسيد
+- أبو كرم
+- ابوفادي
+- مؤيد
+- ابويامن
+- المساعيد
+- عمير
+- الرحال
+- عبدة
+- ضاحي
+- حمدالله
+- خيرالله
+- ناظم
+- احمد حسن
+- طال
+- ابو نايف
+- محمود علي
+- فكري
+- ابو نمر
+- ابو عمران
+- وهيب
+- بائع
+- عبدالحي
+- عفيف
+- خاطف
+- عاصفة
+- ابوشهد
+- أبو فارس
+- الما
+- ابوعماد
+- ابوامير
+- ابوالنور
+- غاندي
+- البارون
+- محامي
+- لافي
+- عدوان
+- أبو رامي
+- ابو مجد
+- شبلي
+- عصوم
+- دولة
+- ابو عذاب
+- متيم
+- ابو ينال
+- راجعين
+- ابو زايد
+- رفيع
+- نظام
+- محمد سليم
+- مغرور
+- ابوناصر
+- الكاسر
+- حسين محمد
+- الجرح
+- عبدالحافظ
+- ابوايمن
+- ابو متعب
+- نوفل
+- عبد الحي
+- ابو عون
+- أبو عبدو
+- الم
+- أبو أنس
+- الأستاذ
+- سفينة
+- انتي
+- لن
+- محدش
+- كيرلس
+- جوده
+- بسيوني
+- إحمد
+- احمد حسين
+- أبو كريم
+- ابوحازم
+- محمد عبد
+- طلب
+- ابو تامر
+- أبو وليد
+- ابوماهر
+- كساب
+- ابو بسام
+- أبہو
+- ابو عزام
+- أبو فراس
+- ازعر
+- ابوفراس
+- أبو قاسم
+- جمر
+- ابوسند
+- عذبنا
+- المثنى
+- ابو شوق
+- صبرى
+- علي حسن
+- غريب الدار
+- مساعد
+- الشيف
+- خالد احمد
+- سيف الدين
+- ابو جاسم
+- ابوفيصل
+- الا
+- أبو فهد
+- نسيت
+- قدري
+- أناقة
+- هذا
+- وهم
+- فرسان
+- ابو همام
+- صبحى
+- اصعب
+- كانت
+- ابو عمرو
+- بدران
+- ابو ريماس
+- أبو مصطفى
+- ابو اسماعيل
+- غيابك
+- ابومهند
+- ابورهف
+- ابو الخير
+- ابوعامر
+- محمد جميل
+- ابو سفيان
+- إحسان
+- نظمي
+- ابو جاد
+- أبو مهند
+- منجد
+- عاصف
+- أبو لؤي
+- عويد
+- المتيم
+- أبو رعد
+- عبدالمهدي
+- أبو قيس
+- يمك عشت
+- ارشيد
+- العدوان
+- ابو عباده
+- خازر
+- نوفان
+- الفيصلي
+- طبوش
+- ابو عاصم
+- رفاعي
+- احمد ابراهيم
+- قاهرهم
+- ابوجمال
+- احمد صالح
+- أبو سلطان
+- روميو
+- المتمرد
+- أبو عبد الله
+- الله اكبر
+- أبو عبد الرحمن
+- قصة
+- أبو بكر
+- بيبرس
+- ماضي
+- زيكو
+- الجارح
+- زغلول
+- المصرى
+- ابو عبده
+- الشيخ محمد
+- ابو حنين
+- بعشق
+- أبو زياد
+- ابراهيم احمد
+- عبد الجواد
+- سكوتي
+- ابو جنى
+- ابوعبد
+- ابووليد
+- عمر احمد
+- د. محمد
+- فخامه
+- ابو مؤمن
+- د.احمد
+- جادالله
+- شعلان
+- ابووديع
+- هاوي
+- أبو العبد
+- ابو اكرم
+- ابو جميل
+- أبو رائد
+- أبو يامن
+- ابو سائد
+- أيسر
+- فرات
+- فديتك
+- حبر
+- ابو سعود
+- تجاهلتك
+- ابتلينا
+- ابو بندر
+- ابو الليث
+- محمد الزعبي
+- المناصير
+- مجحم
+- جازي
+- شبل
+- احمد عبدالله
+- عبدالمحسن
+- ابوبلال
+- محمد اسماعيل
+- هههههه
+- عبد الجبار
+- محمد عادل
+- ابوياسر
+- ابو جراح
+- احمد يوسف
+- مرشد
+- ابو نادر
+- أسمر
+- شنوده
+- ابو نديم
+- شحته
+- سماره
+- النجار
+- تقي الدين
+- مشاكس
+- زين العابدين
+- عبدالحفيظ
+- عبد الخالق
+- ههههه
+- انوس
+- كلمات
+- ههههههه
+- شامي
+- حبيت
+- محمد رمضان
+- محمد سعد
+- مرسي
+- أبوأحمد
+- ابو ياسمين
+- عموره
+- ابو فرح
+- اناقه
+- احمد سليمان
+- ابو سمير
+- ابو رياض
+- ابو ايهاب
+- ابوطلال
+- ابو نبيل
+- الجراح
+- ابوصهيب
+- اياس
+- ابو بهاء
+- ابو نزار
+- ابولؤي
+- تعبني
+- أبو وسام
+- ابو مشاري
+- أبو عامر
+- ابو معن
+- حلب
+- أردني
+- بني صخر
+- ملكاوي
+- ابو عقاب
+- طبعي
+- عبدالرازق
+- بكري
+- سيفو
+- ابو حمد
+- صالح محمد
+- محمد قاسم
+- مظفر
+- مقبل
+- علي حسين
+- مقداد
+- ابو بدر
+- وحش
+- أبو خليل
+- جو
+- ابو الحسن
+- نادى
+- غزوان
+- عبودة
+- فرحات
+- حميدو
+- محارب
+- خالدي
+- ابو مريم
+- فتوح
+- انيق
+- خليني
+- الاحزان
+- خلصت
+- الجنتل
+- الدمعه
+- اخر
+- فراج
+- محمد شعبان
+- ابومازن
+- ابوياسين
+- نسيانك صعب
+- فرعون
+- ابومعاذ
+- محمد المصري
+- محمد إبراهيم
+- نبيه
+- جنتل
+- سويلم
+- عبدربه
+- ابو آدم
+- عقرب
+- احمد سالم
+- اسطوره
+- امير الظلام
+- ابو سليم
+- محمد فايز
+- سئمت
+- عبد المعطي
+- عبد الحافظ
+- أبو إبراهيم
+- محمد عيسى
+- أبو انس
+- ابو ميار
+- ابومراد
+- واثق
+- ابو فؤاد
+- ظافر
+- تحرير
+- ابو نسيم
+- أبو فادي
+- أبو وديع
+- محمد زياد
+- اجود
+- كشخه
+- ميزر
+- برق
+- الكردي
+- أبو هاشم
+- جرناس
+- رعود
+- لورانس
+- الايهم
+- ابوايهم
+- الغزاوي
+- ابو سكندر
+- ابو ورد
+- ابوصخر
+- الخوالده
+- عبيدات
+- ربداوي
+- عبدالله احمد
+- واصل
+- هههه
+- ضامن
+- صبح
+- فخر
+- سكندر
+- ابو مهدي
+- يوسف احمد
+- الحساب
+- مدريدي
+- صدى
+- الساهر
+- تمنيتك
+- جبرين
+- ميشو
+- ابوادم
+- امير الاحزان
+- أبو شادي
+- السيف
+- أديب
+- جرح الزمن
+- زين الدين
+- عياش
+firstnames_female_native:
 - ام
 - زهرة
-- Um
-- Noor
 - نور
-- Eman
 - ام محمد
-- Om
-- Amal
 - أم
-- Heba
-- Rawan
 - وردة
-- Hala
-- Farah
 - اميرة
-- Abeer
-- Hanan
-- Reem
-- Lolo
-- Hadeel
-- Haneen
-- Aseel
-- Maha
 - ياسمين
-- Manal
-- Esraa
-- Malak
 - ام احمد
-- Rania
-- Rasha
 - اميره
 - ايمان
 - عطر
-- Asma
-- Razan
-- Rama
 - ملاك
-- Em
 - زهره
-- Rahaf
-- Bayan
-- Nour
 - ساره
 - امل
-- Maram
-- Muna
-- Lana
-- Amani
-- Leen
-- Doaa
-- Wafaa
 - عبير
-- Huda
-- Samar
 - حلا
 - ريم
 - حنان
 - لولو
-- Haya
 - رهف
-- Ayat
 - فرح
-- Ruba
 - حنين
-- Tala
-- Ahlam
-- Sanaa
-- Yasmeen
-- Sawsan
 - نسيم
-- Ola
-- Enas
 - هبه
-- Manar
 - ورده
 - أميرة
-- Walaa
 - انا
 - جوري
-- Yara
 - جود
-- Raghad
-- Safaa
 - روان
 - منى
 - الاء
 - الورده
-- Ghada
-- Marah
-- Saja
 - ندى
-- Samah
 - منال
 - رنا
-- Batool
-- Lama
 - مرام
 - هديل
 - شمس
 - نسرين
-- Faten
 - شموخ
-- Asmaa
-- Dania
 - فاطمه
 - وفاء
 - مها
 - اسيل
-- Reham
-- Ghadeer
 - شهد
-- Areej
 - ريماس
 - سحر
-- Tasneem
-- Wafa
-- Mais
 - الوردة
 - سناء
-- Suzan
-- Nisreen
-- Randa
-- Suha
-- Alia
 - ام عبدالله
-- Arwa
 - ليان
 - سارة
-- Duaa
 - سمر
 - دعاء
 - لين
-- Nawal
 - رورو
 - أم محمد
 - ميس
 - ورد
-- Mai
 - ام عمر
 - هدى
 - غزل
-- Reema
 - حبيبة
-- Elham
 - اسماء
-- Rola
 - بسمة
-- Lubna
 - راما
 - لينا
-- Khawla
-- Layan
 - رشا
 - اسراء
 - تالا
@@ -1661,156 +6082,92 @@ firstnames_female:
 - خلود
 - همس
 - اماني
-- Basma
-- Raneem
-- Roaa
 - شوق
-- Shatha
-- Dalal
 - رانيا
 - ليلى
-- Rand
 - ام خالد
 - غدر
-- Nesreen
-- Seham
 - بيسان
-- Dema
 - جنى
-- Waed
 - بيان
-- Israa
 - رغد
-- Jood
-- Sajeda
 - ام علاء
 - شروق
 - رزان
-- Hanaa
 - رحيق
 - هبة
 - عشق
 - ام زيد
-- Shereen
 - مايا
 - صمتي
-- Rula
-- Hanadi
-- Maysoon
-- Najah
-- Sondos
 - ام علي
 - ام محمود
 - ابتسام
 - هيام
-- Fedaa
-- Areen
 - هناء
 - سلمى
 - ريما
-- Fadia
 - شام
 - منار
 - دنيا
 - علا
 - ايه
-- Rema
-- Soso
 - وعد
 - ميسون
 - ايات
-- Fatema
 - فاتن
 - سوزان
 - ختام
-- Nuha
-- Bushra
-- Nadeen
 - سهام
 - ورود
 - ام يوسف
-- Deema
 - دانا
 - حبيبت
-- Afnan
-- Mervat
-- Zaina
-- Tahani
 - يارا
 - الورد
 - همسة
 - لحن
-- Nedaa
 - نوال
 - مي
 - تغريد
 - لانا
 - ام يزن
 - لحالي
-- Ayah
 - لجين
-- Fadwa
 - ولاء
-- Rajaa
 - مرح
-- Haifa
-- Kholoud
 - لارا
-- Majeda
 - همسات
 - سعاد
 - هيا
-- Taghreed
 - غدير
-- Jumana
 - فلسطين
-- Doha
 - بسمه
-- Afaf
-- Suad
 - تولين
-- Amany
-- Remas
 - رنيم
-- Amneh
 - ميرا
 - سالي
 - بتول
 - ام ابراهيم
-- Najwa
 - ميار
-- Renad
 - صمت
-- Ameera
 - دينا
-- Sereen
 - هند
 - ميساء
 - أميره
 - رنوش
-- Kefah
 - ام طارق
-- Raeda
 - ام انس
-- Raya
 - ام ليث
-- Amera
 - الهام
 - فداء
-- Shosho
 - شموخي
 - لميس
-- Sameera
 - ريتاج
 - إم
 - سندس
-- Mays
 - سماح
 - روز
-- Leena
-- Mera
-- Shahd
-- Suhad
 - عنود
 - إيمان
 - تسنيم
@@ -1818,44 +6175,25 @@ firstnames_female:
 - ام قصي
 - ام حمزه
 - ديما
-- Khetam
 - انتصار
-- Sabreen
-- Suhair
-- Dena
-- Roro
-- Dareen
-- Fatoom
 - الحمد
 - تهاني
 - ام عدي
-- Lujain
 - غرام
 - دلال
 - فراشة
-- Sadeen
-- Heyam
 - العيون
-- Sewar
 - جوجو
-- Lamees
 - نجمة
 - ايناس
 - رؤى
-- Zeina
 - ام مالك
-- Malk
 - خوله
 - رهام
-- Samera
-- Amoon
-- Maysa
 - فوفو
 - مجنونتك
 - الله
-- Ayoosh
 - رولا
-- Jehan
 - نهى
 - الزهرة
 - زهر
@@ -1865,49 +6203,33 @@ firstnames_female:
 - اريج
 - بيلسان
 - ماريا
-- Duha
 - ليالي
-- Khitam
-- Um Ahmad
-- Raghda
 - سميرة
 - ام راشد
 - حياة
 - فريال
 - ام العبد
-- Nehad
 - كبريائي
-- Um Mohammad
-- Wedad
 - امال
-- Tagreed
 - انوار
 - سدين
-- Joud
 - سميره
 - الاميره
 - نداء
 - ام ريان
-- Nahla
 - شيرين
 - ام جود
-- Mayar
 - خولة
 - جنة
 - ملكه
-- Anood
 - امنه
 - سما
-- Hanen
-- Banan
 - عبق
 - تقوى
 - العنود
 - شوشو
 - زهور
-- Jomana
 - دودو
-- Besan
 - أم أحمد
 - غادة
 - الملاك
@@ -1916,9 +6238,6 @@ firstnames_female:
 - غنى
 - رفيف
 - عائشة
-- Haboosh
-- Amane
-- Nsreen
 - ام رامي
 - غاده
 - ام حسام
@@ -1926,57 +6245,35 @@ firstnames_female:
 - غلا
 - سجى
 - ربى
-- Hend
-- Nahed
 - رجاء
 - طوق
-- Yasmen
-- Salsabeel
 - شذى
 - الامل
 - روعه
 - لمى
 - نتالي
-- Yusra
 - سهير
 - سيرين
 - نانسي
-- Diala
-- Feryal
 - سيدرا
 - ام صهيب
 - ام حمزة
-- Shireen
-- Maisa
-- Ranoosh
-- Nagham
-- Neveen
 - أحلام
 - ام عمار
 - ريتال
-- Ansam
 - هبوش
-- Kawther
-- Abla
 - ام فادي
 - اردنيه
-- Rehab
 - نورا
 - بشرى
 - كوثر
-- Ebtesam
-- Basema
-- Balqees
 - ام حسن
 - انعام
 - دارين
-- Wejdan
 - موج
-- Shadia
 - سميه
 - أسماء
 - الحياه
-- Maysaa
 - ام امير
 - ام مهند
 - شيخة
@@ -1994,13 +6291,11 @@ firstnames_female:
 - مجنونة
 - بدويه
 - لمار
-- Mayada
 - عائشه
 - لبنى
 - اروى
 - زينه
 - ويبقى
-- Baraah
 - سميتك
 - ام اسامه
 - ام يامن
@@ -2009,24 +6304,14 @@ firstnames_female:
 - ام عامر
 - عفاف
 - نسمات
-- Etaf
 - تمارا
-- Toleen
-- Waad
 - رحمه
 - بياض
-- Nareman
 - ام عماد
-- Om Ahmad
-- Shoroq
-- Nermeen
-- Sozan
-- Ekhlas
 - فدوى
 - بلقيس
 - غروب
 - ام ايمن
-- Shaimaa
 - حلم
 - اية
 - ام عبد الرحمن
@@ -2035,72 +6320,47 @@ firstnames_female:
 - ام هيثم
 - ام معتز
 - الزهره
-- Shorouq
-- Sura
 - سلوى
-- Somaya
-- Bana
 - آلاء
 - هدوء
 - منتهى
-- Masa
 - عشقي
 - حروف
 - صابرين
 - ميرفت
-- Ghazal
 - خديجة
-- Wessam
-- Hanady
 - محبة
 - زهرة النرجس
 - السوسنه
 - انين
 - ام هاشم
-- Kholod
 - ام سامر
 - ام وسام
 - خديجه
 - سمية
-- Hiam
-- Rabaa
 - ناريمان
 - أسيل
 - ام معاذ
-- Shefaa
 - قطرة
 - براءة
-- Saeda
-- Roba
 - جيهان
 - ماجدة
-- Hiyam
 - ام عبود
 - ليليان
 - ام شادي
-- Sumaya
-- Fatimah
 - أماني
-- Tamam
-- Fatmeh
 - امواج
 - رائده
 - ام مراد
 - ام قيس
-- Ekram
-- Amaal
-- Wasan
 - أم احمد
 - عرين
 - بنتك
 - زهرت
 - جميله
-- Weam
 - يقين
 - بريق
 - همسه
-- Ebtisam
-- Enaam
 - وداد
 - عهد
 - وجدان
@@ -2109,11 +6369,7 @@ firstnames_female:
 - ام اشرف
 - نوره
 - جميلة
-- Wala
 - روعة
-- Ruaa
-- Entesar
-- Montaha
 - معشوقة
 - نجوى
 - ام وليد
@@ -2127,7 +6383,6 @@ firstnames_female:
 - الين
 - ام اياد
 - تبارك
-- Sedra
 - مروه
 - سراب
 - ميرنا
@@ -2137,103 +6392,56 @@ firstnames_female:
 - السوسنة
 - شيخه
 - رحاب
-- Ibtisam
 - أم عبدالله
-- Wesal
 - ام عبدالرحمن
-- Nidaa
-- Kafa
-- Nebal
 - ليندا
-- Ranosh
-- Om Mohammad
 - ام بشار
 - مشكلجيه
 - عليا
-- Feda
 - ضحى
 - براءه
 - ام ثائر
-- Jenan
-- Muntaha
 - نجمه
 - ساجده
 - دمعه
-- Anaam
-- Raneen
 - الواثقه
 - ريهام
-- Asmahan
-- Maream
 - عمري
 - نبع
 - نعمه
 - علياء
-- Naya
-- Anoud
-- Nabeela
-- Majida
-- Neven
 - نرمين
-- Ghofran
 - ريناد
 - عاليه
 - اوراق
 - فتاه
 - عطاف
 - عايشه
-- Fidaa
 - ازهار
 - مال
-- Toqa
 - رائدة
-- Lamis
-- Rawaa
 - ام سلطان
-- Ibtesam
-- Luma
-- Maisaa
 - نور الهدى
 - ام لؤي
-- Om Omar
-- Majdoleen
-- Asoom
-- Samya
-- Sheren
 - ساميه
-- Shaden
 - سهر
-- Rozan
 - الأمل
 - نيرمين
 - ام أحمد
 - ام نضال
-- Fatin
 - حورية
 - مسك
 - جنون
 - صبا
-- Ghaidaa
-- Naheel
-- Hanade
-- Merna
-- Um Omar
 - أم عمر
 - ياسمينة
 - الواثقة
 - تقى
 - دانيا
-- Um Zaid
 - ام رعد
-- Shimaa
-- Buthaina
-- Niveen
-- Boshra
-- Raida
 - ديانا
 - سيلين
 - شرين
-- Retal
 - نيفين
 - ام فارس
 - ام يحيى
@@ -2241,7 +6449,6 @@ firstnames_female:
 - ربا
 - باسمه
 - ام يزيد
-- Nadoosh
 - عايده
 - الاموره
 - فطوم
@@ -2251,41 +6458,20 @@ firstnames_female:
 - امي
 - ام بلال
 - لما
-- Amnah
-- Kawthar
 - رقية
-- Danya
-- Retaj
 - أم خالد
 - جنات
 - بثينة
-- Sabaa
 - ام ضياء
 - أم علاء
-- Gada
-- Kholood
 - نسمه
-- Fatemah
 - غفران
-- Gadeer
-- Naela
-- Ragad
 - آم
-- Hadel
 - ساجدة
 - ساندي
 - بثينه
 - ام جهاد
-- Asool
-- Samr
-- Gazal
-- Tahany
 - ليمار
-- Lames
-- Oraib
-- Fayzeh
-- Suhaila
-- Hadool
 - اطياف
 - ميسم
 - نعمة
@@ -2296,48 +6482,26 @@ firstnames_female:
 - رنده
 - ام امجد
 - ناهد
-- Sumaia
-- Sireen
-- Yaqeen
-- Um Mohammed
 - سنوات
 - وئام
-- Gharam
 - اميرت
 - مغروره
 - ام عصام
 - نجلاء
 - امنة
-- Basima
 - لمسة
 - مروى
-- Sohad
-- Ghaida
 - آيات
-- Taima
 - ميرال
 - ام عبد
 - ام جمال
 - الشام
-- Sadeel
 - ام سليمان
 - باسمة
-- Nasima
-- Rawda
-- Ohood
-- Deya
-- Lojain
 - عايدة
-- Fatina
 - الشيخه
-- Areeg
-- Worood
-- Khadeja
 - رقيه
-- Ferial
 - سامية
-- Intesar
-- Seren
 - ام فيصل
 - الفراشة
 - اريام
@@ -2347,66 +6511,36 @@ firstnames_female:
 - ام وائل
 - رندا
 - الورده البيضاء
-- Rafeef
 - اعتدال
 - ام بكر
-- Reta
-- Meso
-- Maysam
 - غرور
 - مشاعر
 - أم محمود
 - جوليا
 - وحيده
 - ام مؤمن
-- Nehaya
 - ام مصعب
 - ام بهاء
 - ام غيث
-- Ghalia
-- Taslima
-- Batoul
-- Halla
 - كلي
-- Jory
 - فايزة
-- Hla
 - ام نور
-- Ranem
 - سرين
 - سجود
 - احباب
-- Jamela
-- Kinda
-- Hazar
-- Rere
-- Amool
-- Rooz
-- Khaleda
 - فايزه
-- Wijdan
-- Shrooq
 - حياه
-- Remah
-- Em Ahmad
 - زهرة الياسمين
 - ام زياد
 - ام حازم
 - احلاهم
-- Maisoon
 - ام ماهر
 - ام باسل
 - ام معتصم
-- Um Yazan
-- Jawaher
-- Fatmah
 - حليمه
-- Shefa
-- Madleen
 - ام ناصر
 - غيداء
 - ست
-- Snaa
 - ام مروان
 - فاديه
 - ام تامر
@@ -2415,39 +6549,18 @@ firstnames_female:
 - ام موسى
 - تيماء
 - ام سند
-- Fayza
-- Roze
-- Aliaa
-- Gehad
 - عين
-- Alham
 - مرفت
-- Atheer
-- Halah
 - رونق
 - ماري
 - ام ادم
 - ماسه
 - طيبتي
-- Shorooq
-- Rahmeh
-- Khulood
-- Ruma
-- Layal
 - امينه
-- Khlood
-- Semo
-- Somaia
 - جنه
-- Taleen
 - آية
-- Kifah
-- Nadera
-- Tuqa
-- Mram
 - رحمة
 - إيناس
-- Mayson
 - مياده
 - املي
 - لعبة
@@ -2456,226 +6569,139 @@ firstnames_female:
 - النرجس
 - ام وسيم
 - ديمه
-- Kefaya
 - ام وديع
 - ديالا
 - عريب
 - أم زيد
 - نشميه
-- Madu
-- Sathi
 - اسما
 - طيف
 - ريحانه
 - ذكرى
-- Lenda
 - شاديه
 - ام هاني
 - ازدهار
-- Om Zaid
 - وصال
-- Um Ali
-- Um Saif
 - أم علي
 - ام قاسم
 - امونه
 - اشواق
-- Hedaya
-- Dyala
 - نايا
-- Firyal
 - فتون
 - ريتا
 - افنان
 - جنا
 - سها
 - انتا
-- Sameha
-- Shrouq
 - ايلين
 - سديل
-- Hadoosh
 - أم يزن
 - اردنية
 - صخريه
-- Zeena
 - حليمة
-- Najlaa
-- Ikhlas
-- Heam
 - أم يوسف
 - ياسمين الشام
-- Khawlah
 - ثقتي
 - محبوبة
 - رحيل
 - نسائم
 - الورود
-- Rahf
 - ياقوت
 - سماهر
 - ام سامي
-- Majedah
 - ام عباده
 - وسن
-- Um Anas
 - ام راكان
 - فاديا
 - نوف
 - جواهر
-- Shaymaa
-- Layali
-- Fairouz
-- Ghena
 - جمانة
-- Weaam
 - حوريه
-- Eleen
 - ام عيسى
 - أنوار
-- Ebtehal
 - الملكه
-- Rwan
 - نبيله
-- Ayosh
 - صدفه
 - لهفة
 - مجدولين
 - ام مجد
-- Nazma
-- Ghina
 - عهود
 - نجاة
 - فتحية
 - الهنوف
 - منيره
-- Haia
-- Naheda
 - آمال
 - رضاك
 - نجود
 - نبيلة
-- Enass
 - رماس
 - أروى
 - ام ياسر
 - فادية
 - سنابل
 - رغده
-- Nadosh
 - ايوش
 - صالون
-- Nanoosh
 - ام السوس
-- Aroob
-- Akhi
-- Anwaar
-- Shada
-- Awatef
-- Haifaa
-- Elaf
-- Mnal
 - جوان
-- Rozana
 - ام فهد
 - ام طلال
 - رنين
 - لوجين
 - الشمس
-- Ethar
 - ام جنى
 - تالين
-- Tmara
 - عبله
 - رويده
 - معالي
 - حبيبتك
-- Fatena
 - ام نبيل
 - سائده
-- Sajedah
-- Sarab
 - ام سعيد
 - امون
 - غاليه
 - مزيونه
-- Khloud
-- Omayma
 - اكرام
-- Gofran
 - تقي
 - صاحبة
-- Hebah
-- Nesren
-- Nazek
 - ام اسلام
 - آيه
 - نهله
-- Tasnem
 - زهرة البنفسج
 - مادلين
-- Ensaf
 - ام هشام
-- Ragda
 - ام سمير
 - نبال
 - سائدة
-- Tahane
-- Tharaa
 - بنان
 - سبأ
-- Om Osama
 - ليلاس
 - حمصية
-- Um Laith
 - الغلا
 - عايشة
-- Ashwaq
-- Nahida
-- Sammar
-- Olfat
-- Narmeen
 - فتحيه
 - أنين
 - فديت
 - ام جعفر
-- Ketam
 - رمال
 - زهرة اللوتس
 - الربيع
 - رائحة
-- Rayah
 - رغدة
 - ماسة
 - غلاك من
-- Braah
 - ام عدنان
 - ام ماجد
 - ام عاصم
 - مياس
 - أم ليث
 - ام عون
-- Ghufran
-- Shati
-- Anfal
-- Marem
-- Zahrat
-- Asala
 - مزيونة
-- Rowaida
 - صفا
-- Roa
-- Nadea
-- Roqaya
-- Aum
-- Njood
 - سيدة
 - نهر
-- Samaher
-- Ronza
 - إم محمد
 - ميادة
-- Um Mohamad
 - آميرة
 - كوكب
 - ام صلاح
@@ -2684,74 +6710,37 @@ firstnames_female:
 - سميحه
 - تماره
 - ندين
-- Om Anas
 - ام فرح
 - أم حمزة
 - رانيه
 - ميوش
-- Seleen
 - عروب
 - بانا
-- Ekhlass
 - ام اوس
 - ام اصيل
-- Runa
-- Aishah
-- Fajer
-- Hayfa
 - سارا
 - سهيله
 - شو
-- ﻧﻮﺭ
-- Aleen
-- Ebtsam
-- Basmah
-- Suher
-- Angham
 - سيلينا
 - ملاك وعيوني
 - عشقي لغيرك
 - صرخت
 - نفين
 - رمش
-- Ranea
-- Om Mohammed
 - ام عادل
-- Sujood
 - ام اسماعيل
-- Sanabel
-- Habosh
 - حبيبتو
 - أم طارق
 - أم قصي
 - زهره النرجس
 - هدوش
-- Um Mahmoud
 - كفى
-- Um Alaa
 - ام خلدون
-- Um Rashed
 - ام ينال
-- Sundus
-- সাথী
-- Rahmah
 - آمنة
-- Dode
 - نعيمه
-- Intisar
-- Maysoun
-- Bisan
-- Noorhan
-- Siwar
-- Nabela
-- Hyam
-- Ebaa
 - الحجة
-- Jwana
-- Soher
-- ﺳﻮﺳﻮ
 - شعاع
-- Kawla
 - أم أنس
 - وجع
 - أطياف
@@ -2764,42 +6753,21 @@ firstnames_female:
 - غصون
 - الماسه
 - نهاية
-- Asmhan
 - ام جميل
 - نائله
 - ام حاتم
 - ام بسام
-- Taimaa
-- Tamador
 - ام غزل
 - ام جوري
 - ام يمان
 - ام معن
-- Um Abdullah
-- Asal
-- Sudu
-- Zooz
-- Halema
 - دانه
-- Moyna
-- Thuraya
-- Aklima
-- Monera
-- Maisam
 - ثريا
-- Thanaa
 - ام شهد
-- Sameeha
 - عباد
-- Sukaina
 - ندي
 - ريحان
-- Assel
-- Jore
 - سدرة
-- Roua
-- Maali
-- Sundos
 - أمي
 - صبر
 - اليقين
@@ -2807,100 +6775,59 @@ firstnames_female:
 - ام ياسين
 - ام مازن
 - الحجه
-- Rafef
-- Üm
 - ام مجدي
 - فاتنه
 - عيوش
-- Ezdehar
 - ام همام
 - وردت
 - رايه
 - بدوية
 - المهره
-- Um Osama
-- Mukta
-- Sarmin
 - روضه
-- Inaam
-- Daad
 - الحمدلله
 - دودي
 - منيرة
 - شهناز
-- Asraa
 - يسرا
 - ابتهال
-- Allaa
-- Um Hamza
-- Myassar
 - ميسو
-- Fadya
-- Zahret
 - ملاكي
-- Naden
 - يسمين
 - توأم
 - الماسة
 - مدام
 - رندة
 - ديمة
-- Jod
 - انا لحبيبي
-- Entsar
 - ساحره
 - اموره
 - أم حمزه
 - أم حسام
 - نسيبه
-- Yafa
 - ام رمزي
-- Tolen
 - ام سائد
 - نائلة
 - ام حبيب
 - هيفا
-- Wardeh
-- Aysheh
-- Thekra
 - معشوقه
 - حنايا
-- Um Karam
-- Um Abdallah
 - نشمية
-- Hanada
-- Nouf
-- Muneera
 - منه
-- Soaad
 - نور محمد
 - خالده
-- Øm
-- Zahera
 - أم حسن
-- Mnar
 - مومو
 - سهيلة
 - مطبخ
-- Najwan
-- Kenda
-- Dalaa
 - ام براء
-- Suheir
-- Em Mohammad
-- Kawkab
 - أملي
 - حمامة
 - فاتنة
 - عبلة
 - غريبة
 - ضحكتي
-- Nermen
-- Wlaa
 - ام ريماس
-- Amert
 - لورين
-- Asom
 - روند
 - ام ربيع
 - انشراح
@@ -2917,30 +6844,16 @@ firstnames_female:
 - أم صهيب
 - ام ليان
 - اكليل
-- Aroub
 - ام حموده
-- Rnoosh
 - ام صدام
-- Lelas
 - مهره
 - بدور
-- Marwah
-- Zainb
-- Josna
 - فوزيه
 - آمنه
-- Ayaat
 - سماء
-- Jwan
-- Sand
 - وشاء
-- Jorna
-- Om Ali
 - دمع
 - وبشر
-- Heno
-- Ghaydaa
-- Amenah
 - هبة الله
 - رؤيا
 - أمواج
@@ -2957,57 +6870,646 @@ firstnames_female:
 - دانية
 - اميرتك
 - رويدة
-- Suheer
 - ام نزار
 - أم عدي
 - ام منذر
-- Mysoon
-- Lanoosh
 - وتين
-- Haloosh
 - عائدة
 - أردنية
-- Hboosh
 - سوريه
-- Dua
 - ام سالم
-- Salamah
-- Yumna
-- Pakhi
-- Nethu
 - فوزية
 - عواطف
-- Ftoom
 - روضة
 - أم راشد
-- Sosoo
-- Ehssan
-- Adla
-- Rinad
 - دانيه
 - مشاعل
 - نهلة
-- Farh
 - لله
 - ابتسامة
 - الوردة البيضاء
 - يقيني
-- Yasmeena
 - سأكتفي
 - عزيزه
 - ام ادهم
 - ياسمينه
 - بائعه
-- Tayser
 - نهايه
 - عطر الياسمين
-lastnames:
+- كبريائي سر
+- أم العبد
+- رسمية
+- ام اكرم
+- ام غسان
+- أم أمير
+- أم هيثم
+- أم جود
+- مشكلجية
+- وردة الياسمين
+- هنوف
+- اقبال
+- نعيمة
+- غالية
+- أم حسين
+- سكينه
+- آسيا
+- امة
+- ننوش
+- حسبي الله
+- سنفورة
+- فرحة
+- سميحة
+- سلين
+- حزن
+- ايلاف
+- الجنه
+- المحبه
+- عازفه
+- ماء
+- كاترين
+- عقد
+- ام عمران
+- ام عبيده
+- أم فادي
+- شادن
+- ام زكريا
+- هبا
+- سرى
+- سلطيه
+- أم ريان
+- ام لين
+- أم جواد
+- ام شهم
+- مهرة
+- الجوري
+- سلمي
+- سيما
+- ميرو
+- سلطانه
+- غربة
+- وتمضي
+- خالديه
+- الفردوس
+- سونيا
+- حسبي
+- سمرا
+- ام امين
+- غدر الزمن
+- إلين
+- حلوه
+- بعدك
+- عشقت
+- صرخه
+- شموس
+- راقيه
+- انغام
+- سوزي
+- أم عبد الرحمن
+- كندا
+- لميا
+- أم عمار
+- ام البراء
+- أم مالك
+- ردينه
+- ام رهف
+- روزان
+- ام نادر
+- ام رياض
+- لكبريائي
+- اميرته
+- تماضر
+- أم معتز
+- خالدة
+- فيك وبلاك
+- كركيه
+- أردنيه
+- شجون
+- الحمد لله
+- جهان
+- امر
+- انصاف
+- الشيخة
+- خواطر
+- السماء
+- رانية
+- هداية
+- أفنان
+- راجية
+- حجابي
+- بالله
+- شيراز
+- سلاف
+- هدهد
+- أم لؤي
+- أم معاذ
+- جوهره
+- اميمه
+- محاسن
+- نور الشمس
+- ملكت
+- فله
+- لارين
+- فتاه ابكاها
+- اليمامه
+- أم مصطفى
+- الورده الحمراء
+- مريانا
+- ام كمال
+- أم رامي
+- ام عثمان
+- أم ابراهيم
+- ام انور
+- رسل
+- ام أنس
+- ام إبراهيم
+- جلنار
+- راية
+- ام سعد
+- مهى
+- ام عبادة
+- ام راس
+- سمور
+- قمرهم
+- أم هاشم
+- ام ثامر
+- زهرة البيلسان
+- ام نورس
+- ام صخر
+- ام حمد
+- كريمة
+- هويدا
+- كريمه
+- ثناء
+- سكينة
+- ابتهاج
+- عسوله
+- الحور
+- ثقتي بالله
+- ام لجين
+- قطرالندى
+- سوس
+- ضحكة
+- نظرة
+- أيه
+- حكايتي
+- سنيوريتا
+- أحباب
+- اسمى
+- جاكلين
+- هدايه
+- الفتاه
+- عطر الورد
+- لصمتي
+- ام الامير
+- رسميه
+- عايشه جكر
+- ارجوان
+- أم كرم
+- تيما
+- وردة النرجس
+- ام تالا
+- أم مهند
+- أم مراد
+- سنفوره
+- ربيعه
+- أم وسام
+- ام ركان
+- أم عامر
+- الريم
+- خوخه
+- مرمر
+- بسم
+- محبوبه
+- منة
+- سكون
+- الجوهره
+- امورة
+- لقاء
+- قطره
+- إلهام
+- اللهم
+- الهدى
+- الحمامة
+- في
+- سحابة
+- ضوء
+- جني
+- مليش
+- لمسه
+- بستان
+- روبي
+- المؤمنه
+- اصاله
+- للصمت
+- ياره
+- أيمان
+- شذا
+- أيات
+- أم عبدالرحمن
+- العزة
+- ام ساره
+- ام سيف
+- المتوكله
+- لليان
+- ام آدم
+- ام فؤاد
+- ام نسيم
+- إخلاص
+- ناهده
+- ام زين
+- ام الوليد
+- أسمهان
+- ام جاد
+- ام نايف
+- أم ثائر
+- غدوش
+- أم أيهم
+- أم انس
+- نازك
+- الزنبقة
+- المهرة
+- أم رعد
+- جاردينيا
+- أم قيس
+- ام ايسر
+- ام الرور
+- اليسار
+- أم بشار
+- مال الشام
+- اسوم
+- سونا
+- الجوهرة
+- زكية
+- ام ملاك
+- المزيونه
+- ام مهدي
+- زكيه
+- نبأ
+- نقاء
+- جوانا
+- المحبة
+- اشراقة
+- سفيرة
+- ام يونس
+- استبرق
+- نسيبة
+- أم أيمن
+- مارينا
+- صعب الوصول
+- عتاب
+- لعبه
+- لنا
+- تاليا
+- ساكتفي
+- شروق الشمس
+- ام حماده
+- يكفيني
+- جبروت
+- ام سلمى
+- زهره الياسمين
+- اوتار
+- حبات
+- ردينا
+- دق التحيه
+- ام باسم
+- زهرة الخليج
+- خيريه
+- صبحيه
+- ام عبيدة
+- ألين
+- أم إبراهيم
+- ام المعتصم
+- ام منير
+- أم شادي
+- ام غازي
+- ام رأفت
+- ام نمر
+- رونزا
+- ام رامز
+- ناهدة
+- نايفه
+- عطر الشام
+- أم عماد
+- حسنيه
+- بنتك يا
+- هيوش
+- محبوبي
+- الزنبقه
+- إنعام
+- ريانة
+- عائده
+- ام حسان
+- ام حذيفه
+- أريام
+- ام مشعل
+- عباديه
+- ام الحارث
+- سوسنة
+- دعد
+- نتلي
+- أم وليد
+- ميس الريم
+- حمده
+- لطيفه
+- صفيه
+- الفت
+- نها
+- شريفه
+- ام بدر
+- زمزم
+- شقائق
+- اليمامة
+- أم ضياء
+- نورالهدى
+- جنين
+- المؤمنة
+- السمراء
+- طالبة
+- غايتي
+- نورسين
+- ام ايوب
+- إبتسام
+- صدفة
+- رضا الرحمن
+- اميرتي
+- جولي
+- ريمي
+- خنساء
+- كوشي
+- هدير
+- محبه
+- يمنى
+- يسر
+- سحر العيون
+- موج البحر
+- كرستين
+- هبه الله
+- نسيم البحر
+- عشقتك
+- لامار
+- منوش
+- طيبه
+- غلطة
+- البنفسج
+- احاسيس
+- اغرد
+- نادرة
+- الثلج
+- آميره
+- مارلين
+- ام جلال
+- ام اسيد
+- أم بلال
+- ام هادي
+- أم أسامة
+- ام زهير
+- هيجر
+- تولاي
+- ام عبدلله
+- ام رشيد
+- أم يحيى
+- أم سامر
+- ام شاكر
+- حلى
+- ورده النرجس
+- اعشقك
+- غلاتي
+- اسيرت
+- مجنونت
+- أمنه
+- ام ميار
+- شمووخ
+- حلوش
+- ام قتيبه
+- العيون السود
+- نفسيه
+- ام راما
+- فلسطنيه
+- مجنونتك انا
+- دانة
+- عذاري
+- سبا
+- موسم
+- سحاب
+- نادره
+- نواره
+- جيجي
+- بسمة امل
+- يمامة
+- صلاتي
+- صبرين
+- أم عبد
+- يبقى
+- الرحمن
+- ذات
+- كرامتي
+- ام طه
+- نور عيني
+- رحمتك
+- اللوتس
+- حياتى
+- همست
+- نور العيون
+- صعبة
+- ساره احمد
+- رفيده
+- لغتي
+- زهره البنفسج
+- أسراء
+- اوجاع
+- ام ايه
+- رواء
+- سعاده
+- ورق
+- أم نور
+- ام هبه
+- سمو الاميره
+- ام الجود
+- أم خليل
+- ام حامد
+- أم وائل
+- ثراء
+- ماسا
+- حبيبةة
+- لحالي احلالي
+- ام أمير
+- توليب
+- أمہ
+- أم سليمان
+- اميه
+- ام بشير
+- كفا
+- عروبه
+- مشغل
+- انيقه
+- كاتمة
+- بكلمتي
+- الفصول
+- غلاي
+- ليدي
+- رموش
+- أم غيث
+- أم ماهر
+- ام بيسان
+- أم يزيد
+- ام سدين
+- أم عبود
+- أم عون
+- رنووش
+- ام مثنى
+- بشاير
+- المها
+- ام منصور
+- سماري
+- فريده
+- صاحبه
+- مريومه
+- كوكي
+- راويه
+- غروب الشمس
+- رضاكي
+- للعشق
+- سعدية
+- سعديه
+- لينة
+- إكرام
+- كادي
+- المتوكلة
+- صوفيا
+- اشراق
+- ام عبدو
+- ربيعة
+- مدللة
+- حاملة
+- جودا
+- شهيرة
+- اميرا
+- ردينة
+- سمارة
+- جورية
+- ام هديل
+- أم عبد الله
+- ام ياسمين
+- ريري
+- تمر
+- دنيتي
+- روجينا
+- السلطانه
+- تؤام
+- لهفه
+- نفسي عزيزه
+- اميرة الاحزان
+- ضحكتي صداها
+- ساندرا
+- ام شريف
+- نوور
+- الزهرة البيضاء
+- لورا
+- فرح محمد
+- اكسسوارات
+- ندى العمر
+- فيحاء
+- زينا
+- يافا
+- لونا
+- إم أحمد
+- ام توفيق
+- رتال
+- أم جهاد
+- ام نعيم
+- جرح الماضي
+- ام رشاد
+- ام كامل
+- ام تيسير
+- ام كنان
+- ام غالب
+- نيبال
+- ام منتصر
+- أم أشرف
+- أم صالح
+- المى
+- ام فواز
+- مخيطة
+- رولى
+- تمارة
+- هالا
+- ريناس
+- أم مؤمن
+- أم عصام
+- اميره بكلمتي
+- معشوقت
+- عازفه على
+- انوثتي
+- طوق الياسمين
+- فلك
+- جمان
+- دالين
+- بحة
+- أم بهاء
+- البيلسان
+- جمانا
+- ربيحة
+- شووق
+- سيوار
+- نور الشام
+- أم اسامه
+- حمصيه
+- الحلا
+- أم امير
+- صخرية
+- ثروة
+- ام حذيفة
+- الورد الجوري
+- شاميه
+- ام أيمن
+- أم باسل
+- ام صقر
+- أم فيصل
+- أم أوس
+- نورسان
+- جنوبيه
+- ميره
+- بدريه
+- عزه
+- نور احمد
+- دولت
+- نجلا
+- تو
+- شفا
+- روشان
+- اعتماد
+- غزاله
+- استغفر الله
+- بطه
+- أبرار
+- اسينات
+- المشتاقه
+- نور اليقين
+- جنتي
+- بيبي
+- سعادتي
+- ثقتي بربي
+- أميمة
+- فراح
+- ام اسيل
+- الحمد الله
+- الواثقة بالله
+- توام
+- عيني
+- ام يعقوب
+- روزا
+- ام حنين
+- رودينا
+- الحمدالله
+- شتاء
+- شيما
+- ام سراج
+- ام سندس
+lastnames_native:
 - محمد
-- Ahmad
 - احمد
 - الزعبي
 - المصري
-- Mohammad
 - علي
 - الخالدي
 - العبادي
@@ -3015,72 +7517,47 @@ lastnames:
 - محمود
 - العمري
 - القيسي
-- Omar
-- Alzoubi
 - المومني
-- Akter
 - خالد
 - المساعيد
-- Obeidat
 - عبدالله
 - حسن
 - يوسف
 - العدوان
-- Saleh
 - عمر
 - ابراهيم
-- Hamdan
 - الشام
 - الخوالده
 - النرجس
 - الورد
-- Khaled
 - الرفاعي
-- Jaber
-- Malkawi
 - عبيدات
 - حسين
-- Yousef
 - الشمري
 - الحمايده
-- Alomari
 - الحويطي
-- Haddad
-- Almomani
 - العنزي
 - العلي
-- Mahmoud
 - الخلايله
 - انا
 - الياسمين
 - المناصير
 - السرحان
-- Hammad
-- Odeh
 - الشرفات
-- Ana
 - الحريري
 - البيضاء
 - بني صخر
-- Jaradat
 - النعيمي
 - الحوراني
 - الحمصي
 - النجار
-- Awad
 - صالح
 - السيد
-- Almasri
-- Smadi
 - الجبور
 - المجالي
 - الطراونه
 - العجارمه
 - العمر
-- Ababneh
-- Mohamad
-- Alkhateeb
-- Momani
 - الزيود
 - الفاعوري
 - المشاقبه
@@ -3090,19 +7567,13 @@ lastnames:
 - القضاه
 - القرعان
 - الصمادي
-- Tarawneh
 - مصطفى
-- Alawneh
-- Bataineh
 - خليل
 - العزام
 - سليمان
 - ابو محمد
-- Rawashdeh
-- Sy
 - الاحزان
 - سالم
-- Salameh
 - السعودي
 - الدعجه
 - الكردي
@@ -3112,68 +7583,45 @@ lastnames:
 - الربيع
 - ملكاوي
 - الخوالدة
-- Issa
-- Aktar
 - الخزاعله
-- Awwad
 - جرادات
-- Naser
 - الاحمد
 - الشامي
 - رمضان
 - الحياة
-- Alqudah
-- Aladwan
 - العجوري
 - الاسمر
 - جمال
 - الشريف
-- Nassar
-- Amer
-- Mansour
 - حماد
 - الزواهره
 - الرواشده
 - الغزاوي
-- Omari
 - الجراح
 - ياسين
 - الشرمان
 - البنفسج
 - صلاح
 - البطوش
-- Hamad
-- Shaheen
 - الزغول
 - عبابنه
-- Abdallah
 - الصمت
 - موسى
 - بني هاني
-- Othman
 - منصور
 - فلسطين
-- Abed
-- Ramadan
 - ابو زيد
 - الامير
 - العموش
-- Yaseen
 - شاهين
 - التعمري
-- Majali
 - بالله
 - الاموره
 - حموده
 - عوض
 - حجازي
-- Qudah
 - الرحمن
-- Khader
 - الحسن
-- Rababah
-- Hijazi
-- Assaf
 - المعايطه
 - جابر
 - الامل
@@ -3182,10 +7630,7 @@ lastnames:
 - الفايز
 - الشوبكي
 - عيسى
-- Emad
-- Barakat
 - الشرعه
-- Mousa
 - الحجايا
 - قاسم
 - ابوزيد
@@ -3195,51 +7640,35 @@ lastnames:
 - عواد
 - امير
 - جود
-- Alabadi
-- Lolo
-- Sawalha
 - العقرباوي
 - اسماعيل
 - السردي
-- Nofal
-- Alqaisi
 - العظامات
 - اللوتس
-- Zaid
-- Alnajjar
 - عيد
-- Qasem
-- Alkhatib
 - عامر
 - الصرايره
 - العتوم
-- Bader
-- Abd
 - فريحات
 - العيسى
 - الصخري
 - مقدادي
 - ابو احمد
-- Samara
 - الغالي
 - عبود
 - شعبان
 - المشاقبة
-- Adnan
 - الطيب
 - سلامه
 - القاضي
 - الخلايلة
-- Jordan
 - النابلسي
 - الحراحشه
 - البلوي
 - العجرمي
 - المصرى
-- Melhem
 - العودات
 - الحلو
-- Shatnawi
 - الشبول
 - امل
 - بني ياسين
@@ -3249,78 +7678,48 @@ lastnames:
 - حمد
 - زيد
 - درويش
-- Khasawneh
 - رجل
-- Eid
 - عمري
 - الحمايدة
-- Jarrar
-- Alazzam
-- Harb
 - علاء
 - الشمس
 - ريان
 - السعدي
 - فارس
 - عوده
-- Daoud
 - الجنه
 - الشوابكه
-- Azzam
-- Kanaan
 - زريقات
 - خريسات
 - كريشان
 - المحمد
-- Abbadi
 - جبر
 - بني خالد
-- Ghanem
 - العبيدي
 - الجوري
 - عمار
-- Gharaibeh
 - عبد
 - الجبالي
-- Mohmmad
 - الزمان
 - ابومحمد
-- Shehadeh
 - نصار
-- Alabbadi
 - الحسين
 - العجارمة
-- Najjar
-- Osama
-- Tamimi
-- Saadeh
 - الدعجة
 - الماضي
-- Waleed
-- Alzaben
-- Abood
-- Badran
-- Otoom
 - مراد
-- Abuzaid
 - السعود
 - شخصيا
 - عماد
-- Alkurdi
 - عياصره
-- Amro
 - الصالح
 - ربابعه
-- Ayman
 - ابو علي
 - الصعيدي
 - حمص
 - الغويري
 - البرماوي
 - علاونه
-- Almanaseer
-- Khalaf
-- Ayasrah
 - بدوي
 - خلف
 - سليم
@@ -3331,34 +7730,23 @@ lastnames:
 - بكلمتي
 - الصقور
 - الضمور
-- Zghoul
 - الجمل
 - الشياب
 - النبالي
 - راشد
 - الهويمل
 - عادل
-- Al-Zoubi
 - ربيع
 - المحسيري
-- Tawalbeh
-- Shaban
 - الرواشدة
 - الطويل
 - العمرو
-- Safi
-- Rashed
 - المعاني
-- Zoubi
 - الزمن
-- Samer
 - القادري
 - الحلبي
-- Alaa
 - كنعان
-- Ashour
 - ابو
-- Alali
 - حمزه
 - عدي
 - خضر
@@ -3371,15 +7759,12 @@ lastnames:
 - حسام
 - عليمات
 - السواعير
-- Hani
 - طارق
 - القضاة
 - القراله
 - السعيد
 - زياد
 - مقابله
-- Ayoub
-- Alhaj
 - حامد
 - الحمد
 - خطاب
@@ -3402,51 +7787,28 @@ lastnames:
 - بني عامر
 - العيون
 - العساف
-- Baker
 - كريم
-- Alqadi
 - الصغير
 - السبعاوي
 - الناصر
-- Banihani
 - العطوي
-- Sameer
-- Darwish
-- Altamimi
 - عبدالرحمن
-- Raed
 - نفسي
-- Aljarrah
 - الطراونة
 - المشاعر
-- Frehat
-- Alkhaldi
 - عساف
-- Nsour
 - الشاعر
-- Haddadin
-- Taani
-- Obaid
 - عبد الرحمن
 - بركات
 - الناطور
 - الدبوبي
 - الحياري
-- Jo
 - الفقيه
 - الحسنات
-- Aljamal
-- Banat
-- Ibrahem
-- Masri
 - جميل
 - الشطي
-- Hatamleh
 - الجارح
-- Ayyad
 - السيلاوي
-- Alshorman
-- Diab
 - عبد الله
 - رجب
 - الدين
@@ -3458,28 +7820,17 @@ lastnames:
 - عتوم
 - بني عيسى
 - الحاج
-- Alrefai
-- Alsmadi
 - الكركي
-- Rami
-- Nazzal
 - الطوباسي
 - القدومي
-- Alrawashdeh
 - العربي
 - الشرقاوي
 - داود
-- Alasmar
-- Abu Zaid
-- Awamleh
 - ابورمان
 - حمزة
 - العوامله
 - العشوش
 - البيلسان
-- Almajali
-- Bani Hani
-- Asfour
 - الخزاعلة
 - بني يونس
 - الجعارات
@@ -3489,43 +7840,28 @@ lastnames:
 - بدر
 - رامي
 - شطناوي
-- Alfayez
-- Hijazeen
-- Mosa
-- Bassam
 - عمرو
 - الحمود
 - قصي
 - نوفل
-- Sarhan
 - الذيب
-- Abadi
-- Allan
 - مطر
 - قنديل
 - الكيلاني
 - مالك
-- Aqel
 - الحديدي
 - الرشدان
-- Alquraan
 - كمال
 - العبدالله
 - الهندي
 - كشخه
-- Alzyoud
-- Majed
-- Ghaith
 - لولو
 - السلمان
-- Zayed
-- Radwan
 - زيدان
 - ماهر
 - حسان
 - ابو عمر
 - الحجاج
-- Nawafleh
 - المهيرات
 - الفقهاء
 - عربيات
@@ -3534,7 +7870,6 @@ lastnames:
 - ذيابات
 - سامي
 - يحيى
-- Murad
 - علوش
 - الغياث
 - سرحان
@@ -3542,22 +7877,13 @@ lastnames:
 - فراس
 - غيث
 - اللوزي
-- Khoury
-- Al-Omari
 - البستنجي
-- Alahmad
-- Hawamdeh
-- Olimat
-- Khawaldeh
 - البنا
 - انس
 - العلاونه
-- Kharabsheh
-- Habashneh
 - البوريني
 - فتحي
 - الشلبي
-- Suliman
 - الصحراء
 - ملحم
 - التلاوي
@@ -3566,7 +7892,6 @@ lastnames:
 - مرعي
 - الديات
 - العوضي
-- Khateeb
 - الصقر
 - القاسم
 - البشتاوي
@@ -3574,23 +7899,17 @@ lastnames:
 - سلامة
 - حرب
 - العمارين
-- Matar
 - العموري
 - العامري
-- Mohmad
 - هاشم
 - النواصره
 - خزاعله
 - وقطع
 - الصرايرة
-- Manaseer
-- Abdeen
-- Ziad
 - الشمال
 - الخريشا
 - الروسان
 - المعايطة
-- Alkhawaldeh
 - إبراهيم
 - الزعيم
 - الجمال
@@ -3599,19 +7918,14 @@ lastnames:
 - البلاونه
 - الرياطي
 - الشلول
-- Khattab
-- Kilani
 - فرج
 - غنيم
 - المطر
 - عودة
 - رواشده
-- Hayajneh
 - حوران
 - الصفدي
 - البدور
-- Odat
-- Dmour
 - صقر
 - الغلا
 - بكر
@@ -3620,15 +7934,12 @@ lastnames:
 - عمران
 - رضوان
 - رائد
-- Alrousan
 - شهاب
-- Sabbah
 - أبو محمد
 - فادي
 - الشعار
 - واقطع
 - العورتاني
-- Masoud
 - ياسر
 - الدباس
 - شحاده
@@ -3637,45 +7948,31 @@ lastnames:
 - خليفات
 - احلالي
 - الطعاني
-- Alkateeb
 - ابو يوسف
 - بدران
-- Dabbas
 - الدغيمات
 - كرم
 - العراقي
 - سامر
 - اللحام
 - ليث
-- Hashem
-- Ibraheem
 - عدنان
 - الغريب
 - الجعفري
 - نمر
 - العزازمه
-- Homs
-- Akther
 - هاني
-- Jood
 - بني حمد
 - النوايسه
 - خليفه
-- Saqer
 - الحداد
 - غلاك
-- Ameer
 - النمر
-- Afaneh
 - الهنداوي
-- Arar
 - الحموي
 - أمل
-- Alzubi
 - الحوري
-- Dababneh
 - الديري
-- Jehad
 - العبسي
 - حسونه
 - الطيراوي
@@ -3683,246 +7980,151 @@ lastnames:
 - الذنيبات
 - الوردات
 - الدوايمه
-- Al-Qudah
 - كامل
 - اليماني
 - الرياحنه
 - زايد
-- Hourani
-- Elayyan
 - العجالين
 - صمادي
-- Khatib
-- Zahran
 - شام
 - اليل
 - الغانم
 - صافي
 - عياش
 - الفيومي
-- Al-Momani
-- Amjad
-- Deeb
 - ابواحمد
 - البدوي
 - صبح
 - الترك
 - خطاطبه
 - الكوز
-- Younis
 - اسعد
 - الظلام
 - القدر
 - الجعافره
 - فهد
 - الباشا
-- Musleh
-- Yazan
-- Magableh
-- Jarrah
 - شادي
-- Alassaf
 - الجعبري
 - الخضير
-- Hammouri
-- Adwan
 - الذيابات
 - عياد
-- Al Zoubi
 - الحمراء
-- Masadeh
 - غريب
 - الحوت
 - الخليلي
 - العوضات
-- Rayan
 - سلام
 - ابوعلي
-- Kurdi
 - فايز
 - نصر
 - وسام
-- Athamneh
-- Zyoud
 - ابو رمان
 - ماجد
-- Quraan
 - الطفيلي
-- Alzghoul
 - الربابعه
-- Asaad
 - الوحش
 - ابوسيف
-- Mansi
 - السوداء
-- Rabadi
 - العجلوني
 - المرازيق
 - العليمات
-- Saed
 - ملاك
 - سيد
 - حمودة
 - العشاق
 - الاردني
-- Alabade
 - العياصره
 - عصام
 - فرح
-- Al-Khateeb
-- Awawdeh
 - المرعي
 - شرقي
 - العايدي
-- Aqrabawi
-- Rahahleh
 - رزق
 - الهواري
-- Ghannam
-- Marwan
 - الحربي
-- Ayyash
 - العز
 - الملكاوي
 - نصيرات
-- Maaitah
-- Hiary
-- Alzboon
 - ام محمد
-- Jad
-- Jadallah
-- Al-Masri
 - الرقب
 - البوات
-- Rayyan
-- Alhasan
 - العتيبي
-- Barham
 - الندى
 - الدويري
 - عقل
 - ابو الهيجاء
 - الازايده
 - امين
-- Yosef
-- Hamzeh
 - البري
 - البطاينه
 - الخواجا
 - العمايرة
-- Dawood
 - خميس
-- Mazen
 - عبدو
-- Mhamad
 - الاصيل
-- Lafi
 - رحال
 - مصلح
 - الجازي
 - الضلام
-- Shawabkeh
 - الحلوين
 - مشاقبه
-- Faraj
 - فيصل
 - العطار
-- Khater
 - عزام
 - عطية
-- Almasre
-- Shboul
-- Younes
-- Alabed
-- Rahhal
 - ابو خالد
-- Horani
 - شحادة
 - ابو الرب
 - البداوي
-- Naimat
 - مصطفي
 - رضا
-- Shalabi
 - الشافعي
 - ابو عبدالله
 - قيس
-- Damra
 - قطيشات
-- আক্তার
 - اشرف
 - ايوب
-- Ayesh
 - العقيلي
 - القواسمي
 - شخصيآ
-- Wael
 - يعقوب
-- Bakeer
 - الأمير
 - الوقت
 - يامن
-- Qawasmi
-- Alajarma
 - الجبارات
-- Yaser
-- Alsaleh
 - الحسيني
 - القيصر
-- Shdefat
 - يا خال
 - الصرفندي
 - الخرشه
-- Khazaleh
 - عمايره
-- Asha
-- Mhmad
 - السلامات
-- Hassouneh
 - الدلابيح
 - سماره
 - العطيات
 - قوقزه
-- Al Masri
-- Alshareef
 - لؤي
 - السلطي
-- Alazzeh
-- Aljbour
 - الرفوع
 - انساك
-- Qawasmeh
 - الصبيحي
-- Obiedat
 - حراحشه
-- Khatatbeh
-- Arabiat
 - الجندي
-- Alshami
 - نبيل
 - هيثم
 - جرار
-- Aljboor
-- Mahadeen
-- Ghazal
 - الحلوه
 - ياسمين
 - اسامه
-- Joudeh
 - الجيوسي
 - الربيحات
-- Tahat
 - فؤاد
 - صخر
 - الدرابسه
-- Nabeel
-- Tareq
-- Fayez
 - حنين
-- Nabulsi
 - الوادي
 - العابد
-- Obaidat
 - بأخلاقي
 - ابو جود
 - المقابله
@@ -3933,8 +8135,6 @@ lastnames:
 - الحماد
 - الشمالي
 - وديع
-- Al-Abbadi
-- Mahasneh
 - الزوايده
 - الصلاحات
 - الوريكات
@@ -3947,19 +8147,12 @@ lastnames:
 - الحميدي
 - اسلام
 - اياد
-- Salahat
 - السرحاني
-- Jawarneh
-- Zreqat
 - الصعوب
-- Shlool
-- Aburumman
-- Hussien
 - حمدي
 - هلال
 - عاطف
 - رشيد
-- Habash
 - الرمحي
 - الغول
 - الرشايده
@@ -3967,172 +8160,93 @@ lastnames:
 - عنانزه
 - الشقران
 - الحراسيس
-- Ahmmad
 - الجزار
 - الشبلي
-- Altaweel
 - الحواري
 - المراعبه
 - الدرباني
 - خصاونه
-- Radaideh
-- Shorman
-- Ananzeh
-- Alnaimat
-- Khaleel
-- Assi
 - جمعة
-- Hadad
 - باشا
 - شوق
-- Alramahi
-- Hijjawi
 - مومني
-- Daradkeh
-- Faouri
-- Jameel
-- Talal
-- Obeid
 - جلال
-- Kanan
-- Hindi
 - جوده
-- Nedal
 - جهاد
-- Qandeel
 - علقم
-- Zboon
-- Otoum
 - فوزي
 - وائل
 - صبحي
 - ايهم
 - القصراوي
-- Jaafreh
 - زبون
-- Alshobaki
-- Ennab
-- Suleiman
 - مسعود
-- Yaghi
 - العباسي
 - الزهور
 - رورو
 - صهيب
-- Alqam
 - الغزو
-- Alamro
 - المراعيه
-- Arafat
-- Alsharif
 - ميدو
-- Almasry
-- Eyad
 - العيساوي
 - البيطار
-- Alsoud
 - الحراحشة
-- আকতার
-- Alsayed
 - محسن
-- Asmar
 - مروان
-- Alfar
-- Al Omari
-- Elayan
 - الشرعة
-- Alsarhan
 - ابو ريان
 - طوالبه
-- Bitar
 - صابر
-- Abu Ali
 - داوود
 - الخليفات
 - بني مصطفى
-- Aldaja
 - السليحات
-- Ata
 - الشايب
-- Alhourani
 - المستريحي
 - دويكات
-- Alfaouri
 - طراونه
-- Qatawneh
-- Fadi
 - السعيدي
 - الحامد
-- Musallam
 - الابيض
-- Manasra
 - حيمور
-- Hyari
 - حياصات
-- Migdadi
 - طعاني
 - مياس
 - ام
 - هشام
 - شرف
 - البشر
-- Kiswani
 - البخيت
 - أبو زيد
 - ابو راشد
 - الدوايمة
-- Alhorani
-- Alnadi
 - عابد
 - مازن
-- Fakhoury
 - عبادي
-- Atieh
 - معتز
 - الرويلي
-- Alturk
 - الأسمر
 - هديب
-- Okour
-- Hyasat
-- Arabiyat
-- Nader
-- Abubaker
-- Alshaer
 - جاد
-- Jamous
-- Ramahi
 - غنام
 - ذيب
 - الهوى
 - الجريري
 - القطاونه
-- Talafha
-- Darabseh
-- Shaker
-- Shehab
 - خليفة
 - الصياد
-- Kaled
 - الجوهري
 - الجاسم
 - صباح
 - الاحلام
 - الياسين
-- Qasrawi
 - صوالحه
 - الوحيدي
-- Kasasbeh
-- Amayreh
 - السالم
 - المحبه
 - الاشقر
-- Sammour
-- Hajeer
-- Alkhawaja
 - رعد
 - البرغوثي
-- Al Momani
 - الخصاونه
 - شاكر
 - ذياب
@@ -4148,7 +8262,6 @@ lastnames:
 - النصيرات
 - الشويات
 - الدلكي
-- Omran
 - العرب
 - الخلف
 - معاذ
@@ -4161,42 +8274,24 @@ lastnames:
 - الفريحات
 - خير
 - سرور
-- Alnaser
 - الدهامشه
 - خشان
 - زعبي
-- Badarneh
 - زبيدي
-- Al-Qaisi
 - السيوف
-- Khresat
-- Bani Yaseen
 - زغول
 - الخطاطبه
 - السقار
 - الرواحنه
 - الهباهبه
-- Hazaimeh
 - المساعفه
-- Migdady
 - العمرات
-- Khraisat
 - العلاقمه
-- Atef
-- Alsheikh
-- Srour
-- Ammari
-- Dweik
 - مشعل
 - الصالحي
-- Hasanat
 - قويدر
 - نزال
-- Qaisi
-- Alhayek
-- Albanna
 - الحاج علي
-- Jallad
 - الدنيا
 - الريم
 - رهف
@@ -4205,13 +8300,7 @@ lastnames:
 - الحوامدة
 - الفالوجي
 - ابوتايه
-- Alkharabsheh
-- Alnsour
-- Kreshan
-- Telfah
 - الشنابله
-- Sharaf
-- Nimer
 - رياض
 - سند
 - الراعي
@@ -4220,46 +8309,28 @@ lastnames:
 - عايش
 - الريان
 - الغرابلي
-- Daraghmeh
-- Manasrah
 - القواسمه
 - الطهراوي
 - قطيش
 - عودات
-- Hattar
 - ابوعمر
 - سويدان
 - نايف
-- Khalifeh
-- Alabsi
 - وشاح
 - الجابري
-- Amr
-- Badawi
-- Nasrallah
-- Alhindi
 - ابو محمود
 - زيتون
 - سعاده
 - عرار
-- Alqasem
 - الحموري
-- Nimri
-- Maabreh
-- Habahbeh
 - البشابشه
 - الجالودي
 - المشاهره
-- Daas
-- Sar
 - صبري
 - شهد
 - الصباغ
-- Fahmawi
 - زهرة
-- Laith
 - جبريل
-- Hammoudeh
 - فياض
 - جادالله
 - أمير
@@ -4267,84 +8338,54 @@ lastnames:
 - النتشه
 - الزيادنه
 - المقدادي
-- Freihat
 - هياجنه
 - البراهمه
-- Alrashdan
 - السلايطه
 - المحاسنه
-- Al Ali
 - عبد العزيز
 - الخير
 - الدليمي
 - سوري
 - الخاطر
 - المختار
-- Fayyad
 - الشحادات
 - منسي
 - البدارين
 - غرايبه
 - المرافي
 - القويسم
-- Alshboul
 - ارشيدات
-- Sallam
 - زهران
 - الاسعد
-- Shammout
-- Al-Najjar
 - حزن
-- Alkouz
 - الشتاء
 - العرابي
 - ابو سالم
-- Alkiswani
 - الشناق
-- Alajarmah
 - حتامله
-- Aljammal
-- Qasim
 - مبارك
-- Rabah
-- Alhariri
-- Yacoub
-- Al Khateeb
 - عرابي
 - ورد
 - الفقير
 - الفار
 - ابو العز
-- Samhan
 - بشتاوي
 - الريموني
 - المشاعله
 - النوافله
 - خرابشه
-- Hanandeh
-- Syr
-- Alhassan
 - توفيق
 - الاسد
 - الشرق
 - الجنيدي
 - خاطر
-- Barqawi
-- Tayeh
 - ابو حسن
 - العمور
 - نصرالله
 - الشعلان
 - نيسان
-- Kloub
-- Al-Adwan
 - حباشنه
-- Altarawneh
 - الخشان
-- Abu Rumman
-- Abu Baker
-- Alatrash
-- Zaben
 - درعا
 - الرواجفه
 - ابو عدي
@@ -4355,23 +8396,15 @@ lastnames:
 - العوادي
 - الطوالبه
 - الشمايلة
-- Alshawabkeh
-- Atoom
-- পাখি
 - عبدالعزيز
 - دياب
 - المحمود
 - غزل
 - العايد
 - الجوريه
-- Alnatsheh
-- Amawi
 - النوباني
 - الدويكات
-- Aljabali
 - الغراغير
-- Attar
-- Hamam
 - علام
 - زمان
 - حاتم
@@ -4379,83 +8412,54 @@ lastnames:
 - حلا
 - المبيضين
 - الاطرش
-- Ibdah
 - سمرين
-- Alsayyed
 - الثوابي
 - حمايده
 - الحسبان
-- Dagamseh
 - الشباطات
 - العبابنه
-- Khlifat
 - بني سلامه
-- Hussam
-- Alshaikh
 - ابويوسف
 - ناجي
 - عرب
 - الابراهيم
 - صبيح
-- Sleman
-- Hindawi
 - الخريف
 - الحرباوي
 - الحزان
 - ابو يزن
 - الدومي
-- Abdallat
 - الزريقات
 - الخمايسه
 - العونه
-- Aldabbas
-- Khair
 - ال
 - الدار
-- Zedan
-- Mhammad
 - حازم
-- Sahawneh
 - جراح
 - عناب
 - البيك
 - الجود
 - لافي
-- Allouzi
 - شويات
 - النعانعه
-- Aldajah
-- Albdour
-- Amaireh
 - الهزايمه
-- Mohammd
 - شمس
 - عبد القادر
 - الخولي
-- Safadi
-- Al-Khatib
 - حر
-- Abuali
 - بشار
-- Farraj
 - باكير
 - الشاويش
 - الدويك
 - محيسن
 - ابو عواد
-- Diabat
 - العزه
 - ال خطاب
 - القطيفان
 - الحمادين
-- Hawari
 - المقداد
-- Darweesh
-- Alameer
 - عبد الهادي
 - الموسى
-- Alomary
-- Madanat
 - الجورية
 - الاخرس
 - الحروب
@@ -4464,22 +8468,11 @@ lastnames:
 - الرعود
 - الجمره
 - العوران
-- Bdour
-- Soub
 - الديب
 - الثلج
 - القصر
-- Alawamleh
-- Maayah
 - الشخانبه
-- Btoush
-- Shraideh
-- Hisham
 - مقبل
-- Titi
-- Feras
-- Nemer
-- Hattab
 - تامر
 - السقا
 - الديك
@@ -4487,13 +8480,8 @@ lastnames:
 - ابو وديع
 - السخني
 - الرنتيسي
-- Jarwan
-- Ryalat
-- Refai
-- Orabi
 - شلبي
 - الخليج
-- Basem
 - الفهد
 - الناس
 - الجميلي
@@ -4502,3 +8490,519 @@ lastnames:
 - الفواز
 - ريماس
 - بكبريائي
+- الشراري
+- عنيزات
+- تركي
+- سعود
+- حسني
+- باسل
+- عرفات
+- وسيم
+- ابو فارس
+- ابو بكر
+- ابو يحيى
+- الغرايبه
+- الوديان
+- الصوالحه
+- عضيبات
+- الريح
+- العاصي
+- الزامل
+- ابو خليل
+- المدائن
+- الخضري
+- تيسير
+- ابوالرب
+- الشقيرات
+- الاردنيه
+- الفلاحات
+- مجدي
+- السبع
+- السعيديين
+- الجيزاوي
+- المشرقي
+- الراضي
+- الجعافرة
+- النتشة
+- الخطبا
+- الرحاحله
+- الجوارنه
+- البدري
+- انور
+- زكي
+- الباز
+- صدام
+- شريم
+- عذاب
+- شقيرات
+- حوامده
+- السوس
+- ابو محفوظ
+- عياصرة
+- المرايات
+- اليازوري
+- فراج
+- العوض
+- عطا
+- ابوخالد
+- نعيم
+- رفاعي
+- العبود
+- جروح
+- ابو عيد
+- جكر
+- السكافي
+- البكار
+- جوارنه
+- السعايده
+- القيام
+- نادر
+- ساره
+- البكري
+- مساعده
+- مناصره
+- علان
+- ابو العبد
+- ثائر
+- الصوص
+- الدبس
+- الضلاعين
+- البشير
+- الاميره
+- الدمشقي
+- بدير
+- الموالي
+- أبو علي
+- ابداح
+- الحجاوي
+- المصاروه
+- ممدوح
+- حريري
+- الحجي
+- حسونة
+- ابو شهاب
+- شقير
+- ابو كرم
+- كلوب
+- الشواهين
+- ياخال
+- هزايمه
+- مصري
+- الذهبي
+- منير
+- الراشد
+- الحمدان
+- عيونك
+- الظاهر
+- السماء
+- مستريحي
+- الاعرج
+- الفاخوري
+- فحماوي
+- الكايد
+- البوادي
+- حمو
+- الغروب
+- الوخيان
+- كيوان
+- العنابي
+- بطاح
+- الرجبي
+- العزة
+- الربايعه
+- السوالمه
+- مجالي
+- مقابلة
+- العفيشات
+- بني سلمان
+- ثابت
+- علاوي
+- عبد الكريم
+- الياس
+- الطحان
+- عويس
+- مزيون
+- الدقس
+- رحاحله
+- طبيشات
+- الخنازره
+- الكفاوين
+- الرواجيح
+- يارب
+- شحاته
+- ادهم
+- النعيم
+- السليمان
+- عاصي
+- ابو حماد
+- النجادات
+- الحراكي
+- اردنيه
+- هارون
+- الرحال
+- الصادق
+- ندى
+- الرشيد
+- شموخي
+- العالم
+- عبدالهادي
+- جودة
+- المصطفى
+- العيد
+- الهويه
+- زمن
+- صمت
+- نرجس
+- الكل
+- حوراني
+- قبلان
+- ابوديه
+- ابو جواد
+- القطامين
+- العنيزات
+- فاروق
+- غزال
+- ابوعبدالله
+- وحيد
+- الشربيني
+- معروف
+- باسم
+- عايد
+- العذاب
+- ورده
+- لغتي
+- بروحي
+- ابو شنب
+- ابو ربيع
+- ابو سرحان
+- عفانه
+- الخضور
+- السحيمات
+- العشيبات
+- الرشيدي
+- عبدالحميد
+- الحنان
+- حجير
+- حكايه
+- معايطه
+- الهقيش
+- نجادات
+- تلاوي
+- عبد الحميد
+- عبد الفتاح
+- دنيا
+- حلمي
+- التركي
+- بسيوني
+- ضياء
+- القرشي
+- العمراني
+- ابو سليم
+- البزور
+- السوالقه
+- العنانزه
+- جاسم
+- الوهيبي
+- عزت
+- محفوظ
+- عبدالعال
+- البحار
+- العقرب
+- العزي
+- باريس
+- ابو عمار
+- ظاظا
+- فليفل
+- براهمه
+- صندوقه
+- الكرك
+- الخريسات
+- شحادات
+- العواملة
+- محاسنه
+- فريد
+- حلوه
+- الحلواني
+- السعد
+- عرفه
+- الضامن
+- ماضي
+- زيود
+- الليمون
+- البشايره
+- الجحاوشه
+- بشابشه
+- الصبيحات
+- بطاينة
+- الاحيوات
+- جروان
+- العوايشه
+- طلافحه
+- عبدالقادر
+- العدوي
+- اسامة
+- النصر
+- الرمضان
+- أبو أحمد
+- بيسان
+- سمارة
+- السود
+- ابو امير
+- حرزالله
+- مسالمه
+- العواوده
+- المسالمة
+- البلعاوي
+- الغوانمه
+- الجزازي
+- صرايره
+- الجبوري
+- عز
+- بكار
+- مصعب
+- الملاح
+- ابوغليون
+- عميرة
+- الجن
+- ابو حشيش
+- مجد
+- ابو صيام
+- المحتسب
+- السويطي
+- السراحين
+- الدراوشه
+- درابسه
+- الزيتاوي
+- الدهون
+- التل
+- بني عطا
+- جوجو
+- ابوملك
+- الجهني
+- ابو يامن
+- ابو ابراهيم
+- الريماوي
+- شواهين
+- قواسمه
+- المجدلاوي
+- السحيم
+- خزاعلة
+- الجميل
+- الحميد
+- الذوق
+- راضي
+- ام احمد
+- الصوفي
+- مؤمن
+- ابوصالح
+- عوض الله
+- العامر
+- فواز
+- وهدان
+- صوان
+- العماوي
+- مسالمة
+- ياغي
+- ابو قصي
+- النمراوي
+- السعيدات
+- النشاش
+- النواصرة
+- الفحماوي
+- الدبيس
+- الحسامي
+- البلوشي
+- عابدين
+- عبد الرحيم
+- اكرم
+- العباس
+- ظاهر
+- البحراوي
+- نورس
+- ابو الشيخ
+- هندي
+- العطاونه
+- بني ملحم
+- ابو هويدي
+- حجازين
+- الشطرات
+- الازايدة
+- القحطاني
+- عسكر
+- المدني
+- غالي
+- حلب
+- الخياط
+- ابو الخير
+- ابوعبيد
+- البلخي
+- جنى
+- اصيل
+- كالقمر
+- شتيوي
+- ابو انس
+- يازمن
+- عميره
+- بشارات
+- الشويكي
+- جاموس
+- نواصره
+- ابو زيتون
+- النجداوي
+- مريان
+- الهروط
+- الفناطسه
+- البرقاوي
+- ربابعة
+- العسود
+- الشطناوي
+- فرحان
+- اميرة
+- ابوسالم
+- مقداد
+- الحمران
+- كساب
+- ابوسليم
+- ابو حمزه
+- ابو عرب
+- اصلان
+- دراغمه
+- مرار
+- ارشيد
+- ابو ليث
+- حياري
+- البريزات
+- اللوباني
+- العبيدات
+- ابوبكر
+- هادي
+- ابرهيم
+- البوشي
+- مبروك
+- ابوحسين
+- رمزي
+- راح
+- كناني
+- الفقراء
+- بني عطيه
+- الدروبي
+- الدماني
+- البيايضه
+- خرفان
+- الطوره
+- مسعد
+- العنود
+- الرحيل
+- قداح
+- ابو مالك
+- غزاوي
+- علاونة
+- ابو غليون
+- القريني
+- مجدلاوي
+- ابازيد
+- نوافله
+- الحواتمه
+- رشاد
+- بطبعي
+- لطفي
+- سويلم
+- عبد العال
+- وردة
+- الساهر
+- غرام
+- نسيم
+- السليم
+- المجد
+- شعلان
+- عبد الجواد
+- أبو يوسف
+- أبوزيد
+- ابو عامر
+- زياده
+- ابو حسان
+- ابوغنيم
+- الرجوب
+- الفروخ
+- الصبح
+- غوانمه
+- خريس
+- جوهر
+- حجاج
+- غسان
+- قويسم
+- الحناوي
+- الجلاد
+- حره
+- صبيحات
+- ابو ايهم
+- الصلخدي
+- العبداللات
+- الرشايدة
+- السميران
+- سعيفان
+- الريحاوي
+- الحيصه
+- عبدالكريم
+- عارف
+- أبو احمد
+- اليمني
+- نعيمي
+- حميدان
+- ليان
+- العناني
+- ابوصيام
+- ابو عيشه
+- خمايسه
+- صوالحة
+- الديسي
+- المسالمه
+- ذوق
+- الجرادات
+- ابورياش
+- قواقزه
+- الجمرة
+- العطيوي
+- النمروطي
+- الحياصات
+- بني ارشيد
+- عبد السلام
+- عقيل
+- أبو عمر
+- حسنين
+- المسعودي
+- الصيفي
+- ابو هاشم
+- القطاوي
+- الهمشري
+- ابوكف
+- طلفاح
+- الفرايه
+- بني سعيد
+- المعايعه
+- اللصاصمه
+- الربابعة
+- مشاقبة
+- ضمره
+- العمده
+- عبدلله
+- الزيادي
+- النورس
+- اليقين
+- دعاس
+- ابو السعود
+- النسيان
+- هليل
+- ابوربيع
+- البطران
+- سندي
+- الشربجي
+- ابوعواد
+- بدارنه
+- عطيات
+- الصقري
+- الفواعره
+- الفواعير
+- الفراج
+- ابوهزيم
+- موسي

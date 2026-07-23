@@ -1,3 +1,4 @@
+---
 source: dataset
 firstnames_male:
 - Hj
@@ -1158,8 +1159,6 @@ firstnames_male:
 - Nowsath
 - Kurma
 - Rajid
-- একা
-- রাজু
 - Hairi
 - Braja
 - Pocoyo
@@ -1171,7 +1170,6 @@ firstnames_male:
 - Masjid
 - Md Khairul
 - Mubarok
-- জিয়া
 - Muid
 - Fahrin
 - Deq
@@ -1500,6 +1498,9 @@ firstnames_male:
 - Setyo
 - Kasman
 - Hendrawan
+- Kiat
+- Darwis
+- Brader
 firstnames_female:
 - Nur
 - Siti
@@ -1909,7 +1910,6 @@ firstnames_female:
 - Rinz
 - Isna
 - Nurafiqah
-- نورول
 - Tikah
 - Eyang
 - Limin
@@ -1945,7 +1945,6 @@ firstnames_female:
 - Timah
 - Zakiah
 - Zurin
-- سيتي
 - Ajeerah
 - Miming
 - Hadijah
@@ -2835,7 +2834,6 @@ firstnames_female:
 - Ariqa
 - Norshah
 - Riyanti
-- فاطين
 - Fariesya
 - Sekuntum
 - Ateeqah
@@ -2865,7 +2863,6 @@ firstnames_female:
 - Yatee
 - Nurafifah
 - Nur Aini
-- حاجه
 - Mayang Ho
 - Salwana
 - Sofiana
@@ -3001,6 +2998,10 @@ firstnames_female:
 - Amallina
 - Farihah
 - Babyz
+- Nurizzah
+- Afini
+- Qashrina
+- Nurizzati
 lastnames:
 - Hm
 - Brunei
@@ -4106,7 +4107,6 @@ lastnames:
 - Hj Lamat
 - Phua
 - Menanti
-- সাগর
 - Anggun
 - Sharin
 - Cantika
@@ -4502,3 +4502,4 @@ lastnames:
 - Auni
 - Faizul
 - Afrina
+- Ayup

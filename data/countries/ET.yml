@@ -1,3 +1,4 @@
+---
 source: dataset
 firstnames_male:
 - Seid
@@ -1088,7 +1089,6 @@ firstnames_male:
 - Marekos
 - Naafisaan
 - Abdulhamud
-- ابوؤيس
 - Kãĺâß
 - Abdu Rahaman
 - አብይ
@@ -1500,6 +1500,7 @@ firstnames_male:
 - Baadhoo
 - Eyosyas
 - Fanb
+- Admadu
 firstnames_female:
 - Bizuayehu
 - Misgana
@@ -1738,7 +1739,6 @@ firstnames_female:
 - ውባየሁ
 - Taye Feyisa
 - ፅጌረዳ
-- زمز يوسف
 - Worknesh Chale
 - Kidikali
 - Birhanesh
@@ -2321,7 +2321,6 @@ firstnames_female:
 - Eteneshi
 - Sufia Jemal
 - Abi Love
-- إن وعد الله
 - Hildana
 - Workalem
 - Ayansa
@@ -2353,7 +2352,6 @@ firstnames_female:
 - መታገስ ዋጋ
 - Obsatu
 - Kasiye
-- 리드야
 - ብሩክቲ
 - አፀደ ማርያም
 - Simboo
@@ -3666,7 +3664,6 @@ lastnames:
 - Gebey
 - Misiker
 - አዲሱ
-- ياللہ باريا
 - Worknesh Chale
 - Messle
 - Gutamaa
@@ -3848,7 +3845,6 @@ lastnames:
 - İñà Qøřàñè
 - Waadhul Keenii
 - Ílkâcãsê
-- أبشر
 - Ilkacas
 - Tahaliil
 - Izaana
@@ -4183,7 +4179,6 @@ lastnames:
 - Ibnu Sheref
 - Samuel Sato
 - አመጆ
-- عبد الواحيد
 - ኤጥፋ
 - Jmayik
 - H Hassen
@@ -4204,3 +4199,6 @@ lastnames:
 - Mal Abd
 - Birtukan Best
 - Zinana
+- Senbeto
+- Guyo Golo
+- Shemels

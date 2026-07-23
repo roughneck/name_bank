@@ -1,3 +1,4 @@
+---
 source: dataset
 firstnames_male:
 - Henrik
@@ -1442,7 +1443,6 @@ firstnames_male:
 - Senaygüray
 - Aqqaluk
 - Kurdstan
-- عفرين
 - Resom
 - Lucas Alexander
 - Dan Koldby
@@ -1500,6 +1500,7 @@ firstnames_male:
 - Shirkhan
 - Shekeb
 - Zmarai
+- Samoon
 firstnames_female:
 - Mette
 - Kim
@@ -2255,7 +2256,6 @@ firstnames_female:
 - Hibaq
 - Shannie
 - Anzelika
-- ميديا
 - Sarah Louise
 - Ann-Christine
 - Bára
@@ -3001,6 +3001,7 @@ firstnames_female:
 - Iida
 - Sanchari
 - Thitima
+- Signy
 lastnames:
 - Nielsen
 - Jensen

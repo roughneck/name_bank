@@ -1,3 +1,4 @@
+---
 source: dataset
 firstnames_male:
 - Mikko
@@ -718,7 +719,6 @@ firstnames_male:
 - Arbind
 - Sujeet
 - Sayanna
-- افغان
 - Rando
 - Tane
 - Artjom
@@ -1271,7 +1271,6 @@ firstnames_male:
 - Sushil Kumar
 - Pradhan
 - Bhukya
-- جانان
 - Parmatma
 - Maloth
 - Tamilselvan
@@ -1498,8 +1497,10 @@ firstnames_male:
 - Sai Kumar
 - Premlal
 - Ramsaran
-- राम
 - Aathi
+- Manejar
+- Parwej
+- Badavath
 firstnames_female:
 - Minna
 - Tiina

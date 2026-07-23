@@ -1,3 +1,4 @@
+---
 source: dataset
 firstnames_male:
 - Md
@@ -932,7 +933,6 @@ firstnames_male:
 - Mannan
 - Ramkumar
 - Sasikumar
-- নীল
 - Tuan
 - Sarkar
 - Cyrus
@@ -949,7 +949,6 @@ firstnames_male:
 - Kiat
 - Deng
 - Poe
-- মোঃ
 - Billa
 - Hs
 - Elaya
@@ -1028,7 +1027,6 @@ firstnames_male:
 - Louie
 - Ramar
 - Jaman
-- অবুঝ
 - Gowtham
 - Anandh
 - Ilaya
@@ -1103,7 +1101,6 @@ firstnames_male:
 - Chee Seng
 - Shuai
 - Guang
-- 志强
 - Thaw
 - Hlaing
 - Looi
@@ -1111,7 +1108,6 @@ firstnames_male:
 - Haja
 - Appu
 - Md Sumon
-- অচেনা
 - Gs
 - Madhan
 - Suthakar
@@ -1366,7 +1362,6 @@ firstnames_male:
 - Ls
 - Ws
 - Jovi
-- 俊杰
 - Nathanael
 - Ker
 - Kean
@@ -1438,7 +1433,6 @@ firstnames_male:
 - Remus
 - Fook
 - Irwin
-- 海涛
 - Phoe
 - Yow
 - Tajul
@@ -1448,7 +1442,6 @@ firstnames_male:
 - Balraj
 - Ramana
 - Mijan
-- আমি
 - Saiful Islam
 - Prabhakaran
 - Rajon
@@ -1500,6 +1493,14 @@ firstnames_male:
 - Pranav
 - Shahalam
 - Arunkumar
+- Jhun
+- Sukumar
+- Anower
+- Bellal
+- Kumara
+- Mijanur
+- Solaiman
+- Ankur
 firstnames_female:
 - Nur
 - Jenny
@@ -1921,7 +1922,6 @@ firstnames_female:
 - Syafiqah
 - Rosnah
 - Zubaidah
-- 婷婷
 - Mutiara
 - Shanthi
 - Rachelle
@@ -2006,7 +2006,6 @@ firstnames_female:
 - Thida
 - Jingyi
 - Shanshan
-- 丽丽
 - Zarina
 - Sinta
 - Sunshine
@@ -2190,7 +2189,6 @@ firstnames_female:
 - Rae
 - Chui
 - Jerlyn
-- 丹丹
 - Siew Lian
 - Bee Choo
 - Fathima
@@ -2299,7 +2297,6 @@ firstnames_female:
 - Shirleen
 - Lihua
 - Xiaohui
-- 美玲
 - Liying
 - Huihui
 - Jia Yi
@@ -2320,7 +2317,6 @@ firstnames_female:
 - Petrina
 - Vy
 - Estella
-- 海燕
 - Shermin
 - Kellie
 - Amalina
@@ -2419,7 +2415,6 @@ firstnames_female:
 - Shandy
 - Rebekah
 - Lijun
-- 丽娟
 - Xiaohong
 - Liting
 - Ying Ying
@@ -2462,7 +2457,6 @@ firstnames_female:
 - Suriati
 - Tomoko
 - Yixuan
-- 晶晶
 - Xinhui
 - Ailing
 - Tin Tin
@@ -2497,8 +2491,6 @@ firstnames_female:
 - Quyen
 - Yiwen
 - Genie
-- 玲玲
-- 丽华
 - Adelyn
 - Kim Hong
 - Htwe
@@ -2555,15 +2547,11 @@ firstnames_female:
 - Ziyi
 - Yanan
 - Yuling
-- 佳佳
-- 丽娜
 - Xiaomei
 - Shimin
 - Huiying
-- 美美
 - Shihui
 - Huiyi
-- 秀珍
 - Ayeaye
 - Manisah
 - Hooi
@@ -2614,7 +2602,6 @@ firstnames_female:
 - Jolynn
 - Siying
 - Feifei
-- 珊珊
 - Wenwen
 - Ting Ting
 - Siew Kee
@@ -2779,12 +2766,10 @@ firstnames_female:
 - Yujie
 - Xinxin
 - Yangyang
-- 丽萍
 - Yanping
 - Yanli
 - Wenhui
 - Lixia
-- 秀英
 - Xinying
 - Sihui
 - Fann
@@ -2847,9 +2832,7 @@ firstnames_female:
 - Lifang
 - Wenxin
 - Xueli
-- 玉兰
 - Lilin
-- 玉珍
 - Win Win
 - Siau
 - Habsah
@@ -2867,7 +2850,6 @@ firstnames_female:
 - Jannatul
 - Annaliza
 - Jhing
-- মেঘলা
 - Sowmya
 - Roselle
 - Charu
@@ -2938,12 +2920,9 @@ firstnames_female:
 - Nanthini
 - Wynne
 - Wenting
-- 媛媛
 - Qiong
-- 倩倩
 - Xiaomin
 - Xiaohua
-- 雪梅
 - Yiping
 - Wenqi
 - Jialing
@@ -3001,6 +2980,28 @@ firstnames_female:
 - Weili
 - Keira
 - Emilyn
+- Kasturi
+- Beebee
+- Diyah
+- Atun
+- Fiqah
+- Syifa
+- Azlin
+- Lynna
+- Marsya
+- Zaidah
+- Iqah
+- Norliza
+- Nayli
+- Albee
+- Tutik
+- Junainah
+- Ajeng
+- Midah
+- Katijah
+- Snowy
+- Jinny
+- Ivory
 lastnames:
 - Tan
 - Lim
@@ -3872,7 +3873,6 @@ lastnames:
 - Kiang
 - Serene
 - Ngiam
-- মন
 - Karthikeyan
 - Mahendran
 - Tu
@@ -3912,7 +3912,6 @@ lastnames:
 - Kun
 - Samat
 - Giam
-- জীবন
 - Tea
 - Periyasamy
 - Nancy
@@ -4130,7 +4129,6 @@ lastnames:
 - Chiong
 - Cheo
 - Hnin
-- আকাশ
 - Sudhakar
 - Murthy
 - Rayhan
@@ -4164,7 +4162,6 @@ lastnames:
 - Sobuj
 - Sinha
 - Nirob
-- বালক
 - Karuppaiah
 - Ace
 - Vin
@@ -4247,7 +4244,6 @@ lastnames:
 - Poe
 - Arjun
 - Sujan
-- পাখি
 - Suri
 - De Vera
 - Sudha
@@ -4306,7 +4302,6 @@ lastnames:
 - Patil
 - Ravindran
 - Prabha
-- আমি
 - Radha
 - Subbu
 - Aminul
@@ -4328,7 +4323,6 @@ lastnames:
 - Darren
 - Ngoc
 - Singai
-- ইসলাম
 - Abedin
 - Abir
 - Uma
@@ -4502,3 +4496,10 @@ lastnames:
 - Angeline
 - Xiu
 - Chuen
+- Jumari
+- Matin
+- Sridhar
+- Narayanasamy
+- Vetri
+- Magesh
+- Manimaran

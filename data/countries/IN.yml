@@ -1,3 +1,4 @@
+---
 source: dataset
 firstnames_male:
 - Rahul
@@ -1108,7 +1109,6 @@ firstnames_male:
 - Sanatan
 - Siddhant
 - Chintan
-- राहुल
 - Nawaz
 - Rao
 - Nabin
@@ -1188,7 +1188,6 @@ firstnames_male:
 - Smit
 - Akshat
 - Jadav
-- गणेश
 - Rafiq
 - Israr
 - Manpreet
@@ -1234,9 +1233,7 @@ firstnames_male:
 - Jaga
 - Dharmveer
 - Sujoy
-- दिनेश
 - Maulik
-- संजय
 - Mumtaz
 - Harpreet
 - Balbir
@@ -1253,7 +1250,6 @@ firstnames_male:
 - Kalia
 - Saikat
 - Apurba
-- संतोष
 - Azam
 - Momin
 - Reddy
@@ -1283,7 +1279,6 @@ firstnames_male:
 - Viru
 - Dibakar
 - Anku
-- राजेश
 - Anirban
 - Namdev
 - Zaheer
@@ -1343,7 +1338,6 @@ firstnames_male:
 - Babai
 - Vedant
 - Ajinkya
-- अनिल
 - Ashiq
 - Faheem
 - Nithin
@@ -1381,8 +1375,6 @@ firstnames_male:
 - Anshuman
 - Bhupender
 - Deepanshu
-- मुकेश
-- राकेश
 - Desai
 - Jahir
 - Husain
@@ -1404,12 +1396,9 @@ firstnames_male:
 - Pappu Kumar
 - Kashinath
 - Raviraj
-- सुरेश
 - Ashish Kumar
 - Manjunatha
 - Arbaj
-- अजय
-- विजय
 - Subhan
 - Aminul
 - Muzammil
@@ -1455,7 +1444,6 @@ firstnames_male:
 - Monoj
 - Shreyas
 - Malay
-- रमेश
 - Suryakant
 - Abhinandan
 - Raghvendra
@@ -1500,6 +1488,19 @@ firstnames_male:
 - Devanand
 - Sapan
 - Sushil Kumar
+- Devilal
+- Prafulla
+- Rebel
+- Kashyap
+- Saksham
+- Jintu
+- Wajid
+- Javeed
+- Dildar
+- Dhanesh
+- Seraj
+- Perumal
+- Shanker
 firstnames_female:
 - Pooja
 - Priya
@@ -2998,9 +2999,9 @@ firstnames_female:
 - Saanvi
 - Viveka
 - Upasna
-- पुजा
 - Mushkan
 - Vartika
+- Kaushalya
 lastnames:
 - Kumar
 - Singh
@@ -3172,7 +3173,6 @@ lastnames:
 - Bhatt
 - Swain
 - Sarma
-- कुमार
 - Koli
 - Bhat
 - Panda
@@ -3374,7 +3374,6 @@ lastnames:
 - Sanju
 - Kujur
 - Irfan
-- यादव
 - Momin
 - Dave
 - Meher
@@ -3530,7 +3529,6 @@ lastnames:
 - Ak
 - Mondol
 - Adhikary
-- सिंह
 - Shahid
 - Sutradhar
 - Chohan
@@ -3671,7 +3669,6 @@ lastnames:
 - Kurmi
 - Katara
 - Ingle
-- पाटील
 - Vishnu
 - Vignesh
 - Kureshi
@@ -3690,7 +3687,6 @@ lastnames:
 - Dewangan
 - Irshad
 - Pawan
-- खान
 - Doley
 - Saab
 - Jeet
@@ -3785,7 +3781,6 @@ lastnames:
 - Priyanka
 - Kamat
 - Senapati
-- जाधव
 - Abbasi
 - Bahadur
 - Dk
@@ -3851,7 +3846,6 @@ lastnames:
 - Nagaraju
 - Surve
 - Parjapat
-- चौधरी
 - Minj
 - Sidhu
 - Kajal
@@ -3877,7 +3871,6 @@ lastnames:
 - Gore
 - Ravat
 - Khiangte
-- पवार
 - Sonwane
 - Bordoloi
 - Bharwad
@@ -4006,7 +3999,6 @@ lastnames:
 - Jogi
 - Manhas
 - Lata
-- शर्मा
 - Shahu
 - Jamwal
 - Hiremath
@@ -4067,7 +4059,6 @@ lastnames:
 - Sehgal
 - Ramani
 - Mohit
-- चौहान
 - Khandare
 - Bhanushali
 - Dehury
@@ -4075,7 +4066,6 @@ lastnames:
 - Chaudhry
 - Sudhakar
 - Siddu
-- राम
 - Jindal
 - Bhosle
 - Marathe
@@ -4205,7 +4195,6 @@ lastnames:
 - Kasyap
 - Mahata
 - Pargi
-- राजपूत
 - Daimari
 - Vk
 - Kunwar
@@ -4254,7 +4243,6 @@ lastnames:
 - Koley
 - Dora
 - Chhabra
-- पटेल
 - Saket
 - Sangwan
 - Pagare
@@ -4307,7 +4295,6 @@ lastnames:
 - Nitin
 - Singla
 - Nayaka
-- शिंदे
 - Pattnaik
 - Bisen
 - Khade
@@ -4342,7 +4329,6 @@ lastnames:
 - Mer
 - Manisha
 - Dagar
-- जाट
 - Khairnar
 - Dhakar
 - Pawara
@@ -4416,7 +4402,6 @@ lastnames:
 - Gajera
 - Gharat
 - Rajwar
-- ठाकुर
 - Saraswat
 - Patole
 - Ghadge
@@ -4502,3 +4487,19 @@ lastnames:
 - Gola
 - Kavya
 - Lamani
+- Haloi
+- Bty
+- Pramanick
+- Vasave
+- Parte
+- Jignesh
+- Mehul
+- Solnki
+- Yousuf
+- Limbu
+- Siraj
+- Shakir
+- Kumaran
+- Qadri
+- Javid
+- Naushad

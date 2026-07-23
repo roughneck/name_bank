@@ -1,3 +1,4 @@
+---
 source: dataset
 firstnames_male:
 - Md
@@ -60,8 +61,6 @@ firstnames_male:
 - Sanjay
 - Iqbal
 - Rasel
-- মোঃ
-- جاسم
 - Ganesh
 - Jaffar
 - Pradeep
@@ -82,7 +81,6 @@ firstnames_male:
 - Babul
 - Jakir
 - Prem
-- سلمان
 - Ripon
 - Prasad
 - Deepak
@@ -107,7 +105,6 @@ firstnames_male:
 - Kazi
 - Siva
 - Mansoor
-- راشد
 - Laxman
 - Javed
 - Siraj
@@ -132,7 +129,6 @@ firstnames_male:
 - Shankar
 - Mian
 - Pramod
-- بو
 - Waqas
 - Naveen
 - Rizwan
@@ -173,7 +169,6 @@ firstnames_male:
 - Chandran
 - Nizam
 - Ramu
-- سيد
 - Haris
 - Unni
 - Lal
@@ -183,7 +178,6 @@ firstnames_male:
 - Shaik
 - Shohel
 - Subhash
-- صادق
 - Afzal
 - Shameer
 - Moosa
@@ -208,7 +202,6 @@ firstnames_male:
 - Shiju
 - Shaikh
 - Rajendra
-- মো
 - Zeeshan
 - Dil
 - Joynal
@@ -250,7 +243,6 @@ firstnames_male:
 - Durga
 - Shohag
 - Ajmal
-- فاضل
 - Saju
 - Nazmul
 - Kamlesh
@@ -285,7 +277,6 @@ firstnames_male:
 - Reji
 - Shamsu
 - Anilkumar
-- আমি
 - Dileep
 - Swamy
 - Hasoon
@@ -327,7 +318,6 @@ firstnames_male:
 - Sudheesh
 - Mahbub
 - Sobuj
-- نواف
 - Varghese
 - Saqib
 - Prashanth
@@ -336,13 +326,11 @@ firstnames_male:
 - Iftikhar
 - Ramzan
 - Shabbir
-- سعود
 - Ramulu
 - Ijaz
 - Umer
 - Sanu
 - Ashik
-- মোহাম্মদ
 - Kabeer
 - Ashokan
 - Gulam
@@ -379,7 +367,6 @@ firstnames_male:
 - Salauddin
 - Kobir
 - Jahirul
-- خليفه
 - Shaju
 - Delwar
 - Azeem
@@ -401,8 +388,6 @@ firstnames_male:
 - Balu
 - Sattar
 - Md Sohel
-- নীল
-- অবুঝ
 - Awais
 - Venkat
 - Thirupathi
@@ -425,7 +410,6 @@ firstnames_male:
 - Md Sumon
 - Mithun
 - Juwel
-- অচেনা
 - Moidu
 - Sathyan
 - Baloch
@@ -447,7 +431,6 @@ firstnames_male:
 - Jabbar
 - Shine
 - Md Faruk
-- علاوي
 - Wajid
 - Asghar
 - Guddu
@@ -465,7 +448,6 @@ firstnames_male:
 - Shyju
 - Haneefa
 - Naushad
-- خليفة
 - Rezaul
 - Vineesh
 - Mainuddin
@@ -476,7 +458,6 @@ firstnames_male:
 - Girish
 - Johir
 - Sadeq
-- مشعل
 - Joby
 - Jabed
 - Tipu
@@ -526,7 +507,6 @@ firstnames_male:
 - Jowel
 - Md Masud
 - Ridoy
-- মন
 - Prabhu
 - Ajeesh
 - Manaf
@@ -615,7 +595,6 @@ firstnames_male:
 - Ajesh
 - Mozammel
 - Raveendran
-- আমার
 - Ejaz
 - Tayyab
 - Shailesh
@@ -667,7 +646,6 @@ firstnames_male:
 - Ziaur
 - Amzad
 - Sohid
-- عقيل
 - Meraj
 - Anbu
 - Gurwinder
@@ -686,8 +664,6 @@ firstnames_male:
 - Nagaraj
 - Joshim
 - Somon
-- অবুজ
-- علوي
 - Moin
 - Sirajul
 - Razzak
@@ -734,8 +710,6 @@ firstnames_male:
 - Shaha
 - Mohasin
 - Murtadha
-- سيد علي
-- سيد حسين
 - Gokul
 - Rajendar
 - Sridhar
@@ -770,14 +744,12 @@ firstnames_male:
 - Anjaiah
 - Sohidul
 - Rajon
-- তুমি
 - Md Billal
 - Komail
 - Munawar
 - Karthi
 - Sarwan
 - Lakshman
-- কষ্টের
 - Hamany
 - Fiaz
 - Kaleem
@@ -801,7 +773,6 @@ firstnames_male:
 - Sasidharan
 - Md Salim
 - Forid
-- سيد محمد
 - Javeed
 - Jamsheer
 - Shibin
@@ -826,8 +797,6 @@ firstnames_male:
 - Narsimlu
 - Md Shahin
 - Somun
-- নিল
-- অচিন
 - Muath
 - Duaij
 - Thiru
@@ -865,14 +834,10 @@ firstnames_male:
 - Mokbul
 - Md Ismail
 - Motaleb
-- بومحمد
 - Omor
 - Apon
 - Sopon
 - Md Sharif
-- মনের
-- ভালোবাসার
-- منتظر
 - Bahraini
 - Jitendar
 - Shoukath
@@ -881,7 +846,6 @@ firstnames_male:
 - Juned
 - Abul Kalam
 - Bimol
-- مرتضى
 - Mubashir
 - Surendar
 - Sitaram
@@ -897,9 +861,7 @@ firstnames_male:
 - Bipul
 - Badol
 - Rofiqul
-- প্রবাসী
 - Devaiah
-- بوعلي
 - Basharat
 - Ajaz
 - Pardesi
@@ -924,7 +886,6 @@ firstnames_male:
 - Razu
 - Shamol
 - Vinodan
-- بحراني
 - Younas
 - Meer
 - Mahar
@@ -996,10 +957,8 @@ firstnames_male:
 - Md Habib
 - Dipok
 - Md Mizan
-- সাইফুল
 - Rameshan
 - Md Sujon
-- একলা
 - Ridha
 - Mubashar
 - Noorul
@@ -1037,7 +996,6 @@ firstnames_male:
 - Fakhrul
 - Md Nazrul
 - Md Ibrahim
-- আকাশ
 - Noyon
 - Balaiah
 - Md Rana
@@ -1110,7 +1068,6 @@ firstnames_male:
 - Juel
 - Md Kamrul
 - Md Kawsar
-- ভালবাসার
 - Jasoom
 - Vinod Kumar
 - Surender
@@ -1133,8 +1090,6 @@ firstnames_male:
 - Yellaiah
 - Ganganna
 - Mohon
-- بوعبدالله
-- সোহেল
 - Kunhammad
 - Sayed Ahmed
 - Sayed Mohammed
@@ -1178,7 +1133,6 @@ firstnames_male:
 - Mojammel
 - Nandhu
 - Arfin
-- তুমি আমার
 - Ahmedy
 - Akhter
 - Rambabu
@@ -1200,12 +1154,9 @@ firstnames_male:
 - Maheen
 - Md Nurul
 - Chinnaiah
-- জীবন
 - Md Mohin
 - Nirmol
-- ভোরের
 - Abdulnabi
-- حسين علي
 - Amjid
 - Haleem
 - Bhagwan
@@ -1219,8 +1170,6 @@ firstnames_male:
 - Shobuj
 - Meshal
 - Shuvo
-- علي حسن
-- كميل
 - Gujjar
 - Harwinder
 - Saood
@@ -1262,7 +1211,6 @@ firstnames_male:
 - Linganna
 - Sayful
 - Mukter
-- بوحمد
 - Nannu
 - Shanto
 - Shapon
@@ -1271,9 +1219,7 @@ firstnames_male:
 - Md Alauddin
 - Tofayel
 - Murtada
-- مجتبى
 - Radhi
-- سيد هاشم
 - Rehmat
 - Tasawar
 - Shuhaib
@@ -1299,13 +1245,10 @@ firstnames_male:
 - Bijeesh
 - Ohid
 - Md Robel
-- অজানা
 - Ahmedo
 - Hassoon
 - Ahmedi
-- حماني
 - Humood
-- سيد حسن
 - Badshah
 - Tufail
 - Khawar
@@ -1349,7 +1292,6 @@ firstnames_male:
 - Razib
 - Dasan
 - Rased
-- সুমন
 - Khalilur
 - Md Helal
 - Md Jalal
@@ -1357,10 +1299,7 @@ firstnames_male:
 - Hassain
 - Tapon
 - Mood
-- মাসুদ
 - Hason
-- অভিমানী
-- احمدي
 - Alooi
 - Hood
 - Kadhem
@@ -1402,11 +1341,8 @@ firstnames_male:
 - Fahood
 - Md Rakib
 - Alsayed
-- بواحمد
 - Makki
-- অসমাপ্ত
 - Arahman
-- ميثم
 - Gull
 - Nafees
 - Mehtab
@@ -1463,18 +1399,11 @@ firstnames_male:
 - Jahagir
 - Lutfor
 - Md Joynal
-- بو محمد
-- মনির
 - Gangaiah
 - Taqi
-- بوخالد
 - Rajam
 - Kholil
 - Md Shohag
-- নিরব
-- সুখ
-- بحريني
-- عبدالنبي
 - Shabaz
 - Shazad
 - Saifu
@@ -1497,9 +1426,81 @@ firstnames_male:
 - Suruj
 - Rineesh
 - Md Masum
-- স্বপ্নের
 - Karrar
 - Qazi
+- Ajay Kumar
+- Radheshyam
+- Mahendran
+- Abdul Majeed
+- Murshid
+- Savad
+- Dhana
+- Mujibur
+- Omkar
+- Suranga
+- Jayachandran
+- Banwari
+- Vijith
+- Wasantha
+- Yesu
+- Jaynal
+- Asadul
+- Jassa
+- Bijesh
+- Nikesh
+- Deepesh
+- Gursewak
+- Kamaljit
+- Sager
+- Shabuddin
+- Satwinder
+- Siful
+- Sahajan
+- Hasem
+- Redoy
+- Sukkur
+- Md Anowar
+- Mdsumon
+- Dxn
+- Aloy
+- Imdad
+- Ateeq
+- Izhar
+- Shahzaib
+- Mughal
+- Harikesh
+- Haq
+- Saqlain
+- Shereef
+- Shakoor
+- Satendra
+- Bava
+- Nisam
+- Hareram
+- Sangam
+- Anshad
+- Kasun
+- Rijo
+- Sharwan
+- Anirudh
+- Sanjaya
+- Masuk
+- Gurpreet Singh
+- Narendar
+- Ramlal
+- Shemeer
+- Liyakat
+- Jayaram
+- Koya
+- Venugopal
+- Dayanand
+- Senthilkumar
+- Muhammadali
+- Janardhan
+- Abdulrehman
+- Sreenath
+- Gopinath
+- Thaju
 firstnames_female:
 - Zainab
 - Um
@@ -1507,7 +1508,6 @@ firstnames_female:
 - Noora
 - Nurul
 - Aysha
-- زينب
 - Shaikha
 - Hawra
 - Batool
@@ -1515,7 +1515,6 @@ firstnames_female:
 - Fatoom
 - Bunda
 - Sameera
-- زهراء
 - Rabab
 - Muneera
 - Lulwa
@@ -1554,7 +1553,6 @@ firstnames_female:
 - Cwazy
 - Putri
 - Naeema
-- حوراء
 - Beena
 - Sunitha
 - Shooq
@@ -1573,7 +1571,6 @@ firstnames_female:
 - Neng
 - Sheeba
 - Tahera
-- شيخه
 - Jawaher
 - Suja
 - Smitha
@@ -1584,16 +1581,12 @@ firstnames_female:
 - Ebtisam
 - Hameeda
 - Fatooma
-- رباب
 - Yaqeen
 - Jyothi
 - Suni
 - Latha
-- نوف
 - Siji
-- ام حسين
 - Jisha
-- دانه
 - Ghufran
 - Sakeena
 - Khatoon
@@ -1610,11 +1603,9 @@ firstnames_female:
 - Haleema
 - Shabana
 - Nenk
-- امينة
 - Um Ali
 - Umali
 - Iqra
-- شيخة
 - Sreeja
 - Jalila
 - Shiji
@@ -1633,7 +1624,6 @@ firstnames_female:
 - Ramla
 - Ranju
 - Sujatha
-- دانة
 - Chandrika
 - Nok
 - Farjana
@@ -1647,7 +1637,6 @@ firstnames_female:
 - Sruthi
 - Sarmin
 - Amoona
-- لولوة
 - Mekdes
 - Saru
 - Hiwot
@@ -1655,10 +1644,8 @@ firstnames_female:
 - Mem
 - Maryoom
 - Cecille
-- মেঘলা
 - Mashael
 - Sajeda
-- أم علي
 - Yanti
 - Rajwinder
 - Zoz
@@ -1669,7 +1656,6 @@ firstnames_female:
 - Chinnu
 - Nayana
 - Mhel
-- لطيفة
 - Hissa
 - Tg
 - Fadak
@@ -1679,7 +1665,6 @@ firstnames_female:
 - Bincy
 - Sudu
 - Thess
-- সাথী
 - Danah
 - Fatii
 - Shamna
@@ -1700,9 +1685,7 @@ firstnames_female:
 - Marwah
 - Kubra
 - Samaya
-- মেঘ
 - Siddiqa
-- حصه
 - Aswathi
 - Shyni
 - Kareema
@@ -1714,12 +1697,10 @@ firstnames_female:
 - Sumaira
 - Anamika
 - Lerma
-- لولوه
 - Roqaya
 - Fiza
 - Beza
 - Swathi
-- لطيفه
 - Resmi
 - Lhyn
 - Seddiqa
@@ -1730,8 +1711,6 @@ firstnames_female:
 - Sandya
 - Moony
 - Badoor
-- حميدة
-- سكينة
 - Naheed
 - Kanwal
 - Kabita
@@ -1740,11 +1719,8 @@ firstnames_female:
 - Flordeliza
 - Nurun
 - Jayasree
-- তানিয়া
 - Najeeba
-- أم حسين
 - Nawra
-- سكينه
 - Baneen
 - Marioom
 - Sapana
@@ -1771,12 +1747,10 @@ firstnames_female:
 - Nethmi
 - Shoug
 - Israt
-- فضيلة
 - Saroona
 - Bedoor
 - Emebet
 - Heena
-- مريوم
 - Lekshmi
 - Pramila
 - Janaki
@@ -1787,14 +1761,9 @@ firstnames_female:
 - Omana
 - Toota
 - Rathna
-- সুমি
 - Sukanya
 - Fooz
-- بنين
 - Meaad
-- شريفة
-- معصومة
-- نوراء
 - Sumayya
 - Sifan
 - Saeeda
@@ -1823,11 +1792,9 @@ firstnames_female:
 - Megla
 - Pusong
 - Lateefa
-- নীল আকাশের
 - Subah
 - Umahmed
 - Nedhal
-- ام جاسم
 - Mehwish
 - Bundha
 - Bulan
@@ -1838,11 +1805,8 @@ firstnames_female:
 - Sajina
 - Shoog
 - Wasana
-- وديعة
-- مشاعل
 - Roaya
 - Sameena
-- الريم
 - Niluka
 - Ruksana
 - Dammika
@@ -1857,21 +1821,16 @@ firstnames_female:
 - Laarni
 - Lija
 - Jenalyn
-- بدرية
 - Shaika
 - Manoor
 - Um Ahmed
 - Laksmi
 - Fouz
 - Mithila
-- معصومه
 - Fatimaa
 - Hanoof
 - Riffa
-- صديقة
 - Dhiya
-- فاتي
-- خاتون
 - Fatoo
 - Afshan
 - Shouq
@@ -1886,7 +1845,6 @@ firstnames_female:
 - Blessy
 - Noorjahan
 - Nawara
-- فضيله
 - Shoosh
 - Badreya
 - Sheikha
@@ -1906,7 +1864,6 @@ firstnames_female:
 - Manilyn
 - Shamla
 - Adanech
-- حصة
 - Salini
 - Navya
 - Sumana
@@ -1914,14 +1871,9 @@ firstnames_female:
 - Nethu
 - Nimfa
 - Sughra
-- ام السادة
 - Tooma
 - Zahoora
-- فدك
-- زنوب
-- زوز
 - Umhussain
-- شريفه
 - Nujood
 - Maitha
 - Zinash
@@ -1943,7 +1895,6 @@ firstnames_female:
 - Azil
 - Sopna
 - Fariya
-- নিঝুম
 - Noony
 - Hadooy
 - Gadeer
@@ -1968,7 +1919,6 @@ firstnames_female:
 - Maraim
 - Um Hussain
 - Aamal
-- موزه
 - Zebiba
 - Fatiya
 - Mamae
@@ -1980,7 +1930,6 @@ firstnames_female:
 - Risma
 - Savitha
 - Vineetha
-- ام حمد
 - Enat
 - Feker
 - Shati
@@ -2011,24 +1960,15 @@ firstnames_female:
 - Ana Marie
 - Mhine
 - Noralyn
-- রিয়া
 - Tanjina
 - Samana
-- শারমিন
-- মিস
 - Wajeeha
 - Athraa
 - Lolwa
 - Noofa
 - Yathreb
-- ام زهراء
-- ام فاضل
 - Shiney
-- مناير
 - Mint
-- نيله
-- فوز
-- موزة
 - Abebech
 - እግዚአብሔር
 - Meskerem
@@ -2045,7 +1985,6 @@ firstnames_female:
 - Ailene
 - Sadamali
 - Gete
-- الهنوف
 - Rhose
 - Normina
 - Rajeswari
@@ -2054,10 +1993,8 @@ firstnames_female:
 - Emani
 - Madushani
 - Awoosh
-- ام فاطمه
 - Faheema
 - Kedija
-- الغلا
 - Eyerus
 - Sumera
 - Tegest
@@ -2100,12 +2037,10 @@ firstnames_female:
 - Leelamma
 - Aayat
 - Meghla
-- চাঁদের
 - Fowzia
 - Ruqayah
 - Thajba
 - Wadooa
-- ام زينب
 - Hesa
 - Rodora
 - Shosha
@@ -2117,24 +2052,13 @@ firstnames_female:
 - Amoora
 - Hanoon
 - Dhuha
-- سارونه
 - Aaya
-- جليلة
-- نوني
-- كلثم
 - Mayeth
 - Sakoon
-- ام عبود
 - Saroo
-- ام سلمان
 - Saramma
-- ام عيسى
-- خوخة
-- طاهرة
 - Suseela
-- الجازي
 - Um Mohammed
-- وديعه
 - Rajeshwari
 - Mahra
 - Fiker
@@ -2170,23 +2094,15 @@ firstnames_female:
 - Adeela
 - ሀናን
 - Toomy
-- Мадина
-- Амина
 - Tuqa
 - Pori
-- সাদিয়া
-- ময়না
-- সাথি
 - Nyl
-- ام فاطمة
 - Irangani
-- هاشمية
 - Safooy
 - Freeda
 - Mariafe
 - Njood
 - Sunisa
-- مرايم
 - Janahi
 - Maryom
 - Aey
@@ -2198,9 +2114,7 @@ firstnames_female:
 - Ploy
 - Fawzeya
 - Zabiba
-- ام راشد
 - Rehima
-- ميم
 - Fidha
 - Umy
 - Jaseela
@@ -2238,11 +2152,8 @@ firstnames_female:
 - Liway
 - Bambie
 - Fatoomi
-- أمينه
 - Arathi
 - Um Yousif
-- ام علاوي
-- هاشميه
 - Hanoo
 - Zayoon
 - Supaporn
@@ -2251,9 +2162,7 @@ firstnames_female:
 - Samoor
 - Dalool
 - Himali
-- ام الساده
 - Woinshet
-- ام عباس
 - Jaleela
 - Zainabi
 - Toyba
@@ -2324,27 +2233,18 @@ firstnames_female:
 - Tumpa
 - Kirana
 - Zohoor
-- Милана
 - Fakhriya
-- Амира
 - Rodela
 - Nijum
 - Suborna
-- পাখি
-- ফাতেমা
-- মারিয়া
 - Jorna
 - Rotna
-- আখি
-- সোনিয়া
 - Mariom
 - Arunima
 - Subina
 - Maryooma
 - Basoom
 - Novelyn
-- ام حيدر
-- عقيله
 - Memee
 - Joojoo
 - Sirisha
@@ -2362,37 +2262,29 @@ firstnames_female:
 - Lizel
 - Norhaya
 - Zoozy
-- กาญจนา
 - Fatee
 - Hayoona
 - Um Salman
 - Athulya
 - Mariyamma
-- الدانه
 - Manayer
-- السيده
 - Ynnej
 - Mashalla
-- ام عبدالعزيز
 - Meemoo
-- زينب علي
 - Khdija
 - Wafooy
 - Deepani
 - Noonoo
-- فخرية
 - Hansika
 - Ikaw Lang
 - Um Abdulla
 - Lyca
 - Meead
-- انيسه
 - Bayoon
 - Levie
 - Zhel
 - Um Zainab
 - Alsayda
-- فديت
 - Juwaher
 - Nadooy
 - Bahiya
@@ -2439,26 +2331,17 @@ firstnames_female:
 - Bhabes
 - Mahal Kita
 - Hoora
-- مدينه
 - Menchu
-- Джамиля
 - Mayabi
 - Samima
-- মিম
-- আশা
-- সারমিন
-- সিমা
 - Jisa
 - Essra
 - Jackielyn
 - Hashmia
-- نور الزهراء
 - Shylaja
 - Priyadarshani
 - Hussa
-- مريم علي
 - Umabdulla
-- ام حمود
 - Sabika
 - Latoofa
 - Anig
@@ -2471,7 +2354,6 @@ firstnames_female:
 - Um Noor
 - Sivani
 - Shrouk
-- عقيلة
 - Samrah
 - Mneera
 - Umyousif
@@ -2488,7 +2370,6 @@ firstnames_female:
 - Mhai
 - Shijina
 - Durra
-- Айша
 - Umsalman
 - Fowz
 - Reetha
@@ -2506,7 +2387,6 @@ firstnames_female:
 - Sopia
 - Nadeera
 - Zeyneba
-- عذاري
 - Jahra
 - Hareg
 - Fasna
@@ -2576,25 +2456,11 @@ firstnames_female:
 - Naghma
 - Fatiima
 - Suwanna
-- মিষ্টি
-- নুসরাত
 - Borsha
 - Nil Pori
-- মায়াবী
-- মায়া
-- সানজিদা
-- ফারিয়া
 - Chader
-- মোছাঃ
-- লিজা
-- প্রজাপতি
-- রিমা
 - Mokta
-- পপি
-- লিমা
-- ইভা
 - Sathy
-- মিছ
 - Zainad
 - Arpitha
 - Nahad
@@ -2604,11 +2470,9 @@ firstnames_female:
 - Airah
 - Reemii
 - Dhay
-- حكيمة
 - Kedist
 - Shajitha
 - Ghing
-- أم فاطمة
 - Ecarg
 - Bhie
 - Atikah
@@ -2627,10 +2491,8 @@ firstnames_female:
 - Kalima
 - Auliya
 - Dorga
-- วาสนา
 - Nattaya
 - Thikrayat
-- جليله
 - Hamandi
 - Jenilyn
 - Suraida
@@ -2641,13 +2503,11 @@ firstnames_female:
 - Ryza
 - Enelra
 - Letecia
-- المزيونه
 - Nithu
 - Suchada
 - Realyn
 - Umebrahim
 - Sitra
-- ام رضا
 - Zahora
 - Faxee
 - Norhaina
@@ -2661,28 +2521,21 @@ firstnames_female:
 - Shayoom
 - Sabeeha
 - Feba
-- بت
 - Saydoon
 - Sredha
-- صغرى
 - Fuchchi
 - Hajoor
-- فطووم
-- ام فطوم
 - Mubashira
 - Dilsha
 - Badeth
-- نيلة
 - Rinz
 - Umjassim
 - Mylin
 - Souda
 - Juvelyn
-- ام خليفة
 - Rayoom
 - Sheery
 - Rozaa
-- أم السادة
 - Biftu
 - Marawi
 - Jomol
@@ -2692,12 +2545,10 @@ firstnames_female:
 - Shashini
 - Lamrot
 - Faeqa
-- นิตยา
 - Toofa
 - Ednalyn
 - Mamake
 - Hyma
-- بحرينيه
 - Shrifa
 - Syamala
 - Assiram
@@ -2721,8 +2572,6 @@ firstnames_female:
 - Aregash
 - Mounika
 - Umkhalid
-- فخريه
-- ام كرار
 - Fayiza
 - Saguira
 - Kokom
@@ -2733,7 +2582,6 @@ firstnames_female:
 - Remalyn
 - Nishani
 - Puy
-- صديقه
 - Jennilyn
 - Saraswathi
 - ገኒ
@@ -2755,11 +2603,9 @@ firstnames_female:
 - Sudarat
 - Shainy
 - Rimpy
-- فاطم
 - Aishu
 - Sreena
 - Dalisay
-- راحيل
 - Sobhana
 - Kochumol
 - Vrinda
@@ -2768,7 +2614,6 @@ firstnames_female:
 - Mouza
 - Awash
 - አላህ
-- فطيم
 - Alanoud
 - Kasih
 - ዘይነብ
@@ -2796,7 +2641,6 @@ firstnames_female:
 - Mufeeda
 - Elsabet
 - Nengsih
-- ام خليفه
 - Nelam
 - Roshna
 - Mangalika
@@ -2832,57 +2676,39 @@ firstnames_female:
 - Kanokwan
 - Masii
 - Sirirat
-- Самира
-- Фатима
-- Сара
 - Jamilya
-- Марьям
 - Mikay
 - Mohona
 - Tanjin
 - Rumpa
 - Kakoli
 - Kobita
-- মেঘলা আকাশ
 - Jonaki
 - Rajkumari
 - Shipa
-- কথা
 - Runu
 - Somaiya
 - Rujina
-- রুপ
 - Zinnat
 - Easmin
-- শান্তা
 - Mridula
-- আকলিমা
-- আছমা
-- আমেনা
-- চাঁদনি
 - Sabiya
-- সুমি আক্তার
 - Susmi
 - Mosumi
 - Shaly
 - Niroshani
 - Gincy
-- ام سيد
 - Nipuni
 - Hiwi
 - Umfatima
 - Meklit
 - Lynmar
-- شهربان
 - Buisa
 - Mahalkita
 - Tayan
 - Zozy
-- أم جاسم
 - Mariooma
 - Samooy
-- ام جعفر
-- ผู้สาว
 - Amooni
 - Abebu
 - Norilyn
@@ -2893,11 +2719,9 @@ firstnames_female:
 - Akshara
 - Munisa
 - Patima
-- أم سلمان
 - Nenti
 - Noosa
 - Rawabi
-- ขนิษฐา
 - Walah
 - Jamella
 - Narisa
@@ -2912,7 +2736,6 @@ firstnames_female:
 - Jeewani
 - Zainba
 - Enen
-- ام نواف
 - Ummariam
 - Chinnari
 - Samoora
@@ -2932,11 +2755,9 @@ firstnames_female:
 - Luluwa
 - Worke
 - Tin-Tin
-- موضي
 - Injood
 - Aysh
 - Fasila
-- حسينية
 - Parichat
 - Aljoory
 - Aljoori
@@ -2950,18 +2771,14 @@ firstnames_female:
 - Suwarna
 - Athra
 - Kcha
-- ام علوي
-- فاطمة علي
 - Sujee
 - Batoola
 - Tizta
 - Mnira
-- หน่อย
 - ዮርዳኖስ
 - Dilna
 - Umii
 - አበባ
-- خدوج
 - Mawaheb
 - Nhing
 - Bainor
@@ -3001,6 +2818,190 @@ firstnames_female:
 - Nikhat
 - Bundah
 - Beenish
+- Birke
+- Burte
+- Shiza
+- Jaseena
+- Etenesh
+- Ziyada
+- Emabet
+- Bhunda
+- Siifaan
+- Sabbontu
+- Ayelech
+- Shekha
+- Asnaku
+- Weynshet
+- Priyanga
+- Noraisa
+- Chinchu
+- ሚሚ
+- Rehna
+- Makdes
+- Fikr
+- Suryati
+- Mahreen
+- Maryati
+- Zenaba
+- Jayalakshmi
+- Sushama
+- Panget
+- Faxumaa
+- ሠላም
+- Um Mohamed
+- Sitina
+- Wubalem
+- Sosina
+- Jipsy
+- Yanee
+- Rugaya
+- Odhora
+- Sanzida
+- Labonno
+- Vorer
+- Saifa
+- Mohima
+- Ajanta
+- Silpi
+- Aney
+- Mahjabeen
+- Shate
+- Sadeya
+- Fathama
+- Rojy
+- Famida
+- Jintana
+- Hilina
+- Flossy
+- Sudharma
+- Efrata
+- Malditang
+- Diana Rose
+- Hashmeya
+- Lhyne
+- Zalikha
+- Shanas
+- Jhosie
+- Kanyarat
+- Lideya
+- Loveleen
+- Sadeqa
+- Ameliya
+- Hashmya
+- Mudhi
+- Astu
+- Cinta Suci
+- Lheng
+- Mhaldita
+- Aneena
+- Jamsheena
+- Seenath
+- Nhice
+- Marialyn
+- Lachmi
+- Umhamad
+- Um Hassan
+- Wanwisa
+- Honeylyn
+- Umabood
+- Sajeeda
+- Harshitha
+- Kooka
+- Haiqa
+- Ftima
+- Zanooba
+- Chrislyn
+- Sandaya
+- Nenah
+- Shaikhat
+- Lynrose
+- Mahooy
+- Huwa
+- Um Fahad
+- Hayat Hayat
+- Milaflor
+- Meemz
+- Atoom
+- Kesih
+- Rohimah
+- Rhiza
+- Saraswathy
+- Welete
+- Sumalee
+- Wassana
+- Cristita
+- Jainab
+- Waraporn
+- Pawani
+- Rajasree
+- Kasuni
+- Hashini
+- Lynskie
+- Tigisti
+- Fatoomii
+- Jay Ann
+- Preet Kaur
+- Makya
+- Lyn Lyn
+- Lulua
+- Om Fatima
+- Sinju
+- Clariz
+- Tayyba
+- Meroon
+- Darartu
+- Boontuu
+- Noorii
+- Lembayung
+- ሙና
+- Jenab
+- Phylis
+- Anurada
+- Um Hamad
+- Umfaisal
+- Kamool
+- Shahraban
+- Tenagne
+- Pirya
+- Bidadari
+- Fehmida
+- Sopiah
+- Toome
+- Maheshi
+- Um Hasan
+- Sohni
+- Um Ebrahim
+- Anakha
+- Natoofa
+- Lhet
+- Hinna
+- Um Jassim
+- Hmoon
+- Binitha
+- Manooy
+- Sajila
+- Ghusoon
+- Luningning
+- Ashwathi
+- Mariam Ali
+- Sincy
+- Jamool
+- Jhelai
+- Hoorii
+- Anewor
+- Bshayer
+- Rubelyn
+- Elesa
+- Azzah
+- Hearty
+- Belie
+- Latoof
+- Lelanie
+- Fadhela
+- Saboo
+- Juvilyn
+- Ambli
+- Maliwan
 lastnames:
 - Khan
 - Kumar
@@ -3026,7 +3027,6 @@ lastnames:
 - Faruk
 - Chauhan
 - Sumon
-- الدوسري
 - Ullah
 - Raju
 - Akter
@@ -3077,14 +3077,12 @@ lastnames:
 - Hossin
 - Kabir
 - Yousuf
-- العنزي
 - Masud
 - Pk
 - Rajan
 - Jahangir
 - Awan
 - Kumari
-- اليافعي
 - Liton
 - Kp
 - Babul
@@ -3099,7 +3097,6 @@ lastnames:
 - Manik
 - Rehman
 - Pillai
-- المريسي
 - Asif
 - Mizan
 - Saiful
@@ -3132,7 +3129,6 @@ lastnames:
 - Mubarak
 - Shamim
 - Alamgir
-- الحمري
 - Mondal
 - Nawaz
 - Althawadi
@@ -3156,11 +3152,9 @@ lastnames:
 - Nadeem
 - Chand
 - Mughal
-- جاسم
 - Juma
 - Rajesh
 - Shaik
-- البلوشي
 - Tariq
 - Kc
 - Albalushi
@@ -3172,10 +3166,8 @@ lastnames:
 - Ahammed
 - Alaradi
 - Sohag
-- العلوي
 - Farooq
 - Nishad
-- سلمان
 - Hannan
 - Radhi
 - Irfan
@@ -3189,11 +3181,9 @@ lastnames:
 - Kutty
 - Ck
 - Moosa
-- الموسوي
 - Jaffer
 - Anowar
 - Alansari
-- النعيمي
 - Almajed
 - Sahani
 - Alsayed
@@ -3203,38 +3193,30 @@ lastnames:
 - Kawsar
 - Muthu
 - Jameel
-- মন
 - Jangir
 - Sujon
 - Kannur
-- الشمري
 - Ahmmed
 - Riaz
 - Sattar
 - Tk
 - Hosain
 - Kv
-- الذوادي
 - Jashim
 - Momin
 - Milon
-- জীবন
-- العمري
 - Saddam
 - Shaji
 - Bashar
 - Murugan
 - Almulla
 - Shil
-- ইসলাম
 - Vk
 - Kamrul
 - Almosawi
-- মিয়া
 - Ashoor
 - Abbasi
 - Mulla
-- আক্তার
 - Alkaabi
 - Pandey
 - Pv
@@ -3254,19 +3236,15 @@ lastnames:
 - Sunil
 - Konjo
 - Yaqoob
-- পাখি
 - Mozumder
 - Sabt
-- العالي
 - Sobuj
 - Masood
 - Goud
-- খান
 - Santhosh
 - Anil
 - Khamis
 - Bajwa
-- হোসেন
 - Jani
 - Vijay
 - Giri
@@ -3297,10 +3275,7 @@ lastnames:
 - Kashem
 - Adhikari
 - Fadhel
-- الخلاقي
 - Munna
-- الماجد
-- القلاف
 - Naveed
 - Suman
 - Rony
@@ -3312,15 +3287,12 @@ lastnames:
 - Narayanan
 - Ganesh
 - Badsha
-- الكعبي
 - Qureshi
 - Shajahan
 - Sagor
 - Bablu
-- الحايكي
 - Waheed
 - Sarhan
-- العرادي
 - Delowar
 - Rajbhar
 - Muneer
@@ -3340,7 +3312,6 @@ lastnames:
 - Yeasin
 - Kumara
 - Acharya
-- মানুষ
 - Alkhalifa
 - Alhayki
 - Waseem
@@ -3354,10 +3325,7 @@ lastnames:
 - Rasool
 - Narayan
 - Unni
-- আকাশ
-- مرهون
 - Ashok
-- الهاجري
 - Jatt
 - Sikder
 - Kushwaha
@@ -3374,7 +3342,6 @@ lastnames:
 - Hamood
 - Sorkar
 - Vinod
-- القحطاني
 - Khatri
 - Gondal
 - Sankar
@@ -3416,8 +3383,6 @@ lastnames:
 - Motin
 - Mostofa
 - Mojumder
-- مدن
-- الرويعي
 - Arun
 - Poojary
 - Feni
@@ -3437,7 +3402,6 @@ lastnames:
 - Bucheeri
 - Hubail
 - Debnath
-- الرياشي
 - Baqer
 - Pradeep
 - Aljowder
@@ -3447,7 +3411,6 @@ lastnames:
 - Qamber
 - Jaman
 - Khokan
-- বালক
 - Latheef
 - Niazi
 - Saju
@@ -3457,7 +3420,6 @@ lastnames:
 - Chouhan
 - Hosan
 - Brar
-- الملا
 - Mahato
 - Ahad
 - Lakshmi
@@ -3466,20 +3428,14 @@ lastnames:
 - Ansar
 - Murali
 - Ayyad
-- النهام
 - Nasar
 - Jangid
 - Kollam
 - Talukder
 - Vadakara
-- العبدالله
-- العميري
 - Ulla
 - Ashfaq
 - Jewel
-- আমার
-- আমি
-- السالم
 - Rahul
 - Mol
 - Dhar
@@ -3491,12 +3447,9 @@ lastnames:
 - Kashif
 - Rohman
 - Juwel
-- ছেলে
 - Swamy
 - Ahammad
 - Uzzal
-- مكي
-- الصيادي
 - Shibu
 - Shehabi
 - Sekar
@@ -3505,13 +3458,11 @@ lastnames:
 - Koshy
 - Talukdar
 - Shahalam
-- جناحي
 - Redha
 - Bhatia
 - Siddik
 - Forhad
 - Thamer
-- الفردان
 - Almannai
 - Matrook
 - Shani
@@ -3522,7 +3473,6 @@ lastnames:
 - Ridoy
 - Zainab
 - Qassim
-- البحراني
 - Alsada
 - Almarzooq
 - Alkuwari
@@ -3539,12 +3489,10 @@ lastnames:
 - Polash
 - Taqi
 - Aljamri
-- الرميحي
 - Madhavan
 - Surendran
 - Rohim
 - Josim
-- البصري
 - Rafique
 - Calicut
 - Jabed
@@ -3560,7 +3508,6 @@ lastnames:
 - Praveen
 - Nirmal
 - Mizi
-- كاظم
 - Babar
 - Durai
 - Kurian
@@ -3575,7 +3522,6 @@ lastnames:
 - Somon
 - Ateeq
 - Alkhaldi
-- رضي
 - Maurya
 - Fareed
 - Madhu
@@ -3590,14 +3536,12 @@ lastnames:
 - Afsar
 - Moideen
 - Bangla
-- রহমান
 - Sain
 - Balakrishnan
 - Vasu
 - Lingam
 - Pakhi
 - Sohid
-- ভালোবাসা
 - Sojib
 - Parsad
 - Satti
@@ -3611,9 +3555,7 @@ lastnames:
 - Saiyed
 - Alnasser
 - Bahraini
-- البناء
 - Albasri
-- الدرازي
 - Ramu
 - Munda
 - Narayana
@@ -3622,17 +3564,14 @@ lastnames:
 - Mijan
 - Dashti
 - Payyoli
-- الدخيل
 - Ijaz
 - Jaleel
 - Razzaq
 - Sukumaran
 - Shorif
-- المطوع
 - Alhamad
 - Alaswad
 - Kuddus
-- علوي
 - Shabbir
 - Bhattarai
 - Didar
@@ -3641,7 +3580,6 @@ lastnames:
 - Vimal
 - Sabbir
 - Somun
-- الحجاجي
 - Swar
 - Shopon
 - Al Alawi
@@ -3661,31 +3599,25 @@ lastnames:
 - Riyad
 - Vatakara
 - Alsayegh
-- المالكي
 - Alsari
 - Albuainain
 - Malalla
-- السردي
 - Np
 - Bhujel
 - Mintu
 - Motaleb
-- الخباز
 - Younas
 - Rafeek
 - Subramanian
 - Appu
 - Madathil
 - Narsaiah
-- আলম
 - Alkhaja
-- الجزيري
 - Putri
 - Arjun
 - Ajith
 - Datta
 - Aloraibi
-- سبت
 - Dahal
 - Sasidharan
 - Jeet
@@ -3702,8 +3634,6 @@ lastnames:
 - Alblushi
 - Miazi
 - Ghareeb
-- السبيعي
-- الرويلي
 - Buali
 - Almahmeed
 - Ghuloom
@@ -3739,14 +3669,11 @@ lastnames:
 - Nazeer
 - Behera
 - Zeeshan
-- المري
 - Shanu
 - Cherian
 - Raveendran
 - Akthar
 - Shyam
-- আকতার
-- ভালবাসা
 - Anower
 - Aali
 - Aldosari
@@ -3756,16 +3683,13 @@ lastnames:
 - Alabbasi
 - Gujar
 - Ramjan
-- আহমেদ
 - Fadhul
 - Haneef
 - Shiva
 - Ayoob
 - Laxmi
 - Saidul
-- القصاب
 - Matooq
-- المنصوري
 - Alhammadi
 - Aftab
 - Pariyar
@@ -3773,13 +3697,11 @@ lastnames:
 - Sabuj
 - Sajib
 - Foysal
-- الضالعي
 - Alhawaj
 - Mohanan
 - Abedin
 - Majhi
 - Kholil
-- العقيدي
 - Badshah
 - Ajmal
 - Nawab
@@ -3792,22 +3714,16 @@ lastnames:
 - Alsaad
 - Alzayed
 - Albahrain
-- الشميري
-- المساعيد
 - Almahmood
-- العماش
 - Kishor
 - Dogar
 - Sathish
 - Sabu
 - Jayan
-- السادة
-- فردان
 - Gir
 - Perambra
 - Bucheery
 - Alshehabi
-- السندي
 - Alkhabbaz
 - Kadhem
 - Rafeeq
@@ -3822,12 +3738,9 @@ lastnames:
 - Satheesh
 - Majumder
 - Basir
-- العتيبي
 - Falamarzi
-- الموالي
 - Fateel
 - Showaiter
-- حبيل
 - Neupane
 - Sahni
 - Tamil
@@ -3835,8 +3748,6 @@ lastnames:
 - Anilkumar
 - Joshim
 - Nawaf
-- الكواري
-- الجمري
 - Minhas
 - Suhail
 - Ghulam
@@ -3845,20 +3756,14 @@ lastnames:
 - Vishnu
 - Tipu
 - Anish
-- मगर
 - Halal
 - Humayun
 - Al Balushi
 - Mobarak
-- তুমি
-- রানা
 - Sahadat
 - Mohasin
-- الحمر
-- الصفار
 - Alkhan
 - Almalood
-- قمبر
 - Riffa
 - Saravanan
 - Dcosta
@@ -3881,7 +3786,6 @@ lastnames:
 - Kummari
 - Akkas
 - Alajmi
-- المناعي
 - Almubarak
 - Alghatam
 - Gond
@@ -3891,20 +3795,15 @@ lastnames:
 - Selvaraj
 - Latha
 - Shuvo
-- سند
-- الروح
 - Alhaddar
 - Rakesh
 - Sandeep
 - Mengal
 - Tharu
 - Reji
-- العوضي
 - Dalim
 - Awadh
 - Mojumdar
-- العريبي
-- الساري
 - Almansoori
 - Farook
 - Pathak
@@ -3916,9 +3815,6 @@ lastnames:
 - Bellal
 - Biplob
 - Khayer
-- فرحان
-- مال الله
-- الكوهجي
 - Alhaiky
 - Sundar
 - Goraya
@@ -3927,8 +3823,6 @@ lastnames:
 - Kahan
 - Shill
 - Bapari
-- صمود
-- الحدي
 - Ashiq
 - Safdar
 - Negi
@@ -3945,9 +3839,7 @@ lastnames:
 - Alshaer
 - Anamul
 - Jolil
-- আলো
 - Mandi
-- الناصر
 - Madbor
 - Almeer
 - Aldosri
@@ -3960,8 +3852,6 @@ lastnames:
 - Saqer
 - Abdulkarim
 - Sopon
-- النوبي
-- نصيف
 - Wazir
 - Khattak
 - Pardesi
@@ -3975,7 +3865,6 @@ lastnames:
 - Jass
 - Rashel
 - Mojib
-- الصوفي
 - Albahrani
 - Fakhro
 - Mahto
@@ -4001,7 +3890,6 @@ lastnames:
 - Al Shaikh
 - Al-Khalifa
 - Kazerooni
-- الشاخوري
 - Mallick
 - Sarfraz
 - Thayyil
@@ -4010,7 +3898,6 @@ lastnames:
 - Sakil
 - Alamer
 - Alhamar
-- القيدوم
 - Bukamal
 - Waqar
 - Kunwar
@@ -4020,7 +3907,6 @@ lastnames:
 - Abhi
 - Shikder
 - Sadeq
-- একা
 - Patowary
 - Rabea
 - Alzain
@@ -4028,13 +3914,10 @@ lastnames:
 - Alkhayat
 - Shabib
 - Baharain
-- العدواني
 - Albader
-- المرزوق
 - Qadeer
 - Bhaskar
 - Koya
-- الرشيدي
 - Chalil
 - Nayan
 - Roshid
@@ -4046,7 +3929,6 @@ lastnames:
 - Hassain
 - Lslam
 - Amzad
-- الغانم
 - Alisa
 - Alrumaihi
 - Alhussaini
@@ -4068,17 +3950,13 @@ lastnames:
 - Mofiz
 - Aminul
 - Bhuiya
-- জিবন
 - Prodhan
 - Mohon
 - Badol
 - Vadla
-- الراشد
-- عتيق
 - Abdali
 - Rashdan
 - Al Aali
-- الوداعي
 - Almurbati
 - Alsubaie
 - Sahwan
@@ -4090,12 +3968,8 @@ lastnames:
 - Shaju
 - Bandi
 - Al Sayed
-- العماري
-- الصايغ
 - Rabeea
-- البوعينين
 - Seyadi
-- الفرج
 - Shehzad
 - Khaliq
 - Jena
@@ -4105,19 +3979,15 @@ lastnames:
 - Mudhiraj
 - Faruq
 - Ratan
-- উদ্দিন
 - Noyon
 - Sayanna
 - Sorif
 - Rajon
 - Pori
 - Aljaber
-- الشرفي
 - Kadhim
 - Meftah
 - Alromaihi
-- ميرزا
-- الساده
 - Alhalwachi
 - Alfaraj
 - Alkamel
@@ -4131,8 +4001,6 @@ lastnames:
 - Kajol
 - Bijoy
 - Askani
-- الكبيسي
-- خضير
 - Al-Shaikh
 - Aalam
 - Naaz
@@ -4152,17 +4020,13 @@ lastnames:
 - Kaium
 - Shalam
 - Munsi
-- সরকার
 - Ballal
 - Mosharof
 - Alalwi
 - Mayoof
-- البنعلي
-- القطان
 - Abdulaal
 - Yateem
 - Sroor
-- الزياني
 - Umair
 - Tvm
 - Thankappan
@@ -4174,7 +4038,6 @@ lastnames:
 - Alsamahiji
 - Albanki
 - Fakhroo
-- الحيدري
 - Aljassim
 - Budhathoki
 - Panwar
@@ -4188,10 +4051,6 @@ lastnames:
 - Ohid
 - Alkubaisi
 - Merza
-- الهدار
-- الشويخ
-- بورشيد
-- البورشيد
 - Zeb
 - Albloushi
 - Tanoli
@@ -4214,29 +4073,19 @@ lastnames:
 - Samsul
 - Hok
 - Shimul
-- হাসান
 - Cleaning
 - Habibur
 - Nayem
 - Kavil
 - Niloy
-- পথিক
 - Julhas
 - Poran
-- গল্প
 - Alsabbagh
-- حاجي
 - Shakeeb
-- البري
 - Sabba
-- ضيف
-- الشهابي
 - Sayyar
 - Ajlan
-- العطاوي
-- الطيري
 - Mahfoodh
-- العصفور
 - Khatam
 - Alzaki
 - Almahroos
@@ -4257,7 +4106,6 @@ lastnames:
 - Rezaul
 - Shakib
 - Alnoor
-- الجابر
 - Bubshait
 - Hujairi
 - Al Aradi
@@ -4288,15 +4136,9 @@ lastnames:
 - Salmeen
 - Fatoom
 - Riyadh
-- الجاسم
-- بوعلي
-- البحريني
-- السعدون
-- الزايد
 - Alqaidoom
 - Zayer
 - Alrowaie
-- المرباطي
 - Al Doseri
 - Bahrani
 - Kashmiri
@@ -4318,11 +4160,9 @@ lastnames:
 - Shabuddin
 - Mosharaf
 - Hazari
-- তারা
 - Delower
 - Alieva
 - Al-Aradi
-- الظاهري
 - Shafeeq
 - Waris
 - Chuhan
@@ -4339,11 +4179,8 @@ lastnames:
 - Shagor
 - Tajul
 - Najmul
-- العيسى
 - Alsalem
 - Alshamlan
-- الحويطي
-- السرحان
 - Pti
 - Sahoo
 - Javeed
@@ -4367,7 +4204,6 @@ lastnames:
 - Khin
 - Ruman
 - Rofiq
-- ভাই
 - Kaiyum
 - Ruhul
 - Bhukya
@@ -4378,9 +4214,7 @@ lastnames:
 - Abdulnabi
 - Darraj
 - Alekri
-- البوري
 - Aleskafi
-- مفتاح
 - Ghazwan
 - Alhamri
 - Humaidan
@@ -4403,8 +4237,6 @@ lastnames:
 - Jahirul
 - Shobuj
 - Romjan
-- المنتصر
-- العثمان
 - Aleid
 - Al-Dawar
 - Alshuwaikh
@@ -4427,7 +4259,6 @@ lastnames:
 - Oommen
 - Dhimal
 - Karthikeyan
-- الياسي
 - Anju
 - Bachu
 - Shikdar
@@ -4435,8 +4266,6 @@ lastnames:
 - Mohammod
 - Sharkar
 - Bappy
-- الكويتي
-- বাংলাদেশ
 - Md Faruk
 - Khairul
 - Bukya
@@ -4444,11 +4273,9 @@ lastnames:
 - Jamsheer
 - Abdullatif
 - Mozumdar
-- তোমায়
 - Alsalman
 - Alabdulla
 - Shamlan
-- الوعيل
 - Alqamar
 - Alderazi
 - Alhalal
@@ -4468,14 +4295,10 @@ lastnames:
 - Roka
 - Mozammel
 - Mahfuz
-- الخلف
 - Mokbul
-- المبارك
 - Alabbar
 - Alwazeer
-- الجهمي
 - Nusaif
-- النشمي
 - Fiaz
 - Ghaffar
 - Mukesh
@@ -4485,7 +4308,6 @@ lastnames:
 - Balooshi
 - Kotian
 - Prabhakaran
-- আলী
 - Sandwip
 - Deepu
 - Dileep
@@ -4501,4 +4323,1193 @@ lastnames:
 - Alhadad
 - Saidur
 - Alrashed
+- Faqihi
+- Alrowaiei
+- Alsaati
+- Aldossari
+- Mahfood
+- Almajid
+- Makhlooq
+- Aljalahma
+- Bushehri
+- Aljazzaf
+- Hujair
+- Alshamsi
+- Bava
+- Ali Khan
+- Rajbanshi
+- Bandara
+- Kuriakose
+- Pattambi
+- Pappachan
+- Hasim
+- Mariyam
+- Aysha
+- Sameera
+- Suni
+- Repon
+- Mohad
+- Renjith
+- Puthanpurayil
+- Md Sumon
+- Ataur
+- Balok
+- Shohidul
+- Zooz
+- Almahdi
+- Khunji
+- Alnashmi
+- Groof
+- Humood
+- Aldoy
+- Al-Ansari
+- Almatrook
+- Alblooshi
+- Liaqat
+- Kesavan
+- Manohar
+- Asefa
+- Lestari
+- Sivadasan
+- Shahabuddin
+- Alattar
+- Abdulrahim
+- Mahin
+- Rajo
+- Achary
+- Sajeevan
+- Barek
+- Md Kamal
+- Matter
+- Alaamer
+- Tooq
+- Aldhaen
+- Alsendi
+- Ummer
+- Balochi
+- Ullha
+- Sikandar
+- Pratap
+- Chattha
+- Khurram
+- Anbu
+- Viswanathan
+- Waran
+- Sathi
+- Ayyappan
+- Jamshed
+- Raees
+- Satya
+- Shameem
+- Sarath
+- Thampi
+- Bangera
+- Cunanan
+- Mullah
+- Akhil
+- Samsu
+- Miraj
+- Alqassimi
+- Sordar
+- Bokul
+- Kayed
+- Satter
+- Md Mamun
+- Masud Rana
+- Nannu
+- Khonji
+- Prodan
+- Suruj
+- Almass
+- Al-Thawadi
+- Alwedaie
+- Shamlooh
+- Aljar
+- Aldossary
+- Alghanim
+- Algallaf
+- Zahraa
+- Zowayed
+- Alsammak
+- Karthi
+- Zahoor
+- Shahul
+- Virdi
+- Salian
+- Salahuddin
+- Pervez
+- Sumesh
+- Joby
+- Bapary
+- Ariful
+- Sobuz
+- Malavath
+- Sipon
+- Shajalal
+- Mobarok
+- Alothman
+- Halwachi
+- Al Asfoor
+- Al Majed
+- Haram
+- Alkhal
+- Absar
+- Mohideen
+- Ksd
+- Gulam
+- Afzaal
+- Rashi
+- Jahed
+- Gopalakrishnan
+- Mallik
+- Sunuwar
+- Maity
+- Regmi
+- Dmello
+- Ramalingam
+- Mawar
+- ፍቅር
+- Prashad
+- Sekaran
+- Sadanandan
+- Johal
+- Prabha
+- Purushothaman
+- Yadhav
+- Tabassum
+- Liyanage
+- Kanojia
+- Nijam
+- Nagesh
+- Vipin
+- Kibria
+- Ambadi
+- Puthalath
+- Sadamali
+- Siju
+- Mojid
+- Suhag
+- Fokir
+- Hazi
+- Mosawi
+- Bahman
+- Aljazeeri
+- Buhazza
+- Alfadhel
+- Al Thawadi
+- Alsakran
+- Aseeri
+- Al-Sayed
+- Al Mosawi
+- Al-Asfoor
+- Alhoori
+firstnames_male_native:
+- جاسم
+- سلمان
+- راشد
+- بو
+- سيد
+- صادق
+- فاضل
+- نواف
+- سعود
+- خليفه
+- علاوي
+- خليفة
+- مشعل
+- عقيل
+- علوي
+- سيد علي
+- سيد حسين
+- سيد محمد
+- بومحمد
+- منتظر
+- مرتضى
+- بوعلي
+- بحراني
+- بوعبدالله
+- حسين علي
+- علي حسن
+- كميل
+- بوحمد
+- مجتبى
+- سيد هاشم
+- حماني
+- سيد حسن
+- احمدي
+- بواحمد
+- ميثم
+- بو محمد
+- بوخالد
+- بحريني
+- عبدالنبي
+- بندر
+- مسعد
+- اليافعي
+- سيدعلي
+- بو عبدالله
+- ميرزا
+- دعيج
+- ستراوي
+- الدوسري
+- مشاري
+- بوناصر
+- الخلاقي
+- بوراشد
+- باقر
+- سيدمحمد
+- عبدالرضا
+- سيد احمد
+- مكي
+- بو احمد
+- بو علي
+- بوسلمان
+- سيد محمود
+- رضي
+- لودو
+- جليل
+- محمد جعفر
+- بوجاسم
+- بحرين
+- بوفهد
+- عافك
+- الحمري
+- سيدحسين
+- حملة
+- بويوسف
+- المريسي
+- حموود
+- عبد الحسين
+- شمسان
+- محرقاوي
+- بو يوسف
+- محمد جاسم
+- چوہدری
+- بو حمد
+- كرار
+- ابو سلمان
+- السيد محمد
+- عبد النبي
+- ابو جاسم
+- ابوسلمان
+- بو خالد
+- سيد جعفر
+- جسوم
+- مانع
+- بو راشد
+- احرار
+- سيد عباس
+- بوعبدالرحمن
+- ابو نواف
+- علووي
+- بوسعود
+- يوسف احمد
+- عبدالحسين
+- سيدهاشم
+- نشوان
+- ملک
+- عبدعلي
+- راجہ
+- حمني
+- محمد جواد
+- سيداحمد
+- العنزي
+- سيد هادي
+- الشمري
+- العبيدي
+- عبدالامير
+- عبد الامير
+- المهيب
+- رشود
+- بوحمود
+- عبدالله احمد
+- سيدحسن
+- احمود
+- مأتم
+- بو سلمان
+- بوخليل
+- ابو اصيل
+- جاسم محمد
+- الرياشي
+- سيد عدنان
+- بوفيصل
+- سيد فاضل
+- صلوح
+- سيد منتظر
+- سيد صادق
+- عبدالزهراء
+- دحوم
+- بو فهد
+- سيد رضا
+- السيد علي
+- بو فيصل
+- جعفر محمد
+- أبو سلمان
+- عبد الرضا
+- سيد قاسم
+- علي جعفر
+- بوعيسى
+- بونواف
+- ابو فاضل
+- سيد باقر
+- سيد مرتضى
+- علي يوسف
+- ديراوي
+- البلوشي
+- بوسلطان
+- آصف
+- مزمل
+- احمدو
+- عبدالرقيب
+- بوعبدالعزيز
+- سيد جلال
+- علي سلمان
+- سيد ناصر
+- ابو عباس
+- ابو خليفه
+- سيد علوي
+- بوحسن
+- سيد مهدي
+- رضاوي
+- ابو مشعل
+- سيد حيدر
+- ابو جراح
+- أبو حمد
+- لبيك
+- سيد ابراهيم
+- بونايف
+- بوعمر
+- حسين عباس
+- عبد الحسن
+- الذوادي
+- سيدو
+- بوخليفة
+- حزام
+- حسوون
+- عبدالحافظ
+- بوعبود
+- عبدالحسن
+- نصور
+- حساني
+- ابونواف
+- العرادي
+- ضاري
+- العقيدي
+- علي عباس
+- عبدالله صالح
+- حمان
+- بوشهد
+- ابو زينب
+- سيد جواد
+firstnames_female_native:
+- زينب
+- زهراء
+- حوراء
+- شيخه
+- رباب
+- نوف
+- ام حسين
+- دانه
+- امينة
+- شيخة
+- دانة
+- لولوة
+- أم علي
+- لطيفة
+- حصه
+- لولوه
+- لطيفه
+- حميدة
+- سكينة
+- أم حسين
+- سكينه
+- فضيلة
+- مريوم
+- بنين
+- شريفة
+- معصومة
+- نوراء
+- ام جاسم
+- وديعة
+- مشاعل
+- الريم
+- بدرية
+- معصومه
+- صديقة
+- فاتي
+- خاتون
+- فضيله
+- حصة
+- ام السادة
+- فدك
+- زنوب
+- زوز
+- شريفه
+- موزه
+- ام حمد
+- ام زهراء
+- ام فاضل
+- مناير
+- نيله
+- فوز
+- موزة
+- الهنوف
+- ام فاطمه
+- الغلا
+- ام زينب
+- سارونه
+- جليلة
+- نوني
+- كلثم
+- ام عبود
+- ام سلمان
+- ام عيسى
+- خوخة
+- طاهرة
+- الجازي
+- وديعه
+- ام فاطمة
+- هاشمية
+- مرايم
+- ام راشد
+- ميم
+- أمينه
+- ام علاوي
+- هاشميه
+- ام الساده
+- ام عباس
+- ام حيدر
+- عقيله
+- الدانه
+- السيده
+- ام عبدالعزيز
+- زينب علي
+- فخرية
+- انيسه
+- فديت
+- مدينه
+- نور الزهراء
+- مريم علي
+- ام حمود
+- عقيلة
+- عذاري
+- حكيمة
+- أم فاطمة
+- جليله
+- المزيونه
+- ام رضا
+- بت
+- صغرى
+- فطووم
+- ام فطوم
+- نيلة
+- ام خليفة
+- أم السادة
+- بحرينيه
+- فخريه
+- ام كرار
+- صديقه
+- فاطم
+- راحيل
+- فطيم
+- ام خليفه
+- ام سيد
+- شهربان
+- أم جاسم
+- ام جعفر
+- أم سلمان
+- ام نواف
+- موضي
+- حسينية
+- ام علوي
+- فاطمة علي
+- خدوج
+- نسيمه
+- ام سيد علي
+- شفيقه
+- شهزلان
+- حرم
+- رووح
+- رملة
+- كراني
+- عاتقة
+lastnames_native:
+- الدوسري
+- العنزي
+- اليافعي
+- المريسي
+- الحمري
+- جاسم
+- البلوشي
+- العلوي
+- سلمان
+- الموسوي
+- النعيمي
+- الشمري
+- الذوادي
+- العمري
+- العالي
+- الخلاقي
+- الماجد
+- القلاف
+- الكعبي
+- الحايكي
+- العرادي
+- مرهون
+- الهاجري
+- القحطاني
+- مدن
+- الرويعي
+- الرياشي
+- الملا
+- النهام
+- العبدالله
+- العميري
+- السالم
+- مكي
+- الصيادي
+- جناحي
+- الفردان
+- البحراني
+- الرميحي
+- البصري
+- كاظم
+- رضي
+- البناء
+- الدرازي
+- الدخيل
+- المطوع
+- علوي
+- الحجاجي
+- المالكي
+- السردي
+- الخباز
+- الجزيري
+- سبت
+- السبيعي
+- الرويلي
+- المري
+- القصاب
+- المنصوري
+- الضالعي
+- العقيدي
+- الشميري
+- المساعيد
+- العماش
+- السادة
+- فردان
+- السندي
+- العتيبي
+- الموالي
+- حبيل
+- الكواري
+- الجمري
+- الحمر
+- الصفار
+- قمبر
+- المناعي
+- سند
+- الروح
+- العوضي
+- العريبي
+- الساري
+- فرحان
+- مال الله
+- الكوهجي
+- صمود
+- الحدي
+- الناصر
+- النوبي
+- نصيف
+- الصوفي
+- الشاخوري
+- القيدوم
+- العدواني
+- المرزوق
+- الرشيدي
+- الغانم
+- الراشد
+- عتيق
+- الوداعي
+- العماري
+- الصايغ
+- البوعينين
+- الفرج
+- الشرفي
+- ميرزا
+- الساده
+- الكبيسي
+- خضير
+- البنعلي
+- القطان
+- الزياني
+- الحيدري
+- الهدار
+- الشويخ
+- بورشيد
+- البورشيد
+- حاجي
+- البري
+- ضيف
+- الشهابي
+- العطاوي
+- الطيري
+- العصفور
+- الجابر
+- الجاسم
+- بوعلي
+- البحريني
+- السعدون
+- الزايد
+- المرباطي
+- الظاهري
+- العيسى
+- الحويطي
+- السرحان
+- البوري
+- مفتاح
+- المنتصر
+- العثمان
+- الياسي
+- الكويتي
+- الوعيل
+- الخلف
+- المبارك
+- الجهمي
+- النشمي
 - الخياط
+- فتيل
+- الجودر
+- الحواج
+- مشيمع
+- الشرعه
+- بوحميد
+- بوعلاي
+- العامر
+- البساره
+- العازمي
+- الضبيع
+- زويد
+- العجي
+- عبدالنبي
+- الجشوبي
+- دوسري
+- الطائي
+- بوراشد
+- السليمان
+- المقهوي
+- الشغل
+- المالود
+- النجدي
+- المهيزع
+- الماحوزي
+- الستراوي
+- شويطر
+- سوار
+- بطي
+- الصائغ
+- المحميد
+- ثامر
+- الحسوني
+- الضحياني
+- بوجيري
+- الفردي
+- بلوچ
+- العطري
+- الجنيد
+- الطارش
+- بني صخر
+- السرحاني
+- المرشد
+- بوعبدالله
+- الشجار
+- المرزوقي
+- ثاني
+- الزاكي
+- المدوب
+- العون
+- بومحمد
+- مجيد
+- المحاري
+- التيتون
+- الخليدي
+- الغريفي
+- المقابي
+- الاسكافي
+- العواد
+- متروك
+- المحفوظ
+- العشبان
+- الجرادي
+- المهزع
+- السويدي
+- العزاني
+- امان
+- البلادي
+- السنجار
+- الدمستاني
+- معيوف
+- الظاعن
+- الشرعبي
+- بوحسين
+- عبدعلي
+- خاتم
+- الجزاف
+- البستكي
+- المومني
+- المحرقي
+- الحلواجي
+- الشروقي
+- سالمين
+- السماهيجي
+- الغتم
+- المهنا
+- الشملان
+- البناي
+- العريفي
+- المفلحي
+- باقر
+- المحرق
+- القيم
+- بحرين
+- الجبر
+- السماك
+- المؤمن
+- الشايجي
+- الشامسي
+- الجناحي
+- مشرح
+- حرم
+- الستري
+- الناجم
+- شبيب
+- بحريني
+- الجسمي
+- النايف
+- طوق
+- الشوملي
+- طريف
+- العلواني
+- الغدير
+- الجلال
+- شملوه
+- عبيدات
+- عبد علي
+- الزيادي
+- المغني
+- السهو
+- الحرز
+- دراج
+- دهمش
+- گجر
+- المشهداني
+- ربيعه
+- فخر
+- الكراني
+- المنامي
+- بوحمود
+- المولاني
+- الريوي
+- الفرحان
+- الزقري
+- الفضلي
+- الرقيمي
+- الجفيري
+- ستراوي
+- المحافظة
+- النصف
+- الجلهم
+- صليل
+- الجبور
+- الرفاع
+- العليوات
+- بو علي
+- سوده
+- فلامرزي
+- القوتي
+- شريده
+- المعتوق
+- الشماع
+- الغانمي
+- السليطي
+- السليم
+- شبر
+- المنصوب
+- الحليبي
+- الهزاع
+- النعار
+- الحجيري
+- الزيمور
+- الجنبي
+- تلفت
+- الحضرمي
+- اعوان
+- بوخالد
+- العجيمي
+- الفضل
+- العويناتي
+- بوحسن
+- نعمه
+- شاجره
+- العبدلله
+- الشبيب
+- العبار
+- الصباحي
+- العماد
+- ال طوق
+- المطاوعه
+- العسم
+- عبد الحسين
+- سيد علي
+- بدو
+- المتروك
+- البوسميط
+- ال بورشيد
+- السلامه
+- الدوار
+- السلمان
+- الصددي
+- المحرمي
+- الحجري
+- الزامل
+- الجبري
+- الدوي
+- البهال
+- المطاوعة
+- غزوان
+- النمله
+- العم
+- بواحمد
+- العواضي
+- الشمر
+- غلوم
+- الجردابي
+- هزيم
+- الحاجي
+- العودي
+- الحلال
+- ملكاوي
+- السحيقي
+- الغنامي
+- المحروس
+- بلوشي
+- قحطان
+- السني
+- الصعدي
+- فخرو
+- الكهالي
+- كويتان
+- السهلاوي
+- ال سعيد
+- الدندل
+- التام
+- غربه
+- بحراني
+- المرعي
+- البوعركي
+- المرسومي
+- العكله
+- القبيطي
+- الرياحنه
+- العقبي
+- ام حسين
+- الفريح
+- الخنيزي
+- السموم
+- الخنه
+- النكال
+- المؤذن
+- شمطوط
+- قايد
+- محرقي
+- العدوان
+- الحوري
+- دبوان
+- الرميثي
+- العولقي
+- الحمايده
+- بو محمد
+- بوجاسم
+- ال عباس
+- بوحسان
+- الشرعة
+- حمران
+- دليم
+- المخلوق
+- بوكمال
+- الشاووش
+- الملالي
+- سودة
+- العريض
+- الحويطات
+- المضلع
+- الظفيري
+- الغيص
+- البحرينية
+- الولاية
+- المسجن
+- الزاير
+- الميرزا
+- العيبان
+- اللهبي
+- الفهيد
+- مسامح
+- الغامدي
+- القفاص
+- الصيرفي
+- عبدالحسين
+- مرتضى
+- العكري
+- الفرساني
+- بوهزاع
+- الحميري
+- العبيدلي
+- محسود
+- الحرمي
+- الشهري
+- بوحمد
+- الهصيصي
+- المستريحي
+- الغويزي
+- الاشرم
+- الجراف
+- النينون
+- المحيسن
+- الثنيان
+- المرهون
+- الغريري
+- بويوسف
+- مخلوق
+- صموود
+- الخيراني
+- بوقيس
+- المشعل
+- الماطري
+- شريدة
+- الجمعان
+- المرخي
+- ال حسين
+- المنو
+- القشار
+- المجوداني
+- الوزان
+- الصباري
+- الوحيشي
+- العزام
+- ابو جاسم
+- النجرس
+- عاشوري
+- العنيسي
+- النفيعي
+- العكراوي
+- القرعان
+- الهمداني
+- الشلبي
+- عبد الامير
+- العجوز
+- البدراني
+- الكشري
+- البسارة
+- المفتاح
+- الشبول
+- الغسرة
+- آل محمود
+- عبابنه
+- المهندي
+- البلوشی
+- الوهيبي
+- مانع
+- الخواجة
+- ميثم
+- رشدان
+- حوراء
+- السقاي
+- الهمزه
+- الوسطي
+- الرمضان
+- النواف
+- عبدالامير
+- حيدره
+- العمادي
+- اضرابوه
+- البنخليل
+- الجازي
+- الحالمي
+- العصري
+- الزيود
+- العظامات
+- الطاهري
+- السقاف
+- المناصير
+- الشيبه
+- بهزاد
+- موسوي
+- الملحم
+- العليان
+- الضاري
+- بوزبون
+- العباد
+- الوطني
+- الفتيني
+- الوني
+- العازبي
+- الوكاع
+- البحرينيه
+- الحروبي
+- العقري
+- الضبياني
+- يافع
+- ال محمود
+- خليفات
+- سنجار
+- الزغول
+- الهتيمي
+- الفايز
+- اليهري
+- الساعي
+- بوزيد
+- دعبل
+- الزوقري
+- الشرفات
+- بوفهد
+- البزاز
+- العموش
+- دسمال
+- فتر
+- العسمي
+- حرز
+- الزدجالي
+- بو راشد
+- سيد محمد
+- الشرخات
+- السواد
+- شاجرة
+- الاسعدي
+- كرار
+- الشبحي
+- الجار
+- الشطف
+- عبد الرضا
+- السند
+- الجعمي
+- الجلاهمه
+- المسيفر
+- اللهيبي
+- الجهني
+- السميع
+- فريح
+- الصيبعي
+- زينل
+- بوشهري
+- العشار
+- العسماوي
+- يتيم
+- الدعيس
+- ارحمه
+- اشكناني
+- سهوان
+- القباط
+- الصخري
+- الخزاعي
+- السيابي
+- المزيونه
+- الصلاحي
+- الماص
+- الصربي
+- العشيري
+- الطواش
+- بومجيد
+- شمر
+- بوصالح
+- الخضيري
+- المطلق
+- الحصيني
+- كويد
+- البراهيم
+- المران
+- البرني
+- القرني
+- المشخص
+- الاحرق
+- طلاق
+- غيلان
+- بني خالد
+- الحلاي
+- النشابة
+- البعداني
+- الكاظم
+- العاطفي
+- العنبر
+- بوناصر
+- حجيري
+- للابد
+- المغلق
+- عبدالرضا
+- ربيعة
+- الدعسكي
+- المتوج
+- العصار
+- القلعاوي
+- شهابي
+- الهملي
+- خلفان
+- بني حماد
+- مريوم
+- المحسني
+- بوعبود
+- الحساوي
+- الشيراوي
+- العلص
+- منيف
+- السنابسي
+- سديف
+- خرفوش
+- المسيكي
+- المحري
+- الصميل
+- المشاقبه
+- حجير
+- الكلالي
+- الحكمي
+- العمران
+- البدل
+- الرمحي
+- الخضران
+- البطوش
+- كميل
+- الخاتم
+- العسكر
+- القميش
+- الشعفلي
+- الزمزمي
+- القعود
+- العماني
+- الهياشي
+- الحردان
+- مجتبى
+- الشعلان
+- الجد
+- آل طوق
+- طرادة
+- عيقان
+- لحدان
+- الرواجفه
+- الخاجة
+- النعيمات
+- نصف
+- ال فرحان
+- الزويري
+- بوسعود
+- بوشرار
+- بودهيش
+- مخيمر
+- البياع
+- الخليفات
+- السويعي
+- الشحي
+- المعمري
+- الرئيسي
+- المرشدي
+- السناني
+- جٹ
+- ملک

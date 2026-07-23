@@ -1,3 +1,4 @@
+---
 source: dataset
 firstnames_male:
 - Petr
@@ -153,7 +154,6 @@ firstnames_male:
 - Lumír
 - Bedřich
 - Karlos
-- Вася
 - Břetislav
 - Pavol
 - Mikuláš
@@ -184,7 +184,6 @@ firstnames_male:
 - Vlastik
 - Vitek
 - Oleksandr
-- Іван
 - Gustav
 - Volodymyr
 - Kubík
@@ -193,8 +192,6 @@ firstnames_male:
 - Mykola
 - Tobiáš
 - Marťas
-- Міша
-- Иван
 - Janek
 - Majkl
 - Slavomír
@@ -207,7 +204,6 @@ firstnames_male:
 - Viliam
 - Bohouš
 - Leos
-- Ваня
 - Tomík
 - Krystof
 - Pepik
@@ -215,7 +211,6 @@ firstnames_male:
 - Taras
 - Danek
 - Marky
-- Василь
 - Martas
 - Rastislav
 - Mirda
@@ -226,7 +221,6 @@ firstnames_male:
 - Radomir
 - Vasja
 - Lumir
-- Юра
 - Jurij
 - Pepíno
 - Ladik
@@ -246,7 +240,6 @@ firstnames_male:
 - Andriy
 - Peťan
 - Vitalij
-- Андрій
 - Páťa
 - Tomášek
 - Márty
@@ -258,7 +251,6 @@ firstnames_male:
 - Ríša
 - Jarmil
 - Pepík
-- Миша
 - Květoslav
 - Majk
 - Dmitrij
@@ -275,7 +267,6 @@ firstnames_male:
 - Branislav
 - Yaroslav
 - Radan
-- Коля
 - Drahomír
 - Premysl
 - Hanys
@@ -310,7 +301,6 @@ firstnames_male:
 - Drahoslav
 - Andrii
 - Miska
-- Сергій
 - Malej
 - Janko
 - Fery
@@ -325,15 +315,11 @@ firstnames_male:
 - Ládík
 - Váša
 - Marki
-- Олександр
-- Володимир
 - Jožka
 - Mišák
 - Martínek
 - Tomino
 - Lukášek
-- Вова
-- Микола
 - Máťa
 - Jéňa
 - Boban
@@ -360,7 +346,6 @@ firstnames_male:
 - Endy
 - Benedikt
 - Hanes
-- Михайло
 - Pavlik
 - Ondráš
 - Toník
@@ -372,12 +357,10 @@ firstnames_male:
 - Pepan
 - Laco
 - Andrij
-- Ігор
 - Ervín
 - Lukin
 - Adell
 - Majky
-- Василий
 - Dalimil
 - Král
 - Petan
@@ -385,15 +368,11 @@ firstnames_male:
 - Pepé
 - Edvard
 - Nitram
-- Богдан
 - Domino
 - Valerij
 - Maksym
 - Stano
 - Silvestr
-- Степан
-- Юрій
-- Віталій
 - Drahoš
 - Mikulas
 - Matous
@@ -441,7 +420,6 @@ firstnames_male:
 - Zdenko
 - Henrich
 - Jary
-- Петро
 - Serhii
 - Vendelín
 - Hanuš
@@ -482,7 +460,6 @@ firstnames_male:
 - Eliáš
 - Vladik
 - Novak
-- Петя
 - Robo
 - Dmitrii
 - Laky
@@ -525,11 +502,8 @@ firstnames_male:
 - Černý
 - Milhaus
 - Frenky
-- Слава
-- Рома
 - Svoboda
 - Valerii
-- Петр
 - Kvetoslav
 - Vrata
 - Nalim
@@ -544,7 +518,6 @@ firstnames_male:
 - Maťo
 - Davča
 - Stepa
-- Віктор
 - Tobik
 - Bukaj
 - Vládík
@@ -559,10 +532,6 @@ firstnames_male:
 - Hostinec
 - Autoservis
 - Slavo
-- Мирослав
-- Паша
-- Володя
-- Тарас
 - Julek
 - Cz
 - Divad
@@ -580,7 +549,6 @@ firstnames_male:
 - Sebik
 - Breta
 - Otmar
-- Діма
 - Mykhailo
 - Hasiči
 - Vaša
@@ -600,7 +568,6 @@ firstnames_male:
 - Namor
 - Kolya
 - Viacheslav
-- Саня
 - Valentyn
 - Dezider
 - Vla
@@ -689,7 +656,6 @@ firstnames_male:
 - Július
 - Kvido
 - Autoškola
-- Анатолій
 - Kučera
 - Zden
 - Rudla
@@ -710,7 +676,6 @@ firstnames_male:
 - Koloman
 - Jurek
 - Domin
-- Мартин
 - Kubi
 - Oleksiy
 - Palko
@@ -718,7 +683,6 @@ firstnames_male:
 - Pista
 - Kral
 - Marus
-- Любомир
 - Pavell
 - Arseniy
 - Vendelin
@@ -739,7 +703,6 @@ firstnames_male:
 - Paťo
 - Dejf
 - Peťo
-- Славик
 - Myroslav
 - Štepan
 - Medvěd
@@ -810,7 +773,6 @@ firstnames_male:
 - Liborek
 - Valentýn
 - Lůďa
-- Витя
 - Volodimir
 - Tiep
 - Sardor
@@ -835,7 +797,6 @@ firstnames_male:
 - Matys
 - Thomass
 - Stenli
-- Толя
 - Pafka
 - Evgen
 - Kubin
@@ -889,7 +850,6 @@ firstnames_male:
 - Romis
 - Kosťa
 - Aliaksandr
-- Андрий
 - Denisek
 - Rudík
 - Nový
@@ -949,8 +909,6 @@ firstnames_male:
 - Strýček
 - Beru
 - Horak
-- Павло
-- Віталік
 - Pajas
 - Ondrys
 - Danecek
@@ -1028,7 +986,6 @@ firstnames_male:
 - Břeta
 - Standik
 - Arťom
-- Йосип
 - Sportbar
 - Riša
 - Marecek
@@ -1047,14 +1004,11 @@ firstnames_male:
 - Pepas
 - Lukis
 - Profil
-- Федя
 - Oggy
 - Roderik
-- Ростислав
 - Petja
 - Dobry
 - Otec
-- Дмитро
 - Ostap
 - Pejsek
 - Lucián
@@ -1141,7 +1095,6 @@ firstnames_male:
 - Pajus
 - Laďas
 - Michálek
-- Славік
 - Kubicek
 - Tomash
 - Jasur
@@ -1161,7 +1114,6 @@ firstnames_male:
 - Artjom
 - Emko
 - Petronel
-- Филип
 - Blazej
 - Pjotr
 - Neumann
@@ -1181,11 +1133,9 @@ firstnames_male:
 - Midar
 - Beran
 - Antoan
-- Михал
 - Mikis
 - Iff
 - Dmitro
-- Олексій
 - Ciril
 - Fedja
 - Dedek
@@ -1306,12 +1256,9 @@ firstnames_male:
 - Josifek
 - Hondzik
 - Mixal
-- Федір
-- Євген
 - Zbyhněv
 - Radoš
 - Janči
-- Сергий
 - Oleksij
 - Cermak
 - Nutsu
@@ -1331,7 +1278,6 @@ firstnames_male:
 - Lojzík
 - Rytmus
 - Burda
-- Лукаш
 - Simír
 - Aznoh
 - Honziik
@@ -1362,7 +1308,6 @@ firstnames_male:
 - Kozák
 - Janíček
 - Doubek
-- Томаш
 - Vondráček
 - Vrána
 - Kamarád
@@ -1500,6 +1445,62 @@ firstnames_male:
 - Rroman
 - Prášek
 - Mirdas
+- Kajik
+- Stenlly
+- Fíďa
+- Džarda
+- Valerián
+- Tuan Anh
+- Jiras
+- Volaj Ma
+- Bohy
+- Serjiu
+- Petanek
+- Pepí
+- Zadek
+- Vrba
+- Masér
+- Černy
+- Zlatý
+- Lukàš
+- Máš
+- Frant
+- Pešek
+- Jiř
+- Volaj
+- Šakul
+- Pajko
+- Aďas
+- Stolařství
+- Sedrik
+- Koblizek
+- Brunek
+- Kubko
+- Thái
+- Arkadiy
+- Stewe
+- Vasel
+- Majko
+- Onkel
+- Fénix
+- Marttin
+- Kraus
+- Domink
+- Ignac
+- Fridrich
+- Entony
+- Kamik
+- Alibek
+- Ildar
+- Bizon
+- Martens
+- Radostin
+- Lyudmil
+- Ludmil
+- Sashko
+- Docent
+- Nurbek
+- Neres
 firstnames_female:
 - Jana
 - Petra
@@ -1935,7 +1936,6 @@ firstnames_female:
 - Kvetoslava
 - Danielka
 - Rodina
-- Марія
 - Daša
 - Máša
 - Ivuška
@@ -2018,7 +2018,6 @@ firstnames_female:
 - Mišička
 - Jaruska
 - Nastya
-- Наталія
 - Veverka
 - Janicka
 - Emília
@@ -2059,7 +2058,6 @@ firstnames_female:
 - Rozárka
 - Heda
 - Tinka
-- Маша
 - Bája
 - Darča
 - Myška
@@ -2083,7 +2081,6 @@ firstnames_female:
 - Daja
 - Galyna
 - Myroslava
-- Аня
 - Drahuše
 - Pájinka
 - Prodej
@@ -2100,7 +2097,6 @@ firstnames_female:
 - Miluš
 - Alica
 - Lubka
-- Маряна
 - Lussy
 - Editka
 - Móňa
@@ -2138,8 +2134,6 @@ firstnames_female:
 - Ľubica
 - Anna-Marie
 - Radoslava
-- Надя
-- Світлана
 - Chata
 - Gabrielka
 - Jolča
@@ -2186,8 +2180,6 @@ firstnames_female:
 - Lucije
 - Lucii
 - Ljudmila
-- Тетяна
-- Любов
 - Jáňa
 - Líza
 - Pajinka
@@ -2199,10 +2191,8 @@ firstnames_female:
 - Olesja
 - Miru
 - Lyudmyla
-- Леся
 - Dorka
 - Vanes
-- Мирослава
 - Jitulka
 - Liška
 - Nasťa
@@ -2221,7 +2211,6 @@ firstnames_female:
 - Kaťa
 - Malvína
 - Vendul
-- Надія
 - Marsi
 - Johy
 - Vierka
@@ -2337,7 +2326,6 @@ firstnames_female:
 - Veve
 - Ifka
 - Iwet
-- Наталя
 - Maša
 - Livie
 - Pajuška
@@ -2388,8 +2376,6 @@ firstnames_female:
 - Má
 - Lubomira
 - Terézia
-- Руслана
-- Ірина
 - Mischell
 - Cecilie
 - Monicka
@@ -2476,7 +2462,6 @@ firstnames_female:
 - Huyền
 - Zoryana
 - Charlotta
-- Вита
 - Venuse
 - Ludka
 - Šťastná
@@ -2520,9 +2505,7 @@ firstnames_female:
 - Marunka
 - Petruna
 - Oksi
-- Віра
 - Róza
-- Вікторія
 - Charlota
 - Lúca
 - Štěpána
@@ -2626,18 +2609,15 @@ firstnames_female:
 - Miruna
 - Nikolinka
 - Lujza
-- Олена
 - Lilien
 - Ditka
 - Valika
 - Liudmyla
 - Yekaterina
 - Yevgeniya
-- Христина
 - Nadka
 - Petrana
 - Nikolet
-- Ярослава
 - Dobra
 - Darka
 - Monka
@@ -2767,8 +2747,6 @@ firstnames_female:
 - Wendula
 - Šája
 - Valentýnka
-- Іванна
-- Іванка
 - Jouda
 - Hermína
 - Verůnka
@@ -2777,7 +2755,6 @@ firstnames_female:
 - Marcelína
 - Zofie
 - Inuška
-- Інна
 - Aljona
 - Asined
 - Gréta
@@ -2790,7 +2767,6 @@ firstnames_female:
 - Evgenija
 - Evelyna
 - Simka
-- Олександра
 - Andula
 - Mirca
 - Wendys
@@ -2854,8 +2830,6 @@ firstnames_female:
 - Hanule
 - Saskie
 - Moňulka
-- Наталка
-- Ганна
 - Yevheniya
 - Hạnh
 - Marjanka
@@ -2870,7 +2844,6 @@ firstnames_female:
 - Sáňa
 - Pájuš
 - Svetka
-- Віка
 - Dilya
 - Majla
 - Marsy
@@ -2880,7 +2853,6 @@ firstnames_female:
 - Senta
 - Andelka
 - Rozália
-- Уляна
 - Sonka
 - Radislava
 - Verushka
@@ -3001,6 +2973,35 @@ firstnames_female:
 - Yelizaveta
 - Adelajda
 - Klementina
+- Enka
+- Iljana
+- Laska
+- Dajka
+- Kejt
+- Dalena
+- Sá
+- Hildegarda
+- Chaty
+- Peky
+- Anyy
+- Monyka
+- Domii
+- Kordula
+- Mejra
+- Uyanga
+- Lenii
+- Ruža
+- Nomin
+- Barta
+- Hedviga
+- Norika
+- Aidana
+- Staša
+- Dusana
+- Anitram
+- Akinorev
+- Jevgenija
+- Tatevik
 lastnames:
 - Nováková
 - Novák

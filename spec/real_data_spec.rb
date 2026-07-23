@@ -59,4 +59,50 @@ RSpec.describe "committed data" do
     expect(aa_pool).to include(name)
     expect(aa_pool).to include("DeShawn")
   end
+
+  it "exposes a native Cyrillic pool for Russia alongside a Latin pool" do
+    expect(NameBank.scripts(country: "RU")).to eq(%i[latin native])
+    native = NameBank.repository.firstnames(country: "RU", gender: :male, script: :native)
+    latin = NameBank.repository.firstnames(country: "RU", gender: :male, script: :latin)
+    expect(native).not_to be_empty
+    expect(latin).not_to be_empty
+    cyrillic = ->(s) { s.each_char.any? { |c| c.ord.between?(0x0400, 0x04FF) } }
+    expect(native).to all(satisfy(&cyrillic))
+    expect(latin).to all(satisfy { |s| !cyrillic.call(s) })
+  end
+
+  it "keeps Latin-native countries free of native keys and non-Latin noise" do
+    %w[DE IT].each do |cc|
+      expect(NameBank.scripts(country: cc)).to eq(%i[latin])
+      pool = NameBank.repository.firstnames(country: cc, gender: :male)
+      # Check for foreign scripts (Arabic, Cyrillic, Han, Greek, etc.), not just ord > 0x024F
+      # which would reject valid Latin combining marks like Vietnamese diacritics.
+      foreign_scripts = {
+        arabic: [0x0600..0x06FF, 0x0750..0x077F],
+        cyrillic: [0x0400..0x04FF],
+        han: [0x4E00..0x9FFF, 0x3400..0x4DBF],
+        greek: [0x0370..0x03FF],
+        hebrew: [0x0590..0x05FF],
+        hangul: [0xAC00..0xD7AF],
+        kana: [0x3040..0x30FF],
+        georgian: [0x10A0..0x10FF],
+        khmer: [0x1780..0x17FF],
+        bengali: [0x0980..0x09FF],
+        devanagari: [0x0900..0x097F],
+        thai: [0x0E00..0x0E7F]
+      }
+      has_foreign = ->(s) do
+        s.each_char.any? do |c|
+          cp = c.ord
+          foreign_scripts.any? { |_script, ranges| ranges.any? { |r| r.cover?(cp) } }
+        end
+      end
+      expect(pool).to all(satisfy { |s| !has_foreign.call(s) })
+    end
+  end
+
+  it "leaves curated CN/UA Latin-only" do
+    expect(NameBank.scripts(country: "CN")).to eq(%i[latin])
+    expect(NameBank.scripts(country: "UA")).to eq(%i[latin])
+  end
 end

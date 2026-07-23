@@ -1,3 +1,4 @@
+---
 source: dataset
 firstnames_male:
 - Chan
@@ -267,7 +268,6 @@ firstnames_male:
 - Owen
 - Kl
 - Chun Yin
-- 小明
 - Man Kit
 - Franky
 - Ka Ming
@@ -276,10 +276,8 @@ firstnames_male:
 - Popo
 - Wai Yin
 - Ethan
-- 志明
 - Min
 - Perry
-- 志強
 - Sai
 - Rick
 - Chi Fai
@@ -289,7 +287,6 @@ firstnames_male:
 - Ka Lok
 - Shun
 - Ronnie
-- 大文
 - Chi Shing
 - Pun
 - Rico
@@ -349,7 +346,6 @@ firstnames_male:
 - Ty
 - Paco
 - Bun
-- 志雄
 - Kin Man
 - Feng
 - Mic
@@ -358,7 +354,6 @@ firstnames_male:
 - Tsz Kin
 - Ka Kit
 - Jasper
-- 志偉
 - Man Fai
 - Kam Wah
 - Lei
@@ -370,9 +365,7 @@ firstnames_male:
 - Wai Ho
 - Wai Lun
 - Hoyin
-- 偉明
 - Man Ho
-- 偉雄
 - Ball
 - Tc
 - Wo
@@ -421,7 +414,6 @@ firstnames_male:
 - Ys
 - Yat
 - Chun Hei
-- 俊傑
 - Moses
 - Ku
 - Kam Wing
@@ -432,13 +424,10 @@ firstnames_male:
 - Aki
 - Terrence
 - Wh
-- 志成
 - Kam Chuen
-- 志强
 - Cf
 - Ho Man
 - Kwok Wing
-- 偉強
 - Cheuk Yin
 - Kin Wai
 - Can
@@ -467,8 +456,6 @@ firstnames_male:
 - Leong
 - Kawing
 - Waihung
-- 國強
-- 志華
 - Chung Yin
 - Kin Ming
 - Denny
@@ -476,7 +463,6 @@ firstnames_male:
 - Liang
 - Chunkit
 - Chi Kong
-- 偉文
 - Limbu
 - Lk
 - Jeffery
@@ -509,7 +495,6 @@ firstnames_male:
 - Wilfred
 - Koo
 - Yf
-- 國華
 - Kin Wah
 - Chihung
 - Ka Shing
@@ -530,12 +515,10 @@ firstnames_male:
 - Elton
 - Chai
 - Chun Yu
-- 國雄
 - Bong
 - Mars
 - Xu
 - Ellis
-- 浩然
 - Wing Hung
 - Kam Shing
 - Sidney
@@ -544,8 +527,6 @@ firstnames_male:
 - Kai Ming
 - Harris
 - Dong
-- 家俊
-- 志輝
 - Ho Ming
 - Ka Kin
 - Nigel
@@ -557,9 +538,6 @@ firstnames_male:
 - Curtis
 - Yp
 - Hill
-- 志豪
-- 嘉俊
-- 志光
 - Kam Tong
 - Man Hin
 - Car
@@ -567,7 +545,6 @@ firstnames_male:
 - Zhen
 - Jovi
 - Cow
-- 嘉豪
 - Chiho
 - Kwok Ming
 - Chi Yuen
@@ -576,7 +553,6 @@ firstnames_male:
 - Yong
 - Neo
 - Chi Sing
-- 家豪
 - Yiu Chung
 - Chi Leung
 - Aiden
@@ -584,7 +560,6 @@ firstnames_male:
 - Wyman
 - Chun Wing
 - Siu Wah
-- 錦華
 - Bu
 - Sekar
 - Ok
@@ -607,8 +582,6 @@ firstnames_male:
 - Rio
 - Eagle
 - Fuk
-- 子健
-- 志文
 - Waikit
 - Wing Cheung
 - Wai Ki
@@ -616,7 +589,6 @@ firstnames_male:
 - Wai Hong
 - Yiu Ming
 - Tik
-- 俊杰
 - Man Lung
 - Kin Hung
 - See
@@ -637,7 +609,6 @@ firstnames_male:
 - Wai Chi
 - Wai Kei
 - Chi Kwan
-- 師傅
 - Kwan Ho
 - Chifai
 - Siuming
@@ -645,7 +616,6 @@ firstnames_male:
 - Casey
 - Garfield
 - Wahyu
-- 文傑
 - Hinson
 - Chi Hong
 - Wing Hang
@@ -655,7 +625,6 @@ firstnames_male:
 - Choco
 - Yanki
 - Wing Chung
-- 家樂
 - Siu Fai
 - Faifai
 - Siu Lun
@@ -663,12 +632,10 @@ firstnames_male:
 - Bao
 - Cai
 - Tso
-- 大明
 - Yuk Ming
 - Yiu Wing
 - Chun Keung
 - Wing Cheong
-- 浩賢
 - Chi Chiu
 - Tsz Kit
 - Kin Fai
@@ -686,7 +653,6 @@ firstnames_male:
 - Wing Kwong
 - Chi Kuen
 - Man Kin
-- 錦輝
 - Man Hei
 - Thapa
 - Miles
@@ -696,23 +662,18 @@ firstnames_male:
 - Donny
 - Hl
 - Ming Fai
-- 子軒
 - Kahei
 - Man Fung
 - Ka Leung
 - Berry
 - Kok
-- 德明
 - Wingo
-- 志堅
 - Lincoln
 - Jackal
 - Parco
 - Lok Man
-- 志榮
 - Chi Yan
 - Ho Lam
-- 國輝
 - Chi Ping
 - Wicky
 - Lik
@@ -734,7 +695,6 @@ firstnames_male:
 - Kwok Ho
 - Tsz Him
 - Ying Kit
-- 偉光
 - Wing Yiu
 - Ps
 - Home
@@ -745,7 +705,6 @@ firstnames_male:
 - Mw
 - Pl
 - Mason
-- 永康
 - Chunho
 - Kinman
 - Chishing
@@ -759,7 +718,6 @@ firstnames_male:
 - Wind
 - Zheng
 - Wf
-- 家輝
 - Chun Wa
 - Kwokwai
 - Hs
@@ -771,23 +729,19 @@ firstnames_male:
 - Wt
 - Egg
 - Luo
-- 偉傑
 - Chiwing
 - Sai Kit
 - Chiwah
 - Ho Ching
 - Waiho
 - Chung Ming
-- 文輝
 - Kwok Man
 - Tszkin
 - Tak Wai
-- 永強
 - Grg
 - Harvey
 - Clive
 - Wood
-- 明明
 - Lego
 - Ka Hung
 - Cheuk Hei
@@ -825,7 +779,6 @@ firstnames_male:
 - Fk
 - Piano
 - Kenson
-- 國偉
 - Wai Tak
 - Wing Hei
 - Ka Sing
@@ -835,13 +788,10 @@ firstnames_male:
 - Wai Tung
 - Chunwai
 - Yiu Kwong
-- 錦榮
 - Wai Chuen
 - Ph
 - Torres
 - Guo
-- 星星
-- 建華
 - Heiman
 - Wing Chuen
 - Hon Ming
@@ -863,7 +813,6 @@ firstnames_male:
 - Meko
 - Tree
 - Wings
-- 文俊
 - Ka Kui
 - Kam Wa
 - Chi Cheung
@@ -874,7 +823,6 @@ firstnames_male:
 - Chiang
 - Norris
 - Man Kwong
-- 國明
 - Kin Fung
 - Chi Hin
 - Kang
@@ -884,12 +832,8 @@ firstnames_male:
 - Bird
 - Shuk
 - Heihei
-- 文龍
-- 偉民
 - King Man
 - Siu Kei
-- 梓軒
-- 國榮
 - Ho Hin
 - Kai Chung
 - Yiu Wah
@@ -898,10 +842,7 @@ firstnames_male:
 - Avery
 - Koon
 - Zhong
-- 家明
-- 少華
 - Waikin
-- 偉倫
 - Manchun
 - Wailun
 - Kin Wa
@@ -910,7 +851,6 @@ firstnames_male:
 - Ho Yeung
 - Tak Wah
 - Kwok On
-- 國良
 - Bunny
 - Kane
 - Kawa
@@ -938,7 +878,6 @@ firstnames_male:
 - Huen
 - Kamwing
 - Chun Chung
-- 宇軒
 - Cheuk Hin
 - Kin Ho
 - Hei Hei
@@ -958,11 +897,9 @@ firstnames_male:
 - Kashing
 - Kwun
 - Kayin
-- 子龍
 - Kai Yin
 - Kamming
 - Tsz Lok
-- 耀輝
 - Ho Fung
 - Winghong
 - Tszfung
@@ -971,7 +908,6 @@ firstnames_male:
 - Ho Ting
 - Kai Wing
 - Kwok Cheung
-- 偉豪
 - Tsz Yeung
 - Kam Tim
 - Pm
@@ -980,15 +916,12 @@ firstnames_male:
 - Quentin
 - Cn
 - Zeng
-- 文杰
 - Kk
 - Kwok Hing
 - Tsz Man
-- 國威
 - Singsing
 - Yick
 - Siu Hang
-- 偉成
 - Gareth
 - Sea
 - Shin
@@ -1000,13 +933,11 @@ firstnames_male:
 - Terrance
 - Fergus
 - Kwokwah
-- 偉良
 - Chun Ting
 - Chichung
 - Lok Hin
 - Kin Hang
 - Kinwai
-- 偉業
 - Tat Ming
 - Cheuk Wing
 - Yat Ming
@@ -1019,9 +950,6 @@ firstnames_male:
 - Anakin
 - Curry
 - Tenny
-- 子豪
-- 俊豪
-- 浩文
 - Kason
 - Kalun
 - Kinkin
@@ -1030,9 +958,6 @@ firstnames_male:
 - Tsz Hong
 - Hon Keung
 - Hongkong
-- 國强
-- 振華
-- 俊軒
 - Kit Kit
 - Tak Wing
 - Waishing
@@ -1047,10 +972,7 @@ firstnames_male:
 - Cloud
 - Deng
 - Fook
-- 文浩
-- 一一
 - Ka Kei
-- 俊賢
 - Man Hon
 - Taiman
 - Chun Shing
@@ -1059,13 +981,11 @@ firstnames_male:
 - Yiu Keung
 - Kwok Kin
 - Waichung
-- 志剛
 - Ho Lun
 - Lok Lok
 - Woon
 - Kam Keung
 - Kwok Chung
-- 嘉樂
 - Hoi Ming
 - Fly
 - Lf
@@ -1077,7 +997,6 @@ firstnames_male:
 - Simpson
 - Chilam
 - Hins
-- 耀明
 - Wai Yuen
 - Chun Yip
 - Chun Lok
@@ -1104,24 +1023,19 @@ firstnames_male:
 - Iu
 - Zhi
 - Foo
-- 小龍
 - Chikit
-- 偉權
-- 偉健
 - Man Hung
 - Siu Wa
 - Yiufai
 - Wing Lok
 - Tin Yau
 - Tsz Hei
-- 國基
 - Ho Nam
 - Wing Kuen
 - Pak Lam
 - Lw
 - Kinwah
 - Kai Chun
-- 家偉
 - Kn
 - Royce
 - Dor
@@ -1129,15 +1043,12 @@ firstnames_male:
 - Why
 - Hoo
 - Mung
-- 俊文
-- 永祥
 - Kingking
 - Tsz Lung
 - Kinming
 - Chi Tak
 - Sai Hung
 - Ho Wing
-- 偉强
 - Chunhei
 - Lok Hang
 - Pak Yin
@@ -1155,7 +1066,6 @@ firstnames_male:
 - Kakin
 - Small
 - King Wai
-- 錦明
 - Lok Hei
 - Siufung
 - Hp
@@ -1165,19 +1075,14 @@ firstnames_male:
 - Pen
 - Johnnie
 - Qiang
-- 志勇
-- 永昌
 - Kaiming
-- 耀光
 - Kin Pong
 - Waileung
 - Chunman
 - Wing Sang
-- 嘉輝
 - Kwok Ping
 - Chiu Ming
 - Yiu Wai
-- 文偉
 - Wai Kong
 - Wing Tak
 - Yiuming
@@ -1196,16 +1101,12 @@ firstnames_male:
 - Ryo
 - Dolphin
 - Rice
-- 建明
-- 志良
 - Kaikai
 - Chihang
-- 嘉偉
 - Ka Fung
 - Tak Keung
 - Kamshing
 - Ka Lung
-- 家寶
 - Ho Chun
 - Cheuk Hang
 - Chun Him
@@ -1237,30 +1138,23 @@ firstnames_male:
 - Wylie
 - Chunyu
 - Dickie
-- 嘉文
-- 嘉明
-- 志遠
 - Hok
 - Waiki
 - Shu Wing
 - Chi Yeung
 - Wai Hin
-- 耀華
 - Kwok Yin
 - Homing
-- 德華
 - Po Wah
 - Chun Hing
 - Siu Po
 - Hon Wah
-- 文軒
 - Kai Wah
 - Tak Man
 - Waiyip
 - Wai Chiu
 - Wai Nam
 - Wingfai
-- 偉華
 - Chi Tat
 - Kim Ming
 - Ying Wai
@@ -1281,11 +1175,8 @@ firstnames_male:
 - Chapman
 - Esmond
 - Rayman
-- 志威
 - Chunming
-- 俊熙
 - Ho Tin
-- 啟明
 - Chin Hung
 - Man Kei
 - Wai Wing
@@ -1299,12 +1190,10 @@ firstnames_male:
 - Chung Ho
 - Icarus
 - Ka Hang
-- 國權
 - Dickey
 - Chun Nam
 - Cheuk Him
 - Chun Yiu
-- 偉賢
 - Savio
 - Pt
 - Hiro
@@ -1316,13 +1205,8 @@ firstnames_male:
 - Corey
 - Kyo
 - Wat
-- 文迪
-- 少雄
 - Alun
-- 健文
 - Mingfai
-- 家榮
-- 大雄
 - Sa Sa
 - Kwong Ming
 - Ho Kwan
@@ -1333,20 +1217,17 @@ firstnames_male:
 - Wing Chiu
 - Hon Fai
 - Chun Sang
-- 健華
 - Kin Kwok
 - Kam Pui
 - Chun Yuen
 - Manlung
 - Wai Tat
 - Chung Hei
-- 志權
 - Chikong
 - Chi Hing
 - Ming Kit
 - Chun Ki
 - Pak Hin
-- 偉康
 - Kai Hung
 - Kai Ho
 - Siu Leung
@@ -1357,7 +1238,6 @@ firstnames_male:
 - Chun Lam
 - Cheuk Ming
 - Siu Tong
-- 耀榮
 - Wai Wa
 - Kam Chiu
 - Kana
@@ -1377,15 +1257,8 @@ firstnames_male:
 - Kidd
 - Addison
 - Jarvis
-- 建文
-- 小虎
-- 波波
 - Sheep
-- 小寶
-- 東東
-- 金水
 - Chifung
-- 少明
 - Kawah
 - Hon Wing
 - Ka Shun
@@ -1407,11 +1280,8 @@ firstnames_male:
 - Kai Fung
 - Wing Tat
 - Almond
-- 金華
-- 米高
 - Kwok Kit
 - Kam Kuen
-- 家傑
 - Kwok Chu
 - Chi Kai
 - Ching Ho
@@ -1421,9 +1291,7 @@ firstnames_male:
 - Tai Ming
 - Kinwa
 - Yat Hei
-- 家強
 - Ping Kuen
-- 錦雄
 - Kwok Tung
 - Tp
 - Zeta
@@ -1439,14 +1307,12 @@ firstnames_male:
 - Wp
 - Chunwing
 - Wai On
-- 子聰
 - Heison
 - Kam Chi
 - Kin Long
 - Tszchun
 - King Ho
 - Sai Man
-- 偉忠
 - Chung Wing
 - Yukming
 - Siu Tung
@@ -1487,19 +1353,154 @@ firstnames_male:
 - Gao
 - Ziv
 - Kuma
-- 文彬
-- 志平
-- 健明
-- 玉明
-- 德成
-- 小強
-- 志誠
 - Ka Cheung
 - Chun Leung
 - Man Sing
 - Sin Hang
 - Yuk Shing
 - Wing Tai
+- Manhei
+- Ho Yuen
+- Siuwah
+- Long Yin
+- Wing Hing
+- Chi Kan
+- Pasu
+- Kwok Choi
+- Chun To
+- Kenken
+- Hon Wai
+- Waiwah
+- Kwok Fu
+- Kin On
+- King Fai
+- Chi Wang
+- Kin Sing
+- Kam Choi
+- Chung Hin
+- Lok Him
+- Kai Kwong
+- Tin Long
+- Kwok Chiu
+- Waifung
+- Wai Choi
+- Kin Yip
+- Man Yiu
+- Holam
+- Ho Cheung
+- Chak Man
+- Chunsing
+- Tin Lok
+- Wing Wai
+- Kai Leung
+- Wing Hin
+- Nate
+- Bubu
+- Blair
+- Hihi
+- Mio
+- Newman
+- Kendrick
+- Pai
+- Caspar
+- Kamen
+- Conan
+- Haze
+- Swan
+- Kayden
+- Pian
+- Cman
+- Liao
+- Yeah
+- Pakho
+- Chikwan
+- Mill
+- Tak Chi
+- Wing Sing
+- Wing Wa
+- Wingkit
+- Ho Wang
+- Chileung
+- King Fung
+- Ching Wai
+- Po Ming
+- Kam Cheong
+- Kam Hing
+- Kai Yuen
+- Cheuk Wai
+- Sai Ho
+- Chun Kwong
+- Chi Lun
+- Cheuk Lun
+- Ka Him
+- Po Lam
+- Yat Fung
+- Tak Chuen
+- Kai Cheung
+- Kim Man
+- Kakui
+- Hing Man
+- Tsz Long
+- Hohin
+- Chung Fai
+- Fu Keung
+- Ming Chun
+- Chung Hang
+- Siufai
+- Ching Wah
+- Chiyung
+- Kwan Wai
+- Manchung
+- Chun Kuen
+- Cheukyin
+- Kaiyin
+- Oh
+- Kirk
+- Mbah
+- Holy
+- Even
+- Thompson
+- Dannis
+- Mf
+- Sherlock
+- Jethro
+- Cong
+- Kingson
+- Reeve
+- Wai To
+- Kwok Chun
+- Kwokming
+- Sai Wing
+- Fat Fat
+- Hoi Chun
+- Winghei
+- Manhin
+- Tat Man
+- Siulung
+- Sai Cheong
+- Ching Hei
+- Wai Shun
+- On On
+- Kai Cheong
+- Chi To
+- Chun Yeung
+- Yu Hong
+- Chung Chung
+- Kennex
+- Siu Hei
+- Chun Tat
+- Chunhin
+- Chiu Wing
+- Ting Hin
+- Chi Tung
+- Ping Hung
+- Chising
+- Kam Chun
+- Kwokman
+- Wing Kan
+- Tak Hung
+- Wingcheung
+- Ka Chi
 firstnames_female:
 - May
 - Amy
@@ -1763,7 +1764,6 @@ firstnames_female:
 - Echo
 - Siu Ping
 - Hebe
-- 美玲
 - Yl
 - Elly
 - Lai Ying
@@ -1784,14 +1784,12 @@ firstnames_female:
 - Ly
 - Xiao
 - Yui
-- 玉珍
 - Heung
 - Ka Po
 - Zoey
 - Tingting
 - Ying Ying
 - Wincy
-- 婷婷
 - Hoi Yan
 - Sheung
 - Lorraine
@@ -1800,7 +1798,6 @@ firstnames_female:
 - Py
 - Qing
 - Cammy
-- 玲玲
 - Hiu Tung
 - Siu Yin
 - Sugar
@@ -1816,13 +1813,11 @@ firstnames_female:
 - Pansy
 - Dian
 - Scarlett
-- 美美
 - Christie
 - Lai Wah
 - Pui Shan
 - Fung Yee
 - Wawa
-- 珍珍
 - Kayi
 - Yuk Lan
 - Yin Ling
@@ -1834,7 +1829,6 @@ firstnames_female:
 - Rong
 - Ct
 - Peony
-- 小玲
 - Sze Man
 - Wai Kwan
 - Ka Yi
@@ -1855,7 +1849,6 @@ firstnames_female:
 - Xia
 - Qin
 - Karman
-- 小燕
 - Siu Chun
 - Yin Ping
 - Wai Yan
@@ -1864,10 +1857,8 @@ firstnames_female:
 - Wing Ki
 - Clare
 - Chiman
-- 芳芳
 - Ting Ting
 - Wingwing
-- 海燕
 - Shanshan
 - Wing Yi
 - Wing Sum
@@ -1876,7 +1867,6 @@ firstnames_female:
 - Eka
 - Sisi
 - Cc
-- 麗娟
 - Yuen Yee
 - Ma Ma
 - Siu Kuen
@@ -1900,8 +1890,6 @@ firstnames_female:
 - Bintang
 - Jovy
 - Anthea
-- 珊珊
-- 秀珍
 - Coey
 - Pui Man
 - Lai Yee
@@ -1911,7 +1899,6 @@ firstnames_female:
 - Krystal
 - Yannie
 - Wing Wing
-- 麗珍
 - Foon
 - Ka Lai
 - Yuk Ping
@@ -1921,21 +1908,16 @@ firstnames_female:
 - Dawn
 - Sui
 - Shan Shan
-- 麗華
 - Key
 - Kimi
-- 秀英
 - Kitman
 - Lai Ching
 - Kam Fung
 - Wai Hing
 - Bebe
-- 嘉欣
 - Mingming
-- 麗萍
 - Kit Ying
 - Mei Lin
-- 玉英
 - Hiu Ching
 - Melati
 - Abbie
@@ -1949,7 +1931,6 @@ firstnames_female:
 - Paijem
 - Canny
 - Suk Yee
-- 麗芳
 - Neng
 - Ika
 - Yo Yo
@@ -1974,13 +1955,10 @@ firstnames_female:
 - Vienna
 - Carey
 - Pingping
-- 雪梅
 - Ping Ping
 - Kit Ching
 - Margie
 - Shi
-- 玉玲
-- 惠珍
 - Hoi Lam
 - Wing Chi
 - Siu Mei
@@ -1992,8 +1970,6 @@ firstnames_female:
 - Ban
 - Yoki
 - Miffy
-- 惠玲
-- 玉蘭
 - Yammie
 - Kit Ling
 - Putry
@@ -2020,11 +1996,9 @@ firstnames_female:
 - Jelly
 - Xue
 - Boey
-- 美珍
 - Pui Ying
 - Yuk King
 - Mei Ying
-- 玉蓮
 - Mei Kuen
 - Man Ying
 - Lai King
@@ -2033,12 +2007,10 @@ firstnames_female:
 - Vickie
 - Rainie
 - Trista
-- 冰冰
 - Manyee
 - Lai Yin
 - Wai Yi
 - Hiu Lam
-- 惠芳
 - Fong Fong
 - Jolly
 - Mutiara
@@ -2076,13 +2048,11 @@ firstnames_female:
 - Karry
 - Siuman
 - Winki
-- 淑儀
 - Suk Ching
 - Wai Fan
 - Tsz Ki
 - Eleanor
 - Jeannie
-- 美英
 - Mui Mui
 - Yuk Mui
 - Evangeline
@@ -2090,10 +2060,7 @@ firstnames_female:
 - Cissy
 - Nga
 - Vincci
-- 玉梅
 - Eling
-- 桂英
-- 寶寶
 - Winglam
 - Hei Man
 - Lai Lai
@@ -2107,15 +2074,11 @@ firstnames_female:
 - Albee
 - Wun
 - Dilys
-- 嘉敏
-- 芷晴
 - Tsz Wing
 - Siu Wan
-- 麗霞
 - Intan
 - Jia
 - Jolie
-- 燕玲
 - Hoi Man
 - Mei Fung
 - Tszyan
@@ -2134,9 +2097,7 @@ firstnames_female:
 - Wandy
 - Chole
 - Coby
-- 淑芬
 - Laam
-- 少英
 - Siu Ching
 - Sau Ling
 - Po Ling
@@ -2147,13 +2108,10 @@ firstnames_female:
 - Yanni
 - Karis
 - Leng
-- 莉莉
-- 嘉怡
 - Wingsze
 - Waiyin
 - Yuk Wah
 - Fongfong
-- 秀蘭
 - Cheuk Lam
 - Fung Ying
 - Bundae
@@ -2170,8 +2128,6 @@ firstnames_female:
 - Ngo
 - Karena
 - Season
-- 小小
-- 燕萍
 - Sin Man
 - Lai Sheung
 - Mei Yuk
@@ -2183,7 +2139,6 @@ firstnames_female:
 - Maisy
 - Stephy
 - Chim
-- 彩霞
 - Yinyin
 - Mei Lan
 - Pui Yi
@@ -2197,8 +2152,6 @@ firstnames_female:
 - Chuchu
 - Prudence
 - Fen
-- 晶晶
-- 桂芳
 - Oi Lin
 - Chung Yan
 - Wingki
@@ -2211,7 +2164,6 @@ firstnames_female:
 - Carry
 - Mbak
 - Peggie
-- 秀娟
 - Winkie
 - Pui Yan
 - Siu Fan
@@ -2228,15 +2180,12 @@ firstnames_female:
 - Aggie
 - Bessie
 - Manyi
-- 秀芳
-- 麗麗
 - Lai Fun
 - Kam Mui
 - Sze Wai
 - Siuwai
 - Sze Sze
 - Lai Wa
-- 麗芬
 - Mary Jane
 - Pelangi
 - Fi
@@ -2245,8 +2194,6 @@ firstnames_female:
 - Kendy
 - Shelley
 - Fy
-- 菲菲
-- 美娟
 - Yee Ling
 - Cheuk Ying
 - Po Chun
@@ -2256,7 +2203,6 @@ firstnames_female:
 - Tungtung
 - Kwai Chun
 - Pui Kwan
-- 美蘭
 - Siuping
 - Mahal
 - Beryl
@@ -2268,7 +2214,6 @@ firstnames_female:
 - Miu Ling
 - Lai Chu
 - Sin Yi
-- 淑貞
 - Manda
 - Icha
 - Ririn
@@ -2276,8 +2221,6 @@ firstnames_female:
 - Eny
 - Rainy
 - Cookie
-- 欣欣
-- 春梅
 - Szeman
 - Chi Ying
 - Wai Yu
@@ -2290,25 +2233,17 @@ firstnames_female:
 - Vivienne
 - Simmy
 - Xiaoyan
-- 嘉慧
 - Chingman
 - Siuying
 - Lam Lam
 - Hoi Tung
-- 鳳英
 - Hiu Ying
 - Wai Chu
-- 小紅
 - Rhoda
 - Titin
 - Mum
 - Aiko
-- 文文
-- 小英
-- 惠娟
 - Yeeman
-- 少玲
-- 麗娜
 - Siu Fun
 - Man Ting
 - Lai Hung
@@ -2325,25 +2260,16 @@ firstnames_female:
 - Nanik
 - Winsome
 - Feifei
-- 思思
-- 嘉琪
-- 冬梅
-- 秀玲
-- 花花
-- 玉芳
-- 群英
 - Kamkam
 - Catcat
 - Hei Tung
 - Ka Lam
-- 玉華
 - Waiying
 - Sau Kuen
 - Hiu Yan
 - Shuk Ching
 - Pui Sze
 - Sau Ping
-- 曉晴
 - Shuk Yin
 - Kaye
 - Corazon
@@ -2354,13 +2280,6 @@ firstnames_female:
 - Una
 - Edwina
 - Yin Yin
-- 琳琳
-- 安琪
-- 玉霞
-- 秀梅
-- 美玉
-- 英英
-- 美芳
 - Funfun
 - Lok Yee
 - Lai Fan
@@ -2369,7 +2288,6 @@ firstnames_female:
 - Lok Yiu
 - Ching Yin
 - Yuk Sim
-- 桂珍
 - Tai Tai
 - Wingyi
 - Fung Lin
@@ -2381,17 +2299,13 @@ firstnames_female:
 - Yiyi
 - Billie
 - Momoko
-- 心怡
-- 慧玲
 - Hoiyan
 - Yammi
 - Chi Chi
 - Kam Ying
-- 麗英
 - Sin Ying
 - Siu Ha
 - Gobby
-- 少芳
 - Sau Lin
 - Po Lin
 - Kaying
@@ -2400,12 +2314,6 @@ firstnames_female:
 - Whitney
 - Xie
 - Tomato
-- 萍萍
-- 嘉嘉
-- 嘉雯
-- 小梅
-- 燕子
-- 美華
 - Yukying
 - Wingtung
 - Yuen Ying
@@ -2413,15 +2321,12 @@ firstnames_female:
 - Lai Shan
 - Kam Lin
 - Chu Chu
-- 麗君
 - Kwan Ying
 - Shuen
 - Siusiu
 - Wingyin
-- 美儀
 - On Ki
 - Yin Kwan
-- 敏儀
 - Laiying
 - Siu Siu
 - Mary Grace
@@ -2438,12 +2343,7 @@ firstnames_female:
 - Cyan
 - Wiwik
 - Karrie
-- 丽丽
-- 小红
-- 小芳
 - Winwin
-- 曉彤
-- 玉清
 - Hoyan
 - Waiyan
 - Sumsum
@@ -2455,7 +2355,6 @@ firstnames_female:
 - Mei Yi
 - Man Yin
 - Hoi Yee
-- 美蓮
 - Hoi Ting
 - Mhel
 - Kaur
@@ -2465,9 +2364,6 @@ firstnames_female:
 - Libby
 - Maisie
 - Suky
-- 慧敏
-- 小平
-- 惠英
 - Wai Sze
 - Pui Yu
 - Yin Ching
@@ -2490,7 +2386,6 @@ firstnames_female:
 - Kam Yin
 - Kam Lan
 - Suk Yin
-- 嘉儀
 - Analiza
 - Jonalyn
 - Jovelyn
@@ -2504,13 +2399,7 @@ firstnames_female:
 - Cannie
 - Candace
 - Venice
-- 丹丹
-- 春燕
-- 淑珍
-- 玉琼
 - Chingyee
-- 月娥
-- 秀琼
 - Laichun
 - Poyee
 - Yuk Hing
@@ -2519,13 +2408,11 @@ firstnames_female:
 - Suet Yee
 - Yin Chun
 - Chi Ling
-- 惠儀
 - Yuk Ha
 - Sze Ki
 - Sau Mui
 - Fung Ping
 - Yan Tung
-- 鳳儀
 - Lai Mui
 - Sze Wan
 - Pui Wah
@@ -2544,8 +2431,6 @@ firstnames_female:
 - Pei
 - Dandan
 - Liping
-- 雯雯
-- 琪琪
 - Manching
 - Yonnie
 - Man Ki
@@ -2567,16 +2452,11 @@ firstnames_female:
 - Lilik
 - Paijah
 - Qiu
-- 子晴
-- 月明
-- 淑芳
-- 小妹
 - Hiuching
 - Kenix
 - Puiyee
 - Wingman
 - Yinping
-- 雪兒
 - Kwok Ying
 - Man Kuen
 - Siuchun
@@ -2594,8 +2474,6 @@ firstnames_female:
 - Tsz Yau
 - Yiuyiu
 - Hoiying
-- 樂怡
-- 雪英
 - Laikuen
 - Tszwai
 - Taitai
@@ -2613,9 +2491,6 @@ firstnames_female:
 - Sulis
 - Queena
 - Vien
-- 青青
-- 佩玲
-- 月英
 - Hiulam
 - Gi Gi
 - Inem
@@ -2624,8 +2499,6 @@ firstnames_female:
 - Oi Kwan
 - Yuen Kwan
 - Sze Ching
-- 彩雲
-- 少珍
 - Tin Yan
 - Choi Wan
 - Sinyi
@@ -2647,39 +2520,24 @@ firstnames_female:
 - Ibue
 - Titik
 - Xiaoli
-- 宝宝
-- 安娜
-- 文英
-- 燕芳
-- 小美
-- 少芬
-- 玉燕
-- 惠芬
 - Po Yan
 - Wah Wah
 - Tsz Shan
-- 麗容
 - Sin Ting
-- 慧儀
 - Siu Hing
 - Tsz Tung
 - Siu Yuk
-- 麗明
 - Sze Nga
 - Kei Kei
 - Mei Yung
 - Puiling
 - Yu Ching
-- 寶珠
-- 月華
 - Ching Lam
 - Hiuman
 - Hoyi
-- 金鳳
 - Shuk Yi
 - Suk Fun
 - Hoiching
-- 紅梅
 - Precy
 - Ratu
 - Kasih
@@ -2695,23 +2553,14 @@ firstnames_female:
 - Tutik
 - Fenny
 - Sukie
-- 文娟
-- 娟娟
-- 清清
 - Lanlan
 - Suey
-- 彩虹
-- 雪芳
-- 淑英
-- 淑玲
 - Manting
-- 雪芬
 - Ice
 - Meiying
 - Sinyee
 - Kit Yi
 - Sau Lai
-- 小麗
 - Hody
 - Ho Yee
 - Choi Fung
@@ -2732,10 +2581,8 @@ firstnames_female:
 - Man Lai
 - Kam Ling
 - Nga Man
-- 潔貞
 - Yuk Kam
 - Kit Ping
-- 佩儀
 - Yuk Mei
 - Annisa
 - Nin
@@ -2747,29 +2594,17 @@ firstnames_female:
 - Cyndi
 - Miao
 - Yayuk
-- 娜娜
-- 思敏
 - Xiaomei
-- 小花
-- 美琪
-- 佩珊
-- 燕芬
-- 妙玲
 - Fei Fei
-- 穎欣
-- 少娟
 - Mi Mi
 - Sin Tung
 - Yuen Wah
 - Pik Ha
 - Kanas
 - Kitying
-- 麗梅
 - Yung Yung
 - Siumui
 - Yee Ting
-- 小鳳
-- 小蘭
 - Kiukiu
 - Shuk Han
 - Manki
@@ -2783,8 +2618,6 @@ firstnames_female:
 - Shuk Ling
 - Yee Yee
 - Yee Mei
-- 麗嫦
-- 美鳳
 - Ibuke
 - Yuklan
 - Choi Ying
@@ -2792,7 +2625,6 @@ firstnames_female:
 - Pui Chi
 - Sauchun
 - Poling
-- 麗貞
 - Kuen Kuen
 - Thess
 - Indri
@@ -2807,26 +2639,13 @@ firstnames_female:
 - Puput
 - Yum
 - Jinny
-- 丽娟
 - Xiaohong
-- 丽华
-- 红梅
-- 慧慧
-- 小娟
-- 明珠
-- 玉萍
-- 小霞
-- 雪玲
-- 秀秀
 - Akina
-- 美霞
 - Kinny
 - Yuen Yuen
-- 小雲
 - Waikwan
 - Yuk Fan
 - Kam Tai
-- 詠詩
 - Yuk Wan
 - Man Wa
 - Wa Wa
@@ -2838,15 +2657,12 @@ firstnames_female:
 - Fun Fun
 - Yim Fong
 - Hiu Kwan
-- 秀麗
-- 嫲嫲
 - Wingchi
 - Fan Fan
 - Wing Ching
 - Po Man
 - Chui Ling
 - Hoi Ling
-- 曉琳
 - Yuk Wa
 - Poyi
 - Laiha
@@ -2870,23 +2686,12 @@ firstnames_female:
 - Haiyan
 - Lihua
 - Qiong
-- 海英
 - Elain
-- 真真
-- 盈盈
-- 婉玲
 - Panny
-- 玉娟
-- 瑩瑩
-- 香香
-- 瑞英
-- 桂花
-- 秀芬
 - Iceice
 - Siu Yu
 - Pigpig
 - Sze Ting
-- 秀華
 - Fung Chun
 - Yuen Yi
 - Wai Kam
@@ -2903,16 +2708,13 @@ firstnames_female:
 - Yin Fan
 - Yuet Wah
 - Yeeyee
-- 華華
 - Waiyi
 - Mo Ching
 - Ming Chu
 - Mei Wa
-- 麗儀
 - Mei Ki
 - Yu Yu
 - Sui Ling
-- 麗玲
 - Hoi Shan
 - Shuk Fan
 - Laiwah
@@ -2934,17 +2736,12 @@ firstnames_female:
 - Fonnie
 - Maple
 - Sunnie
-- 丽萍
-- 小琴
-- 碧霞
 - Wanwan
 - Meilan
-- 桂香
 - Lee Lee
 - Hoiki
 - Kwai Lan
 - Siu Yee
-- 惠蓮
 - Tszkwan
 - Yin Man
 - Chun Ying
@@ -2959,12 +2756,8 @@ firstnames_female:
 - Cheuk Yiu
 - Saulan
 - Yuet Ngor
-- 凱晴
 - Lai Yi
 - Chui Ping
-- 秀霞
-- 玉芬
-- 秀蓮
 - Risma
 - Bhing
 - Yolly
@@ -2978,17 +2771,8 @@ firstnames_female:
 - Aling
 - Rae
 - Ibune
-- 佳佳
-- 莎莎
-- 海霞
-- 敏敏
-- 芬芬
-- 紫晴
-- 惠萍
-- 小萍
 - Sinman
 - Yuenyee
-- 心心
 - Bonbon
 - Mei Kwan
 - Waihing
@@ -3001,6 +2785,223 @@ firstnames_female:
 - Shuk Fong
 - Sau Ha
 - Siuwan
+- Siufong
+- Fung Fung
+- Nga Ting
+- Kityee
+- Kam Kam
+- Yukling
+- Wing Kam
+- Yin Ting
+- Ying Tung
+- Wailin
+- Kwai Mui
+- Laiyin
+- Yin Hung
+- Yuen Shan
+- Suetying
+- Sukyee
+- Kwai Lin
+- Wai Mei
+- Wailan
+- Yuen Tung
+- Fung Kuen
+- Laiyee
+- Nenk
+- Maricris
+- Ghie
+- Sweetie
+- Aini
+- Veron
+- Landy
+- Yuka
+- Onki
+- Weiwei
+- Bingbing
+- Janie
+- Chanchan
+- Allie
+- Linna
+- Xiaoling
+- Virgo
+- Cloris
+- Fennie
+- Leanna
+- Kasey
+- Yuting
+- Genie
+- Jiao
+- Manling
+- Hiuying
+- Li Li
+- Sum Sum
+- Sui Ping
+- Yuen Mei
+- Siukuen
+- Sau Fung
+- Yin Ha
+- Pui Fong
+- Wing Ka
+- Siulan
+- Yauyau
+- King King
+- Lai Mei
+- Mei King
+- Suk Man
+- Puilam
+- Mei Wan
+- Yuen Ping
+- Lai Har
+- Kaching
+- Hermia
+- Oi Lan
+- Kit Wah
+- Tsz Ling
+- Hoiman
+- Yan Yi
+- Kiu Kiu
+- Ka Lee
+- Yin Shan
+- Ching Han
+- Kam Wan
+- Kitling
+- Yuk Yu
+- Kwai Ping
+- Lok Ching
+- Loletta
+- Yee Lam
+- Wing Kiu
+- Cecille
+- Luzviminda
+- Yuyun
+- Kirsty
+- Twinkle
+- Tanny
+- Aqua
+- Yanna
+- Sansan
+- Putrie
+- Endah
+- Serpihan
+- Snowy
+- Yumiko
+- Auntie
+- Eppie
+- Bethany
+- Karie
+- Yuanyuan
+- Hitomi
+- Leelee
+- Xiaoying
+- Meiyan
+- Wingyu
+- Hiuyan
+- Chun Yan
+- Szewing
+- Waiking
+- Suet Fong
+- Siu Ting
+- Man Yu
+- Suet Yi
+- Hoiyi
+- May Ling
+- Lan Fong
+- Yuk Shan
+- Yuen Ming
+- Hiu Laam
+- Kwan Yee
+- Mbok
+- Yuen Fan
+- Yee Wan
+- Sau Yung
+- Lan Ying
+- Siuching
+- Sau Kwan
+- Wingshan
+- Wan Ching
+- Suk Fong
+- Lai Ngor
+- Yin Wah
+- Yan Ting
+- Man Sze
+- Fung Lan
+- Kam Fong
+- Sau Mei
+- Pui King
+- Shuk Kwan
+- Wan Yee
+- Sauling
+- Hau Ling
+- Hau Yee
+- Ummi
+- Risa
+- Uni
+- Tiny
+- Setia
+- Kirana
+- Qiqi
+- Monie
+- Dou
+- Jannie
+- Beebee
+- Lembayung
+- Mamanya
+- Niken
+- Vianna
+- Meiki
+- Xinyi
+- Winifred
+- Yanling
+- Yumei
+- Wallis
+- Laiming
+- Cewex
+- Kam Yuk
+- Waishan
+- Siu Shan
+- Lai Lin
+- Sui Ying
+- Pochu
+- Po King
+- Oi Ying
+- Kuenkuen
+- Wan Ying
+- Lu Lu
+- Waiyu
+- Suet Ching
+- Tin Tin
+- Mei Yu
+- Fungying
+- Fung King
+- Suk Ling
+- Yuenyuen
+- Sin Yan
+- Sau Kam
+- Sui Chun
+- Hoiyin
+- Shuk Ping
+- Lailing
+- Ching Wan
+- Pui Lin
+- Laiching
+- Chui Yi
+- Wai Mui
+- Choi Ling
+- Po Yuk
+- Sau Wai
+- Sze Yan
+- Jenelyn
+- Umy
+- Permata
+- Fitria
+- Miracle
+- Shea
+- Holiday
+- Kally
+- Kids
+- Skye
+- Trinity
+- Chrissy
 lastnames:
 - Chan
 - Wong
@@ -3251,7 +3252,6 @@ lastnames:
 - Tim
 - Loo
 - Hing
-- 司徒
 - Yuk
 - Hi
 - See
@@ -3263,7 +3263,6 @@ lastnames:
 - Lily
 - Kee
 - Hoi
-- 歐陽
 - Kenny
 - Yik
 - Mai
@@ -3647,7 +3646,6 @@ lastnames:
 - Hor
 - Leng
 - Soong
-- 欧阳
 - Kowk
 - Malang
 - Azzahra
@@ -4077,7 +4075,6 @@ lastnames:
 - Ngalam
 - Pesex
 - Renee
-- 慕容
 - Daryanani
 - Woody
 - Lwy
@@ -4112,7 +4109,6 @@ lastnames:
 - Fitria
 - Im
 - Tsa
-- 上官
 - Hebe
 - Winky
 - Sze-To
@@ -4213,7 +4209,6 @@ lastnames:
 - Kachun
 - Ka Lok
 - Kam Hung
-- 司馬
 - Kammy
 - Ka Ki
 - Tersakiti
@@ -4352,7 +4347,6 @@ lastnames:
 - Shanshan
 - Shia
 - Kayee
-- 東方
 - Miumiu
 - Ckl
 - Mirpuri
@@ -4502,3 +4496,2640 @@ lastnames:
 - Ayunda
 - Magetan
 - Phiong
+- Diy
+- Banyuwangi
+- Lampung
+- Iin
+- Ngau
+- Kurniawati
+- Ernawati
+firstnames_male_native:
+- 小明
+- 志明
+- 志強
+- 大文
+- 志雄
+- 志偉
+- 偉明
+- 偉雄
+- 俊傑
+- 志成
+- 志强
+- 偉強
+- 國強
+- 志華
+- 偉文
+- 國華
+- 國雄
+- 浩然
+- 家俊
+- 志輝
+- 志豪
+- 嘉俊
+- 志光
+- 嘉豪
+- 家豪
+- 錦華
+- 子健
+- 志文
+- 俊杰
+- 師傅
+- 文傑
+- 家樂
+- 大明
+- 浩賢
+- 錦輝
+- 子軒
+- 德明
+- 志堅
+- 志榮
+- 國輝
+- 偉光
+- 永康
+- 家輝
+- 偉傑
+- 文輝
+- 永強
+- 明明
+- 國偉
+- 錦榮
+- 星星
+- 建華
+- 文俊
+- 國明
+- 文龍
+- 偉民
+- 梓軒
+- 國榮
+- 家明
+- 少華
+- 偉倫
+- 國良
+- 宇軒
+- 子龍
+- 耀輝
+- 偉豪
+- 文杰
+- 國威
+- 偉成
+- 偉良
+- 偉業
+- 子豪
+- 俊豪
+- 浩文
+- 國强
+- 振華
+- 俊軒
+- 文浩
+- 一一
+- 俊賢
+- 志剛
+- 嘉樂
+- 耀明
+- 小龍
+- 偉權
+- 偉健
+- 國基
+- 家偉
+- 俊文
+- 永祥
+- 偉强
+- 錦明
+- 志勇
+- 永昌
+- 耀光
+- 嘉輝
+- 文偉
+- 建明
+- 志良
+- 嘉偉
+- 家寶
+- 嘉文
+- 嘉明
+- 志遠
+- 耀華
+- 德華
+- 文軒
+- 偉華
+- 志威
+- 俊熙
+- 啟明
+- 國權
+- 偉賢
+- 文迪
+- 少雄
+- 健文
+- 家榮
+- 大雄
+- 健華
+- 志權
+- 偉康
+- 耀榮
+- 建文
+- 小虎
+- 波波
+- 小寶
+- 東東
+- 金水
+- 少明
+- 金華
+- 米高
+- 家傑
+- 家強
+- 錦雄
+- 子聰
+- 偉忠
+- 文彬
+- 志平
+- 健明
+- 玉明
+- 德成
+- 小強
+- 志誠
+- 國安
+- 卓軒
+- 偉基
+- 俊輝
+- 錦泉
+- 永强
+- 天天
+- 耀文
+- 光明
+- 永生
+- 子明
+- 建成
+- 振威
+- 偉杰
+- 明輝
+- 子謙
+- 永華
+- 錦成
+- 國樑
+- 天佑
+- 建平
+- 志祥
+- 志忠
+- 永成
+- 炳坤
+- 漢華
+- 大偉
+- 古力
+- 國光
+- 永雄
+- 兆基
+- 志华
+- 海明
+- 小文
+- 永健
+- 文生
+- 漢明
+- 志傑
+- 健強
+- 國興
+- 錦洪
+- 天朗
+- 錦棠
+- 達明
+- 智勇
+- 志超
+- 建新
+- 梓豪
+- 永光
+- 惠明
+- 家文
+- 天生
+- 文光
+- 子俊
+- 振強
+- 俊偉
+- 仲賢
+- 子朗
+- 志聰
+- 錦添
+- 文強
+- 卓賢
+- 錦文
+- 嘉華
+- 彬彬
+- 国强
+- 志宏
+- 嘉浩
+- 文健
+- 世昌
+- 嘉熙
+- 子傑
+- 建輝
+- 嘉誠
+- 英傑
+- 嘉榮
+- 展鵬
+- 偉龍
+- 偉平
+- 永樂
+- 志洪
+- 振輝
+- 炳輝
+- 偉國
+- 志昌
+- 俊華
+- 錦鴻
+- 浩軒
+- 偉昌
+- 永權
+- 逸朗
+- 俊雄
+- 榮光
+- 錦全
+- 清華
+- 明華
+- 偉林
+- 樂軒
+- 國成
+- 偉鴻
+- 耀強
+- 國祥
+- 志伟
+- 冬冬
+- 文豪
+- 小白
+- 大大
+- 小林
+- 志恒
+- 生生
+- 志健
+- 成成
+- 浩南
+- 彼得
+- 世雄
+- 健成
+- 超人
+- 振雄
+- 志龍
+- 建國
+- 文華
+- 家希
+- 國文
+- 俊彥
+- 偉德
+- 大人
+- 子樂
+- 偉俊
+- 東尼
+- 卓謙
+- 天樂
+- 耀祥
+- 炳光
+- 偉樂
+- 天賜
+- 志賢
+- 振宇
+- 海洋
+- 伟明
+- 俊宇
+- 文清
+- 子杰
+- 嘉威
+- 建忠
+- 伟强
+- 家成
+- 健雄
+- 智豪
+- 金成
+- 永豪
+- 嘉傑
+- 金城
+- 曉東
+- 永安
+- 浩明
+- 振邦
+- 志森
+- 耀宗
+- 俊希
+- 少文
+- 世傑
+- 樹根
+- 國平
+- 智聰
+- 文樂
+- 嘉希
+- 偉洪
+- 榮基
+- 嘉銘
+- 子康
+- 國豪
+- 成功
+- 新華
+- 啟榮
+- 劍雄
+- 智軒
+- 子賢
+- 家駒
+- 偉新
+- 炳權
+- 永發
+- 金勝
+- 志鵬
+- 德榮
+- 榮華
+- 建华
+- 博文
+- 子文
+- 家杰
+- 建雄
+- 俊明
+- 梓健
+- 景文
+- 英俊
+- 金明
+- 德文
+- 志康
+- 志江
+- 文康
+- 曉明
+- 俊朗
+- 志民
+- 家威
+- 健生
+- 国雄
+- 榮輝
+- 國洪
+- 錦昌
+- 梓聰
+- 漢文
+- 太郎
+- 雲龍
+- 曉峰
+- 智偉
+- 樂天
+- 健民
+- 少強
+- 德光
+- 志德
+- 志軒
+- 仲明
+- 炳華
+- 世榮
+- 志杰
+- 志辉
+- 超群
+- 海平
+- 明亮
+- 木木
+- 伟文
+- 永明
+- 子浩
+- 柏林
+- 少平
+- 家浩
+- 子良
+- 志坤
+- 金福
+- 卓文
+- 英雄
+- 永輝
+- 柏豪
+- 小子
+- 志鴻
+- 家和
+- 家銘
+- 俊龍
+- 子鋒
+- 永傑
+- 國賢
+- 德偉
+- 漢強
+- 偉東
+- 偉祥
+- 大師
+- 大少
+- 兆輝
+- 富榮
+- 嘉聰
+- 漢輝
+- 世華
+- 日朗
+- 偉生
+- 志恆
+- 永基
+- 德勝
+- 劍華
+- 輝輝
+- 先生
+- 德祥
+- 永賢
+- 耀祖
+- 天明
+- 文强
+- 嘉杰
+- 文辉
+- 文超
+- 伟雄
+- 光耀
+- 世豪
+- 浩天
+- 建中
+- 世明
+- 振强
+- 威廉
+- 智明
+- 健豪
+- 春明
+- 嘉成
+- 家健
+- 文威
+- 志新
+- 梓峰
+- 明德
+- 威威
+- 子超
+- 兆祥
+- 仲文
+- 秋明
+- 樹基
+- 家華
+- 景輝
+- 耀基
+- 國忠
+- 梓謙
+- 浩銘
+- 德輝
+- 建邦
+- 嘉軒
+- 偉堅
+- 光輝
+- 子強
+- 國富
+- 錦標
+- 志達
+- 錦培
+- 天送
+- 樂文
+- 漢榮
+- 健輝
+- 卓希
+- 光榮
+- 飛龍
+- 達成
+- 國民
+- 兆華
+- 樂謙
+- 永德
+- 錦光
+- 啟文
+- 振聲
+- 梓鋒
+- 樹榮
+- 海峰
+- 文龙
+- 英杰
+- 永杰
+- 志敏
+- 文明
+- 文亮
+- 文雄
+- 立新
+- 建生
+- 海文
+- 嘉良
+- 俊霖
+- 浩林
+- 兆康
+- 劍輝
+- 德志
+- 志安
+- 志生
+- 永全
+- 偉達
+- 桂明
+- 錦源
+- 樹華
+- 英偉
+- 健威
+- 耀東
+- 文德
+- 德強
+- 嘉倫
+- 劍明
+- 嘉龍
+- 家熙
+- 少龍
+- 啟華
+- 國柱
+- 偉興
+- 自強
+- 偉鋒
+- 卓霖
+- 漢忠
+- 華生
+- 廣德
+- 家軒
+- 炳林
+- 俊源
+- 振東
+- 智傑
+- 景華
+- 瑞明
+- 偉榮
+- 頌賢
+- 國棟
+- 嘉謙
+- 金喜
+- 海波
+- 宇航
+- 天宇
+- 国华
+- 志斌
+- 小宝
+- 俊宏
+- 思源
+- 志峰
+- 文峰
+- 永良
+- 俊威
+- 永平
+- 文熙
+- 小新
+- 建民
+- 俊浩
+- 智文
+- 国荣
+- 浩源
+- 世文
+- 嘉健
+- 森森
+- 志鋒
+- 建威
+- 永泉
+- 柏霖
+- 家良
+- 振文
+- 惠民
+- 嘉耀
+- 亨利
+- 家耀
+- 兆明
+- 卓明
+- 君豪
+- 建安
+- 文耀
+- 志和
+- 子峰
+- 大衛
+- 子揚
+- 一鳴
+- 偉聰
+- 錦堂
+- 嘉朗
+- 曉鋒
+- 金泉
+- 天龍
+- 少偉
+- 子華
+- 文基
+- 國昌
+- 學文
+- 富華
+- 樹森
+- 卓楠
+- 俊樂
+- 永忠
+- 偉全
+- 偉棠
+- 積奇
+- 錦祥
+- 金龍
+- 牛牛
+- 兆文
+- 錦權
+- 浩輝
+- 國慶
+- 劍峰
+- 港生
+- 潤生
+- 家興
+- 大強
+- 金毛
+- 文達
+- 樹強
+- 永達
+- 小生
+- 華勝
+- 劍鋒
+- 健聰
+- 建軍
+- 國全
+- 俊榮
+- 漢成
+- 健新
+- 太陽
+- 國新
+- 耀雄
+- 永堅
+- 英華
+- 俊鋒
+- 建偉
+- 志鹏
+- 振华
+- 晓明
+- 一帆
+- 建国
+- 家辉
+- 世杰
+- 浩宇
+- 少华
+- 小强
+- 俊峰
+- 海林
+- 浩楠
+- 子君
+- 展鹏
+- 国辉
+- 国良
+- 大海
+- 明星
+- 文忠
+- 清泉
+- 卓然
+- 超文
+- 安迪
+- 家亮
+- 永佳
+- 大力
+- 健强
+- 瑞祥
+- 卓峰
+- 沛霖
+- 永新
+- 海棠
+- 耀威
+- 俊康
+- 家祥
+- 瑞麟
+- 玉光
+- 志佳
+- 丹尼
+- 浩霖
+- 子平
+- 家强
+- 智健
+- 炳森
+- 德昌
+- 偉斌
+- 振光
+- 國泰
+- 錦波
+- 永泰
+- 耀忠
+- 吉吉
+- 富強
+- 伯伯
+- 家駿
+- 兆榮
+- 文鋒
+- 福生
+- 振明
+- 志興
+- 小雄
+- 建業
+- 銘軒
+- 家麟
+- 澤林
+- 錦超
+- 浩龍
+- 冠雄
+- 文廣
+- 帶喜
+- 逍遙
+- 偉南
+- 啟光
+- 家聲
+- 榮耀
+- 振興
+- 福祥
+- 澤明
+- 啟聰
+- 耀棠
+- 錦平
+- 健偉
+- 智強
+- 慶華
+- 文興
+- 耀權
+- 樹明
+- 偉麟
+- 國龍
+- 俊銘
+- 帶勝
+- 國超
+- 凱文
+- 偉超
+- 冠華
+- 梓傑
+- 健忠
+- 智康
+- 貴榮
+- 文彪
+- 達華
+- 漢生
+- 世民
+- 健龍
+- 朗朗
+- 展鴻
+- 國財
+- 德德
+- 福成
+- 家賢
+- 永源
+- 小龙
+- 伟杰
+- 文斌
+- 星宇
+- 清华
+- 志坚
+- 文华
+- 森林
+- 金华
+- 健华
+- 永恒
+- 志浩
+- 天成
+- 桂林
+- 锦华
+- 志荣
+- 吉祥
+- 俊良
+- 文勇
+- 嘉裕
+- 大仙
+- 少波
+- 智雄
+- 文海
+- 俊俊
+- 志城
+- 少峰
+- 建良
+- 建林
+- 智恒
+- 梓浩
+- 华华
+- 火火
+- 家裕
+- 天然
+- 永文
+- 文成
+- 锦明
+- 平安
+- 梓俊
+- 永浩
+- 振豪
+- 成志
+- 智峰
+- 木森
+- 俊生
+- 建榮
+- 永富
+- 智成
+- 家雄
+- 明光
+- 永耀
+- 浩華
+- 澤民
+- 少輝
+- 富貴
+- 仲良
+- 惠強
+- 建東
+- 偉邦
+- 啟康
+- 永年
+- 日光
+- 文章
+- 嘉駿
+- 金有
+- 浩榮
+- 旭輝
+- 廣生
+- 大舊
+- 俊謙
+- 永和
+- 自然
+- 師兄
+- 啟賢
+- 朗軒
+- 智輝
+- 世強
+- 達文
+- 景雄
+- 健榮
+- 廣文
+- 德雄
+- 偉泉
+- 兆麟
+- 漢光
+- 俊仁
+- 志仁
+- 晉熙
+- 向榮
+- 世平
+- 潤華
+- 兆昌
+- 國生
+- 日華
+- 錦龍
+- 德良
+- 建洪
+- 家聰
+- 慶祥
+- 建強
+- 振南
+- 楚明
+- 國仁
+- 智賢
+- 華強
+- 永鴻
+- 炳全
+- 梓熙
+- 智華
+- 同學
+- 世光
+- 有成
+- 海濤
+- 樂然
+- 占士
+- 超明
+- 達榮
+- 大民
+- 天來
+- 保羅
+- 振業
+- 慶輝
+- 思遠
+- 思朗
+- 俊熹
+- 東明
+- 永鋒
+- 炳耀
+- 玉榮
+- 大夫
+- 國寶
+- 東海
+- 澤森
+- 金發
+- 智威
+- 偉安
+- 家誠
+- 梓龍
+- 錦強
+- 四海
+- 日月
+- 德興
+- 景祥
+- 少榮
+- 健朗
+- 耀昌
+- 浩東
+- 光華
+- 啟源
+- 梓朗
+- 金生
+- 智謙
+- 漢良
+- 日明
+- 錦賢
+- 晓峰
+- 嘉伟
+- 金龙
+- 建强
+- 黎明
+- 亮亮
+- 佳俊
+- 建辉
+- 宇翔
+- 伟光
+- 智杰
+- 海生
+- 志彬
+- 海清
+- 思明
+- 永亮
+- 建荣
+- 玉林
+- 伟民
+- 自强
+- 锦荣
+- 梓杰
+- 宝华
+- 浩洋
+- 富强
+- 永林
+- 迪迪
+- 国明
+- 金波
+- 展豪
+- 玉坤
+- 金平
+- 麒麟
+- 志清
+- 和平
+- 子安
+- 金星
+- 冠文
+- 子祥
+- 子熙
+- 俊健
+- 文武
+- 忠明
+- 立成
+- 家宝
+- 鵬飛
+- 世强
+- 德全
+- 俊星
+- 景明
+- 明志
+- 建群
+- 梓皓
+- 玉麟
+- 炳祥
+- 建豪
+- 明智
+- 俊成
+- 志勤
+- 家昌
+- 炳雄
+- 旭東
+- 達達
+- 天行
+- 昌明
+- 志全
+- 浩森
+- 卓雄
+- 森美
+- 志揚
+- 桂興
+- 子輝
+- 金輝
+- 比利
+- 興華
+- 國鴻
+- 文森
+- 文聰
+- 偉森
+- 成就
+- 學明
+- 卓朗
+- 偉亮
+- 諾言
+- 錦興
+- 卓熙
+- 有為
+- 家樑
+- 廣輝
+- 世賢
+- 達強
+- 德賢
+- 松柏
+- 永興
+- 木根
+- 炳強
+- 嘉麟
+- 浚銘
+- 廣成
+- 漢雄
+- 波子
+- 健樂
+- 惠光
+- 桂生
+- 俊業
+- 燦輝
+- 天祥
+- 澤霖
+- 澤鋒
+- 華安
+- 嘉興
+- 炳基
+- 金滿
+- 紹基
+- 國健
+- 志銘
+- 国強
+- 嘉禧
+- 偉軒
+- 永漢
+- 振榮
+- 德權
+- 健全
+- 健邦
+- 雄輝
+- 家謙
+- 卓華
+- 宇宙
+- 錦威
+- 學謙
+- 廣明
+- 慶文
+- 德威
+- 勝利
+- 錦豪
+- 健平
+- 柏軒
+- 嘉盛
+- 浪子
+- 浩朗
+- 提芬
+- 錫輝
+- 子豐
+- 沛林
+- 樹林
+- 偉佳
+- 偉浩
+- 永勝
+- 炳文
+- 彼德
+- 永清
+- 正恩
+- 浩宏
+- 澤銘
+- 明偉
+- 玉龍
+- 有明
+- 寶強
+- 錦偉
+- 卓恒
+- 紹華
+- 家倫
+- 劍英
+- 浩良
+- 偉源
+- 仲華
+- 玉棠
+- 光光
+- 清風
+- 東成
+- 樂賢
+- 明耀
+- 興興
+- 柏然
+- 家進
+- 子雄
+- 貴明
+- 嘉霖
+- 家禧
+- 文禮
+- 廣華
+- 宏偉
+- 龍龍
+- 仲偉
+- 偉峰
+- 永業
+- 偉才
+- 小輝
+- 凡人
+- 廣祥
+- 波記
+- 祖榮
+- 文謙
+- 榮昌
+- 兆雄
+- 海龍
+- 耀成
+- 朝暉
+- 太子
+- 偉彬
+- 啟鴻
+- 俊民
+- 明軒
+- 师傅
+- 紹輝
+- 家龍
+- 漢平
+- 哥哥
+- 錦良
+- 國林
+- 培基
+- 耀强
+- 耀良
+- 啟業
+- 順發
+- 晓东
+- 志刚
+- 一凡
+- 凯文
+- 雪峰
+- 伟华
+- 宇轩
+- 俊辉
+- 家乐
+- 明杰
+- 少杰
+- 俊锋
+- 昊天
+- 明辉
+- 子轩
+- 小波
+- 家伟
+- 伟平
+- 耀辉
+- 建斌
+- 国伟
+- 国平
+- 永超
+- 启明
+- 仁杰
+- 锦辉
+- 建峰
+- 志聪
+- 志林
+- 小杰
+- 超超
+- 玉祥
+- 十一
+- 智浩
+- 立志
+- 建勇
+- 永华
+- 海彬
+- 永波
+- 海山
+- 志亮
+- 德强
+- 志毅
+- 志海
+- 立文
+- 健健
+- 俊逸
+- 振辉
+- 建宏
+- 子奇
+- 金山
+- 大成
+- 俊毅
+- 皓天
+- 汉明
+- 俊林
+- 英明
+- 敬文
+- 文林
+- 福林
+- 文昌
+- 新新
+- 查理
+- 山山
+- 一明
+- 文青
+- 志群
+- 子威
+- 子建
+- 昌盛
+- 文建
+- 自由
+- 瑞文
+- 源源
+- 俊彦
+- 子成
+- 瑞强
+- 天豪
+- 健良
+- 其昌
+- 富豪
+- 旺旺
+- 杰杰
+- 水金
+- 俊亨
+- 海威
+- 力行
+- 玉良
+- 鎮宇
+- 俊延
+- 富城
+- 子强
+firstnames_female_native:
+- 美玲
+- 玉珍
+- 婷婷
+- 玲玲
+- 美美
+- 珍珍
+- 小玲
+- 小燕
+- 芳芳
+- 海燕
+- 麗娟
+- 珊珊
+- 秀珍
+- 麗珍
+- 麗華
+- 秀英
+- 嘉欣
+- 麗萍
+- 玉英
+- 麗芳
+- 雪梅
+- 玉玲
+- 惠珍
+- 惠玲
+- 玉蘭
+- 美珍
+- 玉蓮
+- 冰冰
+- 惠芳
+- 淑儀
+- 美英
+- 玉梅
+- 桂英
+- 寶寶
+- 嘉敏
+- 芷晴
+- 麗霞
+- 燕玲
+- 淑芬
+- 少英
+- 莉莉
+- 嘉怡
+- 秀蘭
+- 小小
+- 燕萍
+- 彩霞
+- 晶晶
+- 桂芳
+- 秀娟
+- 秀芳
+- 麗麗
+- 麗芬
+- 菲菲
+- 美娟
+- 美蘭
+- 淑貞
+- 欣欣
+- 春梅
+- 嘉慧
+- 鳳英
+- 小紅
+- 文文
+- 小英
+- 惠娟
+- 少玲
+- 麗娜
+- 思思
+- 嘉琪
+- 冬梅
+- 秀玲
+- 花花
+- 玉芳
+- 群英
+- 玉華
+- 曉晴
+- 琳琳
+- 安琪
+- 玉霞
+- 秀梅
+- 美玉
+- 英英
+- 美芳
+- 桂珍
+- 心怡
+- 慧玲
+- 麗英
+- 少芳
+- 萍萍
+- 嘉嘉
+- 嘉雯
+- 小梅
+- 燕子
+- 美華
+- 麗君
+- 美儀
+- 敏儀
+- 丽丽
+- 小红
+- 小芳
+- 曉彤
+- 玉清
+- 美蓮
+- 慧敏
+- 小平
+- 惠英
+- 嘉儀
+- 丹丹
+- 春燕
+- 淑珍
+- 玉琼
+- 月娥
+- 秀琼
+- 惠儀
+- 鳳儀
+- 雯雯
+- 琪琪
+- 子晴
+- 月明
+- 淑芳
+- 小妹
+- 雪兒
+- 樂怡
+- 雪英
+- 青青
+- 佩玲
+- 月英
+- 彩雲
+- 少珍
+- 宝宝
+- 安娜
+- 文英
+- 燕芳
+- 小美
+- 少芬
+- 玉燕
+- 惠芬
+- 麗容
+- 慧儀
+- 麗明
+- 寶珠
+- 月華
+- 金鳳
+- 紅梅
+- 文娟
+- 娟娟
+- 清清
+- 彩虹
+- 雪芳
+- 淑英
+- 淑玲
+- 雪芬
+- 小麗
+- 潔貞
+- 佩儀
+- 娜娜
+- 思敏
+- 小花
+- 美琪
+- 佩珊
+- 燕芬
+- 妙玲
+- 穎欣
+- 少娟
+- 麗梅
+- 小鳳
+- 小蘭
+- 麗嫦
+- 美鳳
+- 麗貞
+- 丽娟
+- 丽华
+- 红梅
+- 慧慧
+- 小娟
+- 明珠
+- 玉萍
+- 小霞
+- 雪玲
+- 秀秀
+- 美霞
+- 小雲
+- 詠詩
+- 秀麗
+- 嫲嫲
+- 曉琳
+- 海英
+- 真真
+- 盈盈
+- 婉玲
+- 玉娟
+- 瑩瑩
+- 香香
+- 瑞英
+- 桂花
+- 秀芬
+- 秀華
+- 華華
+- 麗儀
+- 麗玲
+- 丽萍
+- 小琴
+- 碧霞
+- 桂香
+- 惠蓮
+- 凱晴
+- 秀霞
+- 玉芬
+- 秀蓮
+- 佳佳
+- 莎莎
+- 海霞
+- 敏敏
+- 芬芬
+- 紫晴
+- 惠萍
+- 小萍
+- 心心
+- 婉儀
+- 淑華
+- 詩詩
+- 潔儀
+- 凱琳
+- 少萍
+- 惠貞
+- 惠卿
+- 麗雲
+- 惠蘭
+- 潔玲
+- 珍妮
+- 婉婷
+- 小敏
+- 雅雯
+- 玉琴
+- 巧玲
+- 淑娟
+- 小雪
+- 瑞芳
+- 雪珍
+- 梅芳
+- 靜儀
+- 淑賢
+- 麗紅
+- 蘭子
+- 少梅
+- 可兒
+- 麗珠
+- 雅婷
+- 家欣
+- 燕燕
+- 小玉
+- 丽珍
+- 燕霞
+- 建英
+- 珠珠
+- 麗卿
+- 瑞珍
+- 詩雅
+- 國英
+- 多多
+- 嘉玲
+- 秀清
+- 金玉
+- 秀萍
+- 容容
+- 雪花
+- 秀容
+- 金蓮
+- 金妹
+- 詠欣
+- 鳳玲
+- 瑞華
+- 淑嫻
+- 金蘭
+- 可欣
+- 丽芳
+- 美婷
+- 晴晴
+- 小云
+- 芷欣
+- 嘉穎
+- 瑞芬
+- 燕華
+- 小華
+- 靜雯
+- 惠琼
+- 美雲
+- 玉嬋
+- 淑卿
+- 桂蘭
+- 詠恩
+- 麗琼
+- 麗群
+- 詠儀
+- 丽娜
+- 玉婷
+- 思琪
+- 佩佩
+- 金金
+- 彤彤
+- 林林
+- 小兰
+- 小慧
+- 美君
+- 秋霞
+- 春霞
+- 春花
+- 碧玉
+- 少霞
+- 惠文
+- 思穎
+- 金英
+- 綺雯
+- 桂芬
+- 桂蓮
+- 瑞蓮
+- 樂瑤
+- 艷芳
+- 樂兒
+- 敏兒
+- 綺華
+- 詩敏
+- 嘉寶
+- 淑霞
+- 嬌嬌
+- 安妮
+- 丽霞
+- 秋萍
+- 慧芳
+- 平平
+- 曉燕
+- 小芬
+- 玉群
+- 雪雪
+- 燕琼
+- 玉鳳
+- 美好
+- 嘉麗
+- 寶儀
+- 倩儀
+- 艷玲
+- 樂樂
+- 小丽
+- 欣怡
+- 雪萍
+- 丽英
+- 梓晴
+- 燕梅
+- 丽芬
+- 秀琴
+- 艷紅
+- 蘭英
+- 靜怡
+- 巧兒
+- 寶珍
+- 曉玲
+- 彩鳳
+- 寶玲
+- 紅紅
+- 敏華
+- 鳳珍
+- 瑞玲
+- 瑞蘭
+- 惠清
+- 彩蓮
+- 佩芬
+- 秀紅
+- 細妹
+- 秀雲
+- 美芬
+- 少群
+- 佩英
+- 甜甜
+- 彩云
+- 可可
+- 小雨
+- 洋洋
+- 金花
+- 小青
+- 淑君
+- 嘉琳
+- 雅文
+- 燕妮
+- 淑萍
+- 秀文
+- 君君
+- 秋燕
+- 秋玲
+- 翠霞
+- 凱欣
+- 燕珍
+- 嘉盈
+- 妙妙
+- 曉君
+- 錦霞
+- 翠華
+- 惠霞
+- 雪蓮
+- 玉冰
+- 玉卿
+- 麗珊
+- 燕紅
+- 佩芳
+- 穎彤
+- 翠蓮
+- 碧雲
+- 一心
+- 瑞琼
+- 惠惠
+- 素珍
+- 少蘭
+- 燕群
+- 月蘭
+- 玉儀
+- 圓圓
+- 笑英
+- 美珠
+- 婉華
+- 少琼
+- 晓玲
+- 安安
+- 文慧
+- 惠敏
+- 雪儿
+- 慧娟
+- 嘉莉
+- 翠萍
+- 佩雯
+- 美娜
+- 小清
+- 雪霞
+- 丁丁
+- 如意
+- 素芳
+- 家家
+- 春香
+- 梅花
+- 小珍
+- 志英
+- 子欣
+- 月琴
+- 玉香
+- 珍珠
+- 翠玲
+- 月霞
+- 蘭蘭
+- 大姐
+- 嘉兒
+- 寶兒
+- 素華
+- 秋紅
+- 梅英
+- 玉貞
+- 貞貞
+- 梅珍
+- 家姐
+- 芷瑩
+- 偉英
+- 翠芳
+- 美卿
+- 鳳蓮
+- 佩君
+- 靚靚
+- 佩華
+- 寶華
+- 穎琳
+- 美嬌
+- 美琼
+- 麗莎
+- 雪瑩
+- 媛媛
+- 丽君
+- 小米
+- 木子
+- 思婷
+- 慧琳
+- 嘉茵
+- 少卿
+- 慧明
+- 翠翠
+- 金玲
+- 海玲
+- 美琴
+- 惠琴
+- 文雅
+- 文靜
+- 雪琴
+- 子淇
+- 穎詩
+- 月月
+- 文芳
+- 恩恩
+- 芷茵
+- 彩玲
+- 春華
+- 蘭芳
+- 玉珠
+- 飛飛
+- 麗冰
+- 雅詩
+- 麗清
+- 月嫦
+- 美寶
+- 艷芬
+- 婉芬
+- 碧英
+- 美如
+- 麗平
+- 素玲
+- 春蘭
+- 秋蘭
+- 麗琴
+- 卓琳
+- 秀娥
+- 永紅
+- 碧華
+- 鳳霞
+- 麗燕
+- 寶蓮
+- 惠群
+- 詠琳
+- 晓燕
+- 文静
+- 文婷
+- 文君
+- 薇薇
+- 雨晴
+- 丹妮
+- 菁菁
+- 蓉蓉
+- 春华
+- 红霞
+- 丽梅
+- 家琪
+- 秋香
+- 燕平
+- 瑞霞
+- 淑敏
+- 素素
+- 子琪
+- 桂玲
+- 小惠
+- 美燕
+- 婉雯
+- 米米
+- 欣彤
+- 玉平
+- 慧芬
+- 慧珍
+- 海琳
+- 美珊
+- 麗文
+- 曉欣
+- 翠芬
+- 潔瑩
+- 曉紅
+- 秀珠
+- 惠珠
+- 鳳蘭
+- 曉婷
+- 桂梅
+- 素英
+- 翠英
+- 少容
+- 佩珍
+- 秀花
+- 美欣
+- 紅英
+- 秀鳳
+- 芝芝
+- 素娟
+- 嘉恩
+- 凱婷
+- 曉華
+- 群娣
+- 曉嵐
+- 秀美
+- 綺玲
+- 綺雲
+- 少雲
+- 瑞娟
+- 木蘭
+- 素芬
+- 月媚
+- 惠君
+- 彩蘭
+- 麗香
+- 少君
+- 麗敏
+- 美兒
+- 慧賢
+- 潔芳
+- 寶怡
+- 翠蘭
+- 秀玉
+- 嘉瑩
+- 凱琪
+- 露露
+- 雨欣
+- 明月
+- 美华
+- 慧萍
+- 家慧
+- 文秀
+- 明慧
+- 茵茵
+- 小冰
+- 雅欣
+- 海珍
+- 敏怡
+- 明霞
+- 素琴
+- 芷珊
+- 群芳
+- 秀明
+- 秋梅
+- 四妹
+- 雪清
+- 秀儀
+- 紅霞
+- 詩琪
+- 艷梅
+- 麗娥
+- 麗婷
+- 曉桐
+- 綺文
+- 美金
+- 雪雲
+- 慧蘭
+- 巧珍
+- 秀平
+- 碧珍
+- 少蓮
+- 麗媚
+- 卓穎
+- 秀群
+- 潔梅
+- 惠賢
+- 穎儀
+- 穎怡
+- 好好
+- 叮噹
+- 細細
+- 美紅
+- 佩霞
+- 彩珍
+- 美娥
+- 莹莹
+- 倩倩
+- 晨曦
+- 小华
+- 依依
+- 静怡
+- 燕婷
+- 佳欣
+- 智慧
+- 艳红
+- 微微
+- 玉兰
+- 婉君
+- 秀丽
+- 雅琪
+- 燕君
+- 金梅
+- 海萍
+- 文燕
+- 金燕
+- 秋月
+- 秋菊
+- 丽琼
+- 思慧
+- 玉华
+- 开心
+- 思雅
+- 倩怡
+- 小莉
+- 敏玲
+- 建芳
+- 秀云
+- 秋英
+- 芙蓉
+- 雅琳
+- 燕清
+- 紫欣
+- 雪娟
+- 小翠
+- 小春
+- 曉敏
+- 嘉惠
+- 欣桐
+- 宝珠
+- 梅子
+- 碧君
+- 曉瑩
+- 月玲
+- 雅麗
+- 莉娜
+- 芷君
+- 淑明
+- 慧珊
+- 慧英
+- 依琳
+- 惠梅
+- 月珍
+- 素貞
+- 英子
+- 燕媚
+- 詩韻
+- 美恩
+- 麗花
+- 鳳萍
+- 金娣
+- 蘭花
+- 彩英
+- 秀媚
+- 月好
+- 翠珍
+- 文珍
+- 春紅
+- 美人
+- 麗蓮
+- 凱盈
+- 雲雲
+- 歡歡
+- 貝貝
+- 美群
+- 鳳群
+- 金好
+- 家怡
+- 帶娣
+- 佩蓮
+- 靜靜
+- 鳳娟
+- 燕雲
+- 雪華
+- 雪儀
+- 偉玲
+- 秀兰
+- 詩晴
+- 芷琳
+- 玉妹
+- 瑞香
+- 可盈
+- 芷澄
+- 麗賢
+- 慕貞
+- 淑燕
+- 晓霞
+- 静雯
+- 嘉琦
+- 小婷
+- 丽玲
+- 小君
+- 元元
+- 红英
+- 爱华
+- 小娜
+- 雅玲
+- 艳芳
+- 丽明
+- 梅梅
+- 丽云
+- 丽珠
+- 琴琴
+- 春玲
+- 慧君
+- 慧欣
+- 志娟
+- 方方
+- 志芳
+- 小桃
+- 爱玲
+- 志玲
+- 美兰
+- 曉梅
+- 美云
+- 雪怡
+- 小欣
+- 燕明
+- 希希
+- 美怡
+- 惠平
+- 飛燕
+- 曉芳
+- 志芬
+- 家敏
+- 月梅
+- 紫琪
+- 詩婷
+- 水水
+- 秀嫻
+- 月清
+- 月亮
+- 麗嬋
+- 靜文
+- 翠琼
+- 金彩
+- 笑珍
+- 淇淇
+- 彩華
+- 蓮花
+- 惠燕
+- 笑芳
+- 瑤瑤
+- 翠珊
+- 碧芳
+- 美清
+- 妙珍
+- 比比
+- 瑞貞
+- 妙英
+- 華英
+- 錦雲
+- 小菊
+- 小心
+- 海華
+- 穎妍
+- 燕飛
+- 秀瓊
+- 慧妍
+- 卓妍
+- 玲瓏
+- 小琼
+- 綺婷
+- 淑蘭
+- 淑琴
+- 玉花
+- 海倫
+- 婉瑩
+- 英姐
+- 偉清
+- 翠儀
+- 淑美
+- 碧玲
+- 偉紅
+- 翠雲
+- 秀卿
+- 穎琪
+- 卓盈
+- 晴天
+- 碧燕
+- 寶玉
+- 美賢
+- 玉嬌
+- 頌恩
+- 錦玲
+- 鳳嬌
+- 碧蓮
+- 瑞珠
+- 麗瓊
+- 桂華
+- 詠怡
+- 晓敏
+- 晓君
+- 佳琪
+- 楠楠
+- 雪婷
+- 丽红
+- 子涵
+- 丽莎
+- 艳玲
+- 淑婷
+- 雅琴
+- 小凤
+- 慧婷
+- 凤英
+- 金霞
+- 悠悠
+- 淑怡
+- 楚君
+- 子瑜
+- 燕青
+- 春英
+- 包包
+- 敏慧
+- 莉萍
+- 月华
+- 心悦
+- 建芬
+- 小群
+- 芬芳
+- 淑慧
+- 淑梅
+- 素梅
+- 丽花
+- 泳欣
+- 佩文
+- 心妍
+- 少燕
+- 春芳
+- 彩萍
+- 小如
+- 丽嫦
+- 水英
+- 曉雯
+- 巧巧
+- 少媚
+- 雪盈
+- 敏婷
+- 婉霞
+- 慧琪
+- 慧雯
+- 小容
+- 琼琼
+- 文欣
+- 海珠
+- 婉珍
+- 月萍
+- 偉芳
+- 詠珊
+- 美嬋
+- 凱茵
+- 小蓮
+- 佩琼
+- 翠兒
+- 巧雲
+- 潔冰
+- 厘子
+- 燕卿
+- 金珠
+- 祖兒
+- 潔英
+- 曉霞
+- 海晴
+- 銀英
+- 美莉
+- 楚雲
+- 詠彤
+- 月桂
+- 文希
+- 秋華
+- 玉環
+- 卓瑩
+- 佩賢
+- 桂容
+- 婉萍
+- 秀香
+- 有娣
+- 麗雅
+- 碧珠
+- 穎茵
+- 六妹
+- 九妹
+- 夫人
+- 麗玉
+- 詠心
+- 月雲
+- 佩貞
+- 穎兒
+- 詠琪
+- 精靈
+- 惠華
+- 美貞
+- 佩兒
+- 凱怡
+- 詩穎
+- 潔萍
+- 月香
+- 麗兒
+- 文珊
+- 丽容
+- 秀貞
+- 珍姐
+- 佩詩
+- 霖霖
+- 錦秀
+- 嘉美
+- 可怡
+- 彩群
+- 凱淇
+- 桂清
+- 月容
+- 慧珠
+- 嘉淇
+- 喜喜
+- 笑娟
+- 維維
+- 東梅
+- 嘉晴
+- 子喬
+- 慧心
+- 琼芳
+- 艷萍
+- 翠怡
+- 思樂
+- 乐乐
+- 晓琳
+- 圆圆
+- 雨婷
+- 丽婷
+- 紫薇
+- 晓芳
+- 晓红
+- 舒婷
+- 晓梅
+- 思雨
+- 嘉瑜
+- 兰兰
+- 佳怡
+- 少敏
+- 妮妮
+- 智敏
+- 春红
+- 程程
+- 燕华
+- 俊英
+- 佳玲
+- 小倩
+- 思彤
+- 丽燕
+- 丽平
+- 春兰
+- 瑞华
+- 清霞
+- 燕红
+- 利平
+- 青霞
+- 雪莉
+- 秋平
+- 永红
+- 梓欣
+- 桂萍
+- 雅萍
+- 雪冰
+- 思琦
+- 天晴
+- 津津
+- 雪平
+- 彩燕
+- 佩怡
+- 雅芳
+- 秀君
+- 小琳
+- 利利
+- 淼淼
+- 丽清
+- 雅晴
+- 牡丹
+- 小利
+- 佩欣
+- 紫珊
+- 秋红
+- 小雯
+- 慧琴
+- 丽群
+- 海梅
+- 红红
+- 映雪
+- 果果
+- 慧怡
+- 莎莉
+- 雪燕
+- 菊芳
+- 素霞
+- 明芳
+- 美萍
+- 惠娜
+- 芷琪
+- 玉莲
+- 淑雯
+- 芊芊
+- 秋芳
+- 佩琪
+- 雪云
+- 文玉
+- 玉珊
+- 衛紅
+- 金香
+- 金枝
+- 燕如
+- 雅雅
+- 美花
+- 妙娟
+- 綿綿
+- 金萍
+- 翠紅
+- 瑪莉
+- 杏梅
+- 玉嫦
+- 瑞儀
+- 惠冰
+- 潔華
+- 潤蓮
+- 蘭香
+- 錦英
+- 子珊
+- 芷瑤
+- 月紅
+- 子瑩
+- 偉珍
+- 藍藍
+- 順英
+- 月嬌
+- 連英
+- 梓淇
+- 秋蓮
+- 嬋娟
+- 惠珊
+- 美雪
+- 美連
+- 月芳
+- 美香
+- 燕輝
+- 彩玉
+- 惠香
+- 玉美
+- 彩娟
+- 菊英
+- 蓮英
+- 潔明
+- 慧貞
+- 少麗
+- 轉好
+- 大妹
+- 希彤
+- 秋雲
+- 艷華
+- 彩紅
+- 月蓮
+- 映彤
+- 慧嫻
+- 妹姐
+- 素娥
+- 雲英
+- 志紅
+- 燕玉
+- 惠紅
+- 惠娥
+- 美嫻
+- 麗蓉
+- 鳳琴
+- 玉媚
+- 美雅
+- 婉兒
+- 詠賢
+- 曉澄
+- 家儀
+- 麗蘭
+- 海欣
+- 瑞萍
+- 宝珍
+- 曉萍
+- 芷盈
+- 麗雯
+- 日葵
+- 翠玉
+- 玉雲
+- 秀金
+- 巧英
+- 曉慧
+- 靜嫻
+- 燕蘭
+- 秀連
+- 愛玲
+- 海蘭
+- 春麗
+- 瑞雲
+- 寶珊
+- 倩兒
+- 明英
+- 慧蓮
+- 淑琼
+- 梓澄
+- 曉楠
+- 惠嫦
+- 曉盈
+- 凱恩
+- 錦蘭
+- 雅思
+- 華麗
+- 潔蓮
+- 陳陳
+- 天娜
+- 華姐
+- 潔珍
+- 月仙
+- 佩娟
+- 妙婷
+- 碧珊
+- 妙蘭
+- 瑞卿
+- 文香
+- 秋容
+- 嘉義
+- 錦萍
+- 雪娥
+- 曉文
+- 碧琪
+- 彩容
+- 綺霞
+- 玉枝
+- 春妹
+- 金秀
+- 明麗
+- 雪紅
+- 嘉宜
+- 康妮
+- 姍姍
+- 麗鳳
+- 瑞琴
+- 敏瑜
+- 芷淇
+- 世英
+- 少少
+- 子慧
+- 鳳珠
+- 少紅
+- 梓琳
+- 美真
+- 桂鳳
+- 冰心
+- 雪玉
+- 婉婉
+- 帶好
+- 百合
+- 泳儀
+- 麗欣
+- 穎恩
+- 佩瑩
+- 彩平
+- 雪蘭
+- 子茵
+- 菊香
+- 小晴
+- 婉文
+- 麗美
+- 晓婷
+- 梦婷
+- 苗苗
+- 晓丹
+- 晓丽
+- 静静
+- 飞飞
+- 晓静
+- 晓晴
+- 茜茜
+- 艳萍
+- 双双
+- 晓晓
+- 佳妮
+- 嘉仪
+- 云云
+- 欣然
+- 丽敏
+- 楚楚
+- 艳华
+- 春艳
+- 艳丽
+- 雪莲
+- 思宇
+- 诗琪
+- 金凤
+- 志红
+- 小雅
+- 晓琴
+- 永梅
+- 雪晴
+- 淑仪
+- 丽琴
+- 晓艳
+- 晓英
+- 文琪
+- 文霞
+- 依婷
+- 倩文
+- 燕珊
+- 碧云
+- 雅莉
+- 文玲
+- 小曼
+- 秀红
+- 秀敏
+- 翠婷
+- 小金
+- 沙沙
+- 琦琦
+- 诗婷
+- 惠婷
+- 彩红
+- 华英
+- 奇奇
+- 苹果
+- 海芳
+- 曉麗
+- 海琪
+- 倩瑜
+- 心如
+- 紫君
+- 瑞琪
+- 婉珊
+- 思恩
+- 文惠
+- 桂兰
+- 小瑜
+- 小珊
+- 媚媚
+- 曉曉
+- 朝霞
+- 燕英
+- 靖怡
+- 靖雯
+- 雪明
+- 伊琳
+- 素萍
+- 曉丹
+- 美蓉
+- 玉金
+- 巧云
+- 美宝
+- 妙芬
+- 瑞燕
+- 紫茵
+- 映霞
+- 美慧
+- 燕文
+- 碧碧
+- 嘉燕
+- 柳青
+- 芷瑜
+- 桃子
+- 可儿
+- 美子
+- 希文
+- 星雨
+- 玉娥
+- 瑪姬
+- 貴珍
+- 玉玉
+- 佩恩
+- 少貞
+- 瑞紅
+- 柔柔
+- 雪麗
+- 燕屏
+- 曉霖
+- 玉屏
+- 潔雲
+- 鳳梅
+- 桂枝
+- 碧儀
+- 月嬋
+- 惠嫻
+- 燕嫦
+- 碧娟
+- 貝兒
+- 杏芳
+- 凱瑩
+- 美秀
+- 雪香
+- 建玲
+- 少清
+- 玉如
+- 寶英
+- 敏芝
+- 錦芳
+- 淑蓮
+- 詠琴
+- 念慈
+- 芷妍
+- 汶汶
+- 家瑩
+- 樂欣
+- 安怡
+- 寶琴
+- 芷筠
+- 惠瓊
+- 笑琼
+- 容妹
+- 順好
+- 思華
+- 振英
+- 文麗
+- 嘉汶
+- 寶欣
+- 妙嫦
+- 小珠
+- 香蘭
+- 霞姐
+- 碧蘭
+- 麗春
+lastnames_native:
+- 司徒
+- 歐陽
+- 欧阳
+- 慕容
+- 上官
+- 司馬
+- 東方
+- 南宮
+- 諸葛
+- 鈴木
+- 長崎
+- 田中
+- 端木
+- 山田
+- 櫻井
+- 加藤
+- 高橋
+- 皇甫
+- 山本
+- 唯愛
+- 小明
+- 如月
+- 星野
+- 木村
+- 野比
+- 伊藤
+- 神崎
+- 司马
+- 申屠
+- 轩辕
+- 东方
+- 宇文
+- 百里
+- 夏侯
+- 佐藤
+- 木子
+- 藤原
+- 小林
+- 大隻
+- 寶寶
+- 小小
+- 小強
+- 叮噹
+- 松本
+- 樹熊
+- 自由
+- 大舊
+- 金毛
+- 絕對
