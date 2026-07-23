@@ -31,4 +31,14 @@ RSpec.describe "committed data" do
     expect(a).to eq(b)
     expect(a[:firstname]).to be_a(String).and(satisfy { !_1.empty? })
   end
+
+  it "includes curated Ukraine with gendered pools" do
+    expect(NameBank.countries).to include("UA")
+    male = NameBank.first_name(country: "UA", gender: :male, rng: Random.new(1))
+    female = NameBank.first_name(country: "UA", gender: :female, rng: Random.new(1))
+    expect(male).to be_a(String)
+    expect(female).to be_a(String)
+    expect(NameBank.repository.firstnames(country: "UA", gender: :male))
+      .not_to include(*NameBank.repository.firstnames(country: "UA", gender: :female))
+  end
 end
