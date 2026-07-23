@@ -51,4 +51,12 @@ RSpec.describe "committed data" do
     expect(male).not_to include("Jason")
     expect(female).not_to include("Lily")
   end
+
+  it "exposes the US african_american variant and samples from it" do
+    expect(NameBank.variants(country: "US")).to include("african_american")
+    aa_pool = NameBank.repository.firstnames(country: "US", gender: :male, variant: "african_american")
+    name = NameBank.first_name(country: "US", gender: :male, rng: Random.new(5), variant: "african_american")
+    expect(aa_pool).to include(name)
+    expect(aa_pool).to include("DeShawn")
+  end
 end
