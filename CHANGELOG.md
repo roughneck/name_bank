@@ -4,6 +4,21 @@ All notable changes to this project are documented here. The format is based on
 [Keep a Changelog](https://keepachangelog.com/en/1.1.0/), and this project
 adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [0.1.4] - 2026-07-24
+
+### Added
+- `script:` keyword on `first_name`, `last_name`, `full_name` (default `:latin`)
+  selecting the Latin or native-script pool; `NameBank.scripts(country:)` lists
+  available scripts. New error `NameBank::UnknownScript`.
+- Native-script pools (Arabic, Cyrillic, Hangul, Han, Kana, Greek, Hebrew,
+  Georgian, Khmer, Bengali) for the countries that use them.
+- `docs/name-counts.md`: per-country pool sizes, linked from the README.
+
+### Changed
+- Re-baked all pools larger (N=6000) and split by script; foreign-script noise
+  removed from Latin pools. Default (`:latin`) output for non-Latin countries is
+  now Latin-only (previously mixed). Curated CN/UA pools unchanged.
+
 ## [0.1.3] - 2026-07-23
 
 ### Added

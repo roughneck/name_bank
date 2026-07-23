@@ -42,6 +42,23 @@ Sampling is uniform over each pool and fully deterministic for a given
 `rng` — the same seed always yields the same name. `gender:` is `:male`
 or `:female`.
 
+## Scripts
+
+Names come in Latin (default) and, for countries with a non-Latin writing
+system, their native script. Pass `script:`:
+
+```ruby
+NameBank.first_name(country: "RU", gender: :male, rng: rng)                  # => "Dmitry"
+NameBank.first_name(country: "RU", gender: :male, rng: rng, script: :native) # => "Алексей"
+
+NameBank.scripts(country: "RU")   # => [:latin, :native]
+NameBank.scripts(country: "DE")   # => [:latin]   (Latin is Germany's script)
+```
+
+`:latin` and `:native` sample from independent pools. For Latin-script countries
+`:native` returns the same (Latin) pool. Requesting a script with no names
+raises `NameBank::UnknownScript`.
+
 ## Variants
 
 Some countries offer an alternate cultural name pool layered on the default.
@@ -71,6 +88,14 @@ Puerto Rico, Qatar, Russia, Saudi Arabia, Serbia, Singapore, Slovenia, South
 Africa, South Korea, Spain, Sudan, Sweden, Switzerland, Syria, Taiwan, Tunisia,
 Turkey, Turkmenistan, Ukraine, United Arab Emirates, United Kingdom, United
 States, Uruguay, Yemen.
+
+## Pool sizes
+
+Each country provides up to 1500 given names per gender and up to 1500
+surnames; 89 of the 106 countries reach that cap on all three Latin pools, and
+the rest are as large as the source data allows. 35 countries also carry a
+native-script pool. Full per-country counts (Latin and native):
+[docs/name-counts.md](docs/name-counts.md).
 
 ## License
 
