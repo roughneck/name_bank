@@ -7,9 +7,10 @@ Gem::Specification.new do |spec|
   spec.version     = NameBank::VERSION
   spec.authors     = ["Patrick Bartels"]
   spec.summary     = "Authentic, gender-matched given and family names for 105+ countries."
-  spec.description = "Offline name generator with deep, gender-matched pools per country " \
-                     "(sourced from name-dataset), plus curated gap countries and cultural variants. " \
-                     "Deterministic, dependency-free at runtime."
+  spec.description = "A fast, dependency-free generator of authentic, gender-matched " \
+                     "given names and surnames for 105+ countries, plus hand-curated " \
+                     "pools and cultural variants. Uniform, deterministic sampling from " \
+                     "a caller-supplied RNG."
   spec.homepage    = "https://github.com/pbartels/name_bank"
   spec.license     = "Apache-2.0"
   spec.required_ruby_version = ">= 3.1"
