@@ -1,0 +1,12 @@
+name_bank
+Copyright 2026 Patrick Bartels
+
+Country-level name pools are derived from the "name-dataset" project
+(https://github.com/philipperemy/name-dataset), licensed under Apache-2.0,
+which extracts aggregate name statistics from a public data source. Only
+aggregate top-frequency names are used; no individual records are included.
+
+Curated country pools (Ukraine — a dataset gap; and China — hand-curated
+pinyin, replacing a low-quality dataset given-name pool) and cultural
+variants (e.g. US african_american) are hand-authored and are not derived
+from name-dataset.
