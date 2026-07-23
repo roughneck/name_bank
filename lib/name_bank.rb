@@ -1,6 +1,7 @@
 # frozen_string_literal: true
 
 require_relative "name_bank/version"
+require_relative "name_bank/pool_schema"
 require_relative "name_bank/repository"
 
 module NameBank

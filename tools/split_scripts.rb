@@ -10,9 +10,10 @@
 # reproduces the same output rather than dropping the native pools.
 require "yaml"
 require_relative "script_classifier"
+require_relative "../lib/name_bank/pool_schema"
 
 module SplitScripts
-  KEYS = %w[firstnames_male firstnames_female lastnames].freeze
+  Schema = NameBank::PoolSchema
   LIMIT = 1500
   CURATED = %w[CN UA].freeze
 
@@ -40,17 +41,17 @@ module SplitScripts
 
     latin = {}
     native = {}
-    KEYS.each do |key|
+    Schema::KEYS.each do |key|
       # Include any already-split *_native names so re-running is idempotent
       # (a second pass would otherwise see a Latin-only base and drop natives).
-      names = (data[key] || []) + (data["#{key}_native"] || [])
+      names = (data[key] || []) + (data[Schema.native_key(key)] || [])
       latin[key] = names.select { |n| ScriptClassifier.script_of(n) == :latin }.first(LIMIT)
       native[key] = names.select { |n| native_scripts&.include?(ScriptClassifier.script_of(n)) }.first(LIMIT) if native_scripts
     end
 
-    KEYS.each { |key| out[key] = latin[key] }
-    if native_scripts && KEYS.any? { |k| !native[k].empty? }
-      KEYS.each { |key| out["#{key}_native"] = native[key] }
+    Schema::KEYS.each { |key| out[key] = latin[key] }
+    if native_scripts && Schema::KEYS.any? { |k| !native[k].empty? }
+      Schema::KEYS.each { |key| out[Schema.native_key(key)] = native[key] }
     end
     out
   end
@@ -63,7 +64,7 @@ module SplitScripts
       path = File.join(countries_dir, file)
       result = split_country(country, YAML.safe_load_file(path))
       File.write(path, YAML.dump(result))
-      native = KEYS.sum { |k| (result["#{k}_native"] || []).size }
+      native = Schema::KEYS.sum { |k| (result[Schema.native_key(k)] || []).size }
       puts "#{country}: latin=#{data_size(result)} native=#{native}"
     end
   end
@@ -73,14 +74,14 @@ module SplitScripts
     Dir.glob(File.join(variants_dir, "*", "*.yml")).sort.each do |path|
       data = YAML.safe_load_file(path)
       out = { "source" => data["source"] || "dataset" }
-      KEYS.each { |key| out[key] = (data[key] || []).select { |n| ScriptClassifier.script_of(n) == :latin }.first(LIMIT) }
+      Schema::KEYS.each { |key| out[key] = (data[key] || []).select { |n| ScriptClassifier.script_of(n) == :latin }.first(LIMIT) }
       File.write(path, YAML.dump(out))
       puts "variant #{path}"
     end
   end
 
   def data_size(out)
-    KEYS.sum { |k| (out[k] || []).size }
+    Schema::KEYS.sum { |k| (out[k] || []).size }
   end
 end
 

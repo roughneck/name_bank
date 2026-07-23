@@ -5,8 +5,6 @@ require "yaml"
 module NameBank
   # Lazy, memoized loader of per-country name pools stored as YAML in data_dir.
   class Repository
-    KEYS = %w[firstnames_male firstnames_female lastnames].freeze
-
     def initialize(data_dir:)
       @data_dir = data_dir
       @countries_cache = {}
@@ -14,7 +12,7 @@ module NameBank
     end
 
     def firstnames(country:, gender:, variant: nil, script: :latin)
-      pool(load(country, variant), gender_key(gender), script, country)
+      pool(load(country, variant), PoolSchema.gender_key(gender), script, country)
     end
 
     def lastnames(country:, variant: nil, script: :latin)
@@ -23,7 +21,7 @@ module NameBank
 
     def scripts(country:)
       data = load(country, nil)
-      KEYS.any? { |k| data["#{k}_native"]&.any? } ? %i[latin native] : %i[latin]
+      PoolSchema::KEYS.any? { |k| data[PoolSchema.native_key(k)]&.any? } ? %i[latin native] : %i[latin]
     end
 
     def countries
@@ -36,20 +34,12 @@ module NameBank
 
     private
 
-    def gender_key(gender)
-      case gender
-      when :male then "firstnames_male"
-      when :female then "firstnames_female"
-      else raise ArgumentError, "gender must be :male or :female, got #{gender.inspect}"
-      end
-    end
-
     def pool(data, key, script, country)
       names =
         case script
         when :latin then data.fetch(key)
         when :native
-          native = data["#{key}_native"]
+          native = data[PoolSchema.native_key(key)]
           native && !native.empty? ? native : data.fetch(key)
         else
           raise ArgumentError, "script must be :latin or :native, got #{script.inspect}"
