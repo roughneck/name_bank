@@ -55,4 +55,31 @@ RSpec.describe "NameBank sampling" do
   it "exposes variants for a country" do
     expect(NameBank.variants(country: "XX")).to eq(%w[testvariant])
   end
+
+  it "samples a native first name for script: :native" do
+    name = NameBank.first_name(country: "ZZ", gender: :male, rng: Random.new(3), script: :native)
+    expect(%w[Захар Зиновий]).to include(name)
+  end
+
+  it "samples a native last name for script: :native" do
+    name = NameBank.last_name(country: "ZZ", rng: Random.new(3), script: :native)
+    expect(%w[Захаров Зимин]).to include(name)
+  end
+
+  it "keeps full_name firstname and lastname in the same script" do
+    result = NameBank.full_name(country: "ZZ", gender: :female, rng: Random.new(8), script: :native)
+    expect(%w[Зоя Злата]).to include(result[:firstname])
+    expect(%w[Захаров Зимин]).to include(result[:lastname])
+  end
+
+  it "defaults full_name to the Latin pool" do
+    result = NameBank.full_name(country: "ZZ", gender: :male, rng: Random.new(8))
+    expect(%w[Zed Zane]).to include(result[:firstname])
+    expect(%w[Zimmer Zorn]).to include(result[:lastname])
+  end
+
+  it "exposes scripts for a country" do
+    expect(NameBank.scripts(country: "ZZ")).to eq(%i[latin native])
+    expect(NameBank.scripts(country: "XX")).to eq(%i[latin])
+  end
 end

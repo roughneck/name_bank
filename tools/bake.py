@@ -1,14 +1,18 @@
-"""One-time extraction of top names per country from names-dataset into data/countries/*.yml.
+"""One-time re-bake of top names per country into data/countries/*.yml.
 
+Stage 1 of the pipeline: writes larger mixed-script pools (curated CN/UA are
+skipped). Follow with `ruby tools/split_scripts.rb` (Stage 2) to split by script.
 Run once; the output YAML is committed. Requires ~3.2 GB RAM to load the dataset.
     pip install names-dataset pyyaml
     python tools/bake.py
+    ruby tools/split_scripts.rb
 """
 import os
 import yaml
 from names_dataset import NameDataset
 
-N = 1500
+N = 6000
+CURATED = {"CN", "UA"}
 OUT = os.path.join(os.path.dirname(__file__), "..", "data", "countries")
 
 
@@ -35,6 +39,8 @@ def main():
     nd = NameDataset()
     os.makedirs(OUT, exist_ok=True)
     for cc in nd.get_country_codes(alpha_2=True):
+        if cc in CURATED:
+            continue
         data = {
             "source": "dataset",
             "firstnames_male": top_first(nd, cc, "Male"),
