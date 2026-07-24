@@ -35,18 +35,21 @@ module NameBank
     private
 
     def pool(data, key, script, country)
-      names =
-        case script
-        when :latin then data.fetch(key)
-        when :native
-          native = data[PoolSchema.native_key(key)]
-          native && !native.empty? ? native : data.fetch(key)
-        else
-          raise ArgumentError, "script must be :latin or :native, got #{script.inspect}"
-        end
+      names = names_for_script(data, key, script)
       raise UnknownScript, "#{country}/#{script}" if names.nil? || names.empty?
 
       names
+    end
+
+    def names_for_script(data, key, script)
+      case script
+      when :latin then data.fetch(key)
+      when :native
+        native = data[PoolSchema.native_key(key)]
+        native && !native.empty? ? native : data.fetch(key)
+      else
+        raise ArgumentError, "script must be :latin or :native, got #{script.inspect}"
+      end
     end
 
     def load(country, variant)
@@ -75,7 +78,7 @@ module NameBank
       return [] unless Dir.exist?(dir)
 
       Dir.children(dir).select { |f| f.end_with?(".yml") }
-         .map { |f| File.basename(f, ".yml") }.sort
+        .map { |f| File.basename(f, ".yml") }.sort
     end
   end
 end

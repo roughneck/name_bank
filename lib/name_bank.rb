@@ -4,11 +4,14 @@ require_relative "name_bank/version"
 require_relative "name_bank/pool_schema"
 require_relative "name_bank/repository"
 
+# Authentic, gender-matched given names and surnames for 106 countries,
+# addressed by ISO alpha-2 country code. Sampling is uniform and deterministic
+# from a caller-supplied RNG — no global locale or random state.
 module NameBank
-  Error = Class.new(StandardError)
-  UnknownCountry = Class.new(Error)
-  UnknownVariant = Class.new(Error)
-  UnknownScript = Class.new(Error)
+  class Error < StandardError; end
+  class UnknownCountry < Error; end
+  class UnknownVariant < Error; end
+  class UnknownScript < Error; end
 
   DATA_DIR = File.expand_path("../data", __dir__)
 

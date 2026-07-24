@@ -14,36 +14,74 @@ RSpec.describe SplitScripts do
       }
     end
 
-    it "splits an allowlisted country into Latin base + native keys, dropping noise" do
-      out = described_class.split_country("RU", data)
-      expect(out["firstnames_male"]).to eq(%w[Dmitry])          # Latin only
-      expect(out["firstnames_male_native"]).to eq(%w[Алексей])  # Cyrillic only (Han/Arabic dropped)
-      expect(out["lastnames"]).to eq(%w[Ivanov])
-      expect(out["lastnames_native"]).to eq(%w[Иванов])
-      expect(out["source"]).to eq("dataset")
+    context "with an allowlisted country" do
+      let(:out) { described_class.split_country("RU", data) }
+
+      it "keeps the base first name pool Latin-only" do
+        expect(out["firstnames_male"]).to eq(%w[Dmitry])
+      end
+
+      it "keeps only the country's own script in the native first name pool" do
+        expect(out["firstnames_male_native"]).to eq(%w[Алексей]) # Han and Arabic dropped
+      end
+
+      it "keeps the base last name pool Latin-only" do
+        expect(out["lastnames"]).to eq(%w[Ivanov])
+      end
+
+      it "fills the native last name pool" do
+        expect(out["lastnames_native"]).to eq(%w[Иванов])
+      end
+
+      it "carries the source through" do
+        expect(out["source"]).to eq("dataset")
+      end
     end
 
-    it "keeps a non-allowlisted country Latin-only and drops all non-Latin" do
-      out = described_class.split_country("IT", data)
-      expect(out["firstnames_male"]).to eq(%w[Dmitry])
-      expect(out).not_to have_key("firstnames_male_native")
-      expect(out["firstnames_female"]).to eq(%w[Anna])
+    context "with a country that is not allowlisted" do
+      let(:out) { described_class.split_country("IT", data) }
+
+      it "keeps the male pool Latin-only" do
+        expect(out["firstnames_male"]).to eq(%w[Dmitry])
+      end
+
+      it "keeps the female pool Latin-only" do
+        expect(out["firstnames_female"]).to eq(%w[Anna])
+      end
+
+      it "writes no native key at all" do
+        expect(out).not_to have_key("firstnames_male_native")
+      end
     end
 
-    it "caps each pool at LIMIT in order" do
-      big = { "source" => "dataset",
-              "firstnames_male" => (1..2000).map { |i| "N#{i}" },
-              "firstnames_female" => [], "lastnames" => [] }
-      out = described_class.split_country("IT", big)
-      expect(out["firstnames_male"].size).to eq(SplitScripts::LIMIT)
-      expect(out["firstnames_male"].first).to eq("N1")
+    context "with a pool larger than LIMIT" do
+      let(:data) do
+        { "source" => "dataset",
+          "firstnames_male" => (1..2000).map { |i| "N#{i}" },
+          "firstnames_female" => [], "lastnames" => [] }
+      end
+      let(:out) { described_class.split_country("IT", data) }
+
+      it "caps the pool at LIMIT" do
+        expect(out["firstnames_male"].size).to eq(SplitScripts::LIMIT)
+      end
+
+      it "caps it in order, keeping the first names" do
+        expect(out["firstnames_male"].first).to eq("N1")
+      end
     end
 
-    it "is idempotent — re-splitting already-split data reproduces it" do
-      once = described_class.split_country("RU", data)
-      twice = described_class.split_country("RU", once)
-      expect(twice).to eq(once)
-      expect(twice["firstnames_male_native"]).to eq(%w[Алексей])
+    context "when re-splitting already-split data" do
+      let(:once) { described_class.split_country("RU", data) }
+      let(:twice) { described_class.split_country("RU", once) }
+
+      it "reproduces the previous output" do
+        expect(twice).to eq(once)
+      end
+
+      it "keeps the native pool instead of dropping it" do
+        expect(twice["firstnames_male_native"]).to eq(%w[Алексей])
+      end
     end
   end
 end

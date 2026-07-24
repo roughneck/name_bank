@@ -5,22 +5,29 @@ require_relative "../tools/script_classifier"
 
 RSpec.describe ScriptClassifier do
   describe ".script_of" do
-    it "treats ASCII and Latin diacritics as Latin" do
-      expect(described_class.script_of("David")).to eq(:latin)
-      expect(described_class.script_of("Müller")).to eq(:latin)
-      expect(described_class.script_of("José")).to eq(:latin)
-      expect(described_class.script_of("Nguyễn")).to eq(:latin)
+    context "with Latin names" do
+      %w[David Müller José Nguyễn].each do |name|
+        it "treats #{name} as Latin" do
+          expect(described_class.script_of(name)).to eq(:latin)
+        end
+      end
     end
 
-    it "detects non-Latin scripts by the first non-Latin letter" do
-      expect(described_class.script_of("Алексей")).to eq(:cyrillic)
-      expect(described_class.script_of("محمد")).to eq(:arabic)
-      expect(described_class.script_of("田中")).to eq(:han)
-      expect(described_class.script_of("김민")).to eq(:hangul)
-      expect(described_class.script_of("たなか")).to eq(:kana)
-      expect(described_class.script_of("Ιωάννης")).to eq(:greek)
-      expect(described_class.script_of("דוד")).to eq(:hebrew)
-      expect(described_class.script_of("გიორგი")).to eq(:georgian)
+    context "with non-Latin names" do
+      {
+        "Алексей" => :cyrillic,
+        "محمد" => :arabic,
+        "田中" => :han,
+        "김민" => :hangul,
+        "たなか" => :kana,
+        "Ιωάννης" => :greek,
+        "דוד" => :hebrew,
+        "გიორგი" => :georgian
+      }.each do |name, script|
+        it "detects #{script} from the first non-Latin letter of #{name}" do
+          expect(described_class.script_of(name)).to eq(script)
+        end
+      end
     end
 
     it "classifies by the leading non-Latin letter when scripts are mixed" do

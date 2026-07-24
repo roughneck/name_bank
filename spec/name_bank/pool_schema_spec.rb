@@ -7,13 +7,19 @@ RSpec.describe NameBank::PoolSchema do
     expect(described_class::KEYS).to eq(%w[firstnames_male firstnames_female lastnames])
   end
 
-  it "derives the native key from a base key" do
+  it "derives the native key from a firstname key" do
     expect(described_class.native_key("firstnames_male")).to eq("firstnames_male_native")
+  end
+
+  it "derives the native key from the lastname key" do
     expect(described_class.native_key("lastnames")).to eq("lastnames_native")
   end
 
-  it "maps gender to its base key" do
+  it "maps :male to its base key" do
     expect(described_class.gender_key(:male)).to eq("firstnames_male")
+  end
+
+  it "maps :female to its base key" do
     expect(described_class.gender_key(:female)).to eq("firstnames_female")
   end
 

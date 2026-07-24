@@ -32,9 +32,7 @@ Gem::Specification.new do |spec|
     "rubygems_mfa_required" => "true"
   }
 
-  spec.files = Dir["lib/**/*.rb", "data/**/*.yml", "LICENSE", "NOTICE", "README.md", "CHANGELOG.md", "docs/name-counts.md"]
+  spec.files = Dir["lib/**/*.rb", "data/**/*.yml", "LICENSE", "NOTICE", "README.md", "CHANGELOG.md",
+                   "docs/name-counts.md"]
   spec.require_paths = ["lib"]
-
-  spec.add_development_dependency "rspec", "~> 3.13"
-  spec.add_development_dependency "rake", "~> 13.0"
 end
