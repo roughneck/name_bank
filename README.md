@@ -1,8 +1,12 @@
 # name_bank
 
-Authentic, gender-matched given and family names for 105+ countries. Deep
+Authentic, gender-matched given and family names for 106 countries. Deep
 pools (up to 1500 per country/gender), uniform sampling, deterministic, no
 runtime dependencies.
+
+Realistic fake name data for database seeds, factories, fixtures and demo
+environments — a companion to [Faker](https://github.com/faker-ruby/faker) and
+[FFaker](https://github.com/ffaker/ffaker) for the name part.
 
 ## Installation
 
@@ -41,6 +45,81 @@ NameBank.countries
 Sampling is uniform over each pool and fully deterministic for a given
 `rng` — the same seed always yields the same name. `gender:` is `:male`
 or `:female`.
+
+## Where it fits
+
+A factory_bot factory:
+
+```ruby
+FactoryBot.define do
+  factory :user do
+    transient do
+      country { "DE" }
+      person_gender { :female }
+      rng { Random.new }
+      person { NameBank.full_name(country: country, gender: person_gender, rng: rng) }
+    end
+
+    first_name { person[:firstname] }
+    last_name  { person[:lastname] }
+  end
+end
+```
+
+Database seeds with a fixed seed, so every run produces the same data:
+
+```ruby
+# db/seeds.rb
+rng = Random.new(20_260_724)
+
+%w[DE FR IT ES PL].each do |country|
+  100.times do
+    person = NameBank.full_name(country: country, gender: [:male, :female].sample(random: rng), rng: rng)
+    User.create!(first_name: person[:firstname], last_name: person[:lastname], country: country)
+  end
+end
+```
+
+An RSpec example — the seeded RNG makes the case reproducible:
+
+```ruby
+it "fits a long Cyrillic name into the invoice header" do
+  rng = Random.new(1234)
+  customer = NameBank.full_name(country: "RU", gender: :female, rng: rng, script: :native)
+
+  header = InvoicePdf.new(customer).header
+
+  expect(header).to include(customer[:lastname])
+end
+```
+
+## Relation to Faker and FFaker
+
+Faker and FFaker are full fake-data suites — addresses, companies, lorem ipsum,
+and much more. name_bank does one thing: people names. Use it alongside them,
+not instead of them.
+
+|                      | Faker                                                        | FFaker                                     | name_bank                                                   |
+| -------------------- | ------------------------------------------------------------ | ------------------------------------------ | ----------------------------------------------------------- |
+| Scope                | full fake-data suite                                          | full fake-data suite                        | people names only                                            |
+| Names addressed by   | 58 language/region locales (`de`, `de-AT`, `en-US`)           | 30 language modules (`FFaker::NameDE`)      | 106 ISO country codes (`DE`, `RU`, `JP`)                     |
+| Gendered given names | in about 24 of those locales                                  | in 17 of the 30 name modules                | in every country                                             |
+| Pool depth           | uneven: `en` 1219 m / 4271 f, `de` 574 / 585, `ru` 52 / 56, `ko` 21 | varies per module                     | up to 1500 per country, gender and script; 89 of 106 at the cap |
+| Native script        | one form per locale                                           | one form per module                         | Latin and native as separate pools, 35 countries             |
+| Randomness           | global `Faker::Config.random`                                 | global `FFaker::Random.seed`                | `rng:` passed in per call, no global state                   |
+
+Counts measured against `faker` and `ffaker` `main` on 2026-07-24.
+
+Moving a name call over:
+
+```ruby
+Faker::Name.first_name
+FFaker::NameDE.first_name
+# both: gender-agnostic, locale/module picked from global state
+
+NameBank.first_name(country: "DE", gender: :female, rng: rng)
+# country and gender explicit, RNG explicit
+```
 
 ## Scripts
 

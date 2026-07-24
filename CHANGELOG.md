@@ -4,6 +4,21 @@ All notable changes to this project are documented here. The format is based on
 [Keep a Changelog](https://keepachangelog.com/en/1.1.0/), and this project
 adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [0.1.5] - 2026-07-24
+
+Metadata and documentation only — no API, data or behaviour change.
+
+### Added
+- `spec.metadata` in the gemspec: source, changelog, documentation and bug
+  tracker links, and `rubygems_mfa_required`.
+- README: "Where it fits" (factory_bot, `db/seeds.rb`, RSpec examples) and
+  "Relation to Faker and FFaker" with a comparison table.
+
+### Changed
+- Gem summary and description rewritten so the gem is findable for fake, test
+  and seed name data, and states how it relates to Faker and FFaker.
+- README intro says 106 countries (was "105+").
+
 ## [0.1.4] - 2026-07-24
 
 ### Added
