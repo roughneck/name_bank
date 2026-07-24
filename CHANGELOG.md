@@ -4,6 +4,26 @@ All notable changes to this project are documented here. The format is based on
 [Keep a Changelog](https://keepachangelog.com/en/1.1.0/), and this project
 adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [0.1.6] - 2026-07-24
+
+Tooling and internals only — no API, data or behaviour change.
+
+### Added
+- RuboCop (with rubocop-rspec, rubocop-rake, rubocop-performance) and
+  bundler-audit as development dependencies. The default Rake task now runs
+  `spec`, `rubocop` and `bundle:audit:check`.
+- `rake release_check`: the same checks, but refreshing the advisory database
+  first. Run before releasing.
+
+### Changed
+- Development dependencies moved from the gemspec to the `:development` group
+  in the Gemfile; the gemspec no longer declares any.
+- Internals split for readability: `Repository#names_for_script` extracted from
+  `#pool`, and `SplitScripts.split_country` split into `pools`,
+  `add_native_pools`, `split_file` and `latin_only`.
+- Specs reorganised — class specs under `spec/name_bank/`, one assertion per
+  example.
+
 ## [0.1.5] - 2026-07-24
 
 Metadata and documentation only — no API, data or behaviour change.
