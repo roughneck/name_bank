@@ -34,12 +34,20 @@ NameBank.full_name(country: "DE", gender: :female, rng: rng)
 # => { firstname: "Sabine", lastname: "Müller" }
 
 # Just a given name or a surname:
-NameBank.first_name(country: "IT", gender: :male, rng: rng)   # => "Giuseppe"
-NameBank.last_name(country: "JP", rng: rng)                   # => "Tanaka"
+NameBank.first_name(country: "IT", gender: :male, rng: rng)   # => "Amor"
+NameBank.last_name(country: "JP", rng: rng)                   # => "Tsuru"
+
+# Latin (default), or the country's native script where it has one:
+NameBank.first_name(country: "JP", gender: :female, rng: rng)                   # => "Sasahara"
+NameBank.first_name(country: "JP", gender: :female, rng: rng, script: :native)  # => "ちゃこ"
+
+# Default pool, or an alternate cultural pool where one exists:
+NameBank.first_name(country: "US", gender: :male, rng: rng)                               # => "Abe"
+NameBank.first_name(country: "US", gender: :male, rng: rng, variant: "african_american")  # => "Roosevelt"
 
 # List available countries (ISO alpha-2 codes):
-NameBank.countries
-# => ["AE", "AF", "AL", ..., "ZA"]
+NameBank.countries.size       # => 106
+NameBank.countries.first(3)   # => ["AE", "AF", "AL"]
 ```
 
 Sampling is uniform over each pool and fully deterministic for a given
@@ -131,9 +139,10 @@ NameBank.first_name(country: "RU", gender: :male, rng: rng)                  # =
 NameBank.first_name(country: "RU", gender: :male, rng: rng, script: :native) # => "Алексей"
 
 NameBank.scripts(country: "RU")   # => [:latin, :native]
-NameBank.scripts(country: "DE")   # => [:latin]   (Latin is Germany's script)
+NameBank.scripts(country: "DE")   # => [:latin]
 ```
 
+Germany's script is Latin, so `DE` reports `:latin` only.
 `:latin` and `:native` sample from independent pools. For Latin-script countries
 `:native` returns the same (Latin) pool. Requesting a script with no names
 raises `NameBank::UnknownScript`.
