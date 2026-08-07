@@ -3,8 +3,25 @@
 require "spec_helper"
 
 RSpec.describe NameBank::PoolSchema do
+  it "names the male given-name key" do
+    expect(described_class::GIVEN_MALE).to eq("firstnames_male")
+  end
+
+  it "names the female given-name key" do
+    expect(described_class::GIVEN_FEMALE).to eq("firstnames_female")
+  end
+
+  it "names the surname key" do
+    expect(described_class::SURNAMES).to eq("lastnames")
+  end
+
   it "lists the base pool keys" do
     expect(described_class::KEYS).to eq(%w[firstnames_male firstnames_female lastnames])
+  end
+
+  it "builds KEYS from the named constants, so no key string is written twice" do
+    expect(described_class::KEYS)
+      .to eq([described_class::GIVEN_MALE, described_class::GIVEN_FEMALE, described_class::SURNAMES])
   end
 
   it "derives the native key from a firstname key" do

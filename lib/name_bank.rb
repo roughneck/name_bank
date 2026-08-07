@@ -59,7 +59,7 @@ class NameBank
   end
 
   def last_names(country:, variant: nil, script: :latin)
-    pool(country, variant, "lastnames", script)
+    pool(country, variant, PoolSchema::SURNAMES, script)
   end
 
   def countries

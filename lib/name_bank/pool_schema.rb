@@ -8,7 +8,11 @@ class NameBank
   # and how a gender maps to its key. Shared by the runtime NameBank and the
   # build-time SplitScripts tool so the key names live in one place.
   module PoolSchema
-    KEYS = %w[firstnames_male firstnames_female lastnames].freeze
+    GIVEN_MALE = "firstnames_male"
+    GIVEN_FEMALE = "firstnames_female"
+    SURNAMES = "lastnames"
+
+    KEYS = [GIVEN_MALE, GIVEN_FEMALE, SURNAMES].freeze
 
     module_function
 
@@ -18,8 +22,8 @@ class NameBank
 
     def gender_key(gender)
       case gender
-      when :male then "firstnames_male"
-      when :female then "firstnames_female"
+      when :male then GIVEN_MALE
+      when :female then GIVEN_FEMALE
       else raise UnknownGender, "gender must be :male or :female, got #{gender.inspect}"
       end
     end
