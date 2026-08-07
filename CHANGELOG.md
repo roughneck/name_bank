@@ -4,6 +4,25 @@ All notable changes to this project are documented here. The format is based on
 [Keep a Changelog](https://keepachangelog.com/en/1.1.0/), and this project
 adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [Unreleased]
+
+### Added
+- `NameBank.first_names` and `NameBank.last_names` return a country's whole
+  frequency-ordered pool as a frozen array. They take the same `country:`,
+  `gender:`, `variant:` and `script:` options as the samplers.
+- `NameBank` is now a class and can be instantiated: `NameBank.new(data_dir:)`
+  reads pools from a directory of your own. The class-level methods delegate to
+  a default instance over the shipped data.
+
+### Removed
+- **Breaking:** `NameBank.repository` and the `NameBank::Repository` class. The
+  accessor was never documented; everything it offered is on `NameBank` itself,
+  with `firstnames`/`lastnames` renamed to `first_names`/`last_names`.
+
+### Changed
+- `variants(country:)` is memoized like `countries`, so repeated calls no longer
+  hit the filesystem.
+
 ## [0.1.6] - 2026-07-24
 
 Tooling and internals only — no API, data or behaviour change.

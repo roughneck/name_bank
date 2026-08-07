@@ -3,12 +3,10 @@
 require "spec_helper"
 require_relative "../tools/script_classifier"
 
-# Exercises the committed data/ dir via the default repository, unlike the
-# fixture-backed specs in name_bank_spec.rb.
+# Exercises the committed data/ dir through the class-level methods, which
+# delegate to the default instance. The fixture-backed instance specs live in
+# name_bank_spec.rb.
 RSpec.describe NameBank do
-  before { described_class.instance_variable_set(:@repository, nil) }
-  after  { described_class.instance_variable_set(:@repository, nil) }
-
   it "ships a healthy number of countries" do
     expect(described_class.countries.size).to be >= 100
   end
@@ -16,9 +14,9 @@ RSpec.describe NameBank do
   describe "every country pool" do
     let(:pools) do
       described_class.countries.flat_map do |cc|
-        [described_class.repository.firstnames(country: cc, gender: :male),
-         described_class.repository.firstnames(country: cc, gender: :female),
-         described_class.repository.lastnames(country: cc)]
+        [described_class.first_names(country: cc, gender: :male),
+         described_class.first_names(country: cc, gender: :female),
+         described_class.last_names(country: cc)]
       end
     end
 
@@ -46,6 +44,11 @@ RSpec.describe NameBank do
       result = described_class.full_name(country: "DE", gender: :male, rng: Random.new(99))
       expect(result[:firstname]).to be_a(String).and(satisfy { !_1.empty? })
     end
+
+    it "yields a lastname from the country pool" do
+      name = described_class.last_name(country: "DE", rng: Random.new(99))
+      expect(described_class.last_names(country: "DE")).to include(name)
+    end
   end
 
   describe "curated Ukraine" do
@@ -62,14 +65,14 @@ RSpec.describe NameBank do
     end
 
     it "keeps the male and female pools disjoint" do
-      female = described_class.repository.firstnames(country: "UA", gender: :female)
-      expect(described_class.repository.firstnames(country: "UA", gender: :male)).not_to include(*female)
+      female = described_class.first_names(country: "UA", gender: :female)
+      expect(described_class.first_names(country: "UA", gender: :male)).not_to include(*female)
     end
   end
 
   describe "curated China" do
-    let(:male) { described_class.repository.firstnames(country: "CN", gender: :male) }
-    let(:female) { described_class.repository.firstnames(country: "CN", gender: :female) }
+    let(:male) { described_class.first_names(country: "CN", gender: :male) }
+    let(:female) { described_class.first_names(country: "CN", gender: :female) }
 
     it "holds pinyin male given names" do
       expect(male).to include("Wei")
@@ -90,7 +93,7 @@ RSpec.describe NameBank do
   end
 
   describe "the US african_american variant" do
-    let(:pool) { described_class.repository.firstnames(country: "US", gender: :male, variant: "african_american") }
+    let(:pool) { described_class.first_names(country: "US", gender: :male, variant: "african_american") }
 
     it "is exposed as a variant" do
       expect(described_class.variants(country: "US")).to include("african_american")
@@ -107,8 +110,8 @@ RSpec.describe NameBank do
   end
 
   describe "Russia" do
-    let(:native) { described_class.repository.firstnames(country: "RU", gender: :male, script: :native) }
-    let(:latin) { described_class.repository.firstnames(country: "RU", gender: :male, script: :latin) }
+    let(:native) { described_class.first_names(country: "RU", gender: :male, script: :native) }
+    let(:latin) { described_class.first_names(country: "RU", gender: :male, script: :latin) }
 
     it "exposes both scripts" do
       expect(described_class.scripts(country: "RU")).to eq(%i[latin native])
@@ -138,7 +141,7 @@ RSpec.describe NameBank do
       end
 
       it "keeps the #{cc} pool free of non-Latin noise" do
-        pool = described_class.repository.firstnames(country: cc, gender: :male)
+        pool = described_class.first_names(country: cc, gender: :male)
         expect(pool).to all(satisfy { |s| ScriptClassifier.script_of(s) == :latin })
       end
     end

@@ -54,6 +54,24 @@ Sampling is uniform over each pool and fully deterministic for a given
 `rng` — the same seed always yields the same name. `gender:` is `:male`
 or `:female`.
 
+## Whole pools
+
+Where sampling one name is not enough — drawing many names without repeats,
+applying your own weighting, or checking what a country actually ships —
+take the pool itself. `first_names` and `last_names` accept the same
+`country:`, `variant:` and `script:` options as the samplers, and return the
+frequency-ordered pool as a frozen array:
+
+```ruby
+NameBank.first_names(country: "DE", gender: :female).size      # => 1500
+NameBank.first_names(country: "DE", gender: :female).first(3)  # => ["Nicole", "Sandra", "Sabine"]
+NameBank.last_names(country: "JP", script: :native).first(3)   # => ["佐藤", "鈴木", "田中"]
+```
+
+Every method shown so far is also available on an instance, which lets you
+point name_bank at your own directory of pool files:
+`NameBank.new(data_dir: "…").first_name(country: "DE", gender: :male, rng: rng)`.
+
 ## Where it fits
 
 A factory_bot factory:
