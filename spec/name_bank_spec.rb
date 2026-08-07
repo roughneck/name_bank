@@ -56,7 +56,7 @@ RSpec.describe NameBank do
 
     it "raises for an invalid gender" do
       expect { bank.first_names(country: "XX", gender: :other) }
-        .to raise_error(ArgumentError, /gender must be :male or :female/)
+        .to raise_error(NameBank::UnknownGender, /gender must be :male or :female/)
     end
 
     it "raises for an unknown variant" do
@@ -64,14 +64,14 @@ RSpec.describe NameBank do
         .to raise_error(NameBank::UnknownVariant, "XX/nope")
     end
 
-    it "raises ArgumentError for an unknown script" do
+    it "raises UnknownScript for an unknown script" do
       expect { bank.first_names(country: "ZZ", gender: :male, script: :klingon) }
-        .to raise_error(ArgumentError, /script must be :latin or :native/)
+        .to raise_error(NameBank::UnknownScript, /script must be :latin or :native/)
     end
 
-    it "raises UnknownScript for a genuinely empty pool" do
+    it "raises EmptyPool for a genuinely empty pool" do
       expect { bank.first_names(country: "QQ", gender: :male, script: :latin) }
-        .to raise_error(NameBank::UnknownScript, "QQ/latin")
+        .to raise_error(NameBank::EmptyPool, "QQ/latin")
     end
   end
 
@@ -226,6 +226,55 @@ RSpec.describe NameBank do
 
     it "reports Latin only for a country without a native pool" do
       expect(bank.scripts(country: "XX")).to eq(%i[latin])
+    end
+  end
+
+  describe "the error hierarchy" do
+    let(:malformed) { described_class.new(data_dir: MALFORMED_DATA_DIR) }
+
+    it "is a module, so each error keeps its natural superclass" do
+      expect(NameBank::Error).not_to be_a(Class)
+    end
+
+    %i[UnknownCountry UnknownVariant UnknownScript UnknownGender EmptyPool MalformedPool].each do |name|
+      it "tags #{name} as a NameBank error" do
+        expect(described_class.const_get(name).ancestors).to include(NameBank::Error)
+      end
+    end
+
+    it "makes an unknown gender an ArgumentError" do
+      expect(NameBank::UnknownGender.ancestors).to include(ArgumentError)
+    end
+
+    it "makes an unknown script an ArgumentError" do
+      expect(NameBank::UnknownScript.ancestors).to include(ArgumentError)
+    end
+
+    it "keeps an unknown country out of ArgumentError" do
+      expect(NameBank::UnknownCountry.ancestors).not_to include(ArgumentError)
+    end
+
+    it "rescues an unknown country as a NameBank error" do
+      expect { bank.first_names(country: "UU", gender: :male) }.to raise_error(NameBank::Error)
+    end
+
+    it "raises MalformedPool for a file missing a pool key" do
+      expect { malformed.first_names(country: "AA", gender: :male) }
+        .to raise_error(NameBank::MalformedPool, /lastnames/)
+    end
+
+    it "names the offending file in the message" do
+      expect { malformed.first_names(country: "AA", gender: :male) }
+        .to raise_error(NameBank::MalformedPool, %r{malformed/countries/AA\.yml})
+    end
+
+    it "raises MalformedPool when a pool is not an array" do
+      expect { malformed.first_names(country: "BB", gender: :male) }
+        .to raise_error(NameBank::MalformedPool, /firstnames_male/)
+    end
+
+    it "validates before the key is read, so KeyError never escapes" do
+      expect { malformed.last_names(country: "AA") }.to raise_error(NameBank::MalformedPool)
     end
   end
 

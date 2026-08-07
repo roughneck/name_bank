@@ -178,6 +178,32 @@ NameBank.variants(country: "US")   # => ["african_american"]
 NameBank.variants(country: "DE")   # => []
 ```
 
+## Errors
+
+Every error name_bank raises carries `NameBank::Error`, so one `rescue` covers
+the lot. Each also keeps its natural Ruby superclass, so `rescue ArgumentError`
+still catches the two that are genuinely caller mistakes:
+
+| Error | Superclass | Raised when |
+| --- | --- | --- |
+| `NameBank::UnknownGender` | `ArgumentError` | `gender:` is neither `:male` nor `:female` |
+| `NameBank::UnknownScript` | `ArgumentError` | `script:` is neither `:latin` nor `:native` |
+| `NameBank::UnknownCountry` | `StandardError` | no pool file for that country code |
+| `NameBank::UnknownVariant` | `StandardError` | no pool file for that variant |
+| `NameBank::EmptyPool` | `StandardError` | the pool exists but holds no names |
+| `NameBank::MalformedPool` | `StandardError` | a pool file is missing a key, or holds something other than a list |
+
+The last two cannot occur with the shipped data; they matter when you point
+`NameBank.new(data_dir:)` at pool files of your own.
+
+```ruby
+begin
+  NameBank.first_name(country: "ZZ", gender: :male, rng: rng)
+rescue NameBank::UnknownCountry => e
+  warn "no pool for #{e.message}"
+end
+```
+
 ## Supported countries
 
 106 countries: Afghanistan, Albania, Algeria, Angola, Argentina, Austria,

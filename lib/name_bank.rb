@@ -1,9 +1,9 @@
 # frozen_string_literal: true
 
-require "yaml"
-
 require_relative "name_bank/version"
+require_relative "name_bank/errors"
 require_relative "name_bank/pool_schema"
+require_relative "name_bank/pool_store"
 
 # Authentic, gender-matched given names and surnames for 106 countries,
 # addressed by ISO alpha-2 country code. Sampling is uniform and deterministic
@@ -11,13 +11,10 @@ require_relative "name_bank/pool_schema"
 #
 # The class-level methods delegate to a default instance over the shipped data
 # dir; instantiate with another data_dir to read pools from elsewhere. Country
-# and variant files are loaded lazily and memoized per instance.
+# and variant files are read lazily and memoized per instance.
+#
+# Every error raised here is a NameBank::Error; see the README for the list.
 class NameBank
-  class Error < StandardError; end
-  class UnknownCountry < Error; end
-  class UnknownVariant < Error; end
-  class UnknownScript < Error; end
-
   DATA_DIR = File.expand_path("../data", __dir__)
 
   # Every class-level method forwards to the default instance, so the signatures
@@ -38,10 +35,7 @@ class NameBank
   end
 
   def initialize(data_dir: DATA_DIR)
-    @data_dir = data_dir
-    @country_data = {}
-    @variant_data = {}
-    @variant_names = {}
+    @store = PoolStore.new(data_dir)
   end
 
   def first_name(country:, gender:, rng:, variant: nil, script: :latin)
@@ -69,23 +63,24 @@ class NameBank
   end
 
   def countries
-    @countries ||= yml_basenames(File.join(@data_dir, "countries"))
+    @store.countries
   end
 
   def variants(country:)
-    @variant_names[country] ||= yml_basenames(File.join(@data_dir, "variants", country))
+    @store.variants(country)
   end
 
+  # The script forms this country offers, not writing systems — see CONTEXT.md.
   def scripts(country:)
-    data = load_pools(country, nil)
+    data = @store.pools(country, nil)
     PoolSchema::KEYS.any? { |k| data[PoolSchema.native_key(k)]&.any? } ? %i[latin native] : %i[latin]
   end
 
   private
 
   def pool(country, variant, key, script)
-    names = names_for_script(load_pools(country, variant), key, script)
-    raise UnknownScript, "#{country}/#{script}" if names.nil? || names.empty?
+    names = names_for_script(@store.pools(country, variant), key, script)
+    raise EmptyPool, "#{country}/#{script}" if names.empty?
 
     names.freeze
   end
@@ -97,36 +92,7 @@ class NameBank
       native = data[PoolSchema.native_key(key)]
       native && !native.empty? ? native : data.fetch(key)
     else
-      raise ArgumentError, "script must be :latin or :native, got #{script.inspect}"
+      raise UnknownScript, "script must be :latin or :native, got #{script.inspect}"
     end
-  end
-
-  def load_pools(country, variant)
-    variant ? load_variant(country, variant) : load_country(country)
-  end
-
-  def load_country(country)
-    @country_data[country] ||= begin
-      path = File.join(@data_dir, "countries", "#{country}.yml")
-      raise UnknownCountry, country unless File.exist?(path)
-
-      YAML.safe_load_file(path)
-    end
-  end
-
-  def load_variant(country, variant)
-    @variant_data[[country, variant]] ||= begin
-      path = File.join(@data_dir, "variants", country, "#{variant}.yml")
-      raise UnknownVariant, "#{country}/#{variant}" unless File.exist?(path)
-
-      YAML.safe_load_file(path)
-    end
-  end
-
-  def yml_basenames(dir)
-    return [] unless Dir.exist?(dir)
-
-    Dir.children(dir).select { |f| f.end_with?(".yml") }
-      .map { |f| File.basename(f, ".yml") }.sort
   end
 end

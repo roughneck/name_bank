@@ -19,9 +19,24 @@ adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
   accessor was never documented; everything it offered is on `NameBank` itself,
   with `firstnames`/`lastnames` renamed to `first_names`/`last_names`.
 
+- `NameBank::MalformedPool`, raised when a pool file is missing a schema key or
+  holds something other than a list. Files are validated once when read.
+- `NameBank::UnknownGender` and `NameBank::EmptyPool`, so every failure the gem
+  can produce has a name. The README now lists all six.
+
 ### Changed
 - `variants(country:)` is memoized like `countries`, so repeated calls no longer
   hit the filesystem.
+- **Breaking:** `NameBank::Error` is now a module mixed into every error rather
+  than their shared superclass. `rescue NameBank::Error` works as before and now
+  covers every failure, including the two argument errors that previously
+  escaped it; each error also keeps its natural superclass, so
+  `rescue ArgumentError` still catches a bad `gender:` or `script:`. Raising or
+  instantiating `NameBank::Error` itself is no longer possible.
+- **Breaking:** `NameBank::UnknownScript` now means what its name says — a
+  `script:` that is neither `:latin` nor `:native`, previously a bare
+  `ArgumentError`. The empty-pool case it used to signal is now
+  `NameBank::EmptyPool`.
 
 ## [0.1.6] - 2026-07-24
 

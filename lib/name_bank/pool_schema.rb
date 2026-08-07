@@ -1,5 +1,7 @@
 # frozen_string_literal: true
 
+require_relative "errors"
+
 # Declared as a class, not a module: NameBank itself is one (see lib/name_bank.rb).
 class NameBank
   # The pool-key schema: the base YAML keys, how native-script keys are named,
@@ -18,7 +20,7 @@ class NameBank
       case gender
       when :male then "firstnames_male"
       when :female then "firstnames_female"
-      else raise ArgumentError, "gender must be :male or :female, got #{gender.inspect}"
+      else raise UnknownGender, "gender must be :male or :female, got #{gender.inspect}"
       end
     end
   end
