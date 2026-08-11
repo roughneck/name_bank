@@ -6,7 +6,26 @@ adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ## [Unreleased]
 
+### Added
+- `scripts` takes an optional `variant:`. A variant can offer different script
+  forms from the country it is layered on; previously `scripts(country:)` only
+  ever reported the country's own.
+
+### Fixed
+- Country and variant names now resolve against the directory listing instead
+  of being handed to `File.exist?`, so lookup no longer inherits the
+  filesystem's case-sensitivity. `country: "de"` found `DE.yml` on macOS and
+  raised `UnknownCountry` on Linux; it now finds it on both. An exact match
+  still wins, and names that differ only in case are reported as ambiguous
+  rather than guessed at.
+- README: a pool with no names was documented as raising
+  `NameBank::UnknownScript`. It has raised `NameBank::EmptyPool` since 0.2.0.
+
 ### Documented
+- The pool file format: the directory layout `NameBank.new(data_dir:)` expects,
+  which keys a file must carry, how `_native` pools are named, and which
+  failures a malformed file produces. Variant files may carry `_native` pools —
+  supported by the reader since 0.1.4, now stated and covered by a spec.
 - `NameBank::PoolSchema` is now documented in the README and is supported
   public API: `KEYS`, `GIVEN_MALE`, `GIVEN_FEMALE`, `SURNAMES`, `native_key`
   and `gender_key`. It shipped before but was described nowhere. Callers

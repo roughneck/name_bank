@@ -212,10 +212,11 @@ RSpec.describe NameBank do
       expect(bank.variants(country: "YY")).to eq([])
     end
 
-    it "reads the directory once per country" do
+    it "does not touch the filesystem again once read" do
+      bank.variants(country: "XX")
       allow(Dir).to receive(:children).and_call_original
-      2.times { bank.variants(country: "XX") }
-      expect(Dir).to have_received(:children).once
+      bank.variants(country: "XX")
+      expect(Dir).not_to have_received(:children)
     end
   end
 
@@ -226,6 +227,97 @@ RSpec.describe NameBank do
 
     it "reports Latin only for a country without a native pool" do
       expect(bank.scripts(country: "XX")).to eq(%i[latin])
+    end
+  end
+
+  # Country and variant names resolve the same way on every filesystem: an
+  # exact match wins, otherwise a unique case-insensitive one. Without this the
+  # gem inherits the disk's case-sensitivity — "de" finds DE.yml on macOS and
+  # raises on Linux.
+  #
+  # Caution when reading these: on a case-insensitive filesystem the plain
+  # differently-cased examples pass whether or not resolution exists, because
+  # the disk matches for us. Only the two stubbed-listing examples at the end
+  # discriminate; they are what pins the behaviour.
+  describe "name resolution" do
+    it "looks names up in the listing, not through the filesystem's own matching" do
+      allow(Dir).to receive(:children).and_return(%w[YY.yml])
+      expect { described_class.new(data_dir: FIXTURE_DATA_DIR).first_names(country: "XX", gender: :male) }
+        .to raise_error(NameBank::UnknownCountry, "XX")
+    end
+
+    it "accepts a lowercase country code" do
+      expect(bank.first_names(country: "xx", gender: :male)).to eq(%w[Xavier Xander Xeno])
+    end
+
+    it "accepts a mixed-case country code" do
+      expect(bank.last_names(country: "zZ")).to eq(%w[Zimmer Zorn])
+    end
+
+    it "accepts a differently-cased variant name" do
+      expect(bank.last_names(country: "XX", variant: "TestVariant")).to eq(%w[Vlast1 Vlast2])
+    end
+
+    it "resolves the country of a variant too" do
+      expect(bank.last_names(country: "xx", variant: "testvariant")).to eq(%w[Vlast1 Vlast2])
+    end
+
+    it "lists variants for a differently-cased country" do
+      expect(bank.variants(country: "xx")).to eq(%w[testvariant])
+    end
+
+    it "reports scripts for a differently-cased country" do
+      expect(bank.scripts(country: "zz")).to eq(%i[latin native])
+    end
+
+    it "still raises for a country that matches nothing" do
+      expect { bank.first_names(country: "UU", gender: :male) }
+        .to raise_error(NameBank::UnknownCountry, "UU")
+    end
+
+    it "still raises for a variant that matches nothing" do
+      expect { bank.first_names(country: "XX", gender: :male, variant: "nope") }
+        .to raise_error(NameBank::UnknownVariant, "XX/nope")
+    end
+
+    # Two files whose basenames differ only in case cannot coexist on this
+    # machine's filesystem, so the listing is stubbed to produce the collision.
+    it "refuses to guess when the match is ambiguous" do
+      allow(Dir).to receive(:children).and_return(%w[DE.yml de.yml])
+      expect { described_class.new(data_dir: FIXTURE_DATA_DIR).first_names(country: "De", gender: :male) }
+        .to raise_error(NameBank::UnknownCountry, /De matches DE, de/)
+    end
+  end
+
+  describe "#scripts with a variant" do
+    it "reports the forms a variant offers" do
+      expect(bank.scripts(country: "ZZ", variant: "withnative")).to eq(%i[latin native])
+    end
+
+    it "reports Latin only for a variant without native pools" do
+      expect(bank.scripts(country: "XX", variant: "testvariant")).to eq(%i[latin])
+    end
+
+    it "still reports the country's own forms without a variant" do
+      expect(bank.scripts(country: "XX")).to eq(%i[latin])
+    end
+  end
+
+  # The build pipeline strips native pools from variant files, but the reader
+  # has always supported them. Documented, so pinned.
+  describe "a variant carrying native pools" do
+    it "samples given names from the variant's native pool" do
+      expect(bank.first_names(country: "ZZ", gender: :male, variant: "withnative", script: :native))
+        .to eq(%w[Зоран Златко])
+    end
+
+    it "samples surnames from the variant's native pool" do
+      expect(bank.last_names(country: "ZZ", variant: "withnative", script: :native))
+        .to eq(%w[Зорич Златарич])
+    end
+
+    it "still returns the variant's Latin pool by default" do
+      expect(bank.first_names(country: "ZZ", gender: :male, variant: "withnative")).to eq(%w[Zoran Zlatko])
     end
   end
 

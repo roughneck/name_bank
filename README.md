@@ -163,7 +163,15 @@ NameBank.scripts(country: "DE")   # => [:latin]
 Germany's script is Latin, so `DE` reports `:latin` only.
 `:latin` and `:native` sample from independent pools. For Latin-script countries
 `:native` returns the same (Latin) pool. Requesting a script with no names
-raises `NameBank::UnknownScript`.
+raises `NameBank::EmptyPool`; a `script:` that is neither `:latin` nor
+`:native` raises `NameBank::UnknownScript`.
+
+`scripts` takes an optional `variant:`, because a variant can offer different
+forms from the country it is layered on:
+
+```ruby
+NameBank.scripts(country: "US", variant: "african_american")   # => [:latin]
+```
 
 ## Variants
 
@@ -203,6 +211,59 @@ rescue NameBank::UnknownCountry => e
   warn "no pool for #{e.message}"
 end
 ```
+
+## Pool file format
+
+`NameBank.new(data_dir:)` reads pools from a directory of your own. It holds
+two subdirectories:
+
+```
+my_names/
+  countries/
+    DE.yml
+    RU.yml
+  variants/
+    US/
+      african_american.yml
+```
+
+- `countries/<code>.yml` — the basename is what you pass as `country:`, and
+  what `countries` lists.
+- `variants/<code>/<name>.yml` — the basename is what you pass as `variant:`.
+  No directory for a country means `variants(country:)` returns `[]`.
+- Files that do not end in `.yml` are ignored, and codes are not validated
+  against ISO 3166 — any basename works.
+
+Names resolve the same way on every filesystem: an exact match wins, otherwise
+a unique match ignoring case, so `country: "de"` finds `DE.yml` on Linux as
+well as macOS. Two files whose basenames differ only in case are ambiguous, and
+raise `NameBank::UnknownCountry` rather than being guessed at.
+
+A pool file must carry the three keys in `NameBank::PoolSchema::KEYS`, each a
+list. Any of them may have a native-script counterpart under the same key plus
+`_native`:
+
+```yaml
+firstnames_male:   [Dmitry, Ivan]
+firstnames_female: [Anna, Olga]
+lastnames:         [Ivanov, Petrov]
+
+firstnames_male_native: [Дмитрий, Иван]
+lastnames_native:       [Иванов, Петров]
+```
+
+Variant files are validated the same way and need all three keys too. They may
+carry `_native` pools, which `script: :native` will use — the shipped variants
+do not, because the build pipeline strips them.
+
+Missing a required key, or holding something other than a list under it, raises
+`NameBank::MalformedPool` when the file is read. A key that is present but
+empty is accepted at read time and raises `NameBank::EmptyPool` when sampled.
+Any other key is ignored; the shipped files carry `source:`, which nothing
+reads at runtime.
+
+Sampling is uniform over the whole list, so order does not weight anything. It
+is preserved, and visible through `first_names` and `last_names`.
 
 ## Pool schema
 

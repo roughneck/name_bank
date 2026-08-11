@@ -71,8 +71,9 @@ class NameBank
   end
 
   # The script forms this country offers, not writing systems — see CONTEXT.md.
-  def scripts(country:)
-    data = @store.pools(country, nil)
+  # With a variant, the forms that variant offers, which may differ.
+  def scripts(country:, variant: nil)
+    data = @store.pools(country, variant)
     PoolSchema::KEYS.any? { |k| data[PoolSchema.native_key(k)]&.any? } ? %i[latin native] : %i[latin]
   end
 
