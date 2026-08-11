@@ -4,6 +4,16 @@ All notable changes to this project are documented here. The format is based on
 [Keep a Changelog](https://keepachangelog.com/en/1.1.0/), and this project
 adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [Unreleased]
+
+### Documented
+- `NameBank::PoolSchema` is now documented in the README and is supported
+  public API: `KEYS`, `GIVEN_MALE`, `GIVEN_FEMALE`, `SURNAMES`, `native_key`
+  and `gender_key`. It shipped before but was described nowhere. Callers
+  building pool files for `NameBank.new(data_dir:)` should address the YAML
+  keys through it. The key names are covered by semantic versioning from here
+  on: renaming one is a breaking change.
+
 ## [0.2.0] - 2026-08-08
 
 An interface release. Sampling behaviour and the name data are unchanged — the

@@ -204,6 +204,41 @@ rescue NameBank::UnknownCountry => e
 end
 ```
 
+## Pool schema
+
+`NameBank::PoolSchema` names the YAML keys a pool file uses. It is supported
+public API from 0.2.0 on: the constants and their values will not change
+without a version bump. Use it when you build pool files for
+`NameBank.new(data_dir:)`, so you are not typing key names by hand.
+
+```ruby
+NameBank::PoolSchema::KEYS
+# => ["firstnames_male", "firstnames_female", "lastnames"]
+
+NameBank::PoolSchema::GIVEN_MALE     # => "firstnames_male"
+NameBank::PoolSchema::GIVEN_FEMALE   # => "firstnames_female"
+NameBank::PoolSchema::SURNAMES       # => "lastnames"
+```
+
+`KEYS` is frozen and lists the three pools every file must carry. A file may
+also carry a native-script pool for any of them, under the same key with a
+`_native` suffix:
+
+```ruby
+NameBank::PoolSchema.native_key("lastnames")   # => "lastnames_native"
+```
+
+`gender_key` maps a `gender:` argument to its key, and raises
+`NameBank::UnknownGender` for anything else:
+
+```ruby
+NameBank::PoolSchema.gender_key(:female)   # => "firstnames_female"
+NameBank::PoolSchema.gender_key(:x)        # raises NameBank::UnknownGender
+```
+
+Reading a file that is missing one of `KEYS`, or that holds something other
+than a list under it, raises `NameBank::MalformedPool`.
+
 ## Supported countries
 
 106 countries: Afghanistan, Albania, Algeria, Angola, Argentina, Austria,

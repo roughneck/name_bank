@@ -42,6 +42,16 @@ RSpec.describe NameBank::PoolSchema do
 
   it "raises for an invalid gender" do
     expect { described_class.gender_key(:other) }
-      .to raise_error(ArgumentError, /gender must be :male or :female/)
+      .to raise_error(NameBank::UnknownGender, /gender must be :male or :female/)
+  end
+
+  # The README documents PoolSchema as supported API from 0.2.0 on. These two
+  # lock the guarantees it makes that nothing else asserts.
+  it "freezes KEYS, as the README promises" do
+    expect(described_class::KEYS).to be_frozen
+  end
+
+  it "raises an error a caller can rescue as ArgumentError" do
+    expect(NameBank::UnknownGender.ancestors).to include(ArgumentError)
   end
 end
