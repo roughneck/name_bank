@@ -4,7 +4,12 @@ All notable changes to this project are documented here. The format is based on
 [Keep a Changelog](https://keepachangelog.com/en/1.1.0/), and this project
 adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [Unreleased]
+## [0.3.0] - 2026-08-11
+
+Lookup, documentation and one platform bug. Sampling behaviour and the name
+data are unchanged — verified byte-identical over 1415 samples against 0.2.0.
+Nothing that worked before stops working; on Linux, one thing that failed now
+works.
 
 ### Added
 - `scripts` takes an optional `variant:`. A variant can offer different script
