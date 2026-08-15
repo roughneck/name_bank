@@ -1,0 +1,41 @@
+name: CI
+
+on:
+  push:
+    branches: [master]
+  pull_request:
+
+jobs:
+  # Both operating systems on purpose: pool lookup resolves country and variant
+  # names against the directory listing, and only a case-sensitive filesystem
+  # (Linux) next to a case-insensitive one (macOS) can show that it still holds.
+  test:
+    name: spec (ruby ${{ matrix.ruby }}, ${{ matrix.os }})
+    runs-on: ${{ matrix.os }}
+    strategy:
+      fail-fast: false
+      matrix:
+        os: [ubuntu-latest, macos-latest]
+        ruby: ["3.1", "3.2", "3.3", "3.4"]
+    steps:
+      - uses: actions/checkout@v7
+      - uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: ${{ matrix.ruby }}
+          bundler-cache: true
+      - run: bundle exec rake spec
+
+  # RuboCop and the audit judge the source, not the platform, so they run once.
+  lint:
+    name: rubocop + audit
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+      - uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: "3.4"
+          bundler-cache: true
+      - run: bundle exec rake rubocop
+      # The Rakefile's default audit stays offline-capable and checks against
+      # whatever advisory DB is on disk. A fresh runner has none, so fetch first.
+      - run: bundle exec rake bundle:audit:update bundle:audit:check
