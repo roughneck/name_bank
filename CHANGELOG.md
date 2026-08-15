@@ -4,6 +4,15 @@ All notable changes to this project are documented here. The format is based on
 [Keep a Changelog](https://keepachangelog.com/en/1.1.0/), and this project
 adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [Unreleased]
+
+### Fixed
+- README: the first usage example showed a name pair that the seed above it
+  never produces. Every `# =>` in the README is now the value the code actually
+  returns, checked against the shipped pools. The sampling examples under
+  *Scripts* and *Variants* name their seed too, so all of them can be
+  reproduced rather than taken on trust. No code or data changed.
+
 ## [0.3.0] - 2026-08-11
 
 Lookup, documentation and one platform bug. Sampling behaviour and the name

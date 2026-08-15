@@ -27,23 +27,23 @@ gem install name_bank
 ```ruby
 require "name_bank"
 
-rng = Random.new(1234)
+rng = Random.new(10246)
 
 # A full name (given + family) for a country and gender:
 NameBank.full_name(country: "DE", gender: :female, rng: rng)
-# => { firstname: "Sabine", lastname: "Müller" }
+# => { firstname: "Alexandra", lastname: "Werner" }
 
 # Just a given name or a surname:
-NameBank.first_name(country: "IT", gender: :male, rng: rng)   # => "Amor"
-NameBank.last_name(country: "JP", rng: rng)                   # => "Tsuru"
+NameBank.first_name(country: "IT", gender: :male, rng: rng)   # => "Settimio"
+NameBank.last_name(country: "JP", rng: rng)                   # => "Katsuta"
 
 # Latin (default), or the country's native script where it has one:
-NameBank.first_name(country: "JP", gender: :female, rng: rng)                   # => "Sasahara"
-NameBank.first_name(country: "JP", gender: :female, rng: rng, script: :native)  # => "ちゃこ"
+NameBank.first_name(country: "JP", gender: :female, rng: rng)                   # => "Misako"
+NameBank.first_name(country: "JP", gender: :female, rng: rng, script: :native)  # => "さえ"
 
 # Default pool, or an alternate cultural pool where one exists:
-NameBank.first_name(country: "US", gender: :male, rng: rng)                               # => "Abe"
-NameBank.first_name(country: "US", gender: :male, rng: rng, variant: "african_american")  # => "Roosevelt"
+NameBank.first_name(country: "US", gender: :male, rng: rng)                               # => "Jonah"
+NameBank.first_name(country: "US", gender: :male, rng: rng, variant: "african_american")  # => "Tyrone"
 
 # List available countries (ISO alpha-2 codes):
 NameBank.countries.size       # => 106
@@ -153,6 +153,8 @@ Names come in Latin (default) and, for countries with a non-Latin writing
 system, their native script. Pass `script:`:
 
 ```ruby
+rng = Random.new(325089)
+
 NameBank.first_name(country: "RU", gender: :male, rng: rng)                  # => "Dmitry"
 NameBank.first_name(country: "RU", gender: :male, rng: rng, script: :native) # => "Алексей"
 
@@ -179,6 +181,8 @@ Some countries offer an alternate cultural name pool layered on the default.
 Pass `variant:`:
 
 ```ruby
+rng = Random.new(41)
+
 NameBank.first_name(country: "US", gender: :male, rng: rng, variant: "african_american")
 # => "DeShawn"
 
