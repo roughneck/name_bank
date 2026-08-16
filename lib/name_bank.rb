@@ -27,6 +27,7 @@ class NameBank
     def first_name(...) = default.first_name(...)
     def last_name(...) = default.last_name(...)
     def full_name(...) = default.full_name(...)
+    def full_names(...) = default.full_names(...)
     def first_names(...) = default.first_names(...)
     def last_names(...) = default.last_names(...)
     def countries(...) = default.countries(...)
@@ -51,6 +52,21 @@ class NameBank
       firstname: first_name(country: country, gender: gender, rng: rng, variant: variant, script: script),
       lastname: last_name(country: country, rng: rng, variant: variant, script: script)
     }
+  end
+
+  # Distinct given/family pairs, for seeding many rows at once. No pair is drawn
+  # twice; single names do recur, which is what a population looks like. The
+  # guarantee holds within one call — two calls know nothing of each other.
+  # Asking for more pairs than the two pools can form raises PoolExhausted.
+  def full_names(country:, gender:, rng:, count:, variant: nil, script: :latin)
+    firsts = first_names(country: country, gender: gender, variant: variant, script: script)
+    lasts = last_names(country: country, variant: variant, script: script)
+    available = firsts.size * lasts.size
+    raise PoolExhausted, "#{country}: #{count} pairs requested, #{available} available" if count > available
+
+    distinct_indices(available, count, rng).map do |index|
+      { firstname: firsts[index / lasts.size], lastname: lasts[index % lasts.size] }
+    end
   end
 
   # The whole frequency-ordered pool, frozen. The name strings stay mutable.
@@ -78,6 +94,20 @@ class NameBank
   end
 
   private
+
+  # Partial Fisher-Yates over the space of pair indices, with the swaps kept in
+  # a Hash so that the untouched majority of a two-million-pair space is never
+  # built. Drawing every pair a country has takes count steps; drawing at random
+  # until enough distinct pairs turn up would stall on the last few.
+  def distinct_indices(available, count, rng)
+    swapped = {}
+    Array.new(count) do |drawn|
+      index = rng.rand(drawn...available)
+      picked = swapped.fetch(index, index)
+      swapped[index] = swapped.fetch(drawn, drawn)
+      picked
+    end
+  end
 
   def pool(country, variant, key, script)
     names = names_for_script(@store.pools(country, variant), key, script)

@@ -51,6 +51,24 @@ RSpec.describe NameBank do
     end
   end
 
+  describe "drawing many pairs from real data" do
+    it "draws 500 distinct pairs for a country with full pools" do
+      pairs = described_class.full_names(country: "DE", gender: :female, rng: Random.new(99), count: 500)
+      expect(pairs.uniq.size).to eq(500)
+    end
+
+    # Ukraine is hand-curated and small: 30 given names by 30 surnames.
+    it "empties the smallest combination space without repeating a pair" do
+      pairs = described_class.full_names(country: "UA", gender: :male, rng: Random.new(5), count: 900)
+      expect(pairs.uniq.size).to eq(900)
+    end
+
+    it "refuses to draw more pairs than a country can form" do
+      expect { described_class.full_names(country: "UA", gender: :male, rng: Random.new(5), count: 901) }
+        .to raise_error(NameBank::PoolExhausted, "UA: 901 pairs requested, 900 available")
+    end
+  end
+
   describe "curated Ukraine" do
     it "is among the countries" do
       expect(described_class.countries).to include("UA")

@@ -6,6 +6,15 @@ adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ## [Unreleased]
 
+### Added
+- `full_names(country:, gender:, rng:, count:)` draws that many distinct
+  given/family pairs in one call — the shape a database seed needs. No pair
+  repeats; single names do, because only the pair is unique. The guarantee
+  holds within one call, so no state is kept between calls and sampling stays
+  a function of the caller's RNG. `count:` is required, and asking for more
+  pairs than the two pools can form raises the new `NameBank::PoolExhausted`
+  rather than silently returning fewer.
+
 ### Fixed
 - README: the first usage example showed a name pair that the seed above it
   never produces. Every `# =>` in the README is now the value the code actually

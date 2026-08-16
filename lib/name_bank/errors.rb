@@ -28,6 +28,11 @@ class NameBank
     include Error
   end
 
+  # More distinct pairs were asked for than the pools can form.
+  class PoolExhausted < StandardError
+    include Error
+  end
+
   # script: was neither :latin nor :native.
   class UnknownScript < ArgumentError
     include Error

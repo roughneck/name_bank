@@ -54,10 +54,38 @@ Sampling is uniform over each pool and fully deterministic for a given
 `rng` — the same seed always yields the same name. `gender:` is `:male`
 or `:female`.
 
+## Many at once
+
+Seeding a table wants many names in one call, and wants them to differ.
+`full_names` draws distinct given/family pairs:
+
+```ruby
+rng = Random.new(24134)
+
+NameBank.full_names(country: "DE", gender: :female, rng: rng, count: 3)
+# => [{ firstname: "Gerlinde", lastname: "Nowak" },
+#     { firstname: "Juliane",  lastname: "Stark" },
+#     { firstname: "Kornelia", lastname: "Lenz" }]
+```
+
+No pair is drawn twice. Single names do recur once the draw is large enough —
+only the pair is unique, which is what a real population looks like. The
+guarantee holds within one call; two calls know nothing of each other.
+
+`count:` is required, because there is no pool of pairs to hand back without
+one. A country can form as many pairs as given names × surnames: 1500 × 1500
+for most, 30 × 30 for the hand-curated `CN` and `UA` pools. Asking for more
+raises rather than quietly returning fewer:
+
+```ruby
+NameBank.full_names(country: "UA", gender: :male, rng: rng, count: 901)
+# => NameBank::PoolExhausted: UA: 901 pairs requested, 900 available
+```
+
 ## Whole pools
 
-Where sampling one name is not enough — drawing many names without repeats,
-applying your own weighting, or checking what a country actually ships —
+Where sampling is not enough — applying your own weighting, drawing single
+names without repeats, or checking what a country actually ships —
 take the pool itself. `first_names` and `last_names` accept the same
 `country:`, `variant:` and `script:` options as the samplers, and return the
 frequency-ordered pool as a frozen array:
@@ -67,6 +95,11 @@ NameBank.first_names(country: "DE", gender: :female).size      # => 1500
 NameBank.first_names(country: "DE", gender: :female).first(3)  # => ["Nicole", "Sandra", "Sabine"]
 NameBank.last_names(country: "JP", script: :native).first(3)   # => ["佐藤", "鈴木", "田中"]
 ```
+
+For single names without repeats, the pool plus Ruby is the whole answer:
+`pool.sample(200, random: rng)` returns 200 different names, deterministically.
+Note that `Array#sample` returns fewer than asked for rather than complaining
+when the pool is too small — unlike `full_names`, which raises.
 
 Every method shown so far is also available on an instance, which lets you
 point name_bank at your own directory of pool files:
@@ -203,10 +236,11 @@ still catches the two that are genuinely caller mistakes:
 | `NameBank::UnknownCountry` | `StandardError` | no pool file for that country code |
 | `NameBank::UnknownVariant` | `StandardError` | no pool file for that variant |
 | `NameBank::EmptyPool` | `StandardError` | the pool exists but holds no names |
+| `NameBank::PoolExhausted` | `StandardError` | `full_names` was asked for more distinct pairs than the pools can form |
 | `NameBank::MalformedPool` | `StandardError` | a pool file is missing a key, or holds something other than a list |
 
-The last two cannot occur with the shipped data; they matter when you point
-`NameBank.new(data_dir:)` at pool files of your own.
+`EmptyPool` and `MalformedPool` cannot occur with the shipped data; they matter
+when you point `NameBank.new(data_dir:)` at pool files of your own.
 
 ```ruby
 begin

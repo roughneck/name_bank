@@ -7,6 +7,12 @@ AllCops:
   TargetRubyVersion: 3.1
   NewCops: enable
 
+# The public API is keyword-only by design, so a long signature reads as a list
+# of named options rather than a row of anonymous positions. Positional
+# parameters stay capped.
+Metrics/ParameterLists:
+  CountKeywordArgs: false
+
 # The codebase uses double quotes throughout.
 Style/StringLiterals:
   EnforcedStyle: double_quotes

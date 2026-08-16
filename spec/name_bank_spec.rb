@@ -197,6 +197,75 @@ RSpec.describe NameBank do
     end
   end
 
+  describe "#full_names" do
+    # XX offers 3 given names and 3 surnames, so 9 distinct pairs exist.
+    def xx_pairs(count, seed: 42)
+      bank.full_names(country: "XX", gender: :male, rng: Random.new(seed), count: count)
+    end
+
+    it "draws the requested number of pairs" do
+      expect(xx_pairs(5).size).to eq(5)
+    end
+
+    it "draws no pair twice" do
+      expect(xx_pairs(9).uniq.size).to eq(9)
+    end
+
+    it "yields the whole combination space when asked for all of it" do
+      expected = %w[Xavier Xander Xeno].product(%w[Xu Xander Ximenez])
+        .map { |first, last| { firstname: first, lastname: last } }
+      expect(xx_pairs(9)).to match_array(expected)
+    end
+
+    it "repeats a single name across pairs, because only the pair is unique" do
+      expect(xx_pairs(9).map { |pair| pair[:firstname] }.uniq.size).to eq(3)
+    end
+
+    it "is deterministic for the same rng seed" do
+      a = xx_pairs(5)
+      b = xx_pairs(5)
+      expect(a).to eq(b)
+    end
+
+    it "returns nothing but firstnames and lastnames" do
+      expect(xx_pairs(5).flat_map(&:keys).uniq).to contain_exactly(:firstname, :lastname)
+    end
+
+    it "returns an empty list for count: 0" do
+      expect(xx_pairs(0)).to eq([])
+    end
+
+    it "raises when more pairs are asked for than exist" do
+      expect { xx_pairs(10) }
+        .to raise_error(NameBank::PoolExhausted, "XX: 10 pairs requested, 9 available")
+    end
+
+    it "carries NameBank::Error on that failure" do
+      expect { xx_pairs(10) }.to raise_error(NameBank::Error)
+    end
+
+    it "raises for a negative count" do
+      expect { xx_pairs(-1) }.to raise_error(ArgumentError)
+    end
+
+    it "draws from the variant pools when variant is given" do
+      pairs = bank.full_names(country: "XX", gender: :male, rng: Random.new(5), count: 4,
+                              variant: "testvariant")
+      expect(pairs.map { |pair| pair[:firstname] }.uniq).to match_array(%w[Vmale1 Vmale2])
+    end
+
+    it "draws from the native pools for script: :native" do
+      pairs = bank.full_names(country: "ZZ", gender: :male, rng: Random.new(5), count: 4,
+                              script: :native)
+      expect(pairs.map { |pair| pair[:lastname] }.uniq).to match_array(%w[Захаров Зимин])
+    end
+
+    it "raises for an unknown country" do
+      expect { bank.full_names(country: "UU", gender: :male, rng: Random.new(1), count: 1) }
+        .to raise_error(NameBank::UnknownCountry, "UU")
+    end
+  end
+
   describe "#countries" do
     it "lists available countries sorted" do
       expect(bank.countries).to eq(%w[QQ XX YY ZZ])
